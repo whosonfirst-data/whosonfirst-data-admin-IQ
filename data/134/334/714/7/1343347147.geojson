@@ -1,0 +1,83 @@
+{
+  "id": 1343347147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70403,37.21477,43.70403,37.21477",
+    "geom:latitude":37.21477,
+    "geom:longitude":43.70403,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Dizga",
+    "gn:country_code":"IQ",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":96958,
+    "gn:latitude":37.21477,
+    "gn:longitude":43.70403,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Dizga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062f\u0632\u06af\u0627"
+    ],
+    "name:ara_x_variant":[
+        "Dizg\u0101"
+    ],
+    "name:kur_x_preferred":[
+        "Dizga"
+    ],
+    "name:und_x_variant":[
+        "Dizk\u0101",
+        "\u062f\u0632\u0643\u0627",
+        "Dizge",
+        "Dzgah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96958
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4a9a58e6de027c62429b97e62a606bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1343347147,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1343347147,
+    "wof:lastmodified":1537638445,
+    "wof:name":"Dizga",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70403,
+    37.21477,
+    43.70403,
+    37.21477
+],
+  "geometry": {"coordinates":[43.70403,37.21477],"type":"Point"}
+}

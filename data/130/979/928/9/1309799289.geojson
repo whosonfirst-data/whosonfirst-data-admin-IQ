@@ -1,0 +1,83 @@
+{
+  "id": 1309799289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.08167,37.29444,43.08167,37.29444",
+    "geom:latitude":37.29444,
+    "geom:longitude":43.08167,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"89569.0",
+    "gn:asciiname":"Khuwari Mulla",
+    "gn:country_code":"IQ",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7033720,
+    "gn:latitude":37.29444,
+    "gn:longitude":43.08167,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Khuw\u0101r\u012b Mull\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0627\u0631\u064a \u0645\u0644\u0627"
+    ],
+    "name:ara_x_variant":[
+        "Khuw\u0101r\u012b Mull\u0101"
+    ],
+    "name:kur_x_preferred":[
+        "Xuwar\u00ee Ma\u0142e"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u0648\u0627\u0631\u0649 \u0645\u0627\u06b5\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Khuary Mala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        890445289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033720
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"90c8588d380919aa167e8b58979692e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445289,
+            "locality_id":1309799289,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1309799289,
+    "wof:lastmodified":1537639952,
+    "wof:name":"Khuwari Mulla",
+    "wof:parent_id":890445289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.08167,
+    37.29444,
+    43.08167,
+    37.29444
+],
+  "geometry": {"coordinates":[43.08167,37.29444],"type":"Point"}
+}

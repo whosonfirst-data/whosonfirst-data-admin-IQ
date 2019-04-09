@@ -1,0 +1,91 @@
+{
+  "id": 1226544821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.91669,35.47857,45.91669,35.47857",
+    "geom:latitude":35.47857,
+    "geom:longitude":45.91669,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166684.0",
+    "gn:asciiname":"Hirtuk",
+    "gn:country_code":"IQ",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94396,
+    "gn:latitude":35.47857,
+    "gn:longitude":45.91669,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28irt\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28irt\u016bk"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0631\u062a\u0648\u0643"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0646\u0648\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "Khirn\u014dk"
+    ],
+    "name:kur_x_preferred":[
+        "Xirnuk"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u0631\u0646\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "Khayn\u016bk",
+        "Khernowk",
+        "Khrnook"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94396
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c9d08b425d66307a6bb5f60d98c4988b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562765,
+            "locality_id":1226544821,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1226544821,
+    "wof:lastmodified":1537638220,
+    "wof:name":"Hirtuk",
+    "wof:parent_id":1108562765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.91669,
+    35.47857,
+    45.91669,
+    35.47857
+],
+  "geometry": {"coordinates":[45.91669,35.47857],"type":"Point"}
+}

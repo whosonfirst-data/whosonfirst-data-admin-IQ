@@ -1,0 +1,72 @@
+{
+  "id": 1193012723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30972,33.66861,44.30972,33.66861",
+    "geom:latitude":33.66861,
+    "geom:longitude":44.30972,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166569.0",
+    "gn:asciiname":"'Abd al Latif al Farras",
+    "gn:country_code":"IQ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100107,
+    "gn:latitude":33.66861,
+    "gn:longitude":44.30972,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abd al La\u0163\u012bf al Farr\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Abdul Lat\u012bf al Far\u0101s",
+        "\u2018Abd al La\u0163\u012bf al Farr\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100107
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"001747403c72f40f6337f883187c572d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562665,
+            "locality_id":1193012723,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1193012723,
+    "wof:lastmodified":1537638709,
+    "wof:name":"'Abd al Latif al Farras",
+    "wof:parent_id":1108562665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30972,
+    33.66861,
+    44.30972,
+    33.66861
+],
+  "geometry": {"coordinates":[44.30972,33.66861],"type":"Point"}
+}

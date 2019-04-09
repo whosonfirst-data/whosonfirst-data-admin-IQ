@@ -1,0 +1,76 @@
+{
+  "id": 1310610515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.61627,33.88228,42.61627,33.88228",
+    "geom:latitude":33.88228,
+    "geom:longitude":42.61627,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9166579.0",
+    "gn:asciiname":"Al Jananiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95327,
+    "gn:latitude":33.88228,
+    "gn:longitude":42.61627,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jan\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0646\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jih\u0101n\u012bya",
+        "Jah\u0101n\u012byah",
+        "Al Jan\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421177881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95327
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e0772f556c06749f550709a37ab63777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421177881,
+            "locality_id":1310610515,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1310610515,
+    "wof:lastmodified":1537638307,
+    "wof:name":"Al Jananiyah",
+    "wof:parent_id":421177881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.61627,
+    33.88228,
+    42.61627,
+    33.88228
+],
+  "geometry": {"coordinates":[42.61627,33.88228],"type":"Point"}
+}

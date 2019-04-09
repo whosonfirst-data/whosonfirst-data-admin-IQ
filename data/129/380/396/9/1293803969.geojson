@@ -1,0 +1,76 @@
+{
+  "id": 1293803969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.87911,37.21414,43.87911,37.21414",
+    "geom:latitude":37.21414,
+    "geom:longitude":43.87911,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Spe",
+    "gn:country_code":"IQ",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8678375,
+    "gn:latitude":37.21414,
+    "gn:longitude":43.87911,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Sp\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kur_x_preferred":[
+        "Sp\u00ea"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u067e\u06ce",
+        "Sitp\u00ea",
+        "\u0633\u062a\u067e\u06ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8678375
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fb106b032ebc9f066ea1129bd71f5608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1293803969,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1293803969,
+    "wof:lastmodified":1537640104,
+    "wof:name":"Spe",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.87911,
+    37.21414,
+    43.87911,
+    37.21414
+],
+  "geometry": {"coordinates":[43.87911,37.21414],"type":"Point"}
+}

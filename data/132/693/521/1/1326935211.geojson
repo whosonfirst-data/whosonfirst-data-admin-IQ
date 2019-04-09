@@ -1,0 +1,81 @@
+{
+  "id": 1326935211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.74771,36.1976,44.74771,36.1976",
+    "geom:latitude":36.1976,
+    "geom:longitude":44.74771,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92051.0",
+    "gn:asciiname":"Kani Maran",
+    "gn:country_code":"IQ",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94914,
+    "gn:latitude":36.1976,
+    "gn:longitude":44.74771,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"K\u0101n\u012b M\u0101r\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u0101n\u012b M\u0101r\u0101n"
+    ],
+    "name:kur_x_preferred":[
+        "\u0643\u0627\u0646\u0649 \u0645\u0627\u0631\u0627\u0646"
+    ],
+    "name:kur_x_variant":[
+        "Kani Maran",
+        "Kan\u00ee Maran"
+    ],
+    "name:und_x_variant":[
+        "Qulai Kani Maran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94914
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9be92d1921a9e660f83208b958664bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562755,
+            "locality_id":1326935211,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1326935211,
+    "wof:lastmodified":1537638272,
+    "wof:name":"Kani Maran",
+    "wof:parent_id":1108562755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.74771,
+    36.1976,
+    44.74771,
+    36.1976
+],
+  "geometry": {"coordinates":[44.74771,36.1976],"type":"Point"}
+}

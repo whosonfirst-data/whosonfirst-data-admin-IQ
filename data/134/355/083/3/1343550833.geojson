@@ -1,0 +1,71 @@
+{
+  "id": 1343550833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.46807,31.14667,46.46807,31.14667",
+    "geom:latitude":31.14667,
+    "geom:longitude":46.46807,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98855.0",
+    "gn:asciiname":"Qaryat al Farhah",
+    "gn:country_code":"IQ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408211,
+    "gn:latitude":31.14667,
+    "gn:longitude":46.46807,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat al Farhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0641\u0631\u0647\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        421172357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408211
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"71c9ca346d4089802729c2a576568b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172357,
+            "locality_id":1343550833,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1343550833,
+    "wof:lastmodified":1537638851,
+    "wof:name":"Qaryat al Farhah",
+    "wof:parent_id":421172357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.46807,
+    31.14667,
+    46.46807,
+    31.14667
+],
+  "geometry": {"coordinates":[46.46807,31.14667],"type":"Point"}
+}

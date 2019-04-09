@@ -1,0 +1,74 @@
+{
+  "id": 1343875889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02286,33.43366,44.02286,33.43366",
+    "geom:latitude":33.43366,
+    "geom:longitude":44.02286,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"Bakr Fayyad",
+    "gn:country_code":"IQ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448806,
+    "gn:latitude":33.43366,
+    "gn:longitude":44.02286,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bakr Fayy\u0101\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0643\u0631 \u0642\u064a\u0627\u0636"
+    ],
+    "name:und_x_variant":[
+        "Bakr Fayy\u0101\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448806
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e8d55196f4bfeb295e67cd5cf2a6a149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1343875889,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1343875889,
+    "wof:lastmodified":1537639074,
+    "wof:name":"Bakr Fayyad",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02286,
+    33.43366,
+    44.02286,
+    33.43366
+],
+  "geometry": {"coordinates":[44.02286,33.43366],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344143105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.72155,35.6216,44.72155,35.6216",
+    "geom:latitude":35.6216,
+    "geom:longitude":44.72155,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"94786.0",
+    "gn:asciiname":"Yakhtah Khan",
+    "gn:country_code":"IQ",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89648,
+    "gn:latitude":35.6216,
+    "gn:longitude":44.72155,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yakhtah Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u062e\u062a\u0629 \u062e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Yakhm Kh\u0101n",
+        "Yakhtakh\u0101n",
+        "Yakhtah Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        421199293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89648
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9d1b88808dbb4e4afc8d35603077391a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421199293,
+            "locality_id":1344143105,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1344143105,
+    "wof:lastmodified":1537637800,
+    "wof:name":"Yakhtah Khan",
+    "wof:parent_id":421199293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.72155,
+    35.6216,
+    44.72155,
+    35.6216
+],
+  "geometry": {"coordinates":[44.72155,35.6216],"type":"Point"}
+}

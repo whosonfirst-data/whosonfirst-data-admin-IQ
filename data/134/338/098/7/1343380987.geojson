@@ -1,0 +1,82 @@
+{
+  "id": 1343380987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.96413,36.74698,42.96413,36.74698",
+    "geom:latitude":36.74698,
+    "geom:longitude":42.96413,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9166607.0",
+    "gn:asciiname":"Dahkan Saghir",
+    "gn:country_code":"IQ",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":97056,
+    "gn:latitude":36.74698,
+    "gn:longitude":42.96413,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dahk\u0101n \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062f\u0647\u0643\u0627\u0646 \u0635\u063a\u064a\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Dehgan"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u06d5\u0647\u06af\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "D\u0113k\u0101n-\u0113 Pichuk",
+        "Dahgan",
+        "Dahk\u0101n \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        1108562637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97056
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5316a2bac4ff88ab5381ea63f5db28d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562637,
+            "locality_id":1343380987,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1343380987,
+    "wof:lastmodified":1537638454,
+    "wof:name":"Dahkan Saghir",
+    "wof:parent_id":1108562637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.96413,
+    36.74698,
+    42.96413,
+    36.74698
+],
+  "geometry": {"coordinates":[42.96413,36.74698],"type":"Point"}
+}

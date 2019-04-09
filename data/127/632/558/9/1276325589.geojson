@@ -1,0 +1,74 @@
+{
+  "id": 1276325589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20801,33.62831,44.20801,33.62831",
+    "geom:latitude":33.62831,
+    "geom:longitude":44.20801,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166569.0",
+    "gn:asciiname":"Ahmad Hasan",
+    "gn:country_code":"IQ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805926,
+    "gn:latitude":33.62831,
+    "gn:longitude":44.20801,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u1e29mad \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u062d\u0645\u062f \u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "A\u1e29mad \u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805926
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1e503d131a00be225ebca366f48ba6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562665,
+            "locality_id":1276325589,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1276325589,
+    "wof:lastmodified":1537639603,
+    "wof:name":"Ahmad Hasan",
+    "wof:parent_id":1108562665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20801,
+    33.62831,
+    44.20801,
+    33.62831
+],
+  "geometry": {"coordinates":[44.20801,33.62831],"type":"Point"}
+}

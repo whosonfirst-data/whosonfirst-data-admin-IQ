@@ -1,0 +1,74 @@
+{
+  "id": 1310602089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6531,31.70656,44.6531,31.70656",
+    "geom:latitude":31.70656,
+    "geom:longitude":44.6531,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"98634.0",
+    "gn:asciiname":"Muhammad ad Dakhil",
+    "gn:country_code":"IQ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6850685,
+    "gn:latitude":31.70656,
+    "gn:longitude":44.6531,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29ammad ad D\u0101khil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u062f \u0627\u0644\u062f\u0627\u062e\u0644"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e29ammad ad D\u0101khil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6850685
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"384f60af854c191fd96f6428d0e3dc85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562699,
+            "locality_id":1310602089,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1310602089,
+    "wof:lastmodified":1537639757,
+    "wof:name":"Muhammad ad Dakhil",
+    "wof:parent_id":1108562699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6531,
+    31.70656,
+    44.6531,
+    31.70656
+],
+  "geometry": {"coordinates":[44.6531,31.70656],"type":"Point"}
+}

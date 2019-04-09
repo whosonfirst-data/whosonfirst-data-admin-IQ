@@ -1,0 +1,82 @@
+{
+  "id": 1226827231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2696,36.40858,44.2696,36.40858",
+    "geom:latitude":36.40858,
+    "geom:longitude":44.2696,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166591.0",
+    "gn:asciiname":"Kirdah Ja",
+    "gn:country_code":"IQ",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446284,
+    "gn:latitude":36.40858,
+    "gn:longitude":44.2696,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Kirdah J\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062f\u0629 \u062c\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Grde Cha\u0142"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u0631\u062f\u06d5 \u0686\u0627\u06b5"
+    ],
+    "name:und_x_variant":[
+        "Girda Chal",
+        "Girdach\u0101l",
+        "Kirdah J\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446284
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6e7ef3559939bc750b1369042a052193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562757,
+            "locality_id":1226827231,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1226827231,
+    "wof:lastmodified":1537638976,
+    "wof:name":"Kirdah Ja",
+    "wof:parent_id":1108562757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2696,
+    36.40858,
+    44.2696,
+    36.40858
+],
+  "geometry": {"coordinates":[44.2696,36.40858],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360202285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.67929,33.22319,43.67929,33.22319",
+    "geom:latitude":33.22319,
+    "geom:longitude":43.67929,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"Bani Bnok",
+    "gn:country_code":"IQ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9256084,
+    "gn:latitude":33.22319,
+    "gn:longitude":43.67929,
+    "gn:modification_date":"2014-07-28",
+    "gn:name":"Bani Bnok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9256084
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"88edb5e0f36dd8cecb5a6b3a26e08d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1360202285,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1360202285,
+    "wof:lastmodified":1536777168,
+    "wof:name":"Bani Bnok",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.67929,
+    33.22319,
+    43.67929,
+    33.22319
+],
+  "geometry": {"coordinates":[43.67929,33.22319],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310682281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.90472,36.51139,44.90472,36.51139",
+    "geom:latitude":36.51139,
+    "geom:longitude":44.90472,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166586.0",
+    "gn:asciiname":"Sarkan",
+    "gn:country_code":"IQ",
+    "gn:dem":1600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":447685,
+    "gn:latitude":36.51139,
+    "gn:longitude":44.90472,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sark\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447685
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"97d8d1e3396c9da3908db28c36c8dede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562749,
+            "locality_id":1310682281,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1310682281,
+    "wof:lastmodified":1536661930,
+    "wof:name":"Sarkan",
+    "wof:parent_id":1108562749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.90472000000001,
+    36.51139000000001,
+    44.90472000000001,
+    36.51139000000001
+],
+  "geometry": {"coordinates":[44.90472000000001,36.51139000000001],"type":"Point"}
+}

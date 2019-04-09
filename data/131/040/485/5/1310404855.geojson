@@ -1,0 +1,80 @@
+{
+  "id": 1310404855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85513,36.07019,44.85513,36.07019",
+    "geom:latitude":36.07019,
+    "geom:longitude":44.85513,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Shushke",
+    "gn:country_code":"IQ",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447524,
+    "gn:latitude":36.07019,
+    "gn:longitude":44.85513,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Shushke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "\u0634\u0648\u0634\u0643\u06d5"
+    ],
+    "name:kur_x_variant":[
+        "Shoshka",
+        "Shushke"
+    ],
+    "name:und_x_variant":[
+        "Sh\u016bshka",
+        "Shoshka",
+        "Shushka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447524
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6852b95bc5b6efba7c96d98ffb9ebb53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1310404855,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1310404855,
+    "wof:lastmodified":1537639043,
+    "wof:name":"Shushke",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85513,
+    36.07019,
+    44.85513,
+    36.07019
+],
+  "geometry": {"coordinates":[44.85513,36.07019],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277148475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4,31.78333,44.4,31.78333",
+    "geom:latitude":31.78333,
+    "geom:longitude":44.4,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166552.0",
+    "gn:asciiname":"'Urqub al Qurnah",
+    "gn:country_code":"IQ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89779,
+    "gn:latitude":31.78333,
+    "gn:longitude":44.4,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Urq\u016bb al Qurnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Girna",
+        "\u2018Urq\u016bb al Qurnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89779
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d4fe3890b55c7a14f54a0204c5051371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562693,
+            "locality_id":1277148475,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1277148475,
+    "wof:lastmodified":1537637811,
+    "wof:name":"'Urqub al Qurnah",
+    "wof:parent_id":1108562693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4,
+    31.78333,
+    44.4,
+    31.78333
+],
+  "geometry": {"coordinates":[44.4,31.78333],"type":"Point"}
+}

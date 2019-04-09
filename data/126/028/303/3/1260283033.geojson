@@ -1,0 +1,89 @@
+{
+  "id": 1260283033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0647,35.04839,46.0647,35.04839",
+    "geom:latitude":35.04839,
+    "geom:longitude":46.0647,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Quli Matkan",
+    "gn:country_code":"IQ",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6709214,
+    "gn:latitude":35.04839,
+    "gn:longitude":46.0647,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Q\u016bl\u012b Matk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0644\u064a \u0645\u062a\u0643\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0648\u0644\u06cc\u0645\u06cc \u06a9\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Q\u016bl\u012bm\u012b K\u0101n"
+    ],
+    "name:kur_x_preferred":[
+        "Qo\u0142\u00ee Menkan"
+    ],
+    "name:kur_x_variant":[
+        "Qul\u00ee Menkan",
+        "\u0642\u06c6\u06b5\u0649 \u0645\u06d5\u0646\u0643\u0627\u0646",
+        "\u0642\u0648\u0644\u0649 \u0645\u06d5\u0646\u0643\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Q\u016bl\u012b Matk\u0101n",
+        "Quly Mankan",
+        "K\u016bl\u012b Mank\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6709214
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ce1577c955d9580860977e4df6a74ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1260283033,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1260283033,
+    "wof:lastmodified":1537639123,
+    "wof:name":"Quli Matkan",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0647,
+    35.04839,
+    46.0647,
+    35.04839
+],
+  "geometry": {"coordinates":[46.0647,35.04839],"type":"Point"}
+}

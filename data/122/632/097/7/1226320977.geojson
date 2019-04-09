@@ -1,0 +1,80 @@
+{
+  "id": 1226320977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5757,36.46737,44.5757,36.46737",
+    "geom:latitude":36.46737,
+    "geom:longitude":44.5757,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166592.0",
+    "gn:asciiname":"Gore Sher",
+    "gn:country_code":"IQ",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8429819,
+    "gn:latitude":36.46737,
+    "gn:longitude":44.5757,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Go\u1e5fe Sh\u00ear",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Go\u1e5fe Sh\u00ear"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u06c6\u0695\u06d5 \u0634\u06ce\u0631",
+        "Kore Sh\u00eer",
+        "\u0643\u06c6\u0631\u06d5 \u0634\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kora Shid",
+        "Goresher"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8429819
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"623e20b8048b7caccb3e098492dfb384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445495,
+            "locality_id":1226320977,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1226320977,
+    "wof:lastmodified":1537640083,
+    "wof:name":"Gore Sher",
+    "wof:parent_id":890445495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5757,
+    36.46737,
+    44.5757,
+    36.46737
+],
+  "geometry": {"coordinates":[44.5757,36.46737],"type":"Point"}
+}

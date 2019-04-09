@@ -1,0 +1,85 @@
+{
+  "id": 1276628099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26484,36.71365,44.26484,36.71365",
+    "geom:latitude":36.71365,
+    "geom:longitude":44.26484,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Malah Musa",
+    "gn:country_code":"IQ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446680,
+    "gn:latitude":36.71365,
+    "gn:longitude":44.26484,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"M\u0101lah M\u016bs\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0644\u06d5 \u0645\u0648\u0633\u0649"
+    ],
+    "name:kur_x_preferred":[
+        "Mala Musa"
+    ],
+    "name:kur_x_variant":[
+        "Mela Musa",
+        "\u0645\u0627\u0644\u0627 \u0645\u0648\u0633\u0627",
+        "\u0645\u06d5\u0644\u0627 \u0645\u0648\u0633\u0627"
+    ],
+    "name:und_x_variant":[
+        "Mal\u0101 M\u016bsa",
+        "M\u0101lah M\u016bs\u00e1",
+        "M\u016bs",
+        "\u0645\u0648\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446680
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9400fbac0ef44f6ff17ce01c9fe259eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1276628099,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1276628099,
+    "wof:lastmodified":1537638999,
+    "wof:name":"Malah Musa",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26484,
+    36.71365,
+    44.26484,
+    36.71365
+],
+  "geometry": {"coordinates":[44.26484,36.71365],"type":"Point"}
+}

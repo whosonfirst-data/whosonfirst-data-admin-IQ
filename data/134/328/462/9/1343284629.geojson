@@ -1,0 +1,82 @@
+{
+  "id": 1343284629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.96463,36.00875,44.96463,36.00875",
+    "geom:latitude":36.00875,
+    "geom:longitude":44.96463,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Torba",
+    "gn:country_code":"IQ",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90058,
+    "gn:latitude":36.00875,
+    "gn:longitude":44.96463,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Torba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Torba"
+    ],
+    "name:kur_x_variant":[
+        "\u062a\u06c6\u0631\u0628\u0627",
+        "Turbe",
+        "\u062a\u0648\u0631\u0628\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Tarbah",
+        "Torbah",
+        "Turbah",
+        "Turba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90058
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2cbb03d410e48636a7c5be7517b2218c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1343284629,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1343284629,
+    "wof:lastmodified":1537637825,
+    "wof:name":"Torba",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.96463,
+    36.00875,
+    44.96463,
+    36.00875
+],
+  "geometry": {"coordinates":[44.96463,36.00875],"type":"Point"}
+}

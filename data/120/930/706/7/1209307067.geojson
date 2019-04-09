@@ -1,0 +1,68 @@
+{
+  "id": 1209307067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6741,32.44864,44.6741,32.44864",
+    "geom:latitude":32.44864,
+    "geom:longitude":44.6741,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"6818313.0",
+    "gn:asciiname":"Bayt Tarkhan 'Abd 'Ali",
+    "gn:country_code":"IQ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6790076,
+    "gn:latitude":32.44864,
+    "gn:longitude":44.6741,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt \u0162arkh\u0101n \u2018Abd \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0637\u0631\u062e\u0627\u0646 \u0639\u0628\u062f \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt \u0162arkh\u0101n \u2018Abd \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6790076
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ab04c72b2bd97135244e048cd74c5d74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209307067
+        }
+    ],
+    "wof:id":1209307067,
+    "wof:lastmodified":1537639511,
+    "wof:name":"Bayt Tarkhan 'Abd 'Ali",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6741,
+    32.44864,
+    44.6741,
+    32.44864
+],
+  "geometry": {"coordinates":[44.6741,32.44864],"type":"Point"}
+}

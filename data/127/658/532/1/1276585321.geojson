@@ -1,0 +1,75 @@
+{
+  "id": 1276585321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.93969,32.12318,44.93969,32.12318",
+    "geom:latitude":32.12318,
+    "geom:longitude":44.93969,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"Husayn al Hasan",
+    "gn:country_code":"IQ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95697,
+    "gn:latitude":32.12318,
+    "gn:longitude":44.93969,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28usayn al \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u064a\u0646 \u0627\u0644\u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "Husain al Hasan",
+        "\u1e28usayn al \u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95697
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f03728e68ecd9a3bc68dfeb004b136ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1276585321,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1276585321,
+    "wof:lastmodified":1537638327,
+    "wof:name":"Husayn al Hasan",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.93969,
+    32.12318,
+    44.93969,
+    32.12318
+],
+  "geometry": {"coordinates":[44.93969,32.12318],"type":"Point"}
+}

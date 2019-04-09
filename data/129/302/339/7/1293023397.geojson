@@ -1,0 +1,82 @@
+{
+  "id": 1293023397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.13922,36.03817,45.13922,36.03817",
+    "geom:latitude":36.03817,
+    "geom:longitude":45.13922,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Luter",
+    "gn:country_code":"IQ",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447962,
+    "gn:latitude":36.03817,
+    "gn:longitude":45.13922,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Luter",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u062a\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Luter"
+    ],
+    "name:kur_x_variant":[
+        "\u0644\u0648\u062a\u06d5\u0631"
+    ],
+    "name:und_x_variant":[
+        "L\u016btar",
+        "L\u014dtar",
+        "Lotar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447962
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5d2ed25549c91e645187a944e17e492c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1293023397,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1293023397,
+    "wof:lastmodified":1537639062,
+    "wof:name":"Luter",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.13922,
+    36.03817,
+    45.13922,
+    36.03817
+],
+  "geometry": {"coordinates":[45.13922,36.03817],"type":"Point"}
+}

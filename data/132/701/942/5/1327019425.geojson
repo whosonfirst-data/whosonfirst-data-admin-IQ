@@ -1,0 +1,74 @@
+{
+  "id": 1327019425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.40987,30.92494,46.40987,30.92494",
+    "geom:latitude":30.92494,
+    "geom:longitude":46.40987,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"90509.0",
+    "gn:asciiname":"Qal'at Rudan",
+    "gn:country_code":"IQ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6735838,
+    "gn:latitude":30.92494,
+    "gn:longitude":46.40987,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qal\u2018at R\u016b\u1e11\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0631\u0648\u0636\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018at R\u016b\u1e11\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6735838
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7e3793ca255db5abfc3b0471300c2523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562723,
+            "locality_id":1327019425,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1327019425,
+    "wof:lastmodified":1537639147,
+    "wof:name":"Qal'at Rudan",
+    "wof:parent_id":1108562723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.40987,
+    30.92494000000001,
+    46.40987,
+    30.92494000000001
+],
+  "geometry": {"coordinates":[46.40987,30.92494000000001],"type":"Point"}
+}

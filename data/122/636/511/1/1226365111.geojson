@@ -1,0 +1,84 @@
+{
+  "id": 1226365111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.00556,36.44333,45.00556,36.44333",
+    "geom:latitude":36.44333,
+    "geom:longitude":45.00556,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Pisht Ashan",
+    "gn:country_code":"IQ",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92742,
+    "gn:latitude":36.44333,
+    "gn:longitude":45.00556,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Pisht Ashan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u062a \u0627\u0634\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Pisht Ashan"
+    ],
+    "name:kur_x_variant":[
+        "\u067e\u0634\u062a \u0626\u0627\u0634\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bisht Ash\u0101n",
+        "Pisht\u0101sh\u0101n",
+        "Psht Ashan",
+        "Pshtashan Lower",
+        "Pshtashan Upper"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92742
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6d01ab1fbaf031653849ab4fc21a1679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1226365111,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1226365111,
+    "wof:lastmodified":1537638076,
+    "wof:name":"Pisht Ashan",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.00556,
+    36.44333,
+    45.00556,
+    36.44333
+],
+  "geometry": {"coordinates":[45.00556,36.44333],"type":"Point"}
+}

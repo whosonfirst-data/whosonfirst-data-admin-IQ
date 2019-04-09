@@ -1,0 +1,78 @@
+{
+  "id": 1310682201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46823,36.54331,44.46823,36.54331",
+    "geom:latitude":36.54331,
+    "geom:longitude":44.46823,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166592.0",
+    "gn:asciiname":"Qarkan Dulah",
+    "gn:country_code":"IQ",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446756,
+    "gn:latitude":36.54331,
+    "gn:longitude":44.46823,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qark\u0101n D\u016blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0643\u0627\u0646 \u062f\u0648\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qark\u0101n D\u016blah",
+        "\u0642\u0631\u0643\u0627\u0646 \u062f\u0648\u0644\u0629",
+        "Qarakh\u0101n D\u014dla",
+        "Qarkh\u0101n D\u016blah",
+        "\u0642\u0631\u062e\u0627\u0646 \u062f\u0648\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446756
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2f526e207b194d9817740ec08539a791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445495,
+            "locality_id":1310682201,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1310682201,
+    "wof:lastmodified":1537639009,
+    "wof:name":"Qarkan Dulah",
+    "wof:parent_id":890445495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46823,
+    36.54331,
+    44.46823,
+    36.54331
+],
+  "geometry": {"coordinates":[44.46823,36.54331],"type":"Point"}
+}

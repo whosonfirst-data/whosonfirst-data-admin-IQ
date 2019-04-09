@@ -1,0 +1,84 @@
+{
+  "id": 1293314875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29726,37.17712,43.29726,37.17712",
+    "geom:latitude":37.17712,
+    "geom:longitude":43.29726,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Muskah",
+    "gn:country_code":"IQ",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390823,
+    "gn:latitude":37.17712,
+    "gn:longitude":43.29726,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"M\u016bskah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0633\u0643\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "M\u00eeske"
+    ],
+    "name:kur_x_variant":[
+        "\u0645\u064a\u0633\u0643\u06d5",
+        "M\u00eeska",
+        "\u0645\u064a\u0633\u0643\u0627"
+    ],
+    "name:und_x_variant":[
+        "M\u016bsaka",
+        "Miska",
+        "M\u016bskah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390823
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c36b2875c14e6ceab3e8b694bdbc5218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1293314875,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1293314875,
+    "wof:lastmodified":1537638828,
+    "wof:name":"Muskah",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29726,
+    37.17712,
+    43.29726,
+    37.17712
+],
+  "geometry": {"coordinates":[43.29726,37.17712],"type":"Point"}
+}

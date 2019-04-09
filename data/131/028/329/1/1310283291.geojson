@@ -1,0 +1,88 @@
+{
+  "id": 1310283291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.86344,35.84763,43.86344,35.84763",
+    "geom:latitude":35.84763,
+    "geom:longitude":43.86344,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"93817.0",
+    "gn:asciiname":"Tekale",
+    "gn:country_code":"IQ",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90151,
+    "gn:latitude":35.84763,
+    "gn:longitude":43.86344,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"T\u00eaka\u0142e",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0643\u0627\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u064a\u0643\u0627\u0644\u0648 \u062e\u0631\u0627\u0626\u0628"
+    ],
+    "name:kur_x_preferred":[
+        "T\u00eaka\u0142e"
+    ],
+    "name:kur_x_variant":[
+        "Tikala",
+        "\u062a\u06ce \u0643\u0627\u06b5\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Tik\u0101la",
+        "Tik\u0101lah",
+        "Tayk\u0101l\u016b Khar\u0101\u2019ib",
+        "Tikala",
+        "Tayk\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90151
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bca9ef2bac06c5ec38f59dfb2799c8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562779,
+            "locality_id":1310283291,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1310283291,
+    "wof:lastmodified":1537637837,
+    "wof:name":"Tekale",
+    "wof:parent_id":1108562779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.86344,
+    35.84763,
+    43.86344,
+    35.84763
+],
+  "geometry": {"coordinates":[43.86344,35.84763],"type":"Point"}
+}

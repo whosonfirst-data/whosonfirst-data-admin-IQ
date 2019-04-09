@@ -1,0 +1,74 @@
+{
+  "id": 1193106721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.92488,32.40042,45.92488,32.40042",
+    "geom:latitude":32.40042,
+    "geom:longitude":45.92488,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"99132.0",
+    "gn:asciiname":"Muhammad al 'Ani",
+    "gn:country_code":"IQ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759558,
+    "gn:latitude":32.40042,
+    "gn:longitude":45.92488,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29ammad al \u2018\u0100n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e29ammad al \u2018\u0100n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        421186459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759558
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d30fbcccc14a2c3d810681f7d6ef7818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186459,
+            "locality_id":1193106721,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1193106721,
+    "wof:lastmodified":1537639217,
+    "wof:name":"Muhammad al 'Ani",
+    "wof:parent_id":421186459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.92488,
+    32.40042,
+    45.92488,
+    32.40042
+],
+  "geometry": {"coordinates":[45.92488,32.40042],"type":"Point"}
+}

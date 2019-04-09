@@ -1,0 +1,75 @@
+{
+  "id": 1243226915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.82454,34.82009,44.82454,34.82009",
+    "geom:latitude":34.82009,
+    "geom:longitude":44.82454,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Darraji",
+    "gn:country_code":"IQ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96864,
+    "gn:latitude":34.82009,
+    "gn:longitude":44.82454,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Darr\u0101ji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0627\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Dur\u0101j\u012b",
+        "Durr\u0101j\u012b",
+        "Darr\u0101ji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96864
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8d2bf6118bae159bde35ea340dbda69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562653,
+            "locality_id":1243226915,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1243226915,
+    "wof:lastmodified":1537638434,
+    "wof:name":"Darraji",
+    "wof:parent_id":1108562653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.82454,
+    34.82009,
+    44.82454,
+    34.82009
+],
+  "geometry": {"coordinates":[44.82454,34.82009],"type":"Point"}
+}

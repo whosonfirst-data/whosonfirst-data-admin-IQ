@@ -1,0 +1,74 @@
+{
+  "id": 1243527061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.64829,32.8925,44.64829,32.8925",
+    "geom:latitude":32.8925,
+    "geom:longitude":44.64829,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98460.0",
+    "gn:asciiname":"Tall Karkur",
+    "gn:country_code":"IQ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6754103,
+    "gn:latitude":32.8925,
+    "gn:longitude":44.64829,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tall Kark\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0643\u0631\u0643\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tall Kark\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754103
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9924587ed51e61ffc9d254f2f9439a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562783,
+            "locality_id":1243527061,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1243527061,
+    "wof:lastmodified":1537639176,
+    "wof:name":"Tall Karkur",
+    "wof:parent_id":1108562783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.64829,
+    32.8925,
+    44.64829,
+    32.8925
+],
+  "geometry": {"coordinates":[44.64829,32.8925],"type":"Point"}
+}

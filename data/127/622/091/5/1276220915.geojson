@@ -1,0 +1,74 @@
+{
+  "id": 1276220915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.30421,34.31379,45.30421,34.31379",
+    "geom:latitude":34.31379,
+    "geom:longitude":45.30421,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Mutak",
+    "gn:country_code":"IQ",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6928105,
+    "gn:latitude":34.31379,
+    "gn:longitude":45.30421,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"M\u016btak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u062a\u0643"
+    ],
+    "name:und_x_variant":[
+        "M\u016btak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6928105
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f3657518f4be1d7087e90aab0f63493c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1276220915,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1276220915,
+    "wof:lastmodified":1537639864,
+    "wof:name":"Mutak",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.30421,
+    34.31379,
+    45.30421,
+    34.31379
+],
+  "geometry": {"coordinates":[45.30421,34.31379],"type":"Point"}
+}

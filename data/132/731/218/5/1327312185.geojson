@@ -1,0 +1,82 @@
+{
+  "id": 1327312185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6323,37.03453,44.6323,37.03453",
+    "geom:latitude":37.03453,
+    "geom:longitude":44.6323,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166592.0",
+    "gn:asciiname":"Maslawk",
+    "gn:country_code":"IQ",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7103294,
+    "gn:latitude":37.03453,
+    "gn:longitude":44.6323,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maslawk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u0644\u0648\u0643"
+    ],
+    "name:kur_x_preferred":[
+        "Meslok"
+    ],
+    "name:kur_x_variant":[
+        "\u0645\u06d5\u0633\u0644\u06c6\u0643",
+        "Misluk"
+    ],
+    "name:und_x_variant":[
+        "Maslok",
+        "Masl\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7103294
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3779111118105b94873824778482fd47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445495,
+            "locality_id":1327312185,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1327312185,
+    "wof:lastmodified":1537639985,
+    "wof:name":"Maslawk",
+    "wof:parent_id":890445495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6323,
+    37.03453,
+    44.6323,
+    37.03453
+],
+  "geometry": {"coordinates":[44.6323,37.03453],"type":"Point"}
+}

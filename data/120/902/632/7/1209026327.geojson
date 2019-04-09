@@ -1,0 +1,80 @@
+{
+  "id": 1209026327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.49396,37.12621,42.49396,37.12621",
+    "geom:latitude":37.12621,
+    "geom:longitude":42.49396,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"89569.0",
+    "gn:asciiname":"Hetyan",
+    "gn:country_code":"IQ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95787,
+    "gn:latitude":37.12621,
+    "gn:longitude":42.49396,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Hetyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u064a\u062a\u0627\u064a\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "H\u012bt\u0101y\u0101n"
+    ],
+    "name:kur_x_preferred":[
+        "H\u00eatiyan"
+    ],
+    "name:kur_x_variant":[
+        "\u06be\u06ce\u062a\u064a\u0627\u0646",
+        "H\u00eaviyan",
+        "\u06be\u06ce\u06a4\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Hity\u0101m",
+        "Hetyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95787
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ebfdb2fbd4e937138cdbe82a1f1b5b7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209026327
+        }
+    ],
+    "wof:id":1209026327,
+    "wof:lastmodified":1537638333,
+    "wof:name":"Hetyan",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.49396,
+    37.12621,
+    42.49396,
+    37.12621
+],
+  "geometry": {"coordinates":[42.49396,37.12621],"type":"Point"}
+}

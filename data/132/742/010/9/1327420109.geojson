@@ -1,0 +1,74 @@
+{
+  "id": 1327420109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7877,35.45835,43.7877,35.45835",
+    "geom:latitude":35.45835,
+    "geom:longitude":43.7877,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"6770659.0",
+    "gn:asciiname":"Hamid Muhammad `Umar",
+    "gn:country_code":"IQ",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6770347,
+    "gn:latitude":35.45835,
+    "gn:longitude":43.7877,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"\u1e28am\u012bd Mu\u1e29ammad \u2018Umar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u064a\u062f \u0645\u062d\u0645\u062f \u0639\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e28am\u012bd Mu\u1e29ammad \u2018Umar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6770347
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"cf978240d66057abf2a095b8a8cfc38a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562743,
+            "locality_id":1327420109,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1327420109,
+    "wof:lastmodified":1537639252,
+    "wof:name":"Hamid Muhammad `Umar",
+    "wof:parent_id":1108562743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7877,
+    35.45835,
+    43.7877,
+    35.45835
+],
+  "geometry": {"coordinates":[43.7877,35.45835],"type":"Point"}
+}

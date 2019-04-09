@@ -1,0 +1,84 @@
+{
+  "id": 1343857471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.48759,35.78564,45.48759,35.78564",
+    "geom:latitude":35.78564,
+    "geom:longitude":45.48759,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Bitwata",
+    "gn:country_code":"IQ",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97692,
+    "gn:latitude":35.78564,
+    "gn:longitude":45.48759,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bitw\u0101t\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bitw\u0101t\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u062a\u0648\u0627\u062a\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "B\u00eatwate"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06ce\u062a\u0648\u0627\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "B\u0113tw\u0101tah",
+        "Betwata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97692
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6a827f45f2ea1c472b64897de8780ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1343857471,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1343857471,
+    "wof:lastmodified":1537638527,
+    "wof:name":"Bitwata",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.48759,
+    35.78564,
+    45.48759,
+    35.78564
+],
+  "geometry": {"coordinates":[45.48759,35.78564],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259992427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.62649,30.767,47.62649,30.767",
+    "geom:latitude":30.767,
+    "geom:longitude":47.62649,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"99534.0",
+    "gn:asciiname":"Mintaqat an Nahran",
+    "gn:country_code":"IQ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386535,
+    "gn:latitude":30.767,
+    "gn:longitude":47.62649,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Min\u0163aqat an Nahr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0646\u0647\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Min\u0163aqat an Nahraw\u0101n",
+        "Min\u0163aqat an Nahr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386535
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a66f36bd17dfb6f9b699ae2bf9cd857c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562731,
+            "locality_id":1259992427,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1259992427,
+    "wof:lastmodified":1537638784,
+    "wof:name":"Mintaqat an Nahran",
+    "wof:parent_id":1108562731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.62649,
+    30.767,
+    47.62649,
+    30.767
+],
+  "geometry": {"coordinates":[47.62649,30.767],"type":"Point"}
+}

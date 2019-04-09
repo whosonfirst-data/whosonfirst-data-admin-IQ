@@ -1,0 +1,80 @@
+{
+  "id": 1277048795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.67963,36.38854,41.67963,36.38854",
+    "geom:latitude":36.38854,
+    "geom:longitude":41.67963,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Karsi",
+    "gn:country_code":"IQ",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94091,
+    "gn:latitude":36.38854,
+    "gn:longitude":41.67963,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Karsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0633\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Kursi"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0648\u0631\u0633\u0649"
+    ],
+    "name:und_x_variant":[
+        "Kurs\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94091
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c3e4ca8e320d6f54557cdd0247025ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1277048795,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1277048795,
+    "wof:lastmodified":1537638190,
+    "wof:name":"Karsi",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.67963,
+    36.38854,
+    41.67963,
+    36.38854
+],
+  "geometry": {"coordinates":[41.67963,36.38854],"type":"Point"}
+}

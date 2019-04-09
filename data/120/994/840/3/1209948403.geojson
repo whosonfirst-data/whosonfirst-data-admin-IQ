@@ -1,0 +1,94 @@
+{
+  "id": 1209948403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.38033,34.81543,45.38033,34.81543",
+    "geom:latitude":34.81543,
+    "geom:longitude":45.38033,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Khaluk",
+    "gn:country_code":"IQ",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94616,
+    "gn:latitude":34.81543,
+    "gn:longitude":45.38033,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Khal\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0648\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0644\u0629 \u0628\u06af"
+    ],
+    "name:kur_x_preferred":[
+        "Xa\u0142e Beg"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u0627\u06b5\u06d5 \u0628\u06d5\u06af"
+    ],
+    "name:und_x_variant":[
+        "P\u0101in Baryag",
+        "Khalubig",
+        "Kh\u0101l\u016b Bak",
+        "Khal\u016bk",
+        "Khala Bag",
+        "Khalah Bag",
+        "Khalah Bak",
+        "Khal\u016bg",
+        "Qaryat Kh\u0101lah Wak\u0101",
+        "\u062e\u0644\u0629 \u0628\u0643",
+        "\u062e\u0644\u0648\u06af",
+        "\u0642\u0631\u064a\u0629 \u062e\u0627\u0644\u0629 \u0648\u0643\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94616
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2d4de698d777b6a6b4139f27122c240f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1209948403,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1209948403,
+    "wof:lastmodified":1537638239,
+    "wof:name":"Khaluk",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.38033,
+    34.81543,
+    45.38033,
+    34.81543
+],
+  "geometry": {"coordinates":[45.38033,34.81543],"type":"Point"}
+}

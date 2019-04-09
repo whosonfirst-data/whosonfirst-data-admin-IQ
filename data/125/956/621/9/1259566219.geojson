@@ -1,0 +1,85 @@
+{
+  "id": 1259566219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.64227,36.49083,43.64227,36.49083",
+    "geom:latitude":36.49083,
+    "geom:longitude":43.64227,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Kunabak",
+    "gn:country_code":"IQ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018338,
+    "gn:latitude":36.49083,
+    "gn:longitude":43.64227,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"K\u016bnab\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0646\u0628\u0627\u0643"
+    ],
+    "name:kur_x_preferred":[
+        "Kudabak"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0648\u062f\u0627\u0628\u0627\u0643",
+        "Kewnebak",
+        "Kevnebak",
+        "\u0643\u06d5\u0648\u0646\u06d5\u0628\u0627\u0643",
+        "\u0643\u06d5\u06a4\u0646\u06d5\u0628\u0627\u0643"
+    ],
+    "name:und_x_variant":[
+        "K\u016bnab\u0101k",
+        "Kavnabak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018338
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5ce909cc21bd3a475334044843a7f6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1259566219,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1259566219,
+    "wof:lastmodified":1537639904,
+    "wof:name":"Kunabak",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.64227,
+    36.49083,
+    43.64227,
+    36.49083
+],
+  "geometry": {"coordinates":[43.64227,36.49083],"type":"Point"}
+}

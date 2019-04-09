@@ -1,0 +1,79 @@
+{
+  "id": 1326962057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.66389,35.44722,45.66389,35.44722",
+    "geom:latitude":35.44722,
+    "geom:longitude":45.66389,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Kirmadara",
+    "gn:country_code":"IQ",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":384852,
+    "gn:latitude":35.44722,
+    "gn:longitude":45.66389,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kirmadara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kur_x_preferred":[
+        "Germedere"
+    ],
+    "name:kur_x_variant":[
+        "Girmedere",
+        "\u06af\u06d5\u0631\u0645\u06d5\u062f\u06d5\u0631\u06d5",
+        "\u06af\u0631\u0645\u06d5\u062f\u06d5\u0631\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Grmadara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384852
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"327e06ac635a723b5ddb87c0f09183d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1326962057,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1326962057,
+    "wof:lastmodified":1537638759,
+    "wof:name":"Kirmadara",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.66389,
+    35.44722,
+    45.66389,
+    35.44722
+],
+  "geometry": {"coordinates":[45.66389,35.44722],"type":"Point"}
+}

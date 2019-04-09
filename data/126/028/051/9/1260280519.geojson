@@ -1,0 +1,74 @@
+{
+  "id": 1260280519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2072,33.62561,44.2072,33.62561",
+    "geom:latitude":33.62561,
+    "geom:longitude":44.2072,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166569.0",
+    "gn:asciiname":"Muhammad Jasim",
+    "gn:country_code":"IQ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805925,
+    "gn:latitude":33.62561,
+    "gn:longitude":44.2072,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29ammad J\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u062f \u062c\u0627\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e29ammad J\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805925
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"14466b64bf168f3749f50ce43351cddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562665,
+            "locality_id":1260280519,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1260280519,
+    "wof:lastmodified":1537639603,
+    "wof:name":"Muhammad Jasim",
+    "wof:parent_id":1108562665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2072,
+    33.62560999999999,
+    44.2072,
+    33.62560999999999
+],
+  "geometry": {"coordinates":[44.2072,33.62560999999999],"type":"Point"}
+}

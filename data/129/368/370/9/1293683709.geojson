@@ -1,0 +1,74 @@
+{
+  "id": 1293683709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.32753,32.95127,44.32753,32.95127",
+    "geom:latitude":32.95127,
+    "geom:longitude":44.32753,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Latif Sazay",
+    "gn:country_code":"IQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817668,
+    "gn:latitude":32.95127,
+    "gn:longitude":44.32753,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La\u0163\u012bf \u015eaz\u0327\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0637\u064a\u0641 \u0635\u0638\u0627\u064a"
+    ],
+    "name:und_x_variant":[
+        "La\u0163\u012bf \u015eaz\u0327\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817668
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f539a8ec452643fbafcd5f043895ddaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1293683709,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1293683709,
+    "wof:lastmodified":1537639630,
+    "wof:name":"Latif Sazay",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.32753,
+    32.95127,
+    44.32753,
+    32.95127
+],
+  "geometry": {"coordinates":[44.32753,32.95127],"type":"Point"}
+}

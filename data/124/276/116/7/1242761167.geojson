@@ -1,0 +1,74 @@
+{
+  "id": 1242761167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01253,31.40715,47.01253,31.40715",
+    "geom:latitude":31.40715,
+    "geom:longitude":47.01253,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9166562.0",
+    "gn:asciiname":"'Arab Hajj",
+    "gn:country_code":"IQ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6772250,
+    "gn:latitude":31.40715,
+    "gn:longitude":47.01253,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab \u1e28\u0101jj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u062d\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab \u1e28\u0101jj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6772250
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2b2ac328fb292637bd10ac7ed3d36a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562709,
+            "locality_id":1242761167,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1242761167,
+    "wof:lastmodified":1537639270,
+    "wof:name":"'Arab Hajj",
+    "wof:parent_id":1108562709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01253,
+    31.40715,
+    47.01253,
+    31.40715
+],
+  "geometry": {"coordinates":[47.01253,31.40715],"type":"Point"}
+}

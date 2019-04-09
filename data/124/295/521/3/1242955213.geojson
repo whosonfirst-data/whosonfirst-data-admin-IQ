@@ -1,0 +1,74 @@
+{
+  "id": 1242955213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.9453,32.91978,45.9453,32.91978",
+    "geom:latitude":32.91978,
+    "geom:longitude":45.9453,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98197.0",
+    "gn:asciiname":"Kinanah",
+    "gn:country_code":"IQ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6769206,
+    "gn:latitude":32.91978,
+    "gn:longitude":45.9453,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kin\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0646\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kin\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6769206
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"70e739df783b41c314817bdce4e1708b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562673,
+            "locality_id":1242955213,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1242955213,
+    "wof:lastmodified":1537639241,
+    "wof:name":"Kinanah",
+    "wof:parent_id":1108562673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.9453,
+    32.91978,
+    45.9453,
+    32.91978
+],
+  "geometry": {"coordinates":[45.9453,32.91978],"type":"Point"}
+}

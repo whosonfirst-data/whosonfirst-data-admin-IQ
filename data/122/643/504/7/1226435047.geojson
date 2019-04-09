@@ -1,0 +1,74 @@
+{
+  "id": 1226435047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3818,32.3413,44.3818,32.3413",
+    "geom:latitude":32.3413,
+    "geom:longitude":44.3818,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99348.0",
+    "gn:asciiname":"Qaryat ar Raranjiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6781073,
+    "gn:latitude":32.3413,
+    "gn:longitude":44.3818,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat ar R\u0101ranj\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0631\u0627\u0631\u0646\u062c\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat ar R\u0101ranj\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6781073
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"80dce6fd40f38219288161113f816192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562695,
+            "locality_id":1226435047,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1226435047,
+    "wof:lastmodified":1537639306,
+    "wof:name":"Qaryat ar Raranjiyah",
+    "wof:parent_id":1108562695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3818,
+    32.3413,
+    44.3818,
+    32.3413
+],
+  "geometry": {"coordinates":[44.3818,32.3413],"type":"Point"}
+}

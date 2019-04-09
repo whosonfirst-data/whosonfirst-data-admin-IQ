@@ -1,0 +1,74 @@
+{
+  "id": 1276250343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19489,33.6031,44.19489,33.6031",
+    "geom:latitude":33.6031,
+    "geom:longitude":44.19489,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166569.0",
+    "gn:asciiname":"Nawwar Husayn",
+    "gn:country_code":"IQ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805954,
+    "gn:latitude":33.6031,
+    "gn:longitude":44.19489,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Naww\u0101r \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0627\u0631 \u062d\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Naww\u0101r \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805954
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1c56c0c9ed4c0102818ab34c780c2842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562665,
+            "locality_id":1276250343,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1276250343,
+    "wof:lastmodified":1537639604,
+    "wof:name":"Nawwar Husayn",
+    "wof:parent_id":1108562665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19489,
+    33.6031,
+    44.19489,
+    33.6031
+],
+  "geometry": {"coordinates":[44.19489,33.6031],"type":"Point"}
+}

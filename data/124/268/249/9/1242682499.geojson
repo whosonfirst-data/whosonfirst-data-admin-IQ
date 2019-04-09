@@ -1,0 +1,81 @@
+{
+  "id": 1242682499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.72313,35.34497,45.72313,35.34497",
+    "geom:latitude":35.34497,
+    "geom:longitude":45.72313,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Muwan Rustam",
+    "gn:country_code":"IQ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7455026,
+    "gn:latitude":35.34497,
+    "gn:longitude":45.72313,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Muw\u0101n Rustam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0627\u0646 \u0631\u0633\u062a\u0645"
+    ],
+    "name:kur_x_preferred":[
+        "Muwan\u00ee \u1e5eostem"
+    ],
+    "name:kur_x_variant":[
+        "\u0645\u0648\u0648\u0627\u0646\u0649 \u0695\u06c6\u0633\u062a\u06d5\u0645"
+    ],
+    "name:und_x_variant":[
+        "Muw\u0101n Rustam",
+        "Muw\u0101n Rawstam",
+        "\u0645\u0648\u0627\u0646 \u0631\u0648\u0633\u062a\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7455026
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"31dd7096690c1445a8b872a2e1e3d165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1242682499,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1242682499,
+    "wof:lastmodified":1537640059,
+    "wof:name":"Muwan Rustam",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.72313,
+    35.34497,
+    45.72313,
+    35.34497
+],
+  "geometry": {"coordinates":[45.72313,35.34497],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343436879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21844,33.87131,44.21844,33.87131",
+    "geom:latitude":33.87131,
+    "geom:longitude":44.21844,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"9166616.0",
+    "gn:asciiname":"Khudayr Kazim",
+    "gn:country_code":"IQ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805445,
+    "gn:latitude":33.87131,
+    "gn:longitude":44.21844,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khu\u1e11ayr K\u0101z\u0327im",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0636\u064a\u0631 \u0643\u0627\u0638\u0645"
+    ],
+    "name:und_x_variant":[
+        "Khu\u1e11ayr K\u0101z\u0327im"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805445
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"517c09fb9706ac8886d107025a1cf628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562809,
+            "locality_id":1343436879,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1343436879,
+    "wof:lastmodified":1537639572,
+    "wof:name":"Khudayr Kazim",
+    "wof:parent_id":1108562809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21844,
+    33.87131,
+    44.21844,
+    33.87131
+],
+  "geometry": {"coordinates":[44.21844,33.87131],"type":"Point"}
+}

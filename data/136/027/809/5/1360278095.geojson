@@ -1,0 +1,74 @@
+{
+  "id": 1360278095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39166,32.43201,44.39166,32.43201",
+    "geom:latitude":32.43201,
+    "geom:longitude":44.39166,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"Qaryat Kazim Abu Qittah",
+    "gn:country_code":"IQ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6780948,
+    "gn:latitude":32.43201,
+    "gn:longitude":44.39166,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat K\u0101z\u0327im Ab\u016b Qi\u0163\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0643\u0627\u0638\u0645 \u0627\u0628\u0648 \u0642\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat K\u0101z\u0327im Ab\u016b Qi\u0163\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421172849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6780948
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"26110130bbea2273ff0043a2cf937cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172849,
+            "locality_id":1360278095,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1360278095,
+    "wof:lastmodified":1537639301,
+    "wof:name":"Qaryat Kazim Abu Qittah",
+    "wof:parent_id":421172849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39166,
+    32.43201,
+    44.39166,
+    32.43201
+],
+  "geometry": {"coordinates":[44.39166,32.43201],"type":"Point"}
+}

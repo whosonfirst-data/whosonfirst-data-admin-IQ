@@ -1,0 +1,77 @@
+{
+  "id": 1209246545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.96667,35.38333,45.96667,35.38333",
+    "geom:latitude":35.38333,
+    "geom:longitude":45.96667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Zurun",
+    "gn:country_code":"IQ",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89375,
+    "gn:latitude":35.38333,
+    "gn:longitude":45.96667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Z\u016br\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Z\u016br\u016bn"
+    ],
+    "name:kur_x_preferred":[
+        "Z\u00ee\u1e5fon"
+    ],
+    "name:kur_x_variant":[
+        "\u0632\u064a\u0695\u06c6\u0646"
+    ],
+    "name:und_x_variant":[
+        "S\u012br\u016bn",
+        "Z\u016br\u016bn",
+        "Zorun",
+        "Ziron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89375
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3c4f5790842fe05f53762edf1e7e206d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209246545
+        }
+    ],
+    "wof:id":1209246545,
+    "wof:lastmodified":1537637768,
+    "wof:name":"Zurun",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.96667,
+    35.38333,
+    45.96667,
+    35.38333
+],
+  "geometry": {"coordinates":[45.96667,35.38333],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1293189817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.37837,34.35743,45.37837,34.35743",
+    "geom:latitude":34.35743,
+    "geom:longitude":45.37837,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Tul Farus",
+    "gn:country_code":"IQ",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90119,
+    "gn:latitude":34.35743,
+    "gn:longitude":45.37837,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"T\u016bl Far\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0644 \u0641\u0631\u0648\u0633"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0644\u0641\u06cc \u0631\u0648\u0634"
+    ],
+    "name:fas_x_variant":[
+        "Tolafir\u014dsh",
+        "Towlaf\u012b R\u016bsh"
+    ],
+    "name:und_x_variant":[
+        "T\u016blah Fur\u016bsh",
+        "Tolafarush",
+        "\u0162\u016blah Fih R\u016bsh",
+        "T\u016bl Far\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90119
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1eb7922207a76386a07ee6c1e4653768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1293189817,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1293189817,
+    "wof:lastmodified":1537637832,
+    "wof:name":"Tul Farus",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.37837,
+    34.35743,
+    45.37837,
+    34.35743
+],
+  "geometry": {"coordinates":[45.37837,34.35743],"type":"Point"}
+}

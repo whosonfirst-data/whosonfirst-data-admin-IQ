@@ -1,0 +1,74 @@
+{
+  "id": 1343568869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.83622,29.71289,45.83622,29.71289",
+    "geom:latitude":29.71289,
+    "geom:longitude":45.83622,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"98534.0",
+    "gn:asciiname":"'Adin",
+    "gn:country_code":"IQ",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386900,
+    "gn:latitude":29.71289,
+    "gn:longitude":45.83622,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018\u0100din",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0627\u062f\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u2018\u0100din"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386900
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4047c76232ea8090ada449405c74fd0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562703,
+            "locality_id":1343568869,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1343568869,
+    "wof:lastmodified":1537638789,
+    "wof:name":"'Adin",
+    "wof:parent_id":1108562703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.83622,
+    29.71289,
+    45.83622,
+    29.71289
+],
+  "geometry": {"coordinates":[45.83622,29.71289],"type":"Point"}
+}

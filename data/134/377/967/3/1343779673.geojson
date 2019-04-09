@@ -1,0 +1,77 @@
+{
+  "id": 1343779673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.5787,34.31898,41.5787,34.31898",
+    "geom:latitude":34.31898,
+    "geom:longitude":41.5787,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9166576.0",
+    "gn:asciiname":"Chibab",
+    "gn:country_code":"IQ",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99201,
+    "gn:latitude":34.31898,
+    "gn:longitude":41.5787,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chib\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0686\u0628\u0627\u0628"
+    ],
+    "name:ara_x_variant":[
+        "Chib\u0101b"
+    ],
+    "name:und_x_variant":[
+        "Al Jib\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        1108562669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99201
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a61538db2d363a8a08e59dd424569ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562669,
+            "locality_id":1343779673,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1343779673,
+    "wof:lastmodified":1537638660,
+    "wof:name":"Chibab",
+    "wof:parent_id":1108562669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.5787,
+    34.31898,
+    41.5787,
+    34.31898
+],
+  "geometry": {"coordinates":[41.5787,34.31898],"type":"Point"}
+}

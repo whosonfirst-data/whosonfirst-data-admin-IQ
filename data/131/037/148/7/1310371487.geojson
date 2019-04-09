@@ -1,0 +1,74 @@
+{
+  "id": 1310371487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92397,34.00341,43.92397,34.00341",
+    "geom:latitude":34.00341,
+    "geom:longitude":43.92397,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6805736.0",
+    "gn:asciiname":"Sabar Habib",
+    "gn:country_code":"IQ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6782451,
+    "gn:latitude":34.00341,
+    "gn:longitude":43.92397,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u015eab\u0101r \u1e28ab\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0628\u0627\u0631 \u062d\u0628\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u015eab\u0101r \u1e28ab\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        421180939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6782451
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8d5b74548fb13b73d6ad0f43981138b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421180939,
+            "locality_id":1310371487,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1310371487,
+    "wof:lastmodified":1537639318,
+    "wof:name":"Sabar Habib",
+    "wof:parent_id":421180939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92397,
+    34.00341,
+    43.92397,
+    34.00341
+],
+  "geometry": {"coordinates":[43.92397,34.00341],"type":"Point"}
+}

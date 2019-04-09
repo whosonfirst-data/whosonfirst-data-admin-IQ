@@ -1,0 +1,74 @@
+{
+  "id": 1276653559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39673,33.55627,44.39673,33.55627",
+    "geom:latitude":33.55627,
+    "geom:longitude":44.39673,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9167085.0",
+    "gn:asciiname":"Albu 'Ata Allah",
+    "gn:country_code":"IQ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805692,
+    "gn:latitude":33.55627,
+    "gn:longitude":44.39673,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100lb\u016b \u2018A\u0163\u0101 All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648 \u0639\u0637\u0627 \u0627\u0644\u0644\u0647"
+    ],
+    "name:ara_x_variant":[
+        "\u0100lb\u016b \u2018A\u0163\u0101 All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805692
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ace3152a31c456fc5970ed3edbbc7cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562771,
+            "locality_id":1276653559,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1276653559,
+    "wof:lastmodified":1537639588,
+    "wof:name":"Albu 'Ata Allah",
+    "wof:parent_id":1108562771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39673,
+    33.55627,
+    44.39673,
+    33.55627
+],
+  "geometry": {"coordinates":[44.39673,33.55627],"type":"Point"}
+}

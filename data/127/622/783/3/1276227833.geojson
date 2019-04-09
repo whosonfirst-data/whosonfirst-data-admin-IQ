@@ -1,0 +1,74 @@
+{
+  "id": 1276227833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.07073,32.05787,45.07073,32.05787",
+    "geom:latitude":32.05787,
+    "geom:longitude":45.07073,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99737.0",
+    "gn:asciiname":"Al Fadl Allah",
+    "gn:country_code":"IQ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":99459,
+    "gn:latitude":32.05787,
+    "gn:longitude":45.07073,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l Fa\u1e11l All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0641\u0636\u0644 \u0627\u0644\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0100l Fa\u1e11l All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99459
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bf1f58be3c3d96e5315e2969a79268f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562687,
+            "locality_id":1276227833,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1276227833,
+    "wof:lastmodified":1537638677,
+    "wof:name":"Al Fadl Allah",
+    "wof:parent_id":1108562687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.07073,
+    32.05787,
+    45.07073,
+    32.05787
+],
+  "geometry": {"coordinates":[45.07073,32.05787],"type":"Point"}
+}

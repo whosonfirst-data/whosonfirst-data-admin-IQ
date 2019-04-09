@@ -1,0 +1,84 @@
+{
+  "id": 1343681891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.0962,36.85894,43.0962,36.85894",
+    "geom:latitude":36.85894,
+    "geom:longitude":43.0962,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"97269.0",
+    "gn:asciiname":"Ayminki",
+    "gn:country_code":"IQ",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445754,
+    "gn:latitude":36.85894,
+    "gn:longitude":43.0962,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Aymink\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064a\u0645\u0646\u0643\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Eymink\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0626\u06d5\u064a\u0645\u0646\u0643\u0649",
+        "\u00cam\u00eenk\u00ea",
+        "\u0626\u06ce\u0645\u064a\u0646\u0643\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Aimnky",
+        "Aymink\u012b",
+        "Eminke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421204025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445754
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"30013e0d7c893c9e38032175130f7622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421204025,
+            "locality_id":1343681891,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1343681891,
+    "wof:lastmodified":1537638924,
+    "wof:name":"Ayminki",
+    "wof:parent_id":421204025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.0962,
+    36.85894,
+    43.0962,
+    36.85894
+],
+  "geometry": {"coordinates":[43.0962,36.85894],"type":"Point"}
+}

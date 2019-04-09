@@ -1,0 +1,74 @@
+{
+  "id": 1259746341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.16352,35.29296,43.16352,35.29296",
+    "geom:latitude":35.29296,
+    "geom:longitude":43.16352,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6804454.0",
+    "gn:asciiname":"Qaryat Masihuj",
+    "gn:country_code":"IQ",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837380,
+    "gn:latitude":35.29296,
+    "gn:longitude":43.16352,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Masih\u016bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0645\u0633\u0647\u0648\u062c"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Masih\u016bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837380
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8934a8cd55a6371b3643e49883fca2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562645,
+            "locality_id":1259746341,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1259746341,
+    "wof:lastmodified":1537639702,
+    "wof:name":"Qaryat Masihuj",
+    "wof:parent_id":1108562645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.16352,
+    35.29296,
+    43.16352,
+    35.29296
+],
+  "geometry": {"coordinates":[43.16352,35.29296],"type":"Point"}
+}

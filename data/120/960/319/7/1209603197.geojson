@@ -1,0 +1,74 @@
+{
+  "id": 1209603197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.60213,36.27034,44.60213,36.27034",
+    "geom:latitude":36.27034,
+    "geom:longitude":44.60213,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166591.0",
+    "gn:asciiname":"Gird Sher",
+    "gn:country_code":"IQ",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":96481,
+    "gn:latitude":36.27034,
+    "gn:longitude":44.60213,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Gird Sher",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kur_x_preferred":[
+        "Girde Sh\u00ear"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u0631\u062f\u06d5 \u0634\u06ce\u0631"
+    ],
+    "name:und_x_variant":[
+        "Gird Sh\u012br",
+        "Jird Sh\u012br",
+        "Gird Sher",
+        "Grda Sher"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96481
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bd06cd8015ee88958814fdc2dd2e50df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209603197
+        }
+    ],
+    "wof:id":1209603197,
+    "wof:lastmodified":1537638398,
+    "wof:name":"Gird Sher",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.60213,
+    36.27034,
+    44.60213,
+    36.27034
+],
+  "geometry": {"coordinates":[44.60213,36.27034],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226309317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65147,34.73468,44.65147,34.73468",
+    "geom:latitude":34.73468,
+    "geom:longitude":44.65147,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"9166598.0",
+    "gn:asciiname":"Kutah Burun Jadid",
+    "gn:country_code":"IQ",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94073,
+    "gn:latitude":34.73468,
+    "gn:longitude":44.65147,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kutah Bur\u016bn Jad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u062a\u0629 \u0628\u0631\u0648\u0646 \u062c\u062f\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kutabir\u014d-i T\u0101za",
+        "Kuta Buro Jad\u012bd",
+        "Kutah Bur\u016bn Jad\u012bd",
+        "\u1e28abs",
+        "\u1e28ab\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94073
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"60586c77c0ef43842603bf109fcaa1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562657,
+            "locality_id":1226309317,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1226309317,
+    "wof:lastmodified":1537638189,
+    "wof:name":"Kutah Burun Jadid",
+    "wof:parent_id":1108562657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65147,
+    34.73468,
+    44.65147,
+    34.73468
+],
+  "geometry": {"coordinates":[44.65147,34.73468],"type":"Point"}
+}

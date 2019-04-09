@@ -1,0 +1,68 @@
+{
+  "id": 1209407459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.75373,32.44354,44.75373,32.44354",
+    "geom:latitude":32.44354,
+    "geom:longitude":44.75373,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"6818313.0",
+    "gn:asciiname":"Bayt Munawir",
+    "gn:country_code":"IQ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6787670,
+    "gn:latitude":32.44354,
+    "gn:longitude":44.75373,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Mun\u0101wir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u0646\u0627\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Bayt Mun\u0101wir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6787670
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3c2a99eafc12fb0e0dc63ded13beccd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209407459
+        }
+    ],
+    "wof:id":1209407459,
+    "wof:lastmodified":1537639401,
+    "wof:name":"Bayt Munawir",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.75373,
+    32.44354000000001,
+    44.75373,
+    32.44354000000001
+],
+  "geometry": {"coordinates":[44.75373,32.44354000000001],"type":"Point"}
+}

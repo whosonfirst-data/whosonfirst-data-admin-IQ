@@ -1,0 +1,74 @@
+{
+  "id": 1344120523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.47694,31.81993,44.47694,31.81993",
+    "geom:latitude":31.81993,
+    "geom:longitude":44.47694,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166552.0",
+    "gn:asciiname":"Dahnam",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6779425,
+    "gn:latitude":31.81993,
+    "gn:longitude":44.47694,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dahn\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0647\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Dahn\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6779425
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"162fea7a678c83f220ca11a66a14dca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562693,
+            "locality_id":1344120523,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1344120523,
+    "wof:lastmodified":1537639290,
+    "wof:name":"Dahnam",
+    "wof:parent_id":1108562693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.47694,
+    31.81993,
+    44.47694,
+    31.81993
+],
+  "geometry": {"coordinates":[44.47694,31.81993],"type":"Point"}
+}

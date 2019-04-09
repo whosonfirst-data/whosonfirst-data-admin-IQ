@@ -1,0 +1,82 @@
+{
+  "id": 1126107559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.09065,36.33091,43.09065,36.33091",
+    "geom:latitude":36.33091,
+    "geom:longitude":43.09065,
+    "gn:gn_country":"IQ",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":2065597,
+    "gn:population":2065597,
+    "iso:country":"IQ",
+    "lbl:latitude":36.33091,
+    "lbl:longitude":43.09065,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u0635\u0644 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "qs_pg:aaroncc":"IQ",
+    "qs_pg:gn_country":"IQ",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":99071,
+    "qs_pg:gn_pop":2065597,
+    "qs_pg:name":"Al Maw\u015fil al Jad\u012bdah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":12,
+    "qs_pg:qs_id":63743,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108562633,
+        85672429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99071,
+        "qs_pg:id":63743
+    },
+    "wof:country":"IQ",
+    "wof:created":1497317420,
+    "wof:geomhash":"5e1190d3beba0b235f454614b9debff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562633,
+            "locality_id":-1,
+            "neighbourhood_id":1126107559,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1126107559,
+    "wof:lastmodified":1509412445,
+    "wof:name":"Al Maw\u015fil al Jad\u012bdah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":2065597,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.09065,
+    36.33091,
+    43.09065,
+    36.33091
+],
+  "geometry": {"coordinates":[43.09065,36.33091],"type":"Point"}
+}

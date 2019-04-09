@@ -1,0 +1,74 @@
+{
+  "id": 1276974165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25882,33.19622,44.25882,33.19622",
+    "geom:latitude":33.19622,
+    "geom:longitude":44.25882,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166545.0",
+    "gn:asciiname":"'Arab Nasr Husayn Da'",
+    "gn:country_code":"IQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6927613,
+    "gn:latitude":33.19622,
+    "gn:longitude":44.25882,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab Na\u015fr \u1e28usayn \u1e10\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0646\u0635\u0631 \u062d\u0633\u064a\u0646 \u0636\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab Na\u015fr \u1e28usayn \u1e10\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6927613
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"95454f8fd2176b8c9460df6829c72b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562793,
+            "locality_id":1276974165,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1276974165,
+    "wof:lastmodified":1537639844,
+    "wof:name":"'Arab Nasr Husayn Da'",
+    "wof:parent_id":1108562793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25882,
+    33.19622,
+    44.25882,
+    33.19622
+],
+  "geometry": {"coordinates":[44.25882,33.19622],"type":"Point"}
+}

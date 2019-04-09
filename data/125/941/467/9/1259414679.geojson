@@ -1,0 +1,77 @@
+{
+  "id": 1259414679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.78333,35.15,45.78333,35.15",
+    "geom:latitude":35.15,
+    "geom:longitude":45.78333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166594.0",
+    "gn:asciiname":"Chama Rash",
+    "gn:country_code":"IQ",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97430,
+    "gn:latitude":35.15,
+    "gn:longitude":45.78333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chama Rash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Cheme \u1e5eesh"
+    ],
+    "name:kur_x_variant":[
+        "\u0686\u06d5\u0645\u06d5 \u0695\u06d5\u0634"
+    ],
+    "name:und_x_variant":[
+        "Chamarash",
+        "Chama Rash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        1108562767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97430
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7ca2a3f3e22bcf95724c0b97686ca888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":1108562767,
+            "locality_id":1259414679,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1259414679,
+    "wof:lastmodified":1537638497,
+    "wof:name":"Chama Rash",
+    "wof:parent_id":1108562767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.78333,
+    35.15,
+    45.78333,
+    35.15
+],
+  "geometry": {"coordinates":[45.78333,35.15],"type":"Point"}
+}

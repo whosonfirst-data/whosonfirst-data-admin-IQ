@@ -1,0 +1,72 @@
+{
+  "id": 1225961871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.06056,33.57917,44.06056,33.57917",
+    "geom:latitude":33.57917,
+    "geom:longitude":44.06056,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"Husayn 'Ali as Sa'd",
+    "gn:country_code":"IQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95694,
+    "gn:latitude":33.57917,
+    "gn:longitude":44.06056,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28usayn \u2018Al\u012b as Sa\u2018d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Husain \u2018Alias Sa\u2018ad",
+        "\u1e28usayn \u2018Al\u012b as Sa\u2018d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95694
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5116c5404607d949263ceb12e275a9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1225961871,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1225961871,
+    "wof:lastmodified":1537638326,
+    "wof:name":"Husayn 'Ali as Sa'd",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.06056,
+    33.57917,
+    44.06056,
+    33.57917
+],
+  "geometry": {"coordinates":[44.06056,33.57917],"type":"Point"}
+}

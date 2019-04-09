@@ -1,0 +1,80 @@
+{
+  "id": 1277147265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35071,35.9503,43.35071,35.9503",
+    "geom:latitude":35.9503,
+    "geom:longitude":43.35071,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166649.0",
+    "gn:asciiname":"Duwayzat al 'Ulya",
+    "gn:country_code":"IQ",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96843,
+    "gn:latitude":35.9503,
+    "gn:longitude":43.35071,
+    "gn:modification_date":"2016-11-16",
+    "gn:name":"Duwayzat al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u064a\u0632\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Duwaiz\u0101t",
+        "Duweizeh",
+        "Duwayzah al \u2018Uly\u0101",
+        "Duwayz\u0101n Fawqat\u012b",
+        "Duwaiz\u0101t Fa\u016bq\u0101ni",
+        "Duwayz\u0101t Fawq\u0101n\u012b",
+        "Duwayzat al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96843
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"72806d3dc81db886cb3650b4073c0e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562633,
+            "locality_id":1277147265,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1277147265,
+    "wof:lastmodified":1537638432,
+    "wof:name":"Duwayzat al 'Ulya",
+    "wof:parent_id":1108562633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35071,
+    35.9503,
+    43.35071,
+    35.9503
+],
+  "geometry": {"coordinates":[43.35071,35.9503],"type":"Point"}
+}

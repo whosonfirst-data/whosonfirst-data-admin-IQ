@@ -1,0 +1,82 @@
+{
+  "id": 1293371225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78027,36.60071,44.78027,36.60071",
+    "geom:latitude":36.60071,
+    "geom:longitude":44.78027,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166586.0",
+    "gn:asciiname":"Kani Sumaq",
+    "gn:country_code":"IQ",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94861,
+    "gn:latitude":36.60071,
+    "gn:longitude":44.78027,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"K\u0101n\u012b Sum\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u0101n\u012b Summ\u0101q"
+    ],
+    "name:kur_x_preferred":[
+        "Kan\u00ee Simaq"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0627\u0646\u0649 \u0633\u0645\u0627\u0642"
+    ],
+    "name:und_x_variant":[
+        "K\u0101n\u012b Sum\u0101q",
+        "Kani Smaq",
+        "K\u0101n\u012b S\u012bm\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94861
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7b9b79c5bb6e14a7e662a08e48158a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562749,
+            "locality_id":1293371225,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1293371225,
+    "wof:lastmodified":1537638264,
+    "wof:name":"Kani Sumaq",
+    "wof:parent_id":1108562749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78027,
+    36.60071,
+    44.78027,
+    36.60071
+],
+  "geometry": {"coordinates":[44.78027,36.60071],"type":"Point"}
+}

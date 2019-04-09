@@ -1,0 +1,83 @@
+{
+  "id": 1343392777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.19586,36.19233,45.19586,36.19233",
+    "geom:latitude":36.19233,
+    "geom:longitude":45.19586,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Kishan",
+    "gn:country_code":"IQ",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447944,
+    "gn:latitude":36.19233,
+    "gn:longitude":45.19586,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Kishan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0633\u062a\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Kishan"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0634\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kist\u0101n",
+        "Kast\u0101na",
+        "Kastana",
+        "Kshan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447944
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1ad713b4d133d66aaae420db956a2f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1343392777,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1343392777,
+    "wof:lastmodified":1537639061,
+    "wof:name":"Kishan",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.19586,
+    36.19233,
+    45.19586,
+    36.19233
+],
+  "geometry": {"coordinates":[45.19586,36.19233],"type":"Point"}
+}

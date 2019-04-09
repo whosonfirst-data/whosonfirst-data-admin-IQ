@@ -1,0 +1,74 @@
+{
+  "id": 1343334883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.65582,35.96383,41.65582,35.96383",
+    "geom:latitude":35.96383,
+    "geom:longitude":41.65582,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166608.0",
+    "gn:asciiname":"Rujm al Buthah",
+    "gn:country_code":"IQ",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019308,
+    "gn:latitude":35.96383,
+    "gn:longitude":41.65582,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rujm al B\u016bthah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062c\u0645 \u0627\u0644\u0628\u0648\u062b\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rujm al B\u016bthah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019308
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0be34518b299f5c243497611d7cf1e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562639,
+            "locality_id":1343334883,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1343334883,
+    "wof:lastmodified":1537639913,
+    "wof:name":"Rujm al Buthah",
+    "wof:parent_id":1108562639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.65582,
+    35.96383,
+    41.65582,
+    35.96383
+],
+  "geometry": {"coordinates":[41.65582,35.96383],"type":"Point"}
+}

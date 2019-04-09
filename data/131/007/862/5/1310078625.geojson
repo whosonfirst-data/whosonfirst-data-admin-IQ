@@ -1,0 +1,74 @@
+{
+  "id": 1310078625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.9699,36.51538,41.9699,36.51538",
+    "geom:latitude":36.51538,
+    "geom:longitude":41.9699,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Hariku",
+    "gn:country_code":"IQ",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6962699,
+    "gn:latitude":36.51538,
+    "gn:longitude":41.9699,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Har\u012bk\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0631\u064a\u0643\u0648"
+    ],
+    "name:und_x_variant":[
+        "Har\u012bk\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6962699
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ae38f995f2577b2bd9cda5cbc744ac84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1310078625,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1310078625,
+    "wof:lastmodified":1537639875,
+    "wof:name":"Hariku",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.9699,
+    36.51538,
+    41.9699,
+    36.51538
+],
+  "geometry": {"coordinates":[41.9699,36.51538],"type":"Point"}
+}

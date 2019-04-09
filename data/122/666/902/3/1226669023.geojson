@@ -1,0 +1,86 @@
+{
+  "id": 1226669023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.74015,35.69677,45.74015,35.69677",
+    "geom:latitude":35.69677,
+    "geom:longitude":45.74015,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Hasan Gurig",
+    "gn:country_code":"IQ",
+    "gn:dem":1368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95971,
+    "gn:latitude":35.69677,
+    "gn:longitude":45.74015,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28asan G\u016brig",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u0646 \u06af\u0648\u0631\u06af"
+    ],
+    "name:kur_x_preferred":[
+        "\u1e26esen Gurge"
+    ],
+    "name:kur_x_variant":[
+        "\u1e26esen Gurg",
+        "\u062d\u06d5\u0633\u06d5\u0646 \u06af\u0648\u0631\u06af\u06d5",
+        "\u062d\u06d5\u0633\u06d5\u0646 \u06af\u0648\u0631\u06af"
+    ],
+    "name:und_x_variant":[
+        "\u1e28asan G\u016brig",
+        "Hasan Gawruk",
+        "\u1e28asan K\u016brik",
+        "Hasan Gurga",
+        "\u062d\u0633\u0646 \u0643\u0648\u0631\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95971
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a3433bc61dac1983fb2e4f14d59a0ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1226669023,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1226669023,
+    "wof:lastmodified":1537638349,
+    "wof:name":"Hasan Gurig",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.74015,
+    35.69677,
+    45.74015,
+    35.69677
+],
+  "geometry": {"coordinates":[45.74015,35.69677],"type":"Point"}
+}

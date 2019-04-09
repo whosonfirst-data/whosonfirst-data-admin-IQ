@@ -1,0 +1,68 @@
+{
+  "id": 1327343207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09944,33.51444,44.09944,33.51444",
+    "geom:latitude":33.51444,
+    "geom:longitude":44.09944,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"Hajlash",
+    "gn:country_code":"IQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96211,
+    "gn:latitude":33.51444,
+    "gn:longitude":44.09944,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hajlash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96211
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f0e459bac4fa2afe1fa848110017769a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1327343207,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1327343207,
+    "wof:lastmodified":1536809111,
+    "wof:name":"Hajlash",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09944,
+    33.51444,
+    44.09944,
+    33.51444
+],
+  "geometry": {"coordinates":[44.09944,33.51444],"type":"Point"}
+}

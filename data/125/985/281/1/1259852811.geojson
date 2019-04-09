@@ -1,0 +1,74 @@
+{
+  "id": 1259852811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.50593,35.95717,41.50593,35.95717",
+    "geom:latitude":35.95717,
+    "geom:longitude":41.50593,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166608.0",
+    "gn:asciiname":"Al Hamdaniyah",
+    "gn:country_code":"IQ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019311,
+    "gn:latitude":35.95717,
+    "gn:longitude":41.50593,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28amd\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u062f\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28amd\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019311
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b04d4154067b019c44618a70b4e3db55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562639,
+            "locality_id":1259852811,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1259852811,
+    "wof:lastmodified":1537639914,
+    "wof:name":"Al Hamdaniyah",
+    "wof:parent_id":1108562639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.50593,
+    35.95717,
+    41.50593,
+    35.95717
+],
+  "geometry": {"coordinates":[41.50593,35.95717],"type":"Point"}
+}

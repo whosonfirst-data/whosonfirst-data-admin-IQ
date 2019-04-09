@@ -1,0 +1,82 @@
+{
+  "id": 1343743273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07225,36.26709,44.07225,36.26709",
+    "geom:latitude":36.26709,
+    "geom:longitude":44.07225,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Bayrzin",
+    "gn:country_code":"IQ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92745,
+    "gn:latitude":36.26709,
+    "gn:longitude":44.07225,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Bayrz\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u0632\u064a\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "P\u00earzin"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06ce\u0631\u0632\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ber Zin",
+        "P\u012brz\u012bn",
+        "Bayrz\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92745
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b4976d3ff8ca93597e7ea6e6d00d7ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":1343743273,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1343743273,
+    "wof:lastmodified":1537638077,
+    "wof:name":"Bayrzin",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07225,
+    36.26709,
+    44.07225,
+    36.26709
+],
+  "geometry": {"coordinates":[44.07225,36.26709],"type":"Point"}
+}

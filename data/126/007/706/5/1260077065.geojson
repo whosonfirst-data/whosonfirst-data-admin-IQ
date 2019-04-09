@@ -1,0 +1,71 @@
+{
+  "id": 1260077065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49,33.25139,44.49,33.25139",
+    "geom:latitude":33.25139,
+    "geom:longitude":44.49,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166668.0",
+    "gn:asciiname":"Qadawi",
+    "gn:country_code":"IQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92706,
+    "gn:latitude":33.25139,
+    "gn:longitude":44.49,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qadawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qa\u1e11\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92706
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4937fc3f5d34b3856f851b0d23ef4b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562785,
+            "locality_id":1260077065,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1260077065,
+    "wof:lastmodified":1537638072,
+    "wof:name":"Qadawi",
+    "wof:parent_id":1108562785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49,
+    33.25139,
+    44.49,
+    33.25139
+],
+  "geometry": {"coordinates":[44.49,33.25139],"type":"Point"}
+}

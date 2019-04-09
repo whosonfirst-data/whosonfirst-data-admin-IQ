@@ -1,0 +1,74 @@
+{
+  "id": 1226629811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.72159,31.85131,47.72159,31.85131",
+    "geom:latitude":31.85131,
+    "geom:longitude":47.72159,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"99610.0",
+    "gn:asciiname":"Salaf Fiyad al `Abd",
+    "gn:country_code":"IQ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7322588,
+    "gn:latitude":31.85131,
+    "gn:longitude":47.72159,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Salaf Fiy\u0101\u1e11 al \u2018Abd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0641 \u0641\u064a\u0627\u0636 \u0627\u0644\u0639\u0628\u062f"
+    ],
+    "name:und_x_variant":[
+        "Salaf Fiy\u0101\u1e11 al \u2018Abd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7322588
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ff9f2e1b59c48abccd17a4458768decd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562681,
+            "locality_id":1226629811,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1226629811,
+    "wof:lastmodified":1537639995,
+    "wof:name":"Salaf Fiyad al `Abd",
+    "wof:parent_id":1108562681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.72159,
+    31.85131,
+    47.72159,
+    31.85131
+],
+  "geometry": {"coordinates":[47.72159,31.85131],"type":"Point"}
+}

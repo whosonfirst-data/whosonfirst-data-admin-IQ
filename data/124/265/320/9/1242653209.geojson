@@ -1,0 +1,81 @@
+{
+  "id": 1242653209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37555,35.55285,43.37555,35.55285",
+    "geom:latitude":35.55285,
+    "geom:longitude":43.37555,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6804454.0",
+    "gn:asciiname":"Qaryat Sayhat 'Uthman",
+    "gn:country_code":"IQ",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804431,
+    "gn:latitude":35.55285,
+    "gn:longitude":43.37555,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Say\u1e29at \u2018Uthm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0633\u064a\u062d\u0629 \u0639\u062b\u0645\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Sb\u1e27e \u2018Usman"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u0628\u062d\u06d5 \u0639\u0648\u0633\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sbha Othman",
+        "Qaryat Say\u1e29at \u2018Uthm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804431
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7c40c4a85dd7d78dab1337c50e30f46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562645,
+            "locality_id":1242653209,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1242653209,
+    "wof:lastmodified":1537639555,
+    "wof:name":"Qaryat Sayhat 'Uthman",
+    "wof:parent_id":1108562645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37555,
+    35.55285,
+    43.37555,
+    35.55285
+],
+  "geometry": {"coordinates":[43.37555,35.55285],"type":"Point"}
+}

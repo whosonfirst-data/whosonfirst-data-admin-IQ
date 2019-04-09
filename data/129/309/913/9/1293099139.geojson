@@ -1,0 +1,71 @@
+{
+  "id": 1293099139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.56028,31.73417,44.56028,31.73417",
+    "geom:latitude":31.73417,
+    "geom:longitude":44.56028,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"98634.0",
+    "gn:asciiname":"Sadam",
+    "gn:country_code":"IQ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91822,
+    "gn:latitude":31.73417,
+    "gn:longitude":44.56028,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sad\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sad\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91822
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8e180acad6f44865c87fbfbe117860da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562699,
+            "locality_id":1293099139,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1293099139,
+    "wof:lastmodified":1537637993,
+    "wof:name":"Sadam",
+    "wof:parent_id":1108562699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.56028,
+    31.73417,
+    44.56028,
+    31.73417
+],
+  "geometry": {"coordinates":[44.56028,31.73417],"type":"Point"}
+}

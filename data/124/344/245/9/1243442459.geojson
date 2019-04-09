@@ -1,0 +1,77 @@
+{
+  "id": 1243442459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1644,36.90322,44.1644,36.90322",
+    "geom:latitude":36.90322,
+    "geom:longitude":44.1644,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166534.0",
+    "gn:asciiname":"Kolanok",
+    "gn:country_code":"IQ",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8663787,
+    "gn:latitude":36.90322,
+    "gn:longitude":44.1644,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Kolanok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Kolanok"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u06c6\u0644\u0627\u0646\u06c6\u0643"
+    ],
+    "name:und_x_variant":[
+        "Gulanok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8663787
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4ffebdf983ec1349ff282b1140892e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562747,
+            "locality_id":1243442459,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1243442459,
+    "wof:lastmodified":1537640094,
+    "wof:name":"Kolanok",
+    "wof:parent_id":1108562747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1644,
+    36.90322000000001,
+    44.1644,
+    36.90322000000001
+],
+  "geometry": {"coordinates":[44.1644,36.90322000000001],"type":"Point"}
+}

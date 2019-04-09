@@ -1,0 +1,76 @@
+{
+  "id": 1259462321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90519,35.37542,43.90519,35.37542",
+    "geom:latitude":35.37542,
+    "geom:longitude":43.90519,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"6770659.0",
+    "gn:asciiname":"Qaryat al Hawas",
+    "gn:country_code":"IQ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6770525,
+    "gn:latitude":35.37542,
+    "gn:longitude":43.90519,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat al \u1e28aw\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u062d\u0648\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "Umm Ka\u015f\u012br",
+        "\u0627\u0645 \u0643\u0635\u064a\u0631",
+        "Qaryat al \u1e28aw\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6770525
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5a520beae7dc18cc9d18718cfcd7b97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562743,
+            "locality_id":1259462321,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1259462321,
+    "wof:lastmodified":1537639262,
+    "wof:name":"Qaryat al Hawas",
+    "wof:parent_id":1108562743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90519000000001,
+    35.37542,
+    43.90519000000001,
+    35.37542
+],
+  "geometry": {"coordinates":[43.90519000000001,35.37542],"type":"Point"}
+}

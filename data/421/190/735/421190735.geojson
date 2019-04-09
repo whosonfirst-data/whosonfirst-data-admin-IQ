@@ -1,0 +1,75 @@
+{
+  "id": 421190735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.451698,36.37371,42.451698,36.37371",
+    "geom:latitude":36.37371,
+    "geom:longitude":42.451698,
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u062a\u0644\u0639\u0641\u0631",
+    "qs:name_adm0":"Iraq",
+    "qs:name_adm1":"Ninawa",
+    "qs:photos":28,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":28,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1120281,
+    "qs:woe_adm0":23424855,
+    "qs:woe_id":1978501,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1978501,
+        "qs:id":1120281
+    },
+    "wof:country":"IQ",
+    "wof:created":1459009667,
+    "wof:geomhash":"b091da75c7845d1dd8f85a6c5be2c653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":421190735,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":421190735,
+    "wof:lastmodified":1500012217,
+    "wof:name":"\u062a\u0644\u0639\u0641\u0631",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.451698,
+    36.37371,
+    42.451698,
+    36.37371
+],
+  "geometry": {"coordinates":[42.451698,36.37371],"type":"Point"}
+}

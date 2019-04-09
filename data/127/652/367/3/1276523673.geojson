@@ -1,0 +1,72 @@
+{
+  "id": 1276523673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23333,34.01667,44.23333,34.01667",
+    "geom:latitude":34.01667,
+    "geom:longitude":44.23333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"Qal'at 'Ali al Mahmud al Qadimah",
+    "gn:country_code":"IQ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92641,
+    "gn:latitude":34.01667,
+    "gn:longitude":44.23333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qal\u2018at \u2018Al\u012b al Ma\u1e29m\u016bd al Qad\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018at \u2018Ali al Mahmud al Qadima",
+        "Qal\u2018at \u2018Al\u012b al Ma\u1e29m\u016bd al Qad\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92641
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1e5b1b9d869b422da926ee9f2ce3067d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562773,
+            "locality_id":1276523673,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1276523673,
+    "wof:lastmodified":1537638066,
+    "wof:name":"Qal'at 'Ali al Mahmud al Qadimah",
+    "wof:parent_id":1108562773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23333,
+    34.01667,
+    44.23333,
+    34.01667
+],
+  "geometry": {"coordinates":[44.23333,34.01667],"type":"Point"}
+}

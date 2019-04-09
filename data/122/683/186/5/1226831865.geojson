@@ -1,0 +1,84 @@
+{
+  "id": 1226831865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36661,36.75677,43.36661,36.75677",
+    "geom:latitude":36.75677,
+    "geom:longitude":43.36661,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98612.0",
+    "gn:asciiname":"Afrifah",
+    "gn:country_code":"IQ",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":445471,
+    "gn:latitude":36.75677,
+    "gn:longitude":43.36661,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Afr\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0672\u0641\u0631\u064a\u0641\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Evr\u00eeve"
+    ],
+    "name:kur_x_variant":[
+        "\u0626\u06d5\u06a4\u0631\u064a\u06a4\u06d5",
+        "Afr\u00eeva",
+        "\u0626\u0627\u0641\u0631\u064a\u06a4\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0100vr\u012bva",
+        "Avriva",
+        "Afr\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421172365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445471
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"113d4ce2a7e5bb1f3492c4f9732c70c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172365,
+            "locality_id":1226831865,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1226831865,
+    "wof:lastmodified":1537638891,
+    "wof:name":"Afrifah",
+    "wof:parent_id":421172365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36661,
+    36.75677,
+    43.36661,
+    36.75677
+],
+  "geometry": {"coordinates":[43.36661,36.75677],"type":"Point"}
+}

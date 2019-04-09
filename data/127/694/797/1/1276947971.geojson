@@ -1,0 +1,74 @@
+{
+  "id": 1276947971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.30318,35.9858,42.30318,35.9858",
+    "geom:latitude":35.9858,
+    "geom:longitude":42.30318,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Abu al Haff",
+    "gn:country_code":"IQ",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6778411,
+    "gn:latitude":35.9858,
+    "gn:longitude":42.30318,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ab\u016b al \u1e28\u0101ff",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u0627\u0644\u062d\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b al \u1e28\u0101ff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6778411
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b9e2585dd119e26d2b0d94b84d45c9ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1276947971,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1276947971,
+    "wof:lastmodified":1537639286,
+    "wof:name":"Abu al Haff",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.30318,
+    35.9858,
+    42.30318,
+    35.9858
+],
+  "geometry": {"coordinates":[42.30318,35.9858],"type":"Point"}
+}

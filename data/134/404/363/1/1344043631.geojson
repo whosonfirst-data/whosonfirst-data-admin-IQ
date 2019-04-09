@@ -1,0 +1,75 @@
+{
+  "id": 1344043631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6575,35.09053,43.6575,35.09053",
+    "geom:latitude":35.09053,
+    "geom:longitude":43.6575,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"6770659.0",
+    "gn:asciiname":"Yunus Hasan",
+    "gn:country_code":"IQ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6770268,
+    "gn:latitude":35.09053,
+    "gn:longitude":43.6575,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Y\u016bnus \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0648\u0646\u0633 \u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "Y\u016bnis \u1e28asan",
+        "Y\u016bnus \u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6770268
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"644c7ab625f2faa9f638bdb052c004c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562743,
+            "locality_id":1344043631,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1344043631,
+    "wof:lastmodified":1537639248,
+    "wof:name":"Yunus Hasan",
+    "wof:parent_id":1108562743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6575,
+    35.09053,
+    43.6575,
+    35.09053
+],
+  "geometry": {"coordinates":[43.6575,35.09053],"type":"Point"}
+}

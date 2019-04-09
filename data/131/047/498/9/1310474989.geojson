@@ -1,0 +1,74 @@
+{
+  "id": 1310474989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.80574,36.11312,42.80574,36.11312",
+    "geom:latitude":36.11312,
+    "geom:longitude":42.80574,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166649.0",
+    "gn:asciiname":"Tall Shihab",
+    "gn:country_code":"IQ",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384845,
+    "gn:latitude":36.11312,
+    "gn:longitude":42.80574,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Tall Shih\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0634\u0647\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Tall Shih\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384845
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"edf25f769404b2f4bbb027795c36c6b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562633,
+            "locality_id":1310474989,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1310474989,
+    "wof:lastmodified":1537638758,
+    "wof:name":"Tall Shihab",
+    "wof:parent_id":1108562633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.80574,
+    36.11312,
+    42.80574,
+    36.11312
+],
+  "geometry": {"coordinates":[42.80574,36.11312],"type":"Point"}
+}

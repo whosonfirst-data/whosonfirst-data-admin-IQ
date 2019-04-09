@@ -1,0 +1,74 @@
+{
+  "id": 1242838003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33538,31.92219,44.33538,31.92219",
+    "geom:latitude":31.92219,
+    "geom:longitude":44.33538,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166552.0",
+    "gn:asciiname":"Ghazalat",
+    "gn:country_code":"IQ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6779477,
+    "gn:latitude":31.92219,
+    "gn:longitude":44.33538,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ghaz\u0101l\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u063a\u0632\u0627\u0644\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ghaz\u0101l\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6779477
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7f42f3e519d587de820771db04ed7f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562693,
+            "locality_id":1242838003,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1242838003,
+    "wof:lastmodified":1537639292,
+    "wof:name":"Ghazalat",
+    "wof:parent_id":1108562693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33538,
+    31.92219,
+    44.33538,
+    31.92219
+],
+  "geometry": {"coordinates":[44.33538,31.92219],"type":"Point"}
+}

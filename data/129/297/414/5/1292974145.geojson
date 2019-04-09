@@ -1,0 +1,74 @@
+{
+  "id": 1292974145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51799,36.48029,43.51799,36.48029",
+    "geom:latitude":36.48029,
+    "geom:longitude":43.51799,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166541.0",
+    "gn:asciiname":"Qeymawa Mendan",
+    "gn:country_code":"IQ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9097436,
+    "gn:latitude":36.48029,
+    "gn:longitude":43.51799,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qeymawa Mendan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Qeymawa Mendan"
+    ],
+    "name:kur_x_variant":[
+        "\u0642\u06d5\u064a\u0645\u0627\u0648\u0627 \u0645\u06d5\u0646\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9097436
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d1e22708d4d591ea77472b519a7a6ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562631,
+            "locality_id":1292974145,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1292974145,
+    "wof:lastmodified":1537640106,
+    "wof:name":"Qeymawa Mendan",
+    "wof:parent_id":1108562631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51799000000001,
+    36.48029,
+    43.51799000000001,
+    36.48029
+],
+  "geometry": {"coordinates":[43.51799000000001,36.48029],"type":"Point"}
+}

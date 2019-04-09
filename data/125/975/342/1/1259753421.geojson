@@ -1,0 +1,74 @@
+{
+  "id": 1259753421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.04437,36.40221,43.04437,36.40221",
+    "geom:latitude":36.40221,
+    "geom:longitude":43.04437,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166618.0",
+    "gn:asciiname":"Qaryat Jarf al Milh",
+    "gn:country_code":"IQ",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6860624,
+    "gn:latitude":36.40221,
+    "gn:longitude":43.04437,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Qaryat Jarf al Mil\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u062c\u0631\u0641 \u0627\u0644\u0645\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Jarf al Mil\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6860624
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"28f0d04071172ace514e88fc1f4a7266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562629,
+            "locality_id":1259753421,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1259753421,
+    "wof:lastmodified":1537639766,
+    "wof:name":"Qaryat Jarf al Milh",
+    "wof:parent_id":1108562629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.04437,
+    36.40221,
+    43.04437,
+    36.40221
+],
+  "geometry": {"coordinates":[43.04437,36.40221],"type":"Point"}
+}

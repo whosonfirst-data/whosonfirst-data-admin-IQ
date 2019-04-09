@@ -1,0 +1,74 @@
+{
+  "id": 1310296939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.47357,33.11095,44.47357,33.11095",
+    "geom:latitude":33.11095,
+    "geom:longitude":44.47357,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Karji Sahab",
+    "gn:country_code":"IQ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6927960,
+    "gn:latitude":33.11095,
+    "gn:longitude":44.47357,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Karj\u012b Sa\u1e29\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062c\u064a \u0633\u062d\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Karj\u012b Sa\u1e29\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6927960
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2d6a9a0d224e6304e191c1a83ff99a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1310296939,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1310296939,
+    "wof:lastmodified":1537639858,
+    "wof:name":"Karji Sahab",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.47357,
+    33.11095,
+    44.47357,
+    33.11095
+],
+  "geometry": {"coordinates":[44.47357,33.11095],"type":"Point"}
+}

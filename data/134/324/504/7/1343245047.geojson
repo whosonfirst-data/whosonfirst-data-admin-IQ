@@ -1,0 +1,76 @@
+{
+  "id": 1343245047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.34932,36.03515,43.34932,36.03515",
+    "geom:latitude":36.03515,
+    "geom:longitude":43.34932,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166541.0",
+    "gn:asciiname":"Qaryat Sab'at 'Ashar Tammuz",
+    "gn:country_code":"IQ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6860734,
+    "gn:latitude":36.03515,
+    "gn:longitude":43.34932,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Sab\u2018at \u2018Ashar Tamm\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u06f1\u06f7 \u062a\u0645\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015ean\u012bd\u012bj",
+        "\u0627\u0644\u0635\u0646\u064a\u062f\u064a\u062c",
+        "Qaryat Sab\u2018at \u2018Ashar Tamm\u016bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6860734
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fab9f312392eb5f1d4179507b79943ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562631,
+            "locality_id":1343245047,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1343245047,
+    "wof:lastmodified":1537639768,
+    "wof:name":"Qaryat Sab'at 'Ashar Tammuz",
+    "wof:parent_id":1108562631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.34932,
+    36.03515,
+    43.34932,
+    36.03515
+],
+  "geometry": {"coordinates":[43.34932,36.03515],"type":"Point"}
+}

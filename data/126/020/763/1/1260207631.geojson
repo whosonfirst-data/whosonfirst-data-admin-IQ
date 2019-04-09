@@ -1,0 +1,71 @@
+{
+  "id": 1260207631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58426,31.72027,44.58426,31.72027",
+    "geom:latitude":31.72027,
+    "geom:longitude":44.58426,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"98634.0",
+    "gn:asciiname":"Juwayjah",
+    "gn:country_code":"IQ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6850705,
+    "gn:latitude":31.72027,
+    "gn:longitude":44.58426,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Juwayjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u064a\u062c\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6850705
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b134ed55b87196bf72f9c02cbdeeb777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562699,
+            "locality_id":1260207631,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1260207631,
+    "wof:lastmodified":1537639758,
+    "wof:name":"Juwayjah",
+    "wof:parent_id":1108562699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58426,
+    31.72027000000001,
+    44.58426,
+    31.72027000000001
+],
+  "geometry": {"coordinates":[44.58426,31.72027000000001],"type":"Point"}
+}

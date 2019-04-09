@@ -1,0 +1,82 @@
+{
+  "id": 1293472799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25485,36.76655,43.25485,36.76655",
+    "geom:latitude":36.76655,
+    "geom:longitude":43.25485,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98612.0",
+    "gn:asciiname":"Dayrki",
+    "gn:country_code":"IQ",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445473,
+    "gn:latitude":36.76655,
+    "gn:longitude":43.25485,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Dayrk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631\u0643\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "D\u00eark\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u06ce\u0631\u0643\u0649"
+    ],
+    "name:und_x_variant":[
+        "Dirky",
+        "D\u0113rk\u012b",
+        "Dayrk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421172365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445473
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ca4a69a3422b5e46b6f5b5c9cf0c2d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172365,
+            "locality_id":1293472799,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1293472799,
+    "wof:lastmodified":1537638892,
+    "wof:name":"Dayrki",
+    "wof:parent_id":421172365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25485,
+    36.76655,
+    43.25485,
+    36.76655
+],
+  "geometry": {"coordinates":[43.25485,36.76655],"type":"Point"}
+}

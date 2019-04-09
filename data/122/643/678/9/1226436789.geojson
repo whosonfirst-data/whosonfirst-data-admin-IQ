@@ -1,0 +1,74 @@
+{
+  "id": 1226436789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.32187,33.58621,44.32187,33.58621",
+    "geom:latitude":33.58621,
+    "geom:longitude":44.32187,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166569.0",
+    "gn:asciiname":"Rashid al Ghantus",
+    "gn:country_code":"IQ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805668,
+    "gn:latitude":33.58621,
+    "gn:longitude":44.32187,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rash\u012bd al Ghan\u0163\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0634\u064a\u062f \u0627\u0644\u063a\u0646\u0637\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Rash\u012bd al Ghan\u0163\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805668
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f11808e461921fe16b359db4b10b90e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562665,
+            "locality_id":1226436789,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1226436789,
+    "wof:lastmodified":1537639586,
+    "wof:name":"Rashid al Ghantus",
+    "wof:parent_id":1108562665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.32187,
+    33.58620999999999,
+    44.32187,
+    33.58620999999999
+],
+  "geometry": {"coordinates":[44.32187,33.58620999999999],"type":"Point"}
+}

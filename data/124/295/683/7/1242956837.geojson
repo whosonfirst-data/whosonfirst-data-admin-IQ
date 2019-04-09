@@ -1,0 +1,74 @@
+{
+  "id": 1242956837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.10536,33.61742,45.10536,33.61742",
+    "geom:latitude":33.61742,
+    "geom:longitude":45.10536,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"'Abd ar Rida Muhammad",
+    "gn:country_code":"IQ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6835629,
+    "gn:latitude":33.61742,
+    "gn:longitude":45.10536,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abd ar Ri\u1e11\u0101 Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f \u0627\u0644\u0631\u0636\u0627 \u0645\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abd ar Ri\u1e11\u0101 Mu\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6835629
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b3730be9423cbacd70da990ed0377ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1242956837,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1242956837,
+    "wof:lastmodified":1537639687,
+    "wof:name":"'Abd ar Rida Muhammad",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.10536,
+    33.61742,
+    45.10536,
+    33.61742
+],
+  "geometry": {"coordinates":[45.10536,33.61742],"type":"Point"}
+}

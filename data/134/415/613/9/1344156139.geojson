@@ -1,0 +1,84 @@
+{
+  "id": 1344156139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.00399,35.16483,45.00399,35.16483",
+    "geom:latitude":35.16483,
+    "geom:longitude":45.00399,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Binakah",
+    "gn:country_code":"IQ",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":383983,
+    "gn:latitude":35.16483,
+    "gn:longitude":45.00399,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Binakah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0628\u0643\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Bnkey Ker\u00eem Agha"
+    ],
+    "name:kur_x_variant":[
+        "Banke",
+        "\u0628\u0646\u0643\u06d5\u0649 \u0643\u06d5\u0631\u064a\u0645 \u0626\u0627\u063a\u0627",
+        "\u0628\u0627\u0646\u0643\u06d5"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0646\u0643\u0647",
+        "Nibakah",
+        "Bnakai Karim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383983
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e9d3a393e0fefd6687f9f1e6e392bbc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1344156139,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1344156139,
+    "wof:lastmodified":1537638742,
+    "wof:name":"Binakah",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.00399,
+    35.16483,
+    45.00399,
+    35.16483
+],
+  "geometry": {"coordinates":[45.00399,35.16483],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276650449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.67799,34.25452,44.67799,34.25452",
+    "geom:latitude":34.25452,
+    "geom:longitude":44.67799,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94296.0",
+    "gn:asciiname":"Qaryat Abu Halij",
+    "gn:country_code":"IQ",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759324,
+    "gn:latitude":34.25452,
+    "gn:longitude":44.67799,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Qaryat Ab\u016b \u1e28al\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0628\u0648 \u062d\u0644\u064a\u062c"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Ab\u016b \u1e28al\u012bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759324
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c7c1ac6b7d2598d85d84e44aedcaa6b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562653,
+            "locality_id":1276650449,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1276650449,
+    "wof:lastmodified":1537639213,
+    "wof:name":"Qaryat Abu Halij",
+    "wof:parent_id":1108562653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.67799,
+    34.25452,
+    44.67799,
+    34.25452
+],
+  "geometry": {"coordinates":[44.67799,34.25452],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310574293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.81703,36.14928,41.81703,36.14928",
+    "geom:latitude":36.14928,
+    "geom:longitude":41.81703,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Kharab Bazar",
+    "gn:country_code":"IQ",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7047096,
+    "gn:latitude":36.14928,
+    "gn:longitude":41.81703,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Khar\u0101b B\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628 \u0628\u0627\u0632\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101b B\u0101z\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7047096
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"026a73464755d34a7d19f8cfaa89df8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1310574293,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1310574293,
+    "wof:lastmodified":1537639974,
+    "wof:name":"Kharab Bazar",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.81703,
+    36.14928,
+    41.81703,
+    36.14928
+],
+  "geometry": {"coordinates":[41.81703,36.14928],"type":"Point"}
+}

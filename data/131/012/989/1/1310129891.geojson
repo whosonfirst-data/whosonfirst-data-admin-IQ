@@ -1,0 +1,73 @@
+{
+  "id": 1310129891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.17444,32.01083,45.17444,32.01083",
+    "geom:latitude":32.01083,
+    "geom:longitude":45.17444,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99737.0",
+    "gn:asciiname":"Jabbar Al Hajuj",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95372,
+    "gn:latitude":32.01083,
+    "gn:longitude":45.17444,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jabb\u0101r \u0100l Haj\u016bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u015f\u1e29ab al \u1e28\u0101j\u016bj",
+        "Jabb\u0101r \u0100l Haj\u016bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95372
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"263a94dd8e84b97c8c890aebe40391e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562687,
+            "locality_id":1310129891,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1310129891,
+    "wof:lastmodified":1537638310,
+    "wof:name":"Jabbar Al Hajuj",
+    "wof:parent_id":1108562687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.17444,
+    32.01083,
+    45.17444,
+    32.01083
+],
+  "geometry": {"coordinates":[45.17444,32.01083],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209025217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.37333,31.05444,46.37333,31.05444",
+    "geom:latitude":31.05444,
+    "geom:longitude":46.37333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"90509.0",
+    "gn:asciiname":"Ya'qub",
+    "gn:country_code":"IQ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89633,
+    "gn:latitude":31.05444,
+    "gn:longitude":46.37333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ya\u2018q\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ya\u2018q\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89633
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"33499a116be26b546b627025a7cd4629",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209025217
+        }
+    ],
+    "wof:id":1209025217,
+    "wof:lastmodified":1537637797,
+    "wof:name":"Ya'qub",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.37333,
+    31.05444,
+    46.37333,
+    31.05444
+],
+  "geometry": {"coordinates":[46.37333,31.05444],"type":"Point"}
+}

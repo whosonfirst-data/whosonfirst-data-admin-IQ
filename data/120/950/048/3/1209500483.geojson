@@ -1,0 +1,76 @@
+{
+  "id": 1209500483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.19526,36.8602,43.19526,36.8602",
+    "geom:latitude":36.8602,
+    "geom:longitude":43.19526,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"97269.0",
+    "gn:asciiname":"Baydah",
+    "gn:country_code":"IQ",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445768,
+    "gn:latitude":36.8602,
+    "gn:longitude":43.19526,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Baydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062f\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "P\u00eade"
+    ],
+    "name:kur_x_variant":[
+        "\u067e\u06ce\u062f\u06d5"
+    ],
+    "name:und_x_variant":[
+        "P\u0113da",
+        "Baydah",
+        "Peda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445768
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"03419f2cb769f00ab4f8bfc279958252",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209500483
+        }
+    ],
+    "wof:id":1209500483,
+    "wof:lastmodified":1537638926,
+    "wof:name":"Baydah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.19526,
+    36.8602,
+    43.19526,
+    36.8602
+],
+  "geometry": {"coordinates":[43.19526,36.8602],"type":"Point"}
+}

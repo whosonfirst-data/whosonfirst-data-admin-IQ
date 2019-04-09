@@ -1,0 +1,68 @@
+{
+  "id": 1209498655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.38602,31.75586,47.38602,31.75586",
+    "geom:latitude":31.75586,
+    "geom:longitude":47.38602,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9166557.0",
+    "gn:asciiname":"Al Hajamah",
+    "gn:country_code":"IQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819045,
+    "gn:latitude":31.75586,
+    "gn:longitude":47.38602,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28aj\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062c\u0627\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28aj\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819045
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"14694d4b9ccfe8317edf97e9ce077009",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209498655
+        }
+    ],
+    "wof:id":1209498655,
+    "wof:lastmodified":1537639665,
+    "wof:name":"Al Hajamah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.38602,
+    31.75586,
+    47.38602,
+    31.75586
+],
+  "geometry": {"coordinates":[47.38602,31.75586],"type":"Point"}
+}

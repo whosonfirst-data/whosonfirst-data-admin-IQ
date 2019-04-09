@@ -1,0 +1,72 @@
+{
+  "id": 1293064769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43333,32.15,44.43333,32.15",
+    "geom:latitude":32.15,
+    "geom:longitude":44.43333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166629.0",
+    "gn:asciiname":"Qal'at 'Abd ar Razzaq Marjan",
+    "gn:country_code":"IQ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":92655,
+    "gn:latitude":32.15,
+    "gn:longitude":44.43333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qal\u2018at \u2018Abd ar Razz\u0101q Marj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Qal\u2018a \u2018Abdul Raz\u0101q Mirj\u0101n",
+        "Qal\u2018at \u2018Abd ar Razz\u0101q Marj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92655
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0453831d5b5ec1228580321e6b6750f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562691,
+            "locality_id":1293064769,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1293064769,
+    "wof:lastmodified":1537638067,
+    "wof:name":"Qal'at 'Abd ar Razzaq Marjan",
+    "wof:parent_id":1108562691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43333,
+    32.15,
+    44.43333,
+    32.15
+],
+  "geometry": {"coordinates":[44.43333,32.15],"type":"Point"}
+}

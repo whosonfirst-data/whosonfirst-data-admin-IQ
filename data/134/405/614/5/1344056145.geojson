@@ -1,0 +1,80 @@
+{
+  "id": 1344056145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.7069,35.34536,45.7069,35.34536",
+    "geom:latitude":35.34536,
+    "geom:longitude":45.7069,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Qazaw al 'Ulya",
+    "gn:country_code":"IQ",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92244,
+    "gn:latitude":35.34536,
+    "gn:longitude":45.7069,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Q\u0101zaw al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0632\u0648 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Qazaw\u00ee Ser\u00fb"
+    ],
+    "name:kur_x_variant":[
+        "\u0642\u0627\u0632\u0627\u0648\u0649 \u0633\u06d5\u0631\u0648\u0648"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101zaw al \u2018Uly\u0101",
+        "Q\u0101z\u0101w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92244
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"23f4c6cd8fe6bbcda1d1a1b012de71ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1344056145,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1344056145,
+    "wof:lastmodified":1537638027,
+    "wof:name":"Qazaw al 'Ulya",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.7069,
+    35.34536,
+    45.7069,
+    35.34536
+],
+  "geometry": {"coordinates":[45.7069,35.34536],"type":"Point"}
+}

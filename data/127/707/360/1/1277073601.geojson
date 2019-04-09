@@ -1,0 +1,87 @@
+{
+  "id": 1277073601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.32327,35.58429,45.32327,35.58429",
+    "geom:latitude":35.58429,
+    "geom:longitude":45.32327,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Bawah Mirdah al 'Ulya",
+    "gn:country_code":"IQ",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":417106,
+    "gn:latitude":35.58429,
+    "gn:longitude":45.32327,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u0101wah Mirdah al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0648\u0629 \u0645\u0631\u062f\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Bawe Mrdey Ser\u00fb"
+    ],
+    "name:kur_x_variant":[
+        "Bawe M\u00eard\u00ee Ser\u00fb",
+        "\u0628\u0627\u0648\u06d5 \u0645\u0631\u062f\u06d5\u0649 \u0633\u06d5\u0631\u0648\u0648",
+        "\u0628\u0627\u0648\u06d5 \u0645\u06ce\u0631\u062f\u0649 \u0633\u06d5\u0631\u0648\u0648"
+    ],
+    "name:und_x_variant":[
+        "B\u0101wamirda-i Sar\u016b",
+        "B\u0101wah Mirdah al \u2018Uly\u0101",
+        "B\u0101wa Mirdah",
+        "Bawa Mrda",
+        "B\u0101wah Mirdah",
+        "\u0628\u0627\u0648\u0629 \u0645\u0631\u062f\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":417106
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"982825a9231d4e2dc15e8e51fb8e77af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1277073601,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1277073601,
+    "wof:lastmodified":1537638856,
+    "wof:name":"Bawah Mirdah al 'Ulya",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.32327,
+    35.58429,
+    45.32327,
+    35.58429
+],
+  "geometry": {"coordinates":[45.32327,35.58429],"type":"Point"}
+}

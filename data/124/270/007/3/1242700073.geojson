@@ -1,0 +1,86 @@
+{
+  "id": 1242700073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.13034,37.20084,43.13034,37.20084",
+    "geom:latitude":37.20084,
+    "geom:longitude":43.13034,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"89569.0",
+    "gn:asciiname":"Gurkah",
+    "gn:country_code":"IQ",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94104,
+    "gn:latitude":37.20084,
+    "gn:longitude":43.13034,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Gurkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u06af\u0631\u0643\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Girge"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u0631\u06af\u06d5",
+        "Kurka",
+        "\u0643\u0648\u0631\u0643\u0627"
+    ],
+    "name:und_x_variant":[
+        "G\u0101rku",
+        "Girga",
+        "K\u016brkah",
+        "G\u014drka",
+        "Gurkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        890445289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94104
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7401aaef3748b27f7887aa0a1a918127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445289,
+            "locality_id":1242700073,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1242700073,
+    "wof:lastmodified":1537638191,
+    "wof:name":"Gurkah",
+    "wof:parent_id":890445289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.13034,
+    37.20084,
+    43.13034,
+    37.20084
+],
+  "geometry": {"coordinates":[43.13034,37.20084],"type":"Point"}
+}

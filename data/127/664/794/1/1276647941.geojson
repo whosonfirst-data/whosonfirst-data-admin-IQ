@@ -1,0 +1,76 @@
+{
+  "id": 1276647941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0256,33.2479,44.0256,33.2479",
+    "geom:latitude":33.2479,
+    "geom:longitude":44.0256,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166542.0",
+    "gn:asciiname":"Az Zaydan",
+    "gn:country_code":"IQ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98254,
+    "gn:latitude":33.2479,
+    "gn:longitude":44.0256,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Az Zayd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u064a\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zaid\u0101n",
+        "Zaydan",
+        "Az Zayd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421184257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98254
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"05742166e6c4a748aa843c37b4f158a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184257,
+            "locality_id":1276647941,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1276647941,
+    "wof:lastmodified":1537638592,
+    "wof:name":"Az Zaydan",
+    "wof:parent_id":421184257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0256,
+    33.2479,
+    44.0256,
+    33.2479
+],
+  "geometry": {"coordinates":[44.0256,33.2479],"type":"Point"}
+}

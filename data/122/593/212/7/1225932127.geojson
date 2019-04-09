@@ -1,0 +1,86 @@
+{
+  "id": 1225932127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.97999,36.70871,44.97999,36.70871",
+    "geom:latitude":36.70871,
+    "geom:longitude":44.97999,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166586.0",
+    "gn:asciiname":"Alane",
+    "gn:country_code":"IQ",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99122,
+    "gn:latitude":36.70871,
+    "gn:longitude":44.97999,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Alane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Alane"
+    ],
+    "name:kur_x_variant":[
+        "\u0626\u0627\u0644\u0627\u0646\u06d5",
+        "Alan",
+        "\u0626\u0627\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al\u0101na",
+        "Al\u0101nah",
+        "All\u0101nah",
+        "Alana",
+        "ALAN"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99122
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"33bd4960c7b4e1aa1ad2f3678f1d6c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562749,
+            "locality_id":1225932127,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1225932127,
+    "wof:lastmodified":1537638653,
+    "wof:name":"Alane",
+    "wof:parent_id":1108562749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.97999,
+    36.70871,
+    44.97999,
+    36.70871
+],
+  "geometry": {"coordinates":[44.97999,36.70871],"type":"Point"}
+}

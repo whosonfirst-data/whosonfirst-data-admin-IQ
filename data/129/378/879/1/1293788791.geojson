@@ -1,0 +1,68 @@
+{
+  "id": 1293788791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.09738,36.24606,45.09738,36.24606",
+    "geom:latitude":36.24606,
+    "geom:longitude":45.09738,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Qrzhala Bra",
+    "gn:country_code":"IQ",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8429857,
+    "gn:latitude":36.24606,
+    "gn:longitude":45.09738,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qrzhala Bra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8429857
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6211012b6e71922b14eea8a31f0d4e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1293788791,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1293788791,
+    "wof:lastmodified":1536848625,
+    "wof:name":"Qrzhala Bra",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.09738,
+    36.24606,
+    45.09738,
+    36.24606
+],
+  "geometry": {"coordinates":[45.09738,36.24606],"type":"Point"}
+}

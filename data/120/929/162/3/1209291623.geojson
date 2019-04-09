@@ -1,0 +1,69 @@
+{
+  "id": 1209291623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22786,32.46717,44.22786,32.46717",
+    "geom:latitude":32.46717,
+    "geom:longitude":44.22786,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"99345.0",
+    "gn:asciiname":"Qaryat at Tarfayah",
+    "gn:country_code":"IQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448371,
+    "gn:latitude":32.46717,
+    "gn:longitude":44.22786,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat a\u0163 \u0162arf\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0637\u0631 \u0641\u0627\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162arf\u0101yah",
+        "Qaryat a\u0163 \u0162arf\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448371
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a02fa74555bf45407458b23ba90cce14",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209291623
+        }
+    ],
+    "wof:id":1209291623,
+    "wof:lastmodified":1537639064,
+    "wof:name":"Qaryat at Tarfayah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22786,
+    32.46717,
+    44.22786,
+    32.46717
+],
+  "geometry": {"coordinates":[44.22786,32.46717],"type":"Point"}
+}

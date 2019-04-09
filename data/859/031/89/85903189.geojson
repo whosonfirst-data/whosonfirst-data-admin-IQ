@@ -1,0 +1,114 @@
+{
+  "id": 85903189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8768450.484487,
+    "geom:bbox":"44.424193,33.319942,44.424193,33.319942",
+    "geom:latitude":33.319942,
+    "geom:longitude":44.424193,
+    "gn:latitude":33.80979,
+    "gn:longitude":44.61595,
+    "iso:country":"IQ",
+    "lbl:latitude":33.319942,
+    "lbl:longitude":44.424193,
+    "mps:latitude":33.309881,
+    "mps:longitude":44.420098,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_colloquial":[
+        "Ar Rasafah"
+    ],
+    "name:ara_x_preferred":[
+        "Ar Ra\u015f\u0101fah"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0641\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Ar Rakkah",
+        "Ar Ra\u015f\u0101fah"
+    ],
+    "qs:gn_adm0_cc":"IQ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":98182,
+    "qs:gn_nam_loc":"\u0628\u063a\u062f\u0627\u062f, \u0628\u063a\u062f\u0627\u062f, \u0628\u063a\u062f\u0627\u062f, IQ",
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"Ar Raffah",
+    "qs:local_max":603,
+    "qs:local_sum":1151,
+    "qs:localhoods":15,
+    "qs:name":"Ar Ra\u015f\u0101fah",
+    "qs:name_adm0":"Iraq",
+    "qs:name_adm1":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:name_adm2":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:name_local":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:photo_max":20,
+    "qs:photo_sum":31,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424855,
+    "qs:woe_adm1":2345839,
+    "qs:woe_adm2":55999983,
+    "qs:woe_lau":0,
+    "qs:woe_local":1979455,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108562785,
+        85672447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92634,
+        "gp:id":1971519,
+        "qs:id":988706
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d759215d9c98539ad8b71306c297d65d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562785,
+            "locality_id":-1,
+            "neighbourhood_id":85903189,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":85903189,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936033,
+    "wof:name":"Ar Ra\u015f\u0101fah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.424193,
+    33.319942,
+    44.424193,
+    33.319942
+],
+  "geometry": {"coordinates":[44.424193,33.319942],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259691411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.44158,31.29355,45.44158,31.29355",
+    "geom:latitude":31.29355,
+    "geom:longitude":45.44158,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"98532.0",
+    "gn:asciiname":"Al Ghanamiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99145,
+    "gn:latitude":31.29355,
+    "gn:longitude":45.44158,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ghan\u0101m\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0646\u0627\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khunainiya",
+        "Al Khan\u012bn\u012bya",
+        "Khunayn\u012byah",
+        "Al Khunain\u012bya",
+        "Al Khunayn\u012byah",
+        "Al Ghan\u0101m\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        421205333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99145
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"956e899b7ed5ac7d6d647144a7c7f512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421205333,
+            "locality_id":1259691411,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1259691411,
+    "wof:lastmodified":1537638657,
+    "wof:name":"Al Ghanamiyah",
+    "wof:parent_id":421205333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.44158,
+    31.29355,
+    45.44158,
+    31.29355
+],
+  "geometry": {"coordinates":[45.44158,31.29355],"type":"Point"}
+}

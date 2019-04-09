@@ -1,0 +1,80 @@
+{
+  "id": 1293179217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47431,35.78431,43.47431,35.78431",
+    "geom:latitude":35.78431,
+    "geom:longitude":43.47431,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"93817.0",
+    "gn:asciiname":"Du Karkan Hajji Husayn",
+    "gn:country_code":"IQ",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804309,
+    "gn:latitude":35.78431,
+    "gn:longitude":43.47431,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"D\u016b Kark\u0101n \u1e28\u0101jj\u012b \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648 \u0643\u0631\u0643\u0627\u0646 \u062d\u0627\u062c\u064a \u062d\u0633\u064a\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Dugrkan"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u0648\u06af\u0631\u0643\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "D\u016b Kark\u0101n \u1e28\u0101jj\u012b \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804309
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4301f8217aab279f47302710643677e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562779,
+            "locality_id":1293179217,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1293179217,
+    "wof:lastmodified":1537639547,
+    "wof:name":"Du Karkan Hajji Husayn",
+    "wof:parent_id":1108562779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47431,
+    35.78431,
+    43.47431,
+    35.78431
+],
+  "geometry": {"coordinates":[43.47431,35.78431],"type":"Point"}
+}

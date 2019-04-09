@@ -1,0 +1,92 @@
+{
+  "id": 1343659659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22141,37.08952,43.22141,37.08952",
+    "geom:latitude":37.08952,
+    "geom:longitude":43.22141,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Dawidye",
+    "gn:country_code":"IQ",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97114,
+    "gn:latitude":37.08952,
+    "gn:longitude":43.22141,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Dawidy\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0648\u062f\u064a\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Dawidye"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u0627\u0648\u062f\u064a\u06d5",
+        "Dawidy\u00ea",
+        "\u062f\u0627\u0648\u062f\u064a\u06ce",
+        "Gunda Dawdiye",
+        "\u06af\u0648\u0646\u062f\u0627 \u062f\u0627\u0648\u062f\u064a\u06d5",
+        "Gunda Dawidye"
+    ],
+    "name:und_x_variant":[
+        "D\u0101\u016bd\u012bya",
+        "Daudia",
+        "Dawdia",
+        "D\u0101\u2019\u016bd\u012byah",
+        "D\u0101w\u016bd\u012byah",
+        "Dawudye",
+        "Dawoodia",
+        "D\u0101wud\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97114
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"14ecbafc682facd143d9427b07036198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1343659659,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1343659659,
+    "wof:lastmodified":1537638460,
+    "wof:name":"Dawidye",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22141,
+    37.08952,
+    43.22141,
+    37.08952
+],
+  "geometry": {"coordinates":[43.22141,37.08952],"type":"Point"}
+}

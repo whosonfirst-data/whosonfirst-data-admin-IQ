@@ -1,0 +1,74 @@
+{
+  "id": 1293176851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83333,34.25,43.83333,34.25",
+    "geom:latitude":34.25,
+    "geom:longitude":43.83333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"91594.0",
+    "gn:asciiname":"Husayn Ibn Nasir",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95676,
+    "gn:latitude":34.25,
+    "gn:longitude":43.83333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28usayn Ibn N\u0101\u015fir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Husain ibn Masir",
+        "Hasan Ibn Nasir",
+        "\u1e28usayn Ibn N\u0101\u015fir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95676
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9ff49cd45dcb1ef3f0bc8f315cc7bb1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562799,
+            "locality_id":1293176851,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1293176851,
+    "wof:lastmodified":1537638325,
+    "wof:name":"Husayn Ibn Nasir",
+    "wof:parent_id":1108562799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83333,
+    34.25,
+    43.83333,
+    34.25
+],
+  "geometry": {"coordinates":[43.83333,34.25],"type":"Point"}
+}

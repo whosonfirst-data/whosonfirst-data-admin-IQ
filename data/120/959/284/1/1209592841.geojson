@@ -1,0 +1,68 @@
+{
+  "id": 1209592841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21585,32.59878,44.21585,32.59878",
+    "geom:latitude":32.59878,
+    "geom:longitude":44.21585,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"99345.0",
+    "gn:asciiname":"Muhammad Sa'd",
+    "gn:country_code":"IQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387197,
+    "gn:latitude":32.59878,
+    "gn:longitude":44.21585,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29ammad Sa\u2018d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u062f \u0633\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e29ammad Sa\u2018d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387197
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b967334fd49363790820162976c8ceaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209592841
+        }
+    ],
+    "wof:id":1209592841,
+    "wof:lastmodified":1537638795,
+    "wof:name":"Muhammad Sa'd",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21585,
+    32.59878,
+    44.21585,
+    32.59878
+],
+  "geometry": {"coordinates":[44.21585,32.59878],"type":"Point"}
+}

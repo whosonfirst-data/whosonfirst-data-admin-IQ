@@ -1,0 +1,74 @@
+{
+  "id": 1260365779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03041,35.32659,43.03041,35.32659",
+    "geom:latitude":35.32659,
+    "geom:longitude":43.03041,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6804454.0",
+    "gn:asciiname":"'Arab Shahadh Salman",
+    "gn:country_code":"IQ",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837361,
+    "gn:latitude":35.32659,
+    "gn:longitude":43.03041,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab Sha\u1e29adh Salm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0634\u062d\u0627\u0630 \u0633\u0644\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab Sha\u1e29adh Salm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837361
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"69b1fada2e4807b9ebb80bc6ba4beb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562645,
+            "locality_id":1260365779,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1260365779,
+    "wof:lastmodified":1537639701,
+    "wof:name":"'Arab Shahadh Salman",
+    "wof:parent_id":1108562645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03041,
+    35.32659,
+    43.03041,
+    35.32659
+],
+  "geometry": {"coordinates":[43.03041,35.32659],"type":"Point"}
+}

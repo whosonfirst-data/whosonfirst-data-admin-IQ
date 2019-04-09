@@ -1,0 +1,86 @@
+{
+  "id": 1276427523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79185,35.54257,43.79185,35.54257",
+    "geom:latitude":35.54257,
+    "geom:longitude":43.79185,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dwazidah Hawar",
+    "gn:country_code":"IQ",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89975,
+    "gn:latitude":35.54257,
+    "gn:longitude":43.79185,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Dw\u0101zidah Haw\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0627\u0632\u062f\u0629 \u0647\u0648\u0627\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Dwazda Hawar"
+    ],
+    "name:kur_x_variant":[
+        "Dwanze Hewar",
+        "\u062f\u0648\u0627\u0646\u0632\u06d5 \u06be\u06d5\u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Umr Effendi",
+        "\u016amr Efiendi",
+        "\u2018Umar Afand\u012b",
+        "\u0639\u0645\u0631 \u0627\u0641\u0646\u062f\u064a",
+        "Duw\u0101zdah Haw\u0101r",
+        "Dwazda Hawar",
+        "Dw\u0101zidah Haw\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89975
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9739efca43f36f3c4569b3f7a5f1ff5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562779,
+            "locality_id":1276427523,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1276427523,
+    "wof:lastmodified":1537637819,
+    "wof:name":"Dwazidah Hawar",
+    "wof:parent_id":1108562779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79185,
+    35.54257,
+    43.79185,
+    35.54257
+],
+  "geometry": {"coordinates":[43.79185,35.54257],"type":"Point"}
+}

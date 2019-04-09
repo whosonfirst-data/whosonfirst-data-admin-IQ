@@ -1,0 +1,74 @@
+{
+  "id": 1293860211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96842,35.15124,43.96842,35.15124",
+    "geom:latitude":35.15124,
+    "geom:longitude":43.96842,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"6770659.0",
+    "gn:asciiname":"Qaryat Rabid Abu Da'aj",
+    "gn:country_code":"IQ",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6770577,
+    "gn:latitude":35.15124,
+    "gn:longitude":43.96842,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Qaryat Rab\u012b\u1e11 Ab\u016b Da\u2018\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0628\u064a\u0636 \u0627\u0628\u0648 \u062f\u0639\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Rab\u012b\u1e11 Ab\u016b Da\u2018\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6770577
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"38136203c9b79e96ce48658f20640e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562743,
+            "locality_id":1293860211,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1293860211,
+    "wof:lastmodified":1537639265,
+    "wof:name":"Qaryat Rabid Abu Da'aj",
+    "wof:parent_id":1108562743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96842,
+    35.15124,
+    43.96842,
+    35.15124
+],
+  "geometry": {"coordinates":[43.96842,35.15124],"type":"Point"}
+}

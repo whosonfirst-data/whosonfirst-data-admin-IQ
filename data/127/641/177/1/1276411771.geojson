@@ -1,0 +1,74 @@
+{
+  "id": 1276411771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54517,32.12436,44.54517,32.12436",
+    "geom:latitude":32.12436,
+    "geom:longitude":44.54517,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166629.0",
+    "gn:asciiname":"'Abd Allah Shalal",
+    "gn:country_code":"IQ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789295,
+    "gn:latitude":32.12436,
+    "gn:longitude":44.54517,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abd All\u0101h Shal\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0634\u0644\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abd All\u0101h Shal\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789295
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"51d96d7f59bec6b050f4ba0e6aa8b2b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562691,
+            "locality_id":1276411771,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1276411771,
+    "wof:lastmodified":1537639476,
+    "wof:name":"'Abd Allah Shalal",
+    "wof:parent_id":1108562691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54517,
+    32.12436,
+    44.54517,
+    32.12436
+],
+  "geometry": {"coordinates":[44.54517,32.12436],"type":"Point"}
+}

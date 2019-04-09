@@ -1,0 +1,88 @@
+{
+  "id": 1243477249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.23097,34.78572,45.23097,34.78572",
+    "geom:latitude":34.78572,
+    "geom:longitude":45.23097,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Pukah",
+    "gn:country_code":"IQ",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92731,
+    "gn:latitude":34.78572,
+    "gn:longitude":45.23097,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"P\u016bkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0642\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u067e\u0648\u06af\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "P\u00fbqe"
+    ],
+    "name:kur_x_variant":[
+        "\u067e\u0648\u0648\u0642\u06d5"
+    ],
+    "name:und_x_variant":[
+        "P\u016bqa",
+        "B\u016bqah",
+        "P\u016bkah",
+        "P\u016bgah",
+        "Pooka",
+        "\u067e\u0648\u0643\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92731
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8facb6a8067ecf338ec2dd396343b2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1243477249,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1243477249,
+    "wof:lastmodified":1537638074,
+    "wof:name":"Pukah",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.23097,
+    34.78572,
+    45.23097,
+    34.78572
+],
+  "geometry": {"coordinates":[45.23097,34.78572],"type":"Point"}
+}

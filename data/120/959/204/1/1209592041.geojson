@@ -1,0 +1,71 @@
+{
+  "id": 1209592041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54557,35.76619,44.54557,35.76619",
+    "geom:latitude":35.76619,
+    "geom:longitude":44.54557,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"94786.0",
+    "gn:asciiname":"Narlujat Ahmad Rajab",
+    "gn:country_code":"IQ",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92982,
+    "gn:latitude":35.76619,
+    "gn:longitude":44.54557,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"N\u0101rl\u016bjat A\u1e29mad Rajab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0631\u0644\u0648\u062c\u0629 \u0623\u062d\u0645\u062f \u0631\u062c\u0628"
+    ],
+    "name:und_x_variant":[
+        "N\u0101r\u016bjah",
+        "N\u0101rl\u016bjah",
+        "N\u0101rl\u016bjat A\u1e29mad Rajab",
+        "Naruja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92982
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3d53dc42e59373968d0022b5f09c6d57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209592041
+        }
+    ],
+    "wof:id":1209592041,
+    "wof:lastmodified":1537638101,
+    "wof:name":"Narlujat Ahmad Rajab",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54557,
+    35.76619,
+    44.54557,
+    35.76619
+],
+  "geometry": {"coordinates":[44.54557,35.76619],"type":"Point"}
+}

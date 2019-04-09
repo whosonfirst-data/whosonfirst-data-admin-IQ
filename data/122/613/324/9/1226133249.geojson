@@ -1,0 +1,80 @@
+{
+  "id": 1226133249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27888,37.04007,43.27888,37.04007",
+    "geom:latitude":37.04007,
+    "geom:longitude":43.27888,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Sikrin",
+    "gn:country_code":"IQ",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390847,
+    "gn:latitude":37.04007,
+    "gn:longitude":43.27888,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sikr\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0643\u0631\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "Sikr\u012bn"
+    ],
+    "name:kur_x_preferred":[
+        "Skr\u00een"
+    ],
+    "name:und_x_variant":[
+        "Scren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390847
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ef952ba98e934dd6125ccc0047a387ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1226133249,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1226133249,
+    "wof:lastmodified":1537638833,
+    "wof:name":"Sikrin",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27888,
+    37.04007,
+    43.27888,
+    37.04007
+],
+  "geometry": {"coordinates":[43.27888,37.04007],"type":"Point"}
+}

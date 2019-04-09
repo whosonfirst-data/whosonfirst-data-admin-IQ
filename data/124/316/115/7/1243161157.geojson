@@ -1,0 +1,74 @@
+{
+  "id": 1243161157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39479,33.98883,44.39479,33.98883",
+    "geom:latitude":33.98883,
+    "geom:longitude":44.39479,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"99170.0",
+    "gn:asciiname":"Latiyat Hamud Dahi",
+    "gn:country_code":"IQ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805240,
+    "gn:latitude":33.98883,
+    "gn:longitude":44.39479,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La\u0163\u012byat \u1e28am\u016bd \u1e10\u0101\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0637\u064a\u0629 \u062d\u0645\u0648\u062f \u0636\u0627\u062d\u064a"
+    ],
+    "name:und_x_variant":[
+        "La\u0163\u012byat \u1e28am\u016bd \u1e10\u0101\u1e29\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        421169765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805240
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"73dfda528737d9442504d87dc87fd114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421169765,
+            "locality_id":1243161157,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1243161157,
+    "wof:lastmodified":1537639558,
+    "wof:name":"Latiyat Hamud Dahi",
+    "wof:parent_id":421169765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39479,
+    33.98883,
+    44.39479,
+    33.98883
+],
+  "geometry": {"coordinates":[44.39479,33.98883],"type":"Point"}
+}

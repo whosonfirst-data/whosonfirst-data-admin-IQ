@@ -1,0 +1,74 @@
+{
+  "id": 1226224865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38111,36.40935,43.38111,36.40935",
+    "geom:latitude":36.40935,
+    "geom:longitude":43.38111,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166541.0",
+    "gn:asciiname":"Tiskharab Kabir",
+    "gn:country_code":"IQ",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6860795,
+    "gn:latitude":36.40935,
+    "gn:longitude":43.38111,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"T\u012bskhar\u0101b Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0633\u062e\u0631\u0627\u0628 \u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "T\u012bskhar\u0101b Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6860795
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"18f8b9b901c93317a9a044ca031d4891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562631,
+            "locality_id":1226224865,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1226224865,
+    "wof:lastmodified":1537639771,
+    "wof:name":"Tiskharab Kabir",
+    "wof:parent_id":1108562631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38111,
+    36.40935,
+    43.38111,
+    36.40935
+],
+  "geometry": {"coordinates":[43.38111,36.40935],"type":"Point"}
+}

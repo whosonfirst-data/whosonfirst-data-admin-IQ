@@ -1,0 +1,73 @@
+{
+  "id": 1276447155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.86423,35.4861,45.86423,35.4861",
+    "geom:latitude":35.4861,
+    "geom:longitude":45.86423,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Tabbah Rubaru",
+    "gn:country_code":"IQ",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7454947,
+    "gn:latitude":35.4861,
+    "gn:longitude":45.86423,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tabbah Rub\u0101r\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0628\u0629 \u0631\u0628\u0627\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Tabbah Rub\u0101r\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7454947
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"51df4ad44dd39691beb7fb3a7e90c793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1276447155,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1276447155,
+    "wof:lastmodified":1537640055,
+    "wof:name":"Tabbah Rubaru",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.86423,
+    35.4861,
+    45.86423,
+    35.4861
+],
+  "geometry": {"coordinates":[45.86423,35.4861],"type":"Point"}
+}

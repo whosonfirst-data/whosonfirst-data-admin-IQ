@@ -1,0 +1,74 @@
+{
+  "id": 1193007907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25,31.45,46.25,31.45",
+    "geom:latitude":31.45,
+    "geom:longitude":46.25,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98623.0",
+    "gn:asciiname":"Jama'at Hashish as Suwaylim",
+    "gn:country_code":"IQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95290,
+    "gn:latitude":31.45,
+    "gn:longitude":46.25,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jam\u0101\u2018at Hash\u012bsh as Suwaylim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hash\u012bsh as Suwaylim",
+        "Jam\u0101\u2018at al Hushaiyish as Suwaitim",
+        "Jam\u0101\u2018at al Hushaiyish as Suwailim",
+        "Jam\u0101\u2018at Hash\u012bsh as Suwaylim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95290
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4a4b1cd29d8fea753ceb698be16acda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562741,
+            "locality_id":1193007907,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1193007907,
+    "wof:lastmodified":1537638305,
+    "wof:name":"Jama'at Hashish as Suwaylim",
+    "wof:parent_id":1108562741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25,
+    31.45,
+    46.25,
+    31.45
+],
+  "geometry": {"coordinates":[46.25,31.45],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1360063573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18066,37.2001,44.18066,37.2001",
+    "geom:latitude":37.2001,
+    "geom:longitude":44.18066,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166534.0",
+    "gn:asciiname":"Tolax",
+    "gn:country_code":"IQ",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90118,
+    "gn:latitude":37.2001,
+    "gn:longitude":44.18066,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tolax",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0651\u0644\u062e\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Qulxe"
+    ],
+    "name:kur_x_variant":[
+        "\u0642\u0648\u0644\u062e\u06d5",
+        "Tolax",
+        "\u062a\u06c6\u0644\u0627\u062e"
+    ],
+    "name:und_x_variant":[
+        "Qulkha",
+        "T\u014dl\u0101kha",
+        "Tawlkhah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90118
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d918110077799bb71e9e3749f0166c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562747,
+            "locality_id":1360063573,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1360063573,
+    "wof:lastmodified":1537637832,
+    "wof:name":"Tolax",
+    "wof:parent_id":1108562747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18066,
+    37.2001,
+    44.18066,
+    37.2001
+],
+  "geometry": {"coordinates":[44.18066,37.2001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326927791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31392,32.36873,44.31392,32.36873",
+    "geom:latitude":32.36873,
+    "geom:longitude":44.31392,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99348.0",
+    "gn:asciiname":"Qaryat Qital al Janubi",
+    "gn:country_code":"IQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6781055,
+    "gn:latitude":32.36873,
+    "gn:longitude":44.31392,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Qit\u0101l al Jan\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0642\u062a\u0627\u0644 \u0627\u0644\u062c\u0646\u0648\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Qit\u0101l al Jan\u016bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6781055
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"542bc4151bbef760eba64ed79e764cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562695,
+            "locality_id":1326927791,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1326927791,
+    "wof:lastmodified":1537639306,
+    "wof:name":"Qaryat Qital al Janubi",
+    "wof:parent_id":1108562695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31392,
+    32.36873,
+    44.31392,
+    32.36873
+],
+  "geometry": {"coordinates":[44.31392,32.36873],"type":"Point"}
+}

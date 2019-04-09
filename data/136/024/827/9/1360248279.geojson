@@ -1,0 +1,74 @@
+{
+  "id": 1360248279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22745,34.54716,44.22745,34.54716",
+    "geom:latitude":34.54716,
+    "geom:longitude":44.22745,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"Nawri Satam",
+    "gn:country_code":"IQ",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6752130,
+    "gn:latitude":34.54716,
+    "gn:longitude":44.22745,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nawr\u012b Sa\u0163\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0631\u064a \u0633\u0637\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Nawr\u012b Sa\u0163\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6752130
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2e077166bba26cfae1962c49ec9904c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562773,
+            "locality_id":1360248279,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1360248279,
+    "wof:lastmodified":1537639167,
+    "wof:name":"Nawri Satam",
+    "wof:parent_id":1108562773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22745,
+    34.54716,
+    44.22745,
+    34.54716
+],
+  "geometry": {"coordinates":[44.22745,34.54716],"type":"Point"}
+}

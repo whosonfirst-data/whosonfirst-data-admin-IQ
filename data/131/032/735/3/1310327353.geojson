@@ -1,0 +1,83 @@
+{
+  "id": 1310327353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58333,37.21667,43.58333,37.21667",
+    "geom:latitude":37.21667,
+    "geom:longitude":43.58333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Serdesht",
+    "gn:country_code":"IQ",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90675,
+    "gn:latitude":37.21667,
+    "gn:longitude":43.58333,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Serdesht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Serdesht"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u06d5\u0631\u062f\u06d5\u0634\u062a",
+        "Serdesht\u00ea",
+        "\u0633\u06d5\u0631\u062f\u06d5\u0634\u062a\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Sardasht",
+        "Sirdisht",
+        "Serdisht",
+        "Sardisht",
+        "Sardashte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90675
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0fde81bd8a7d4d4fd77d08434760ab73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1310327353,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1310327353,
+    "wof:lastmodified":1537637891,
+    "wof:name":"Serdesht",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58333,
+    37.21667,
+    43.58333,
+    37.21667
+],
+  "geometry": {"coordinates":[43.58333,37.21667],"type":"Point"}
+}

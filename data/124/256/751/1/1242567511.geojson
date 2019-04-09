@@ -1,0 +1,74 @@
+{
+  "id": 1242567511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.31602,31.60647,46.31602,31.60647",
+    "geom:latitude":31.60647,
+    "geom:longitude":46.31602,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98700.0",
+    "gn:asciiname":"'Arab Hamzah al 'Abd Allah",
+    "gn:country_code":"IQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7025715,
+    "gn:latitude":31.60647,
+    "gn:longitude":46.31602,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab \u1e28amzah al \u2018Abd All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u062d\u0645\u0632\u0647 \u0627\u0644\u0639\u0628\u062f \u0627\u0644\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab \u1e28amzah al \u2018Abd All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7025715
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"faea93bf99e26381cc6ae98556255afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562683,
+            "locality_id":1242567511,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1242567511,
+    "wof:lastmodified":1537639938,
+    "wof:name":"'Arab Hamzah al 'Abd Allah",
+    "wof:parent_id":1108562683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.31602,
+    31.60647,
+    46.31602,
+    31.60647
+],
+  "geometry": {"coordinates":[46.31602,31.60647],"type":"Point"}
+}

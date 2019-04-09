@@ -1,0 +1,75 @@
+{
+  "id": 1260294565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00856,33.4674,44.00856,33.4674",
+    "geom:latitude":33.4674,
+    "geom:longitude":44.00856,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"Al Hajj Faraj",
+    "gn:country_code":"IQ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387251,
+    "gn:latitude":33.4674,
+    "gn:longitude":44.00856,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28\u0101jj Faraj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0627\u062c \u0641\u0631\u062c"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28\u0101jj Fara\u1e29",
+        "Al \u1e28\u0101jj Faraj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387251
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f162adab7900b05400ac66b616ecb3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1260294565,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1260294565,
+    "wof:lastmodified":1537638799,
+    "wof:name":"Al Hajj Faraj",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00856,
+    33.4674,
+    44.00856,
+    33.4674
+],
+  "geometry": {"coordinates":[44.00856,33.4674],"type":"Point"}
+}

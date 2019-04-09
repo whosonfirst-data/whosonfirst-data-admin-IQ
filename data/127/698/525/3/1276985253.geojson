@@ -1,0 +1,82 @@
+{
+  "id": 1276985253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.31767,35.50567,45.31767,35.50567",
+    "geom:latitude":35.50567,
+    "geom:longitude":45.31767,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Day Kawn",
+    "gn:country_code":"IQ",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97054,
+    "gn:latitude":35.50567,
+    "gn:longitude":45.31767,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Day Kawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a \u0643\u0648\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "D\u00ea Kon"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u06ce \u0643\u06c6\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dayy Kawn",
+        "D\u0113k\u014dn",
+        "Decon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97054
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"41de7f9fb22a7603a66fda5c12231ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1276985253,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1276985253,
+    "wof:lastmodified":1537638454,
+    "wof:name":"Day Kawn",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.31767,
+    35.50567,
+    45.31767,
+    35.50567
+],
+  "geometry": {"coordinates":[45.31767,35.50567],"type":"Point"}
+}

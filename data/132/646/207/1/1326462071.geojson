@@ -1,0 +1,86 @@
+{
+  "id": 1326462071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03389,35.23222,45.03389,35.23222",
+    "geom:latitude":35.23222,
+    "geom:longitude":45.03389,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Qishlagh 'Aziz Agha",
+    "gn:country_code":"IQ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92222,
+    "gn:latitude":35.23222,
+    "gn:longitude":45.03389,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qishl\u0101gh \u2018Az\u012bz \u0100gh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qishl\u0101gh \u2018Az\u012bz \u0100gh\u0101"
+    ],
+    "name:kur_x_preferred":[
+        "Q\u00eesh\u0142agh\u00ee Ghefar Aghe"
+    ],
+    "name:kur_x_variant":[
+        "Q\u00eesh\u0142agh\u00ee Ghefur Agha",
+        "\u0642\u064a\u0634\u06b5\u0627\u063a\u0649 \u063a\u06d5\u0641\u0627\u0631 \u0626\u0627\u063a\u06d5",
+        "\u0642\u064a\u0634\u06b5\u0627\u063a\u0649 \u063a\u06d5\u0641\u0648\u0631 \u0626\u0627\u063a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Qishl\u0101q \u2018Az\u012bz \u0100gh\u0101",
+        "Qishlag Ghafur Agha",
+        "Qishlaq-i Ghaf\u016br \u0100gh\u0101",
+        "Qishl\u0101q Ghaff\u0101r \u0100gh\u0101",
+        "Qishl\u0101q Ghaf\u016br \u0100gh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92222
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9912f1eb0efe7f8040dfbcb7a997a1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1326462071,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1326462071,
+    "wof:lastmodified":1537638024,
+    "wof:name":"Qishlagh 'Aziz Agha",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03389,
+    35.23222,
+    45.03389,
+    35.23222
+],
+  "geometry": {"coordinates":[45.03389,35.23222],"type":"Point"}
+}

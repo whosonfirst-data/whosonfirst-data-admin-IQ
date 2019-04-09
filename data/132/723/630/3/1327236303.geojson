@@ -1,0 +1,88 @@
+{
+  "id": 1327236303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.17227,35.08735,45.17227,35.08735",
+    "geom:latitude":35.08735,
+    "geom:longitude":45.17227,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Kuyk",
+    "gn:country_code":"IQ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94192,
+    "gn:latitude":35.08735,
+    "gn:longitude":45.17227,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u016byk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u016byk"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u064a\u0643"
+    ],
+    "name:kur_x_preferred":[
+        "Koyk"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u06c6\u064a\u0643"
+    ],
+    "name:und_x_variant":[
+        "K\u014dyik",
+        "K\u016bh\u012b",
+        "Ky\u016bw\u012b",
+        "K\u016bbik",
+        "Koik",
+        "\u0643\u0648\u0628\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94192
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ed4a23edcf1b4e015636e5e96b23a525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1327236303,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1327236303,
+    "wof:lastmodified":1537638201,
+    "wof:name":"Kuyk",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.17227000000001,
+    35.08735,
+    45.17227000000001,
+    35.08735
+],
+  "geometry": {"coordinates":[45.17227000000001,35.08735],"type":"Point"}
+}

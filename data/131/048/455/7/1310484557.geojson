@@ -1,0 +1,74 @@
+{
+  "id": 1310484557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27542,36.05619,43.27542,36.05619",
+    "geom:latitude":36.05619,
+    "geom:longitude":43.27542,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166649.0",
+    "gn:asciiname":"Qaryat Safiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6860741,
+    "gn:latitude":36.05619,
+    "gn:longitude":43.27542,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Qaryat \u015eaf\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0635\u0641\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat \u015eaf\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6860741
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"95d71bc0c7421e8002e581c4ad1bfce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562633,
+            "locality_id":1310484557,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1310484557,
+    "wof:lastmodified":1537639769,
+    "wof:name":"Qaryat Safiyah",
+    "wof:parent_id":1108562633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27542,
+    36.05619,
+    43.27542,
+    36.05619
+],
+  "geometry": {"coordinates":[43.27542,36.05619],"type":"Point"}
+}

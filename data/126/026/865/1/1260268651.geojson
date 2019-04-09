@@ -1,0 +1,87 @@
+{
+  "id": 1260268651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.85512,37.20554,42.85512,37.20554",
+    "geom:latitude":37.20554,
+    "geom:longitude":42.85512,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"89569.0",
+    "gn:asciiname":"Yusif Ava",
+    "gn:country_code":"IQ",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":6998226,
+    "gn:latitude":37.20554,
+    "gn:longitude":42.85512,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Yusif Ava",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u064a\u0648\u0633\u0641 \u0622\u063a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "Y\u016bsuf \u0100gh\u0101"
+    ],
+    "name:kur_x_preferred":[
+        "Yusif Awa"
+    ],
+    "name:kur_x_variant":[
+        "\u064a\u0648\u0633\u0641 \u0626\u0627\u0648\u0627",
+        "Yusif Ava",
+        "\u064a\u0648\u0633\u0641 \u0626\u0627\u06a4\u0627",
+        "Yusif Agha",
+        "\u064a\u0648\u0633\u0641 \u0626\u0627\u063a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Usaf Awa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        890445289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998226
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0299125795139a62b4d5af8be858a964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445289,
+            "locality_id":1260268651,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1260268651,
+    "wof:lastmodified":1537639882,
+    "wof:name":"Yusif Ava",
+    "wof:parent_id":890445289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.85512,
+    37.20554,
+    42.85512,
+    37.20554
+],
+  "geometry": {"coordinates":[42.85512,37.20554],"type":"Point"}
+}

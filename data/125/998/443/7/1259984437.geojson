@@ -1,0 +1,89 @@
+{
+  "id": 1259984437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.16408,35.83467,45.16408,35.83467",
+    "geom:latitude":35.83467,
+    "geom:longitude":45.16408,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Shadalah Saru",
+    "gn:country_code":"IQ",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91210,
+    "gn:latitude":35.83467,
+    "gn:longitude":45.16408,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shadalah Sar\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u062f\u0644\u0629 \u0633\u0631\u0648"
+    ],
+    "name:kur_x_preferred":[
+        "Shede\u0142e Ser\u00fb"
+    ],
+    "name:kur_x_variant":[
+        "Shede\u0142ey Ser\u00fb",
+        "\u0634\u06d5\u062f\u06d5\u06b5\u06d5 \u0633\u06d5\u0631\u0648\u0648",
+        "\u0634\u06d5\u062f\u06d5\u06b5\u06d5\u0649 \u0633\u06d5\u0631\u0648\u0648"
+    ],
+    "name:und_x_variant":[
+        "Shadalah Sar\u016b",
+        "Shadala-i Sar\u016b",
+        "Shadalah J\u016br\u016b al \u2018Uly\u0101",
+        "\u0634\u062f\u0644\u0629 \u062c\u0648\u0631\u0648 \u0627\u0644\u0639\u0644\u064a\u0627",
+        "Shadala",
+        "Shadala Upper",
+        "Shadahlah",
+        "Sh\u0101d\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91210
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"54694dd431046fe19c1e3e0419774b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1259984437,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1259984437,
+    "wof:lastmodified":1537637941,
+    "wof:name":"Shadalah Saru",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.16408,
+    35.83467,
+    45.16408,
+    35.83467
+],
+  "geometry": {"coordinates":[45.16408,35.83467],"type":"Point"}
+}

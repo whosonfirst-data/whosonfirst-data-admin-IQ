@@ -1,0 +1,113 @@
+{
+  "id": 85903157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3250963.693165,
+    "geom:bbox":"44.03595,32.618557,44.03595,32.618557",
+    "geom:latitude":32.618557,
+    "geom:longitude":44.03595,
+    "gn:id":"",
+    "iso:country":"IQ",
+    "lbl:latitude":32.618557,
+    "lbl:longitude":44.03595,
+    "mps:latitude":32.618557,
+    "mps:longitude":44.03595,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_colloquial":[
+        "Abbas Hayy Al",
+        "Abbas, Hayy Al"
+    ],
+    "name:ara_x_preferred":[
+        "\u2018abb\u0101s H\u0327ayy Al"
+    ],
+    "name:ara_x_variant":[
+        "\u2018abbas Hayy Al",
+        "\u2018abbas, Hayy Al",
+        "\u2018abb\u0101s, H\u0327ayy Al"
+    ],
+    "name:unk_x_variant":[
+        "\u2018abb\u0101s H\u0327ayy Al"
+    ],
+    "qs:gn_adm0_cc":"IQ",
+    "qs:gn_id":0,
+    "qs:gn_local":94824,
+    "qs:gn_nam_loc":"Karbala, Kerbala, Kerbela, IQ",
+    "qs:gn_namadm1":"12",
+    "qs:local_max":4,
+    "qs:local_sum":4,
+    "qs:localhoods":1,
+    "qs:name":"\u2018abb\u0101s H\u0327ayy Al",
+    "qs:name_adm0":"Iraq",
+    "qs:name_adm1":"Karbala'",
+    "qs:name_adm2":"Kerbala",
+    "qs:name_local":"Kerbela",
+    "qs:photo_max":4,
+    "qs:photo_sum":4,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424855,
+    "qs:woe_adm1":2345844,
+    "qs:woe_adm2":55999986,
+    "qs:woe_lau":0,
+    "qs:woe_local":1979497,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        421194967,
+        85672443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1970184,
+        "qs:id":1120223
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5baa6d7feef9b647a2522fafb1278d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421194967,
+            "locality_id":-1,
+            "neighbourhood_id":85903157,
+            "region_id":85672443
+        }
+    ],
+    "wof:id":85903157,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936022,
+    "wof:name":"\u2018abb\u0101s H\u0327ayy Al",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03595,
+    32.618557,
+    44.03595,
+    32.618557
+],
+  "geometry": {"coordinates":[44.03595,32.618557],"type":"Point"}
+}

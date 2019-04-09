@@ -1,0 +1,78 @@
+{
+  "id": 1293074247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04294,36.87672,44.04294,36.87672",
+    "geom:latitude":36.87672,
+    "geom:longitude":44.04294,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Mandaf",
+    "gn:country_code":"IQ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":446996,
+    "gn:latitude":36.87672,
+    "gn:longitude":44.04294,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Mandaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u062f\u0641"
+    ],
+    "name:und_x_variant":[
+        "Mand\u0101v",
+        "Mandaf",
+        "\u0645\u0646\u062f\u0641",
+        "\u0645\u0646\u062f\u0627\u0641",
+        "Mand\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446996
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"96307f3453f6a921d5b30f03bcec3b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1293074247,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1293074247,
+    "wof:lastmodified":1537639018,
+    "wof:name":"Mandaf",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04294,
+    36.87672,
+    44.04294,
+    36.87672
+],
+  "geometry": {"coordinates":[44.04294,36.87672],"type":"Point"}
+}

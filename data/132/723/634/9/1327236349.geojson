@@ -1,0 +1,71 @@
+{
+  "id": 1327236349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.8837,35.7564,45.8837,35.7564",
+    "geom:latitude":35.7564,
+    "geom:longitude":45.8837,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166684.0",
+    "gn:asciiname":"Siranah",
+    "gn:country_code":"IQ",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6686229,
+    "gn:latitude":35.7564,
+    "gn:longitude":45.8837,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"S\u012br\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0631\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6686229
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ff6979aab944a18d13877a9f08722fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562765,
+            "locality_id":1327236349,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1327236349,
+    "wof:lastmodified":1537639108,
+    "wof:name":"Siranah",
+    "wof:parent_id":1108562765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.8837,
+    35.7564,
+    45.8837,
+    35.7564
+],
+  "geometry": {"coordinates":[45.8837,35.7564],"type":"Point"}
+}

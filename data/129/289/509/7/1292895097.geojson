@@ -1,0 +1,74 @@
+{
+  "id": 1292895097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.07709,33.82877,45.07709,33.82877",
+    "geom:latitude":33.82877,
+    "geom:longitude":45.07709,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Husayn al Kaffi",
+    "gn:country_code":"IQ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6835506,
+    "gn:latitude":33.82877,
+    "gn:longitude":45.07709,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28usayn al Kaff\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u064a\u0646 \u0627\u0644\u0643\u0641\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28usayn al Kaff\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6835506
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"24bccfcf7e0e95b5f49b6977bf6e70e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1292895097,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1292895097,
+    "wof:lastmodified":1537639682,
+    "wof:name":"Husayn al Kaffi",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.07709000000001,
+    33.82877,
+    45.07709000000001,
+    33.82877
+],
+  "geometry": {"coordinates":[45.07709000000001,33.82877],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1276956771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.80156,36.9599,44.80156,36.9599",
+    "geom:latitude":36.9599,
+    "geom:longitude":44.80156,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166592.0",
+    "gn:asciiname":"Lolan",
+    "gn:country_code":"IQ",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":446854,
+    "gn:latitude":36.9599,
+    "gn:longitude":44.80156,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Lolan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0644\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Lolan"
+    ],
+    "name:kur_x_variant":[
+        "\u0644\u06c6\u0644\u0627\u0646",
+        "Lulan"
+    ],
+    "name:und_x_variant":[
+        "Lawl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446854
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fb541337a9c1452663ec82329f40d43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445495,
+            "locality_id":1276956771,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1276956771,
+    "wof:lastmodified":1537639011,
+    "wof:name":"Lolan",
+    "wof:parent_id":890445495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.80156,
+    36.9599,
+    44.80156,
+    36.9599
+],
+  "geometry": {"coordinates":[44.80156,36.9599],"type":"Point"}
+}

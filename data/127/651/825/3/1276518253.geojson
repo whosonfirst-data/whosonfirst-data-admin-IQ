@@ -1,0 +1,74 @@
+{
+  "id": 1276518253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.69665,32.67396,46.69665,32.67396",
+    "geom:latitude":32.67396,
+    "geom:longitude":46.69665,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"99305.0",
+    "gn:asciiname":"Dar 'Ali Guwayta'",
+    "gn:country_code":"IQ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7096806,
+    "gn:latitude":32.67396,
+    "gn:longitude":46.69665,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u0101r \u2018Al\u012b Guway\u0163a\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0639\u0644\u064a \u06af\u0648\u064a\u0637\u0639"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r \u2018Al\u012b Guway\u0163a\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7096806
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"386bfff4fdef6c499f4c63764af10986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562677,
+            "locality_id":1276518253,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1276518253,
+    "wof:lastmodified":1537639979,
+    "wof:name":"Dar 'Ali Guwayta'",
+    "wof:parent_id":1108562677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.69665,
+    32.67396,
+    46.69665,
+    32.67396
+],
+  "geometry": {"coordinates":[46.69665,32.67396],"type":"Point"}
+}

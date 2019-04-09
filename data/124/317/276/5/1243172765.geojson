@@ -1,0 +1,73 @@
+{
+  "id": 1243172765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.73333,31.8,44.73333,31.8",
+    "geom:latitude":31.8,
+    "geom:longitude":44.73333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"Al Khawarnaq",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99158,
+    "gn:latitude":31.8,
+    "gn:longitude":44.73333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Khawarnaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khurinaq",
+        "Al Khawarnaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99158
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"adc5e7224c7855cd5a4cc8eaa6150ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1243172765,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1243172765,
+    "wof:lastmodified":1537638657,
+    "wof:name":"Al Khawarnaq",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.73333,
+    31.8,
+    44.73333,
+    31.8
+],
+  "geometry": {"coordinates":[44.73333,31.8],"type":"Point"}
+}

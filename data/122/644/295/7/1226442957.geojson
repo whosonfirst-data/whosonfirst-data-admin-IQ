@@ -1,0 +1,76 @@
+{
+  "id": 1226442957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.87056,31.44417,44.87056,31.44417",
+    "geom:latitude":31.44417,
+    "geom:longitude":44.87056,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"6850588.0",
+    "gn:asciiname":"Radi al Shaligham",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92105,
+    "gn:latitude":31.44417,
+    "gn:longitude":44.87056,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"R\u0101\u1e11\u012b al Shal\u012bgham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Abbas R\u0101dhi",
+        "R\u0101dhi al Shaligham",
+        "\u2018Abb\u0101s ar R\u0101\u1e11\u012b",
+        "R\u0101d\u012b ash Shal\u012bgham",
+        "R\u0101\u1e11\u012b al Shal\u012bgham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92105
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"94d3ce62f14f2ddca8b75e63fe266ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562701,
+            "locality_id":1226442957,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1226442957,
+    "wof:lastmodified":1537638012,
+    "wof:name":"Radi al Shaligham",
+    "wof:parent_id":1108562701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.87056,
+    31.44417,
+    44.87056,
+    31.44417
+],
+  "geometry": {"coordinates":[44.87056,31.44417],"type":"Point"}
+}

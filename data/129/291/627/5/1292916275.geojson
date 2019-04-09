@@ -1,0 +1,80 @@
+{
+  "id": 1292916275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5252,31.14488,47.5252,31.14488",
+    "geom:latitude":31.14488,
+    "geom:longitude":47.5252,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"98994.0",
+    "gn:asciiname":"Abu Turaydah",
+    "gn:country_code":"IQ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6721870,
+    "gn:latitude":31.14488,
+    "gn:longitude":47.5252,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ab\u016b \u0162uraydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u0637\u0631\u064a\u062f\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648 \u0637\u0631\u06cc\u0631\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Ab\u016b \u0162oreyreh"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b \u0162uraydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6721870
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"57103c3fce694212c8e0b9d0e88bbef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562719,
+            "locality_id":1292916275,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1292916275,
+    "wof:lastmodified":1537639125,
+    "wof:name":"Abu Turaydah",
+    "wof:parent_id":1108562719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5252,
+    31.14488,
+    47.5252,
+    31.14488
+],
+  "geometry": {"coordinates":[47.5252,31.14488],"type":"Point"}
+}

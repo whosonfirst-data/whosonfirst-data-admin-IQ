@@ -1,0 +1,74 @@
+{
+  "id": 1242595219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.05295,33.44015,44.05295,33.44015",
+    "geom:latitude":33.44015,
+    "geom:longitude":44.05295,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"'Abd Ibrahim",
+    "gn:country_code":"IQ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448809,
+    "gn:latitude":33.44015,
+    "gn:longitude":44.05295,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abd Ibrah\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f \u0625\u0628\u0631\u0627\u0647\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abd Ibrah\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448809
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b286240c5a05e5795cf8c50e9c4b0939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1242595219,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1242595219,
+    "wof:lastmodified":1537639074,
+    "wof:name":"'Abd Ibrahim",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.05295,
+    33.44015,
+    44.05295,
+    33.44015
+],
+  "geometry": {"coordinates":[44.05295,33.44015],"type":"Point"}
+}

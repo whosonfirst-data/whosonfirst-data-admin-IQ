@@ -1,0 +1,70 @@
+{
+  "id": 1293691585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.7623,35.2175,45.7623,35.2175",
+    "geom:latitude":35.2175,
+    "geom:longitude":45.7623,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166594.0",
+    "gn:asciiname":"Vazul",
+    "gn:country_code":"IQ",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6686125,
+    "gn:latitude":35.2175,
+    "gn:longitude":45.7623,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"V\u0101z\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0632\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        1108562767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6686125
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1c6689d49201b3844a3d68df841a6125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":1108562767,
+            "locality_id":1293691585,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1293691585,
+    "wof:lastmodified":1537639107,
+    "wof:name":"Vazul",
+    "wof:parent_id":1108562767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.7623,
+    35.2175,
+    45.7623,
+    35.2175
+],
+  "geometry": {"coordinates":[45.7623,35.2175],"type":"Point"}
+}

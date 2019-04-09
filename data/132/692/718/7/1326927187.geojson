@@ -1,0 +1,75 @@
+{
+  "id": 1326927187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90369,33.26932,43.90369,33.26932",
+    "geom:latitude":33.26932,
+    "geom:longitude":43.90369,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166542.0",
+    "gn:asciiname":"Qaryat Rashid al 'Awwad",
+    "gn:country_code":"IQ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448710,
+    "gn:latitude":33.26932,
+    "gn:longitude":43.90369,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat R\u0101shid al \u2018Aww\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0627\u0634\u062f \u0627\u0644\u0639\u0648\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Qaryat R\u0101shad al \u2018Aww\u0101d",
+        "Qaryat R\u0101shid al \u2018Aww\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421184257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448710
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"da6c0646f5571c66c82232d311389bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184257,
+            "locality_id":1326927187,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1326927187,
+    "wof:lastmodified":1537639070,
+    "wof:name":"Qaryat Rashid al 'Awwad",
+    "wof:parent_id":421184257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90369000000001,
+    33.26932,
+    43.90369000000001,
+    33.26932
+],
+  "geometry": {"coordinates":[43.90369000000001,33.26932],"type":"Point"}
+}

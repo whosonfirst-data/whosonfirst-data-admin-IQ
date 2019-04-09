@@ -1,0 +1,74 @@
+{
+  "id": 1226608793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51959,31.72395,44.51959,31.72395",
+    "geom:latitude":31.72395,
+    "geom:longitude":44.51959,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166552.0",
+    "gn:asciiname":"At Tubi",
+    "gn:country_code":"IQ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386330,
+    "gn:latitude":31.72395,
+    "gn:longitude":44.51959,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"At T\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0648\u0628\u064a"
+    ],
+    "name:ara_x_variant":[
+        "At T\u016bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386330
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7477789e800016c04c7834bc583c089a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562693,
+            "locality_id":1226608793,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1226608793,
+    "wof:lastmodified":1537638782,
+    "wof:name":"At Tubi",
+    "wof:parent_id":1108562693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51959,
+    31.72395,
+    44.51959,
+    31.72395
+],
+  "geometry": {"coordinates":[44.51959,31.72395],"type":"Point"}
+}

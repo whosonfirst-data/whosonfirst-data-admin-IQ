@@ -1,0 +1,74 @@
+{
+  "id": 1259556081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.29805,32.5813,45.29805,32.5813",
+    "geom:latitude":32.5813,
+    "geom:longitude":45.29805,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"9166606.0",
+    "gn:asciiname":"As Sawalim",
+    "gn:country_code":"IQ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6733685,
+    "gn:latitude":32.5813,
+    "gn:longitude":45.29805,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"As Saw\u0101lim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u0627\u0644\u0645"
+    ],
+    "name:und_x_variant":[
+        "As Saw\u0101lim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6733685
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"417080acf8ede38af3495a66b5fc37d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562675,
+            "locality_id":1259556081,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1259556081,
+    "wof:lastmodified":1537639140,
+    "wof:name":"As Sawalim",
+    "wof:parent_id":1108562675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.29805,
+    32.5813,
+    45.29805,
+    32.5813
+],
+  "geometry": {"coordinates":[45.29805,32.5813],"type":"Point"}
+}

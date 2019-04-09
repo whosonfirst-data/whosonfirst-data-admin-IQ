@@ -1,0 +1,90 @@
+{
+  "id": 1226147915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.118,36.26397,45.118,36.26397",
+    "geom:latitude":36.26397,
+    "geom:longitude":45.118,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Dujuman",
+    "gn:country_code":"IQ",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96915,
+    "gn:latitude":36.26397,
+    "gn:longitude":45.118,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"D\u016bj\u016bman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u062c\u0648\u0645\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0648 \u0686\u0648\u0645\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Du Choman"
+    ],
+    "name:kur_x_variant":[
+        "D\u00fb Choman",
+        "\u062f\u0648 \u0686\u06c6\u0645\u0627\u0646",
+        "\u062f\u0648\u0648 \u0686\u06c6\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Do-Djoman",
+        "D\u016bj\u016bman",
+        "D\u016bch\u014dm\u0101n",
+        "D\u016b Chawm\u0101n",
+        "Duchoman",
+        "\u062f\u0648\u062c\u0648\u0645\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96915
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b5df403791ca1685f630a207db1a91b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1226147915,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1226147915,
+    "wof:lastmodified":1537638438,
+    "wof:name":"Dujuman",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.118,
+    36.26397,
+    45.118,
+    36.26397
+],
+  "geometry": {"coordinates":[45.118,36.26397],"type":"Point"}
+}

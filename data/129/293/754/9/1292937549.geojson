@@ -1,0 +1,87 @@
+{
+  "id": 1292937549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.20632,35.30827,45.20632,35.30827",
+    "geom:latitude":35.30827,
+    "geom:longitude":45.20632,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Hamzah Rumi",
+    "gn:country_code":"IQ",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96088,
+    "gn:latitude":35.30827,
+    "gn:longitude":45.20632,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hamzah R\u016bm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0645\u0632\u0629 \u0631\u0648\u0645\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Hemze \u1e5eom\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0647\u06d5\u0645\u0632\u06d5 \u0695\u06c6\u0645\u0649"
+    ],
+    "name:und_x_variant":[
+        "\u1e28amzah R\u016bh\u012b",
+        "Hamzah R\u016bm\u012b",
+        "Hamza R\u016bhi",
+        "Hamzah R\u016bj\u012b",
+        "\u1e28amzah Ar\u016b\u1e29\u012b",
+        "Hamza Romee",
+        "\u0647\u0645\u0632\u0647 \u0631\u0648\u062c\u064a",
+        "\u0647\u0645\u0632\u0629 \u0627\u0631\u0648\u062d\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96088
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c41938151a5a50f50eba2d3bc1253e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1292937549,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1292937549,
+    "wof:lastmodified":1537638361,
+    "wof:name":"Hamzah Rumi",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.20632,
+    35.30827,
+    45.20632,
+    35.30827
+],
+  "geometry": {"coordinates":[45.20632,35.30827],"type":"Point"}
+}

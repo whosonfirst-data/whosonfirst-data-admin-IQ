@@ -1,0 +1,74 @@
+{
+  "id": 1293133839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.57648,31.60544,44.57648,31.60544",
+    "geom:latitude":31.60544,
+    "geom:longitude":44.57648,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"98634.0",
+    "gn:asciiname":"Ja'b Al 'Abd",
+    "gn:country_code":"IQ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6850723,
+    "gn:latitude":31.60544,
+    "gn:longitude":44.57648,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ja\u2018b \u0100l \u2018Abd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0639\u0628 \u0627\u0644 \u0639\u0628\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ja\u2018b \u0100l \u2018Abd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6850723
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"40b8d5ed77a05ee18c7b74cec03b1115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562699,
+            "locality_id":1293133839,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1293133839,
+    "wof:lastmodified":1537639759,
+    "wof:name":"Ja'b Al 'Abd",
+    "wof:parent_id":1108562699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.57648,
+    31.60544,
+    44.57648,
+    31.60544
+],
+  "geometry": {"coordinates":[44.57648,31.60544],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293577501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.82152,35.94565,44.82152,35.94565",
+    "geom:latitude":35.94565,
+    "geom:longitude":44.82152,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166588.0",
+    "gn:asciiname":"Dawud Awah",
+    "gn:country_code":"IQ",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":391151,
+    "gn:latitude":35.94565,
+    "gn:longitude":44.82152,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u0101w\u016bd \u0100wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0648\u062f \u0622\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "D\u0101w\u016bd \u0100wah",
+        "D\u0101ud\u0101w\u0101",
+        "D\u0101w\u016bd\u0101w\u0101",
+        "\u062f\u0627\u0648\u0648\u062f\u0627\u0648\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391151
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e074b3d7d6d2d3a6cdf299a1c4091703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445493,
+            "locality_id":1293577501,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1293577501,
+    "wof:lastmodified":1537638848,
+    "wof:name":"Dawud Awah",
+    "wof:parent_id":890445493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.82152,
+    35.94565,
+    44.82152,
+    35.94565
+],
+  "geometry": {"coordinates":[44.82152,35.94565],"type":"Point"}
+}

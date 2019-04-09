@@ -1,0 +1,72 @@
+{
+  "id": 1242659775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.85733,33.02143,45.85733,33.02143",
+    "geom:latitude":33.02143,
+    "geom:longitude":45.85733,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98197.0",
+    "gn:asciiname":"Imam 'Ali Yithri",
+    "gn:country_code":"IQ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95564,
+    "gn:latitude":33.02143,
+    "gn:longitude":45.85733,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Im\u0101m \u2018Al\u012b Yithr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Im\u0101m \u2018Al\u012b Yithr\u012b",
+        "Im\u0101m Sh\u0101\u012bkh Ali-l-Yathribi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95564
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ea58a6e259f93f2b1dc3f872e92963fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562673,
+            "locality_id":1242659775,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1242659775,
+    "wof:lastmodified":1537638319,
+    "wof:name":"Imam 'Ali Yithri",
+    "wof:parent_id":1108562673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.85733,
+    33.02143,
+    45.85733,
+    33.02143
+],
+  "geometry": {"coordinates":[45.85733,33.02143],"type":"Point"}
+}

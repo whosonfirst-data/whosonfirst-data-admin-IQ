@@ -1,0 +1,68 @@
+{
+  "id": 1327157077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.10389,35.35639,45.10389,35.35639",
+    "geom:latitude":35.35639,
+    "geom:longitude":45.10389,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Dudar",
+    "gn:country_code":"IQ",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":96912,
+    "gn:latitude":35.35639,
+    "gn:longitude":45.10389,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dudar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96912
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"52bbb91981fa4b0ea8fdc5b5482dde6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1327157077,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1327157077,
+    "wof:lastmodified":1537075287,
+    "wof:name":"Dudar",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.10389,
+    35.35639000000001,
+    45.10389,
+    35.35639000000001
+],
+  "geometry": {"coordinates":[45.10389,35.35639000000001],"type":"Point"}
+}

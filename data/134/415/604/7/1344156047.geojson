@@ -1,0 +1,87 @@
+{
+  "id": 1344156047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.15957,35.83394,45.15957,35.83394",
+    "geom:latitude":35.83394,
+    "geom:longitude":45.15957,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Shadalah Khuwaru",
+    "gn:country_code":"IQ",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91211,
+    "gn:latitude":35.83394,
+    "gn:longitude":45.15957,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shadalah Khuw\u0101r\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u062f\u0644\u0629 \u062e\u0648\u0627\u0631\u0648"
+    ],
+    "name:kur_x_preferred":[
+        "Shede\u0142e Xwar\u00fb"
+    ],
+    "name:kur_x_variant":[
+        "Shede\u0142ey Xwar\u00fb",
+        "\u0634\u06d5\u062f\u06d5\u06b5\u06d5 \u062e\u0648\u0627\u0631\u0648\u0648",
+        "\u0634\u06d5\u062f\u06d5\u06b5\u06d5\u0649 \u062e\u0648\u0627\u0631\u0648\u0648"
+    ],
+    "name:und_x_variant":[
+        "Shadalah Khuw\u0101r\u016b",
+        "Shadala-i Khw\u0101r\u016b",
+        "Shadala Lower",
+        "Shadala",
+        "Shadahlah",
+        "Sh\u0101d\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91211
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b018b8c62b9fc85f5950446af774e7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1344156047,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1344156047,
+    "wof:lastmodified":1537637941,
+    "wof:name":"Shadalah Khuwaru",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.15957,
+    35.83394000000001,
+    45.15957,
+    35.83394000000001
+],
+  "geometry": {"coordinates":[45.15957,35.83394000000001],"type":"Point"}
+}

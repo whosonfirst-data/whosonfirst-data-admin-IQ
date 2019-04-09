@@ -1,0 +1,75 @@
+{
+  "id": 421190747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.272941,31.32094,45.272941,31.32094",
+    "geom:latitude":31.32094,
+    "geom:longitude":45.272941,
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u0633\u0645\u0627\u0648\u0627",
+    "qs:name_adm0":"Iraq",
+    "qs:name_adm1":"Al Muthanna",
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1120300,
+    "qs:woe_adm0":23424855,
+    "qs:woe_id":1979433,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        421205333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1979433,
+        "qs:id":1120300
+    },
+    "wof:country":"IQ",
+    "wof:created":1459009668,
+    "wof:geomhash":"9e3fe48db80f53bf5cef555a8e420196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421205333,
+            "locality_id":421190747,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":421190747,
+    "wof:lastmodified":1500012239,
+    "wof:name":"\u0627\u0644\u0633\u0645\u0627\u0648\u0627",
+    "wof:parent_id":421205333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.272941,
+    31.32094,
+    45.272941,
+    31.32094
+],
+  "geometry": {"coordinates":[45.272941,31.32094],"type":"Point"}
+}

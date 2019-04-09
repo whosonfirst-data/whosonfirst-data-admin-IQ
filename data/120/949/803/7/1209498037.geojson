@@ -1,0 +1,76 @@
+{
+  "id": 1209498037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.7041,36.59221,42.7041,36.59221",
+    "geom:latitude":36.59221,
+    "geom:longitude":42.7041,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"'Ayn Mana",
+    "gn:country_code":"IQ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98302,
+    "gn:latitude":36.59221,
+    "gn:longitude":42.7041,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Ayn Man\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0645\u0646\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "\u2018Eyn Menar"
+    ],
+    "name:kur_x_variant":[
+        "\u0639\u06d5\u064a\u0646 \u0645\u06d5\u0646\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn Mana",
+        "Ain Manar",
+        "\u2018Ayn Man\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98302
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1c607e3b6c5fd23c6f9261bd228cfc39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209498037
+        }
+    ],
+    "wof:id":1209498037,
+    "wof:lastmodified":1537638596,
+    "wof:name":"'Ayn Mana",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.7041,
+    36.59221,
+    42.7041,
+    36.59221
+],
+  "geometry": {"coordinates":[42.7041,36.59221],"type":"Point"}
+}

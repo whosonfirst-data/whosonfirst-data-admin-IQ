@@ -1,0 +1,87 @@
+{
+  "id": 1276212337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03091,37.07769,43.03091,37.07769",
+    "geom:latitude":37.07769,
+    "geom:longitude":43.03091,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"97269.0",
+    "gn:asciiname":"Ra's al 'Ayn as Sufla",
+    "gn:country_code":"IQ",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447867,
+    "gn:latitude":37.07769,
+    "gn:longitude":43.03091,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Ra\u2019s al \u2018Ayn as Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u0633\u0641\u0644\u0649"
+    ],
+    "name:kur_x_preferred":[
+        "\u1e5eas Eyn"
+    ],
+    "name:kur_x_variant":[
+        "\u0695\u0627\u0633 \u0626\u06d5\u064a\u0646",
+        "Ras El\u2018eyn J\u00ear\u00ee",
+        "\u0631\u0627\u0633 \u0626\u06d5\u0644\u0639\u06d5\u064a\u0646 \u0698\u06ce\u0631\u0649",
+        "Rasil\u2018eyn",
+        "\u0631\u0627\u0633\u0644\u0639\u06d5\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ras Ain",
+        "Ra\u2019s al \u2018Ayn as Sufl\u00e1",
+        "Ras Alain Lower",
+        "Ayn Sufla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421204025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447867
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"dd90cbca372f4be0655f8b0b65e207a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421204025,
+            "locality_id":1276212337,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1276212337,
+    "wof:lastmodified":1537639056,
+    "wof:name":"Ra's al 'Ayn as Sufla",
+    "wof:parent_id":421204025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03091,
+    37.07769,
+    43.03091,
+    37.07769
+],
+  "geometry": {"coordinates":[43.03091,37.07769],"type":"Point"}
+}

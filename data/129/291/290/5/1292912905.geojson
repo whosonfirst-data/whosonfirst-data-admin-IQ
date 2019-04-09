@@ -1,0 +1,74 @@
+{
+  "id": 1292912905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.44618,32.02268,42.44618,32.02268",
+    "geom:latitude":32.02268,
+    "geom:longitude":42.44618,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"98678.0",
+    "gn:asciiname":"'Uzman",
+    "gn:country_code":"IQ",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6765855,
+    "gn:latitude":32.02268,
+    "gn:longitude":42.44618,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Uz\u0327m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0639\u0638\u0645\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Uz\u0327m\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        1108562667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6765855
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b785096f6436f4c404ed1ea1b4c4380d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562667,
+            "locality_id":1292912905,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1292912905,
+    "wof:lastmodified":1537639238,
+    "wof:name":"'Uzman",
+    "wof:parent_id":1108562667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.44618,
+    32.02268,
+    42.44618,
+    32.02268
+],
+  "geometry": {"coordinates":[42.44618,32.02268],"type":"Point"}
+}

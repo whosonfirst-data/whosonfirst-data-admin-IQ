@@ -1,0 +1,74 @@
+{
+  "id": 1326893641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.05896,33.9603,44.05896,33.9603",
+    "geom:latitude":33.9603,
+    "geom:longitude":44.05896,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6805736.0",
+    "gn:asciiname":"Kamil 'Ayfmal",
+    "gn:country_code":"IQ",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805276,
+    "gn:latitude":33.9603,
+    "gn:longitude":44.05896,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u0101mil \u2018Ayfm\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0645\u0644 \u0639\u064a\u0641\u0645\u0627\u0644"
+    ],
+    "name:ara_x_variant":[
+        "K\u0101mil \u2018Ayfm\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        421180939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805276
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7e447a2ab5c25d4d9b4d2a0b9b9a9696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421180939,
+            "locality_id":1326893641,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1326893641,
+    "wof:lastmodified":1537639561,
+    "wof:name":"Kamil 'Ayfmal",
+    "wof:parent_id":421180939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.05896,
+    33.9603,
+    44.05896,
+    33.9603
+],
+  "geometry": {"coordinates":[44.05896,33.9603],"type":"Point"}
+}

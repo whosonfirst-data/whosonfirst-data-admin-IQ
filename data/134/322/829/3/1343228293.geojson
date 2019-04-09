@@ -1,0 +1,74 @@
+{
+  "id": 1343228293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16285,34.07666,44.16285,34.07666",
+    "geom:latitude":34.07666,
+    "geom:longitude":44.16285,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"'Arab Albu Qaraj",
+    "gn:country_code":"IQ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6916885,
+    "gn:latitude":34.07666,
+    "gn:longitude":44.16285,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab Alb\u016b Qar\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0627\u0644\u0628\u0648 \u0642\u0631\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab Alb\u016b Qar\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6916885
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"131f9e6a9ebb5348670efac2f24b5e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562773,
+            "locality_id":1343228293,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1343228293,
+    "wof:lastmodified":1537639818,
+    "wof:name":"'Arab Albu Qaraj",
+    "wof:parent_id":1108562773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16285,
+    34.07666,
+    44.16285,
+    34.07666
+],
+  "geometry": {"coordinates":[44.16285,34.07666],"type":"Point"}
+}

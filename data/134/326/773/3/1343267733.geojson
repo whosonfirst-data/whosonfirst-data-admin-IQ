@@ -1,0 +1,71 @@
+{
+  "id": 1343267733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.14258,32.10007,45.14258,32.10007",
+    "geom:latitude":32.10007,
+    "geom:longitude":45.14258,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99737.0",
+    "gn:asciiname":"Al Mazn",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6739194,
+    "gn:latitude":32.10007,
+    "gn:longitude":45.14258,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mazn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6739194
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"cce15f95334de505fb0e7e6d0ae00022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562687,
+            "locality_id":1343267733,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1343267733,
+    "wof:lastmodified":1537639152,
+    "wof:name":"Al Mazn",
+    "wof:parent_id":1108562687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.14258,
+    32.10007,
+    45.14258,
+    32.10007
+],
+  "geometry": {"coordinates":[45.14258,32.10007],"type":"Point"}
+}

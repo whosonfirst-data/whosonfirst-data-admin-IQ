@@ -1,0 +1,74 @@
+{
+  "id": 1293297503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.96417,35.94499,44.96417,35.94499",
+    "geom:latitude":35.94499,
+    "geom:longitude":44.96417,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Zirandul",
+    "gn:country_code":"IQ",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7350102,
+    "gn:latitude":35.94499,
+    "gn:longitude":44.96417,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Z\u012br\u0101nd\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Z\u012br\u0101nd\u016bl"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u064a\u0631\u0627\u0646\u062f\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7350102
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e3ffae9fed8236bd93b19a4dc762c45a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1293297503,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1293297503,
+    "wof:lastmodified":1537640009,
+    "wof:name":"Zirandul",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.96417,
+    35.94499000000001,
+    44.96417,
+    35.94499000000001
+],
+  "geometry": {"coordinates":[44.96417,35.94499000000001],"type":"Point"}
+}

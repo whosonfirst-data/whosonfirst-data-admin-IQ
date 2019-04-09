@@ -1,0 +1,65 @@
+{
+  "id": 1209028649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36667,32.7,44.36667,32.7",
+    "geom:latitude":32.7,
+    "geom:longitude":44.36667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"Qal'at 'Abbas az Zahir",
+    "gn:country_code":"IQ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92661,
+    "gn:latitude":32.7,
+    "gn:longitude":44.36667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qal\u2018at \u2018Abb\u0101s az\u0327 Z\u0327\u0101hir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018at \u2018Abb\u0101s az\u0327 Z\u0327\u0101hir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92661
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5ae1006de8a32de040f0f67c1ef12e7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209028649
+        }
+    ],
+    "wof:id":1209028649,
+    "wof:lastmodified":1537638067,
+    "wof:name":"Qal'at 'Abbas az Zahir",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36667,
+    32.7,
+    44.36667,
+    32.7
+],
+  "geometry": {"coordinates":[44.36667,32.7],"type":"Point"}
+}

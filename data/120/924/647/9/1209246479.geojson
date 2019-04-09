@@ -1,0 +1,78 @@
+{
+  "id": 1209246479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08874,34.87734,45.08874,34.87734",
+    "geom:latitude":34.87734,
+    "geom:longitude":45.08874,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Smaqe",
+    "gn:country_code":"IQ",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90536,
+    "gn:latitude":34.87734,
+    "gn:longitude":45.08874,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Smaqe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0645\u0627\u0642\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Sumaq"
+    ],
+    "name:kur_x_variant":[
+        "Smaqe",
+        "\u0633\u0648\u0645\u0627\u0642",
+        "\u0633\u0645\u0627\u0642\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Sam\u0101q",
+        "S\u016bm\u0101qah",
+        "Sum\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90536
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5efe14b8ef7a90c6ac0fd800736cf50c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209246479
+        }
+    ],
+    "wof:id":1209246479,
+    "wof:lastmodified":1537637875,
+    "wof:name":"Smaqe",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08874,
+    34.87734,
+    45.08874,
+    34.87734
+],
+  "geometry": {"coordinates":[45.08874,34.87734],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1360307797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.63608,36.84256,42.63608,36.84256",
+    "geom:latitude":36.84256,
+    "geom:longitude":42.63608,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9166607.0",
+    "gn:asciiname":"Aftahil",
+    "gn:country_code":"IQ",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":95060,
+    "gn:latitude":36.84256,
+    "gn:longitude":42.63608,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100fta\u1e29il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0641\u062a\u062d\u0644"
+    ],
+    "name:kur_x_preferred":[
+        "Efnexel"
+    ],
+    "name:kur_x_variant":[
+        "\u0626\u06d5\u0641\u0646\u06d5\u062e\u06d5\u0644",
+        "Avte\u1e27l\u00ea",
+        "\u0626\u0627\u06a4\u062a\u06d5\u062d\u0644\u06ce",
+        "Av Te\u1e27l\u00ea",
+        "\u0626\u0627\u06a4 \u062a\u06d5\u062d\u0644\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Ifta\u1e29al",
+        "Juwaishat",
+        "Juwaysh\u0101n",
+        "Juwaysh\u0101t",
+        "Afnakhal",
+        "Afta\u1e29il",
+        "Avtahle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        1108562637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95060
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b54533f9f38c6917090ab1ad07cbcfd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562637,
+            "locality_id":1360307797,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1360307797,
+    "wof:lastmodified":1537638293,
+    "wof:name":"Aftahil",
+    "wof:parent_id":1108562637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.63608,
+    36.84256,
+    42.63608,
+    36.84256
+],
+  "geometry": {"coordinates":[42.63608,36.84256],"type":"Point"}
+}

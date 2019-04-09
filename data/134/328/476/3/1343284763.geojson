@@ -1,0 +1,84 @@
+{
+  "id": 1343284763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.28306,35.04068,45.28306,35.04068",
+    "geom:latitude":35.04068,
+    "geom:longitude":45.28306,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Kurdamir Haji Husayn",
+    "gn:country_code":"IQ",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94124,
+    "gn:latitude":35.04068,
+    "gn:longitude":45.28306,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kurdam\u012br \u1e28\u0101j\u012b \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062f\u0645\u064a\u0631 \u062d\u0627\u062c\u064a \u062d\u0633\u064a\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Kurde M\u00eer\u00ee Feq\u00ea \u1e26s\u00ean"
+    ],
+    "name:kur_x_variant":[
+        "Kurde M\u00eer \u1e26ac\u00ee \u1e26s\u00ean",
+        "\u0643\u0648\u0631\u062f\u06d5 \u0645\u064a\u0631\u0649 \u0641\u06d5\u0642\u06ce \u062d\u0633\u06ce\u0646",
+        "\u0643\u0648\u0631\u062f\u06d5 \u0645\u064a\u0631 \u062d\u0627\u062c\u0649 \u062d\u0633\u06ce\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kurdam\u012br \u1e28\u0101j\u012b \u1e28usayn",
+        "Kurdam\u012br-i \u1e28\u0101j\u012b \u1e28usayn",
+        "Kurda Mir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94124
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8a028c7fcbfd384e7b85ce449f749f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1343284763,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1343284763,
+    "wof:lastmodified":1537638193,
+    "wof:name":"Kurdamir Haji Husayn",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.28306,
+    35.04068,
+    45.28306,
+    35.04068
+],
+  "geometry": {"coordinates":[45.28306,35.04068],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293022947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28413,32.90415,44.28413,32.90415",
+    "geom:latitude":32.90415,
+    "geom:longitude":44.28413,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"6818313.0",
+    "gn:asciiname":"'Arab Suhayl Najm",
+    "gn:country_code":"IQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817729,
+    "gn:latitude":32.90415,
+    "gn:longitude":44.28413,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab Suhayl Najm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0633\u0647\u064a\u0644 \u0646\u062c\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab Suhayl Najm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421188909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817729
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7ad062f5f0816ca66823fc944d74b40a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421188909,
+            "locality_id":1293022947,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1293022947,
+    "wof:lastmodified":1537639633,
+    "wof:name":"'Arab Suhayl Najm",
+    "wof:parent_id":421188909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28413,
+    32.90415,
+    44.28413,
+    32.90415
+],
+  "geometry": {"coordinates":[44.28413,32.90415],"type":"Point"}
+}

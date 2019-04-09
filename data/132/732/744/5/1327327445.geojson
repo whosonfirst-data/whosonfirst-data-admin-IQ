@@ -1,0 +1,76 @@
+{
+  "id": 1327327445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65869,34.37687,44.65869,34.37687",
+    "geom:latitude":34.37687,
+    "geom:longitude":44.65869,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94296.0",
+    "gn:asciiname":"Hasan az Za'an",
+    "gn:country_code":"IQ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759335,
+    "gn:latitude":34.37687,
+    "gn:longitude":44.65869,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28asan az\u0327 Z\u0327a\u2018an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u0646 \u0627\u0644\u0638\u0639\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e28usayn az\u0327 Z\u0327a\u2018an",
+        "\u062d\u0633\u064a\u0646 \u0627\u0644\u0638\u0639\u0646",
+        "\u1e28asan az\u0327 Z\u0327a\u2018an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759335
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"10c83e2e2935aa17b26320492e070e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562653,
+            "locality_id":1327327445,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1327327445,
+    "wof:lastmodified":1537639213,
+    "wof:name":"Hasan az Za'an",
+    "wof:parent_id":1108562653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65869,
+    34.37687,
+    44.65869,
+    34.37687
+],
+  "geometry": {"coordinates":[44.65869,34.37687],"type":"Point"}
+}

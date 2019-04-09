@@ -1,0 +1,71 @@
+{
+  "id": 1326918315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24598,36.65002,44.24598,36.65002",
+    "geom:latitude":36.65002,
+    "geom:longitude":44.24598,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166591.0",
+    "gn:asciiname":"Kani Nisanok",
+    "gn:country_code":"IQ",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8677748,
+    "gn:latitude":36.65002,
+    "gn:longitude":44.24598,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Kani Nisanok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Kani Nisanok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8677748
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"da01a37bead755dc6affe81ed2db7ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562757,
+            "locality_id":1326918315,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1326918315,
+    "wof:lastmodified":1537640101,
+    "wof:name":"Kani Nisanok",
+    "wof:parent_id":1108562757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24598,
+    36.65002,
+    44.24598,
+    36.65002
+],
+  "geometry": {"coordinates":[44.24598,36.65002],"type":"Point"}
+}

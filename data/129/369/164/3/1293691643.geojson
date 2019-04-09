@@ -1,0 +1,77 @@
+{
+  "id": 1293691643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0913,36.36318,45.0913,36.36318",
+    "geom:latitude":36.36318,
+    "geom:longitude":45.0913,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Barikan",
+    "gn:country_code":"IQ",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97918,
+    "gn:latitude":36.36318,
+    "gn:longitude":45.0913,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Barikan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101r\u012bk\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0631\u064a\u0643\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Bar\u00eekan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97918
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"206bf4e8fe75e6df02865679e7b8a2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1293691643,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1293691643,
+    "wof:lastmodified":1537638555,
+    "wof:name":"Barikan",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0913,
+    36.36318,
+    45.0913,
+    36.36318
+],
+  "geometry": {"coordinates":[45.0913,36.36318],"type":"Point"}
+}

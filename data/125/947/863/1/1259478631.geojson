@@ -1,0 +1,86 @@
+{
+  "id": 1259478631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99054,37.13508,43.99054,37.13508",
+    "geom:latitude":37.13508,
+    "geom:longitude":43.99054,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Suriyah",
+    "gn:country_code":"IQ",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":90492,
+    "gn:latitude":37.13508,
+    "gn:longitude":43.99054,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"S\u016br\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0631\u064a\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Suriye"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u0648\u0631\u064a\u06d5",
+        "S\u00fbriyan",
+        "\u0633\u0648\u0648\u0631\u064a\u0627\u0646",
+        "Suriyan",
+        "\u0633\u0648\u0631\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Swria",
+        "S\u016briya",
+        "S\u016br\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90492
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"cf81ee2818bf0299a5a2f54756f9cf60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1259478631,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1259478631,
+    "wof:lastmodified":1537637869,
+    "wof:name":"Suriyah",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99054,
+    37.13508,
+    43.99054,
+    37.13508
+],
+  "geometry": {"coordinates":[43.99054,37.13508],"type":"Point"}
+}

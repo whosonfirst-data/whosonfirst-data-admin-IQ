@@ -1,0 +1,71 @@
+{
+  "id": 1327315993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.90301,32.52309,45.90301,32.52309",
+    "geom:latitude":32.52309,
+    "geom:longitude":45.90301,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"99132.0",
+    "gn:asciiname":"Al Qamar",
+    "gn:country_code":"IQ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6769290,
+    "gn:latitude":32.52309,
+    "gn:longitude":45.90301,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0645\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        421186459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6769290
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"038e6dac6052ff9f736474d06627e251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186459,
+            "locality_id":1327315993,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1327315993,
+    "wof:lastmodified":1537639243,
+    "wof:name":"Al Qamar",
+    "wof:parent_id":421186459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.90301,
+    32.52309,
+    45.90301,
+    32.52309
+],
+  "geometry": {"coordinates":[45.90301,32.52309],"type":"Point"}
+}

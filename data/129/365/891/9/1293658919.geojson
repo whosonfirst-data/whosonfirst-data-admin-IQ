@@ -1,0 +1,74 @@
+{
+  "id": 1293658919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.37789,32.66044,45.37789,32.66044",
+    "geom:latitude":32.66044,
+    "geom:longitude":45.37789,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"9166961.0",
+    "gn:asciiname":"Barhujah",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6733756,
+    "gn:latitude":32.66044,
+    "gn:longitude":45.37789,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Barh\u016bjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0647\u0648\u062c\u0647"
+    ],
+    "name:und_x_variant":[
+        "Barh\u016bjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6733756
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5b87403e4ee7e59125e937d2714e05be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562781,
+            "locality_id":1293658919,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1293658919,
+    "wof:lastmodified":1537639142,
+    "wof:name":"Barhujah",
+    "wof:parent_id":1108562781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.37789,
+    32.66044,
+    45.37789,
+    32.66044
+],
+  "geometry": {"coordinates":[45.37789,32.66044],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1343666855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.22645,34.82309,45.22645,34.82309",
+    "geom:latitude":34.82309,
+    "geom:longitude":45.22645,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Zardah Mahmud Qadir",
+    "gn:country_code":"IQ",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89514,
+    "gn:latitude":34.82309,
+    "gn:longitude":45.22645,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Zardah Ma\u1e29m\u016bd Q\u0101dir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0631\u062f\u0629 \u0645\u062d\u0645\u0648\u062f \u0642\u0627\u062f\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u0631\u062f \u0642\u0627\u062f\u0631",
+        "\u0632\u0631\u062f \u0642\u0627\u062f\u0631 \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:kur_x_preferred":[
+        "Zerd\u00ee Qadr"
+    ],
+    "name:kur_x_variant":[
+        "\u0632\u06d5\u0631\u062f\u0649 \u0642\u0627\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Zarda Q\u0101dir Ma\u1e29m\u016bd",
+        "Zardah Ma\u1e29m\u016bd Q\u0101dir",
+        "Zard Ma\u1e29m\u016bd N\u0101dir",
+        "\u0632\u0631\u062f \u0645\u062d\u0645\u0648\u062f \u0646\u0627\u062f\u0631",
+        "Zard Q\u0101dir",
+        "Zard Q\u0101dir Ma\u1e29m\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89514
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bfeded1e51fb49d377b1d73dd1ee9720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1343666855,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1343666855,
+    "wof:lastmodified":1537637786,
+    "wof:name":"Zardah Mahmud Qadir",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.22645,
+    34.82309,
+    45.22645,
+    34.82309
+],
+  "geometry": {"coordinates":[45.22645,34.82309],"type":"Point"}
+}

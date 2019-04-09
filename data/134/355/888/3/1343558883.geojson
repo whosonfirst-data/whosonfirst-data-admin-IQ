@@ -1,0 +1,74 @@
+{
+  "id": 1343558883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6967,32.24037,44.6967,32.24037",
+    "geom:latitude":32.24037,
+    "geom:longitude":44.6967,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99358.0",
+    "gn:asciiname":"Hajj Ma'arij 'Akrab",
+    "gn:country_code":"IQ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789363,
+    "gn:latitude":32.24037,
+    "gn:longitude":44.6967,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28\u0101jj Ma\u2018\u0101rij \u2018Akrab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u062c \u0645\u0639\u0627\u0631\u062c \u0639\u0643\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101jj Ma\u2018\u0101rij \u2018Akrab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789363
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d5817a8733924ac76064faed7dba350f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562689,
+            "locality_id":1343558883,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1343558883,
+    "wof:lastmodified":1537639479,
+    "wof:name":"Hajj Ma'arij 'Akrab",
+    "wof:parent_id":1108562689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6967,
+    32.24037,
+    44.6967,
+    32.24037
+],
+  "geometry": {"coordinates":[44.6967,32.24037],"type":"Point"}
+}

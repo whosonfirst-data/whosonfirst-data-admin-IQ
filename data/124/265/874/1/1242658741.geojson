@@ -1,0 +1,68 @@
+{
+  "id": 1242658741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.53105,36.12619,44.53105,36.12619",
+    "geom:latitude":36.12619,
+    "geom:longitude":44.53105,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166588.0",
+    "gn:asciiname":"Kani Gund",
+    "gn:country_code":"IQ",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8429343,
+    "gn:latitude":36.12619,
+    "gn:longitude":44.53105,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Kani Gund",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8429343
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a1fc05013cb0266f51570946f5f676d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445493,
+            "locality_id":1242658741,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1242658741,
+    "wof:lastmodified":1536947354,
+    "wof:name":"Kani Gund",
+    "wof:parent_id":890445493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.53105,
+    36.12619,
+    44.53105,
+    36.12619
+],
+  "geometry": {"coordinates":[44.53105,36.12619],"type":"Point"}
+}

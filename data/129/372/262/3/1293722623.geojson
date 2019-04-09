@@ -1,0 +1,74 @@
+{
+  "id": 1293722623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.62693,31.81605,44.62693,31.81605",
+    "geom:latitude":31.81605,
+    "geom:longitude":44.62693,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"98634.0",
+    "gn:asciiname":"Tall ar Radad",
+    "gn:country_code":"IQ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6850377,
+    "gn:latitude":31.81605,
+    "gn:longitude":44.62693,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tall ar Rad\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0631\u062f\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Tall ar Rad\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6850377
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f8aa9bc38d4bda5dac6ca55fd7cff0d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562699,
+            "locality_id":1293722623,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1293722623,
+    "wof:lastmodified":1537639749,
+    "wof:name":"Tall ar Radad",
+    "wof:parent_id":1108562699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.62693,
+    31.81605,
+    44.62693,
+    31.81605
+],
+  "geometry": {"coordinates":[44.62693,31.81605],"type":"Point"}
+}

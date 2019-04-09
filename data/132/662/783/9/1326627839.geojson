@@ -1,0 +1,78 @@
+{
+  "id": 1326627839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34603,32.68792,44.34603,32.68792",
+    "geom:latitude":32.68792,
+    "geom:longitude":44.34603,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"Qaryat 'Abud Sitar",
+    "gn:country_code":"IQ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100105,
+    "gn:latitude":32.68792,
+    "gn:longitude":44.34603,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat \u2018Ab\u016bd Si\u0163\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0639\u0628\u0648\u062f \u0633\u0637\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abd al Mann\u0101n",
+        "\u2018Abdul Man\u0101n",
+        "\u2018Abd al Man\u0101m",
+        "Qaryat \u2018Abb\u016bd Si\u0163\u0101r",
+        "Qaryat \u2018Ab\u016bd Si\u0163\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421172849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100105
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"683702357866c78ae12d5d88963a5d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172849,
+            "locality_id":1326627839,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1326627839,
+    "wof:lastmodified":1537638708,
+    "wof:name":"Qaryat 'Abud Sitar",
+    "wof:parent_id":421172849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34603,
+    32.68792,
+    44.34603,
+    32.68792
+],
+  "geometry": {"coordinates":[44.34603,32.68792],"type":"Point"}
+}

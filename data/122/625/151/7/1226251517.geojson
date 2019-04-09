@@ -1,0 +1,77 @@
+{
+  "id": 1226251517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.67845,30.76111,47.67845,30.76111",
+    "geom:latitude":30.76111,
+    "geom:longitude":47.67845,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"99534.0",
+    "gn:asciiname":"Qaryat az Zurayji",
+    "gn:country_code":"IQ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89351,
+    "gn:latitude":30.76111,
+    "gn:longitude":47.67845,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat az Zurayj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0632\u0631\u064a\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Zaraji",
+        "Zurayq\u012b",
+        "Zurayj\u012b",
+        "Qaryat az Zurayj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89351
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3bf8fbbc0e376202b1f2aeea5868c4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562731,
+            "locality_id":1226251517,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1226251517,
+    "wof:lastmodified":1537637767,
+    "wof:name":"Qaryat az Zurayji",
+    "wof:parent_id":1108562731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.67845,
+    30.76111,
+    47.67845,
+    30.76111
+],
+  "geometry": {"coordinates":[47.67845,30.76111],"type":"Point"}
+}

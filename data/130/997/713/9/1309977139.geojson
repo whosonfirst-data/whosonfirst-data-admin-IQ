@@ -1,0 +1,71 @@
+{
+  "id": 1309977139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.87444,31.54944,46.87444,31.54944",
+    "geom:latitude":31.54944,
+    "geom:longitude":46.87444,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9166562.0",
+    "gn:asciiname":"Salaf Hamish",
+    "gn:country_code":"IQ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386700,
+    "gn:latitude":31.54944,
+    "gn:longitude":46.87444,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Salaf H\u0101mish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salaf H\u0101mish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386700
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3769a2fc24bfacd22d50ca6cb9d06563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562709,
+            "locality_id":1309977139,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1309977139,
+    "wof:lastmodified":1537638785,
+    "wof:name":"Salaf Hamish",
+    "wof:parent_id":1108562709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.87444,
+    31.54944,
+    46.87444,
+    31.54944
+],
+  "geometry": {"coordinates":[46.87444,31.54944],"type":"Point"}
+}

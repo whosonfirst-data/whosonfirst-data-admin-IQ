@@ -1,0 +1,87 @@
+{
+  "id": 1242869759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46889,37.2009,43.46889,37.2009",
+    "geom:latitude":37.2009,
+    "geom:longitude":43.46889,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Bit Nurah",
+    "gn:country_code":"IQ",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390821,
+    "gn:latitude":37.2009,
+    "gn:longitude":43.46889,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Bit N\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062a \u0646\u0648\u0631\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "B\u00eat Nure"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06ce\u062a \u0646\u0648\u0631\u06d5",
+        "B\u00eate Nur\u00ea",
+        "\u0628\u06ce\u062a\u06d5 \u0646\u0648\u0631\u06ce",
+        "B\u00eatnur\u00ea",
+        "\u0628\u06ce\u062a\u0646\u0648\u0631\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Bt Nura",
+        "B\u0113t\u0101n\u016br",
+        "Bit N\u016brah",
+        "Betnure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390821
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"13cb43822a0c5891f44ff33c66f2b332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1242869759,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1242869759,
+    "wof:lastmodified":1537638828,
+    "wof:name":"Bit Nurah",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46889,
+    37.2009,
+    43.46889,
+    37.2009
+],
+  "geometry": {"coordinates":[43.46889,37.2009],"type":"Point"}
+}

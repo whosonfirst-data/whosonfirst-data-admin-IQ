@@ -1,0 +1,84 @@
+{
+  "id": 1226047479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.23957,36.01994,45.23957,36.01994",
+    "geom:latitude":36.01994,
+    "geom:longitude":45.23957,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Raban",
+    "gn:country_code":"IQ",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":92120,
+    "gn:latitude":36.01994,
+    "gn:longitude":45.23957,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Raban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0631\u0628\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "\u1e5eeben"
+    ],
+    "name:kur_x_variant":[
+        "\u0695\u06d5\u0628\u06d5\u0646",
+        "\u1e5eabin",
+        "\u0695\u0627\u0628\u0646"
+    ],
+    "name:und_x_variant":[
+        "Rban",
+        "Raban",
+        "Rabn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92120
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a53b650ad996da13f7f90af844752b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1226047479,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1226047479,
+    "wof:lastmodified":1537638013,
+    "wof:name":"Raban",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.23957,
+    36.01994000000001,
+    45.23957,
+    36.01994000000001
+],
+  "geometry": {"coordinates":[45.23957,36.01994000000001],"type":"Point"}
+}

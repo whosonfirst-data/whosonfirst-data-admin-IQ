@@ -1,0 +1,67 @@
+{
+  "id": 1209913291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.05,34.76667,45.05,34.76667",
+    "geom:latitude":34.76667,
+    "geom:longitude":45.05,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sekhiran",
+    "gn:country_code":"IQ",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91245,
+    "gn:latitude":34.76667,
+    "gn:longitude":45.05,
+    "gn:modification_date":"1994-02-26",
+    "gn:name":"S\u0113khir\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91245
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bf3feec14edf1a2055925953d1cd86b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562653,
+            "locality_id":1209913291,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1209913291,
+    "wof:lastmodified":1536376457,
+    "wof:name":"Sekhiran",
+    "wof:parent_id":1108562653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.05,
+    34.76667,
+    45.05,
+    34.76667
+],
+  "geometry": {"coordinates":[45.05,34.76667],"type":"Point"}
+}

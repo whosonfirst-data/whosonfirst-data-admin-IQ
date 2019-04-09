@@ -1,0 +1,74 @@
+{
+  "id": 1259556789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.01405,35.63435,43.01405,35.63435",
+    "geom:latitude":35.63435,
+    "geom:longitude":43.01405,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"99414.0",
+    "gn:asciiname":"Bayt Muhammad al Fathwan",
+    "gn:country_code":"IQ",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804396,
+    "gn:latitude":35.63435,
+    "gn:longitude":43.01405,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Mu\u1e29ammad al Fathw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u062d\u0645\u062f \u0627\u0644\u0641\u062b\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bayt Mu\u1e29ammad al Fathw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804396
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e75d316ad851d5e94e7b8200364be582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562641,
+            "locality_id":1259556789,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1259556789,
+    "wof:lastmodified":1537639552,
+    "wof:name":"Bayt Muhammad al Fathwan",
+    "wof:parent_id":1108562641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.01405,
+    35.63435,
+    43.01405,
+    35.63435
+],
+  "geometry": {"coordinates":[43.01405,35.63435],"type":"Point"}
+}

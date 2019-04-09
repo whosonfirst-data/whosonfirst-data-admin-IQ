@@ -1,0 +1,77 @@
+{
+  "id": 1293860265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51734,35.31324,44.51734,35.31324",
+    "geom:latitude":35.31324,
+    "geom:longitude":44.51734,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9166581.0",
+    "gn:asciiname":"Laylan",
+    "gn:country_code":"IQ",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94001,
+    "gn:latitude":35.31324,
+    "gn:longitude":44.51734,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Layl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Gayl\u0101n",
+        "Lailan",
+        "Layl\u0101n",
+        "Laylan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94001
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"73780547c220098a9b052af6ccd25c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562775,
+            "locality_id":1293860265,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1293860265,
+    "wof:lastmodified":1537638182,
+    "wof:name":"Laylan",
+    "wof:parent_id":1108562775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51734,
+    35.31324,
+    44.51734,
+    35.31324
+],
+  "geometry": {"coordinates":[44.51734,35.31324],"type":"Point"}
+}

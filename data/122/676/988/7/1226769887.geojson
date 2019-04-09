@@ -1,0 +1,84 @@
+{
+  "id": 1226769887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36208,36.94545,43.36208,36.94545",
+    "geom:latitude":36.94545,
+    "geom:longitude":43.36208,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Cheluke Spindar",
+    "gn:country_code":"IQ",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8729580,
+    "gn:latitude":36.94545,
+    "gn:longitude":43.36208,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Cheluk\u00ea Sp\u00eendar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0648\u0643\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Cheluk\u00ea Sp\u00eendar"
+    ],
+    "name:kur_x_variant":[
+        "\u0686\u06d5\u0644\u0648\u0643\u06ce \u0633\u067e\u064a\u0646\u062f\u0627\u0631",
+        "Clul\u00ee",
+        "\u062c\u0644\u0648\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Jal\u016bk\u012b",
+        "Cholok\u012b",
+        "Jluly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8729580
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7f88b7d2e32ebc3e999746e6aa82855f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1226769887,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1226769887,
+    "wof:lastmodified":1537640105,
+    "wof:name":"Cheluke Spindar",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36208,
+    36.94545,
+    43.36208,
+    36.94545
+],
+  "geometry": {"coordinates":[43.36208,36.94545],"type":"Point"}
+}

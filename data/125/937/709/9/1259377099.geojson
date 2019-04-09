@@ -1,0 +1,83 @@
+{
+  "id": 1259377099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4065,34.64588,45.4065,34.64588",
+    "geom:latitude":34.64588,
+    "geom:longitude":45.4065,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Banzamin",
+    "gn:country_code":"IQ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98003,
+    "gn:latitude":34.64588,
+    "gn:longitude":45.4065,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"B\u0101nzam\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0646\u0632\u0645\u064a\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Banzem\u00een Seyd Mu\u1e27emed"
+    ],
+    "name:kur_x_variant":[
+        "Banzem\u00een Seyd M\u1e27emed",
+        "\u0628\u0627\u0646\u0632\u06d5\u0645\u064a\u0646 \u0633\u06d5\u064a\u062f \u0645\u0648\u062d\u06d5\u0645\u06d5\u062f",
+        "\u0628\u0627\u0646\u0632\u06d5\u0645\u064a\u0646 \u0633\u064a\u062f \u0645\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "B\u0101nzam\u012bn",
+        "Banzamin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98003
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"61a1bed9720f6dc8307bde352273e7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1259377099,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1259377099,
+    "wof:lastmodified":1537638566,
+    "wof:name":"Banzamin",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4065,
+    34.64588,
+    45.4065,
+    34.64588
+],
+  "geometry": {"coordinates":[45.4065,34.64588],"type":"Point"}
+}

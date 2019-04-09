@@ -1,0 +1,74 @@
+{
+  "id": 1360268211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.16061,35.24427,42.16061,35.24427",
+    "geom:latitude":35.24427,
+    "geom:longitude":42.16061,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"99414.0",
+    "gn:asciiname":"As Sakhriyat",
+    "gn:country_code":"IQ",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6786967,
+    "gn:latitude":35.24427,
+    "gn:longitude":42.16061,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u015f \u015eakhriy\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u062e\u0631\u064a\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eakhriy\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6786967
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ec702f4a31f10408e9bd073df0fcbdb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562641,
+            "locality_id":1360268211,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1360268211,
+    "wof:lastmodified":1537639401,
+    "wof:name":"As Sakhriyat",
+    "wof:parent_id":1108562641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.16061,
+    35.24427,
+    42.16061,
+    35.24427
+],
+  "geometry": {"coordinates":[42.16061,35.24427],"type":"Point"}
+}

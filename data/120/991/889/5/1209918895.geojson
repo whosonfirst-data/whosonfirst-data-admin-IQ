@@ -1,0 +1,84 @@
+{
+  "id": 1209918895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.96728,35.8057,45.96728,35.8057",
+    "geom:latitude":35.8057,
+    "geom:longitude":45.96728,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166684.0",
+    "gn:asciiname":"Kani Harmay",
+    "gn:country_code":"IQ",
+    "gn:dem":1509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94937,
+    "gn:latitude":35.8057,
+    "gn:longitude":45.96728,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u0101n\u012b Harmay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0646\u064a \u0647\u0631\u0645\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Kan\u00ee Herm\u00ea"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0627\u0646\u0649 \u06be\u06d5\u0631\u0645\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Kani Harame",
+        "K\u0101n\u012b Harme",
+        "K\u0101n\u012b Harm\u012b",
+        "K\u0101n\u012b Harmay",
+        "Kani Harme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94937
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7a334dd390953066be1ed44381e7b8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562765,
+            "locality_id":1209918895,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1209918895,
+    "wof:lastmodified":1537638276,
+    "wof:name":"Kani Harmay",
+    "wof:parent_id":1108562765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.96728,
+    35.8057,
+    45.96728,
+    35.8057
+],
+  "geometry": {"coordinates":[45.96728,35.8057],"type":"Point"}
+}

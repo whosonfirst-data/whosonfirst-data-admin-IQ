@@ -1,0 +1,74 @@
+{
+  "id": 1326851753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.47641,32.96949,44.47641,32.96949",
+    "geom:latitude":32.96949,
+    "geom:longitude":44.47641,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"'Atiyah 'Idan",
+    "gn:country_code":"IQ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817636,
+    "gn:latitude":32.96949,
+    "gn:longitude":44.47641,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018A\u0163\u012byah \u2018\u012ad\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0637\u064a\u0647 \u0639\u064a\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018A\u0163\u012byah \u2018\u012ad\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817636
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"49b0cda3d1eb10e5c3a5ef1ab46082f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1326851753,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1326851753,
+    "wof:lastmodified":1537639628,
+    "wof:name":"'Atiyah 'Idan",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.47641,
+    32.96949,
+    44.47641,
+    32.96949
+],
+  "geometry": {"coordinates":[44.47641,32.96949],"type":"Point"}
+}

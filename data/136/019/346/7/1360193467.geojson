@@ -1,0 +1,74 @@
+{
+  "id": 1360193467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.34972,30.27417,47.34972,30.27417",
+    "geom:latitude":30.27417,
+    "geom:longitude":47.34972,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"98247.0",
+    "gn:asciiname":"Ar Rumaylah",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98689,
+    "gn:latitude":30.27417,
+    "gn:longitude":47.34972,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Rumaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rumaila",
+        "Rumaylah",
+        "Ar Rumaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98689
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"124095c804400102450a93c1c7654eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562727,
+            "locality_id":1360193467,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1360193467,
+    "wof:lastmodified":1537638625,
+    "wof:name":"Ar Rumaylah",
+    "wof:parent_id":1108562727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.34972,
+    30.27417,
+    47.34972,
+    30.27417
+],
+  "geometry": {"coordinates":[47.34972,30.27417],"type":"Point"}
+}

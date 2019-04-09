@@ -1,0 +1,74 @@
+{
+  "id": 1259656159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8076,32.85162,44.8076,32.85162",
+    "geom:latitude":32.85162,
+    "geom:longitude":44.8076,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98460.0",
+    "gn:asciiname":"Qaryat ash Shahid Muhammad Sulayman",
+    "gn:country_code":"IQ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6754258,
+    "gn:latitude":32.85162,
+    "gn:longitude":44.8076,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat ash Shah\u012bd Mu\u1e29ammad Sulaym\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0634\u0647\u064a\u062f \u0645\u062d\u0645\u062f \u0633\u0644\u064a\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qaryat ash Shah\u012bd Mu\u1e29ammad Sulaym\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754258
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8a69b5191f39871f7a04c02fc8dfb4e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562783,
+            "locality_id":1259656159,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1259656159,
+    "wof:lastmodified":1537639184,
+    "wof:name":"Qaryat ash Shahid Muhammad Sulayman",
+    "wof:parent_id":1108562783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8076,
+    32.85162,
+    44.8076,
+    32.85162
+],
+  "geometry": {"coordinates":[44.8076,32.85162],"type":"Point"}
+}

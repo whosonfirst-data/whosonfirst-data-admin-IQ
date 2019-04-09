@@ -1,0 +1,74 @@
+{
+  "id": 1226737831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.67757,35.94665,44.67757,35.94665",
+    "geom:latitude":35.94665,
+    "geom:longitude":44.67757,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166588.0",
+    "gn:asciiname":"Takaltu",
+    "gn:country_code":"IQ",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384661,
+    "gn:latitude":35.94665,
+    "gn:longitude":44.67757,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Takalt\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0643\u0644\u062a\u0648"
+    ],
+    "name:und_x_variant":[
+        "Takalt\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384661
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b5972a98f42fef7f33120d53243f9582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445493,
+            "locality_id":1226737831,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1226737831,
+    "wof:lastmodified":1537638749,
+    "wof:name":"Takaltu",
+    "wof:parent_id":890445493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.67757,
+    35.94665,
+    44.67757,
+    35.94665
+],
+  "geometry": {"coordinates":[44.67757,35.94665],"type":"Point"}
+}

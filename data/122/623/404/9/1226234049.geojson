@@ -1,0 +1,74 @@
+{
+  "id": 1226234049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2956,33.18735,44.2956,33.18735",
+    "geom:latitude":33.18735,
+    "geom:longitude":44.2956,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Qaryat Ahmad an Nida",
+    "gn:country_code":"IQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6927650,
+    "gn:latitude":33.18735,
+    "gn:longitude":44.2956,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat A\u1e29mad an Nid\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u062d\u0645\u062f \u0627\u0644\u0646\u062f\u0627"
+    ],
+    "name:und_x_variant":[
+        "Qaryat A\u1e29mad an Nid\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6927650
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"55c1571a73e6c63a5104b455e074d635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1226234049,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1226234049,
+    "wof:lastmodified":1537639845,
+    "wof:name":"Qaryat Ahmad an Nida",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2956,
+    33.18735,
+    44.2956,
+    33.18735
+],
+  "geometry": {"coordinates":[44.2956,33.18735],"type":"Point"}
+}

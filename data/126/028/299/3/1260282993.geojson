@@ -1,0 +1,78 @@
+{
+  "id": 1260282993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.72778,36.38722,44.72778,36.38722",
+    "geom:latitude":36.38722,
+    "geom:longitude":44.72778,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92051.0",
+    "gn:asciiname":"Nawazinan",
+    "gn:country_code":"IQ",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446309,
+    "gn:latitude":36.38722,
+    "gn:longitude":44.72778,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"N\u0101waz\u012bn\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "\u0646\u0627\u0648\u0647 \u0632\u0645\u0627\u0646"
+    ],
+    "name:kur_x_variant":[
+        "Nawazman",
+        "Nawezman"
+    ],
+    "name:und_x_variant":[
+        "N\u0101waz\u012bn\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446309
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d2a78ed35386f0cc052c19cb85e1ac01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562755,
+            "locality_id":1260282993,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1260282993,
+    "wof:lastmodified":1537638978,
+    "wof:name":"Nawazinan",
+    "wof:parent_id":1108562755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.72778,
+    36.38722,
+    44.72778,
+    36.38722
+],
+  "geometry": {"coordinates":[44.72778,36.38722],"type":"Point"}
+}

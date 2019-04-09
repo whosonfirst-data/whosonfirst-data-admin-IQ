@@ -1,0 +1,74 @@
+{
+  "id": 1260278021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.31278,31.0325,46.31278,31.0325",
+    "geom:latitude":31.0325,
+    "geom:longitude":46.31278,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"90509.0",
+    "gn:asciiname":"Jabbar",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95376,
+    "gn:latitude":31.0325,
+    "gn:longitude":46.31278,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jabb\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u0101bir",
+        "Jabar",
+        "Jabb\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95376
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b0b507c6d0469ddccd87c9e139083475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562723,
+            "locality_id":1260278021,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1260278021,
+    "wof:lastmodified":1537638311,
+    "wof:name":"Jabbar",
+    "wof:parent_id":1108562723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.31278,
+    31.0325,
+    46.31278,
+    31.0325
+],
+  "geometry": {"coordinates":[46.31278,31.0325],"type":"Point"}
+}

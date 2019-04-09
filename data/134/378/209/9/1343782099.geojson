@@ -1,0 +1,88 @@
+{
+  "id": 1343782099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39592,37.03222,43.39592,37.03222",
+    "geom:latitude":37.03222,
+    "geom:longitude":43.39592,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Bawirki Sarkawir",
+    "gn:country_code":"IQ",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390856,
+    "gn:latitude":37.03222,
+    "gn:longitude":43.39592,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u0101wirk\u012b Sarkawir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0648\u0631\u0643\u064a \u0633\u0631\u0643\u0648\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Bawi\u1e5fk\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u0627\u0648\u0695\u0643\u0649",
+        "Bawerka Kevr\u00ee",
+        "\u0628\u0627\u0648\u06d5\u0631\u0643\u0627 \u0643\u06d5\u06a4\u0631\u0649",
+        "Bawe\u1e5fka Serkevr\u00ee",
+        "\u0628\u0627\u0648\u06d5\u0695\u0643\u0627 \u0633\u06d5\u0631\u0643\u06d5\u06a4\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "B\u0101vark\u012b Sarkivra",
+        "Baurki",
+        "Bawirki",
+        "B\u0101wirk\u012b Sarkawir",
+        "Bawarka Sarkavri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390856
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fff77c1d400769910a8bf7ca42e99a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1343782099,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1343782099,
+    "wof:lastmodified":1537638834,
+    "wof:name":"Bawirki Sarkawir",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39592,
+    37.03222,
+    43.39592,
+    37.03222
+],
+  "geometry": {"coordinates":[43.39592,37.03222],"type":"Point"}
+}

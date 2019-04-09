@@ -1,0 +1,175 @@
+{
+  "id": 1125924245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18694,33.30703,44.18694,33.30703",
+    "geom:latitude":33.30703,
+    "geom:longitude":44.18694,
+    "gn:gn_country":"IQ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":900000,
+    "gn:population":900000,
+    "iso:country":"IQ",
+    "lbl:latitude":33.30703,
+    "lbl:longitude":44.18694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u063a\u0631\u064a\u0628"
+    ],
+    "name:baq_x_preferred":[
+        "Abu Ghraib"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0431\u0443 \u0413\u0440\u0430\u0438\u0431"
+    ],
+    "name:cat_x_preferred":[
+        "Abu Ghraib"
+    ],
+    "name:cze_x_preferred":[
+        "Ab\u00fa Ghrajb"
+    ],
+    "name:dan_x_preferred":[
+        "Abu Ghraib"
+    ],
+    "name:deu_x_preferred":[
+        "Abu Ghuraib"
+    ],
+    "name:dut_x_preferred":[
+        "Abu Ghraib"
+    ],
+    "name:eng_x_preferred":[
+        "Abu Ghraib"
+    ],
+    "name:est_x_preferred":[
+        "Ab\u016b Ghurayb"
+    ],
+    "name:fin_x_preferred":[
+        "Abu Ghraib"
+    ],
+    "name:fra_x_preferred":[
+        "Abou Ghraib"
+    ],
+    "name:fre_x_preferred":[
+        "Abou Ghraib"
+    ],
+    "name:ger_x_preferred":[
+        "Abu Ghuraib"
+    ],
+    "name:glg_x_preferred":[
+        "Abu Ghraib - \u0623\u0628\u0648 \u063a\u0631\u064a\u0628"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d5 \u05d2\u05e8\u05d9\u05d9\u05d1"
+    ],
+    "name:ind_x_preferred":[
+        "Abu Ghraib"
+    ],
+    "name:ita_x_preferred":[
+        "Abu Ghraib"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d6\u30fb\u30b0\u30ec\u30a4\u30d6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ubd80\uadf8\ub77c\uc774\ube0c"
+    ],
+    "name:lat_x_preferred":[
+        "Abu Ghraib"
+    ],
+    "name:nld_x_preferred":[
+        "Abu Ghraib"
+    ],
+    "name:nob_x_preferred":[
+        "Abu Ghraib"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0628\u0648 \u0642\u0631\u0627\u06cc\u0628"
+    ],
+    "name:pol_x_preferred":[
+        "Abu Ghurajb"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0443-\u0413\u0440\u0435\u0439\u0431"
+    ],
+    "name:spa_x_preferred":[
+        "Abu Ghraib"
+    ],
+    "name:swe_x_preferred":[
+        "Ab\u016b Ghurayb"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0431\u0443-\u0413\u0440\u0435\u0439\u0431"
+    ],
+    "name:unk_x_variant":[
+        "Maz\u0101r\u0131\u2018 Ab\u012b Ghar\u012bb"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u0648 \u063a\u0631\u06cc\u0628"
+    ],
+    "name:wel_x_preferred":[
+        "Abu Ghraib"
+    ],
+    "qs_pg:aaroncc":"IQ",
+    "qs_pg:gn_country":"IQ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":100077,
+    "qs_pg:gn_pop":900000,
+    "qs_pg:name":"Ab\u016b Ghurayb",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":11,
+    "qs_pg:qs_id":64517,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421184257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100077,
+        "qs_pg:id":64517,
+        "wd:id":"Q335021"
+    },
+    "wof:country":"IQ",
+    "wof:created":1497296587,
+    "wof:geomhash":"77556126ed52736133dfc213abe40a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184257,
+            "locality_id":1125924245,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1125924245,
+    "wof:lastmodified":1553816633,
+    "wof:name":"Ab\u016b Ghurayb",
+    "wof:parent_id":421184257,
+    "wof:placetype":"locality",
+    "wof:population":900000,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18694,
+    33.30703,
+    44.18694,
+    33.30703
+],
+  "geometry": {"coordinates":[44.18694,33.30703],"type":"Point"}
+}

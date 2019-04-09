@@ -1,0 +1,74 @@
+{
+  "id": 1260043165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34341,34.16446,44.34341,34.16446",
+    "geom:latitude":34.16446,
+    "geom:longitude":44.34341,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"Qaryat Makirah",
+    "gn:country_code":"IQ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6916933,
+    "gn:latitude":34.16446,
+    "gn:longitude":44.34341,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Mak\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0645\u0643\u064a\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Mak\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6916933
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d1fe1b027f090069fcf9fe505fdfbaf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562773,
+            "locality_id":1260043165,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1260043165,
+    "wof:lastmodified":1537639820,
+    "wof:name":"Qaryat Makirah",
+    "wof:parent_id":1108562773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34341,
+    34.16446,
+    44.34341,
+    34.16446
+],
+  "geometry": {"coordinates":[44.34341,34.16446],"type":"Point"}
+}

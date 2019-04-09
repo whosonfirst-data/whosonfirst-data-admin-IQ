@@ -1,0 +1,71 @@
+{
+  "id": 1243252583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18333,33.56667,45.18333,33.56667",
+    "geom:latitude":33.56667,
+    "geom:longitude":45.18333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"'Awad Faz 'ah",
+    "gn:country_code":"IQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98381,
+    "gn:latitude":33.56667,
+    "gn:longitude":45.18333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Aw\u0101d Faz \u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Aw\u0101d Faz \u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98381
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3430edbfa7268e999e9003876913471e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1243252583,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1243252583,
+    "wof:lastmodified":1537638602,
+    "wof:name":"'Awad Faz 'ah",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18333,
+    33.56667,
+    45.18333,
+    33.56667
+],
+  "geometry": {"coordinates":[45.18333,33.56667],"type":"Point"}
+}

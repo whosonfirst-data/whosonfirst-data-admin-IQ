@@ -1,0 +1,77 @@
+{
+  "id": 1343824077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.67837,34.9892,44.67837,34.9892",
+    "geom:latitude":34.9892,
+    "geom:longitude":44.67837,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"9166598.0",
+    "gn:asciiname":"Qushlan",
+    "gn:country_code":"IQ",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92132,
+    "gn:latitude":34.9892,
+    "gn:longitude":44.67837,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Q\u016bshl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0634\u0644\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "Q\u016bshl\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Qush\u0101l\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92132
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6ece7a2094a2984f5eda5d6eca6326cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562657,
+            "locality_id":1343824077,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1343824077,
+    "wof:lastmodified":1537638014,
+    "wof:name":"Qushlan",
+    "wof:parent_id":1108562657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.67837,
+    34.9892,
+    44.67837,
+    34.9892
+],
+  "geometry": {"coordinates":[44.67837,34.9892],"type":"Point"}
+}

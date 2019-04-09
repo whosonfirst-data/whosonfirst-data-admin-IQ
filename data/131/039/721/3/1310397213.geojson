@@ -1,0 +1,74 @@
+{
+  "id": 1310397213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21203,33.11,44.21203,33.11",
+    "geom:latitude":33.11,
+    "geom:longitude":44.21203,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Muhammad ad Darb",
+    "gn:country_code":"IQ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9998354,
+    "gn:latitude":33.11,
+    "gn:longitude":44.21203,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29ammad ad Darb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u062f \u0627\u0644\u062f\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e29ammad ad Darb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9998354
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d7bce1d2cd88c76fbf5a4aa808c0c7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1310397213,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1310397213,
+    "wof:lastmodified":1537640113,
+    "wof:name":"Muhammad ad Darb",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21203,
+    33.11,
+    44.21203,
+    33.11
+],
+  "geometry": {"coordinates":[44.21203,33.11],"type":"Point"}
+}

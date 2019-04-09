@@ -1,0 +1,186 @@
+{
+  "id": 1126072033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33886,33.37659,44.33886,33.37659",
+    "geom:latitude":33.37659,
+    "geom:longitude":44.33886,
+    "gn:gn_country":"IQ",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":33.37646,
+    "gn:longitude":44.34155,
+    "iso:country":"IQ",
+    "lbl:latitude":33.37659,
+    "lbl:longitude":44.33886,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_colloquial":[
+        "Kaadhmain",
+        "Al Kadhimain",
+        "Kaadhimain",
+        "Kadhmain",
+        "Kadhimain",
+        "Al Kaadhimain",
+        "Al Kazimiyah"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0627\u0638\u0645\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "K\u00e5dhmain",
+        "Al K\u00e5dhimain",
+        "Kazimain",
+        "Kadhimiya",
+        "\u0627\u0644\u0643\u0627\u0638\u0645\u064a\u0629",
+        "K\u00e5dhimain"
+    ],
+    "name:cat_x_preferred":[
+        "Kadhimiya"
+    ],
+    "name:dut_x_preferred":[
+        "Kadhimiya"
+    ],
+    "name:eng_x_preferred":[
+        "Kadhimiya"
+    ],
+    "name:fin_x_preferred":[
+        "Al-Kazimiyah"
+    ],
+    "name:fre_x_preferred":[
+        "Kadhimiya"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d0\u10d3\u10d8\u10db\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Al-Kazimiyya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05d0\u05d6\u05de\u05d9\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Kazimain"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Kazimiyya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30fc\u30b8\u30de\u30a4\u30f3\u30fb\u30e2\u30b9\u30af"
+    ],
+    "name:may_x_preferred":[
+        "Kazimain"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06a9\u0627\u0638\u0645\u06cc\u0646"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0638\u0645\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Kazimija"
+    ],
+    "name:rum_x_preferred":[
+        "Kazimain"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0434\u0438\u043c\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Kadhimiya"
+    ],
+    "name:swe_x_preferred":[
+        "Kazimain"
+    ],
+    "name:tur_x_preferred":[
+        "Kaz\u0131miye"
+    ],
+    "name:unk_x_variant":[
+        "Al K\u0101z\u0327im\u012byah",
+        "Al K\u0101dhimain"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0638\u0645\u06cc\u0646"
+    ],
+    "name:war_x_preferred":[
+        "Kadhimain"
+    ],
+    "qs_pg:aaroncc":"IQ",
+    "qs_pg:gn_country":"IQ",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":99172,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Al K\u0101z\u0327im\u012byah",
+    "qs_pg:name_adm0":"Iraq",
+    "qs_pg:name_adm1":"\u0628\u063a\u062f\u0627\u062f",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":266916,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424855,
+    "qs_pg:woe_id":1970991,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424855,
+    "woe:name_adm0":"Iraq",
+    "woe:name_adm1":"\u0628\u063a\u062f\u0627\u062f",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85672447,
+        102191569,
+        85632191,
+        1108562795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99172,
+        "gp:id":1970991,
+        "qs:id":266916,
+        "qs_pg:id":266916,
+        "wd:id":"Q311315",
+        "wk:page":"Kadhimiya"
+    },
+    "wof:country":"IQ",
+    "wof:created":1497310118,
+    "wof:geomhash":"08a237acd9bc507b7f72fb342d821c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562795,
+            "locality_id":-1,
+            "neighbourhood_id":1126072033,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1126072033,
+    "wof:lastmodified":1534379347,
+    "wof:name":"Al K\u0101z\u0327im\u012byah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85903179
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33886,
+    33.37659,
+    44.33886,
+    33.37659
+],
+  "geometry": {"coordinates":[44.33886,33.37659],"type":"Point"}
+}

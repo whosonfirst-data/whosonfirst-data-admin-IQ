@@ -1,0 +1,70 @@
+{
+  "id": 1326929513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0778,35.1122,46.0778,35.1122",
+    "geom:latitude":35.1122,
+    "geom:longitude":46.0778,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Rish Ab",
+    "gn:country_code":"IQ",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6709204,
+    "gn:latitude":35.1122,
+    "gn:longitude":46.0778,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"R\u012bsh \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0634 \u0622\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6709204
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"31908c5ad1f6e851c94e03a67e0ba35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1326929513,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1326929513,
+    "wof:lastmodified":1537639122,
+    "wof:name":"Rish Ab",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0778,
+    35.1122,
+    46.0778,
+    35.1122
+],
+  "geometry": {"coordinates":[46.0778,35.1122],"type":"Point"}
+}

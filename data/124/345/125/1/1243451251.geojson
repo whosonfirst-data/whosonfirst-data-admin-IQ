@@ -1,0 +1,74 @@
+{
+  "id": 1243451251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.74557,33.18169,44.74557,33.18169",
+    "geom:latitude":33.18169,
+    "geom:longitude":44.74557,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9179819.0",
+    "gn:asciiname":"'Arab Yahi Yusuf",
+    "gn:country_code":"IQ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806481,
+    "gn:latitude":33.18169,
+    "gn:longitude":44.74557,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab Ya\u1e29\u012b Y\u016bsuf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u064a\u062d\u064a \u064a\u0648\u0633\u0641"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab Ya\u1e29\u012b Y\u016bsuf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806481
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b77b599980f03ef56d5d720a3511c489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562739,
+            "locality_id":1243451251,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1243451251,
+    "wof:lastmodified":1537639625,
+    "wof:name":"'Arab Yahi Yusuf",
+    "wof:parent_id":1108562739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.74557,
+    33.18169,
+    44.74557,
+    33.18169
+],
+  "geometry": {"coordinates":[44.74557,33.18169],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1326999707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11282,33.13712,46.11282,33.13712",
+    "geom:latitude":33.13712,
+    "geom:longitude":46.11282,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98197.0",
+    "gn:asciiname":"Thaman",
+    "gn:country_code":"IQ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6687204,
+    "gn:latitude":33.13712,
+    "gn:longitude":46.11282,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tham\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062b\u0645\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0639\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Ta\u2018\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Tham\u0101n",
+        "Qaryat a\u0163 \u0162a\u2018\u0101n",
+        "A\u0163 \u0162a\u2018\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687204
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c9e70343b69a4ef7d39bfd7bbdf22d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562673,
+            "locality_id":1326999707,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1326999707,
+    "wof:lastmodified":1537639114,
+    "wof:name":"Thaman",
+    "wof:parent_id":1108562673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11282,
+    33.13712,
+    46.11282,
+    33.13712
+],
+  "geometry": {"coordinates":[46.11282,33.13712],"type":"Point"}
+}

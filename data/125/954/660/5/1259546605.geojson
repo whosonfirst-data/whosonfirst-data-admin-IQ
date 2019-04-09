@@ -1,0 +1,74 @@
+{
+  "id": 1259546605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.63603,34.54706,42.63603,34.54706",
+    "geom:latitude":34.54706,
+    "geom:longitude":42.63603,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6872046.0",
+    "gn:asciiname":"Tabilat Kinash",
+    "gn:country_code":"IQ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6792866,
+    "gn:latitude":34.54706,
+    "gn:longitude":42.63603,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0162ab\u012blat Kin\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0628\u064a\u0644\u0629 \u0643\u0646\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "\u0162ab\u012blat Kin\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6792866
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"be47fe99b5a69ce3fd9dc1c9ca9360ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562647,
+            "locality_id":1259546605,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1259546605,
+    "wof:lastmodified":1537639536,
+    "wof:name":"Tabilat Kinash",
+    "wof:parent_id":1108562647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.63603,
+    34.54705999999999,
+    42.63603,
+    34.54705999999999
+],
+  "geometry": {"coordinates":[42.63603,34.54705999999999],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209607593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.83689,32.26076,44.83689,32.26076",
+    "geom:latitude":32.26076,
+    "geom:longitude":44.83689,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99358.0",
+    "gn:asciiname":"Sayyid Karim",
+    "gn:country_code":"IQ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6788083,
+    "gn:latitude":32.26076,
+    "gn:longitude":44.83689,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sayyid Kar\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f \u0643\u0631\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Sayyid Kar\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6788083
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"18b6a94b5a473d77a4279dbfbb3fe834",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209607593
+        }
+    ],
+    "wof:id":1209607593,
+    "wof:lastmodified":1537639420,
+    "wof:name":"Sayyid Karim",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.83689,
+    32.26076,
+    44.83689,
+    32.26076
+],
+  "geometry": {"coordinates":[44.83689,32.26076],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327043823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.09611,34.38806,41.09611,34.38806",
+    "geom:latitude":34.38806,
+    "geom:longitude":41.09611,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9166576.0",
+    "gn:asciiname":"Ba'lujah",
+    "gn:country_code":"IQ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98077,
+    "gn:latitude":34.38806,
+    "gn:longitude":41.09611,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ba\u2018l\u016bjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u2018l\u016bjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        1108562669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98077
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ac1ac16a44b26b76fa45f0fb41f47e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562669,
+            "locality_id":1327043823,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1327043823,
+    "wof:lastmodified":1537638573,
+    "wof:name":"Ba'lujah",
+    "wof:parent_id":1108562669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.09611,
+    34.38806,
+    41.09611,
+    34.38806
+],
+  "geometry": {"coordinates":[41.09611,34.38806],"type":"Point"}
+}

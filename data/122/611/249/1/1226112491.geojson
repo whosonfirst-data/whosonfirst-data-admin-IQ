@@ -1,0 +1,76 @@
+{
+  "id": 1226112491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.01663,35.8686,42.01663,35.8686",
+    "geom:latitude":35.8686,
+    "geom:longitude":42.01663,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166608.0",
+    "gn:asciiname":"Sibayat Athari",
+    "gn:country_code":"IQ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6778382,
+    "gn:latitude":35.8686,
+    "gn:longitude":42.01663,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"S\u012bb\u0101yat Athar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0628\u0627\u064a\u0647 \u0627\u062b\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Shaml\u0101n",
+        "\u0634\u0645\u0644\u0627\u0646",
+        "S\u012bb\u0101yat Athar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6778382
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"35f22452107b55a69ad23d2fcdd6d264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562639,
+            "locality_id":1226112491,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1226112491,
+    "wof:lastmodified":1537639285,
+    "wof:name":"Sibayat Athari",
+    "wof:parent_id":1108562639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.01663,
+    35.8686,
+    42.01663,
+    35.8686
+],
+  "geometry": {"coordinates":[42.01663,35.8686],"type":"Point"}
+}

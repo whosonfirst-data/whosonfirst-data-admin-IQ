@@ -1,0 +1,61 @@
+{
+  "id": 1209177417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.06667,35.06667,45.06667,35.06667",
+    "geom:latitude":35.06667,
+    "geom:longitude":45.06667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Safid Sar",
+    "gn:country_code":"IQ",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91784,
+    "gn:latitude":35.06667,
+    "gn:longitude":45.06667,
+    "gn:modification_date":"1994-02-26",
+    "gn:name":"Saf\u012bd Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91784
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f3ad614b52eeafa15b3d8c496470089b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209177417
+        }
+    ],
+    "wof:id":1209177417,
+    "wof:lastmodified":1536295375,
+    "wof:name":"Safid Sar",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.06667,
+    35.06667,
+    45.06667,
+    35.06667
+],
+  "geometry": {"coordinates":[45.06667,35.06667],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259366593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86318,34.06912,44.86318,34.06912",
+    "geom:latitude":34.06912,
+    "geom:longitude":44.86318,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Al Mansuriyah",
+    "gn:country_code":"IQ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99086,
+    "gn:latitude":34.06912,
+    "gn:longitude":44.86318,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Man\u015f\u016br\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Delli Abbas",
+        "Dall\u012b \u2018Abb\u0101s",
+        "Al Man\u015f\u016br\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99086
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4a9c1979057a85db135a6a9077e98862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1259366593,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1259366593,
+    "wof:lastmodified":1537638651,
+    "wof:name":"Al Mansuriyah",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86318,
+    34.06912,
+    44.86318,
+    34.06912
+],
+  "geometry": {"coordinates":[44.86318,34.06912],"type":"Point"}
+}

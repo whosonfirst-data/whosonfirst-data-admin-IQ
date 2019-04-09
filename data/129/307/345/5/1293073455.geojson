@@ -1,0 +1,73 @@
+{
+  "id": 1293073455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.98056,32.24083,45.98056,32.24083",
+    "geom:latitude":32.24083,
+    "geom:longitude":45.98056,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"99351.0",
+    "gn:asciiname":"Qal'at Muhammad as Sulayman",
+    "gn:country_code":"IQ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92558,
+    "gn:latitude":32.24083,
+    "gn:longitude":45.98056,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qal\u2018at Mu\u1e29ammad as Sulaym\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018at Muhammad as Sulaiman",
+        "Muhammad as Sulaiman",
+        "Qal\u2018at Mu\u1e29ammad as Sulaym\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92558
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ec5a3d2e5bffd29068cb4ff8e1ceda3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562685,
+            "locality_id":1293073455,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1293073455,
+    "wof:lastmodified":1537638059,
+    "wof:name":"Qal'at Muhammad as Sulayman",
+    "wof:parent_id":1108562685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.98056,
+    32.24083,
+    45.98056,
+    32.24083
+],
+  "geometry": {"coordinates":[45.98056,32.24083],"type":"Point"}
+}

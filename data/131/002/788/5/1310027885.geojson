@@ -1,0 +1,74 @@
+{
+  "id": 1310027885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.32279,32.59646,44.32279,32.59646",
+    "geom:latitude":32.59646,
+    "geom:longitude":44.32279,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"Jasim Rashid",
+    "gn:country_code":"IQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6818147,
+    "gn:latitude":32.59646,
+    "gn:longitude":44.32279,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"J\u0101sim R\u0101shid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0633\u0645 \u0631\u0627\u0634\u062f"
+    ],
+    "name:ara_x_variant":[
+        "J\u0101sim R\u0101shid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421172849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818147
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fb18e535ba94210319a4eaf44c72dd64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172849,
+            "locality_id":1310027885,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1310027885,
+    "wof:lastmodified":1537639652,
+    "wof:name":"Jasim Rashid",
+    "wof:parent_id":421172849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.32279000000001,
+    32.59646,
+    44.32279000000001,
+    32.59646
+],
+  "geometry": {"coordinates":[44.32279000000001,32.59646],"type":"Point"}
+}

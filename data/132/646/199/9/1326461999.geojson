@@ -1,0 +1,87 @@
+{
+  "id": 1326461999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.93478,35.38189,45.93478,35.38189",
+    "geom:latitude":35.38189,
+    "geom:longitude":45.93478,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Qaynjah",
+    "gn:country_code":"IQ",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92685,
+    "gn:latitude":35.38189,
+    "gn:longitude":45.93478,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Q\u0101ynjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u064a\u0646\u062c\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u06cc\u0646\u062c\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Q\u0101yanjah"
+    ],
+    "name:kur_x_preferred":[
+        "Qaynce"
+    ],
+    "name:und_x_variant":[
+        "Qayneja",
+        "Q\u0101yn\u0101jah",
+        "Qanjah",
+        "Qain\u0101ja",
+        "Q\u0101ynjah",
+        "Qainja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92685
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4241199a6f880176555c882556596f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1326461999,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1326461999,
+    "wof:lastmodified":1537638071,
+    "wof:name":"Qaynjah",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.93478,
+    35.38189000000001,
+    45.93478,
+    35.38189000000001
+],
+  "geometry": {"coordinates":[45.93478,35.38189000000001],"type":"Point"}
+}

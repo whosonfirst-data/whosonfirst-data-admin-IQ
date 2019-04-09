@@ -1,0 +1,73 @@
+{
+  "id": 1277081939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18194,31.66861,45.18194,31.66861",
+    "geom:latitude":31.66861,
+    "geom:longitude":45.18194,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9166568.0",
+    "gn:asciiname":"An Najmi",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98858,
+    "gn:latitude":31.66861,
+    "gn:longitude":45.18194,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"An Najm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Najmi",
+        "An Najm\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98858
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5223ffd91b4606eb1e142e63f301f36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562705,
+            "locality_id":1277081939,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1277081939,
+    "wof:lastmodified":1537638637,
+    "wof:name":"An Najmi",
+    "wof:parent_id":1108562705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18194,
+    31.66861,
+    45.18194,
+    31.66861
+],
+  "geometry": {"coordinates":[45.18194,31.66861],"type":"Point"}
+}

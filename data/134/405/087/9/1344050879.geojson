@@ -1,0 +1,74 @@
+{
+  "id": 1344050879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.36314,34.38401,45.36314,34.38401",
+    "geom:latitude":34.38401,
+    "geom:longitude":45.36314,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Al Jamahir wa Dara Muhammad 'Ali",
+    "gn:country_code":"IQ",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6928280,
+    "gn:latitude":34.38401,
+    "gn:longitude":45.36314,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jam\u0101h\u012br wa D\u0101r\u0101 Mu\u1e29ammad \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0645\u0627\u0647\u064a\u0631  \u0648 \u062f\u0627\u0631\u0627 \u0645\u062d\u0645\u062f \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Jam\u0101h\u012br wa D\u0101r\u0101 Mu\u1e29ammad \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6928280
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5507ed5b8a01a44bfbd32d2a9f7cf86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1344050879,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1344050879,
+    "wof:lastmodified":1537639871,
+    "wof:name":"Al Jamahir wa Dara Muhammad 'Ali",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.36314,
+    34.38401,
+    45.36314,
+    34.38401
+],
+  "geometry": {"coordinates":[45.36314,34.38401],"type":"Point"}
+}

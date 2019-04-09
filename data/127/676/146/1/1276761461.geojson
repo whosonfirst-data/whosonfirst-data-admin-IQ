@@ -1,0 +1,75 @@
+{
+  "id": 1276761461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.80147,36.39447,44.80147,36.39447",
+    "geom:latitude":36.39447,
+    "geom:longitude":44.80147,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92051.0",
+    "gn:asciiname":"Shirut",
+    "gn:country_code":"IQ",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442288,
+    "gn:latitude":36.39447,
+    "gn:longitude":44.80147,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Sh\u012br\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0631\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Sh\u012br\u016bt",
+        "\u0634\u064a\u0631\u0648\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442288
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"950d1d5b0df1adbc6d3d16688e2a65d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562755,
+            "locality_id":1276761461,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1276761461,
+    "wof:lastmodified":1537638888,
+    "wof:name":"Shirut",
+    "wof:parent_id":1108562755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.80147,
+    36.39447,
+    44.80147,
+    36.39447
+],
+  "geometry": {"coordinates":[44.80147,36.39447],"type":"Point"}
+}

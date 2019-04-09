@@ -1,0 +1,86 @@
+{
+  "id": 1327112683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10173,37.27127,44.10173,37.27127",
+    "geom:latitude":37.27127,
+    "geom:longitude":44.10173,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166534.0",
+    "gn:asciiname":"Ki Jawr",
+    "gn:country_code":"IQ",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94265,
+    "gn:latitude":37.27127,
+    "gn:longitude":44.10173,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u012b Jawr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064a \u062c\u0648\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "K\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0649",
+        "K\u00eey J\u00ear\u00ee",
+        "\u0643\u064a\u0649 \u0698\u06ce\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "K\u012b Zh\u012br\u012b",
+        "Kiy\u0113 Zh\u014dr\u012b",
+        "Ki Jor",
+        "Key",
+        "Kiyy Jawr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94265
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2a9781bdcf887d62ec0cfc3def9e5c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562747,
+            "locality_id":1327112683,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1327112683,
+    "wof:lastmodified":1537638210,
+    "wof:name":"Ki Jawr",
+    "wof:parent_id":1108562747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10173,
+    37.27127,
+    44.10173,
+    37.27127
+],
+  "geometry": {"coordinates":[44.10173,37.27127],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293018475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.71976,33.80716,42.71976,33.80716",
+    "geom:latitude":33.80716,
+    "geom:longitude":42.71976,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9166579.0",
+    "gn:asciiname":"As Siniyah",
+    "gn:country_code":"IQ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91564,
+    "gn:latitude":33.80716,
+    "gn:longitude":42.71976,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"As S\u012bn\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u064a\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sin\u012bya",
+        "Sin\u012byah",
+        "San\u012byah",
+        "As S\u012bn\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421177881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91564
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9e087d7c4193b2eb90675e2d03418dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421177881,
+            "locality_id":1293018475,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1293018475,
+    "wof:lastmodified":1537637978,
+    "wof:name":"As Siniyah",
+    "wof:parent_id":421177881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.71976,
+    33.80716,
+    42.71976,
+    33.80716
+],
+  "geometry": {"coordinates":[42.71976,33.80716],"type":"Point"}
+}

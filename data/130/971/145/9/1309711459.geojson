@@ -1,0 +1,85 @@
+{
+  "id": 1309711459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4656,35.40702,45.4656,35.40702",
+    "geom:latitude":35.40702,
+    "geom:longitude":45.4656,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Kani Shasuwar",
+    "gn:country_code":"IQ",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94874,
+    "gn:latitude":35.40702,
+    "gn:longitude":45.4656,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u0101n\u012b Sh\u0101suw\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u0101n\u012b Sh\u0101suw\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0646\u064a \u0634\u0627\u0633\u0648\u0627\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Kan\u00ee Shaswar"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0627\u0646\u0649 \u0634\u0627\u0633\u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "K\u0101n\u012b Sh\u0101mw\u0101r",
+        "Kani Shaswar",
+        "\u0643\u0627\u0646\u064a \u0634\u0627\u0645\u0648\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94874
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8a8a7ed18c0db2b5c1de636a923462c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1309711459,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1309711459,
+    "wof:lastmodified":1537638267,
+    "wof:name":"Kani Shasuwar",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4656,
+    35.40702,
+    45.4656,
+    35.40702
+],
+  "geometry": {"coordinates":[45.4656,35.40702],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259902799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.96962,36.239,44.96962,36.239",
+    "geom:latitude":36.239,
+    "geom:longitude":44.96962,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Banweqel",
+    "gn:country_code":"IQ",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8429552,
+    "gn:latitude":36.239,
+    "gn:longitude":44.96962,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Banweqel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Banweqel"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u0627\u0646\u0648\u06d5\u0642\u06d5\u0644"
+    ],
+    "name:und_x_variant":[
+        "Banwaqal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8429552
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f9c3a0289113a3ecb86e432d7b660f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1259902799,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1259902799,
+    "wof:lastmodified":1537640082,
+    "wof:name":"Banweqel",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.96962,
+    36.239,
+    44.96962,
+    36.239
+],
+  "geometry": {"coordinates":[44.96962,36.239],"type":"Point"}
+}

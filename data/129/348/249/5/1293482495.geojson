@@ -1,0 +1,74 @@
+{
+  "id": 1293482495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.94575,32.37365,44.94575,32.37365",
+    "geom:latitude":32.37365,
+    "geom:longitude":44.94575,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99358.0",
+    "gn:asciiname":"Naziriyat al Khudariyah",
+    "gn:country_code":"IQ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6788362,
+    "gn:latitude":32.37365,
+    "gn:longitude":44.94575,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"N\u0101z\u0327ir\u012byat al Khu\u1e11ar\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0638\u0631\u064a\u0629 \u0627\u0644\u062e\u0636\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "N\u0101z\u0327ir\u012byat al Khu\u1e11ar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6788362
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e71aed6b5b00bff221a1c3dfeb659a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562689,
+            "locality_id":1293482495,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1293482495,
+    "wof:lastmodified":1537639433,
+    "wof:name":"Naziriyat al Khudariyah",
+    "wof:parent_id":1108562689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.94575,
+    32.37365,
+    44.94575,
+    32.37365
+],
+  "geometry": {"coordinates":[44.94575,32.37365],"type":"Point"}
+}

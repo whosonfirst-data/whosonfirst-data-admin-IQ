@@ -1,0 +1,74 @@
+{
+  "id": 1226147009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03822,33.49652,43.03822,33.49652",
+    "geom:latitude":33.49652,
+    "geom:longitude":43.03822,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9166579.0",
+    "gn:asciiname":"Husayn Shurji",
+    "gn:country_code":"IQ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798479,
+    "gn:latitude":33.49652,
+    "gn:longitude":43.03822,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28usayn Shurj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u064a\u0646 \u0634\u0631\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28usayn Shurj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421177881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798479
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ff880dbab5e346efede109affa140f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421177881,
+            "locality_id":1226147009,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1226147009,
+    "wof:lastmodified":1537639543,
+    "wof:name":"Husayn Shurji",
+    "wof:parent_id":421177881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03822,
+    33.49652,
+    43.03822,
+    33.49652
+],
+  "geometry": {"coordinates":[43.03822,33.49652],"type":"Point"}
+}

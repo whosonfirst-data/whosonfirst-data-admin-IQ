@@ -1,0 +1,71 @@
+{
+  "id": 1309792187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89435,35.46764,43.89435,35.46764",
+    "geom:latitude":35.46764,
+    "geom:longitude":43.89435,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9171727.0",
+    "gn:asciiname":"Qaryat al Quds",
+    "gn:country_code":"IQ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6770513,
+    "gn:latitude":35.46764,
+    "gn:longitude":43.89435,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat al Quds",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0642\u062f\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6770513
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a8eb6a208af83adf9f9524eab05260c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562807,
+            "locality_id":1309792187,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1309792187,
+    "wof:lastmodified":1537639261,
+    "wof:name":"Qaryat al Quds",
+    "wof:parent_id":1108562807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89435,
+    35.46764,
+    43.89435,
+    35.46764
+],
+  "geometry": {"coordinates":[43.89435,35.46764],"type":"Point"}
+}

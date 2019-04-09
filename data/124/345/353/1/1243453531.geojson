@@ -1,0 +1,75 @@
+{
+  "id": 1243453531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.10926,35.55636,45.10926,35.55636",
+    "geom:latitude":35.55636,
+    "geom:longitude":45.10926,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Ibrahim Awah",
+    "gn:country_code":"IQ",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95606,
+    "gn:latitude":35.55636,
+    "gn:longitude":45.10926,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ibr\u0101h\u012bm \u0100wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u0622\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "Ibr\u0101h\u012bm \u0100wah",
+        "Ibr\u0101h\u012bm\u0101w\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95606
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5a620d13c26dd7b4b6b1c5df2e8ee07d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1243453531,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1243453531,
+    "wof:lastmodified":1537638322,
+    "wof:name":"Ibrahim Awah",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.10926,
+    35.55636,
+    45.10926,
+    35.55636
+],
+  "geometry": {"coordinates":[45.10926,35.55636],"type":"Point"}
+}

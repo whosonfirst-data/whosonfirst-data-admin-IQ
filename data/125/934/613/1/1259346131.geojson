@@ -1,0 +1,74 @@
+{
+  "id": 1259346131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89973,34.10336,43.89973,34.10336",
+    "geom:latitude":34.10336,
+    "geom:longitude":43.89973,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6805736.0",
+    "gn:asciiname":"Hamad 'Abd Allah",
+    "gn:country_code":"IQ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6782566,
+    "gn:latitude":34.10336,
+    "gn:longitude":43.89973,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28amad \u2018Abd All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u062f \u0639\u0628\u062f \ufdf2"
+    ],
+    "name:und_x_variant":[
+        "\u1e28amad \u2018Abd All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        421180939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6782566
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"23c6a21500a26279fdce45ec6a163929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421180939,
+            "locality_id":1259346131,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1259346131,
+    "wof:lastmodified":1537639325,
+    "wof:name":"Hamad 'Abd Allah",
+    "wof:parent_id":421180939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89973,
+    34.10336,
+    43.89973,
+    34.10336
+],
+  "geometry": {"coordinates":[43.89973,34.10336],"type":"Point"}
+}

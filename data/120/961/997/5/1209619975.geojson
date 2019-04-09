@@ -1,0 +1,62 @@
+{
+  "id": 1209619975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6,35.73333,45.6,35.73333",
+    "geom:latitude":35.73333,
+    "geom:longitude":45.6,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Kokh-i Muhiad",
+    "gn:country_code":"IQ",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94250,
+    "gn:latitude":35.73333,
+    "gn:longitude":45.6,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u014dkh-i Mu\u1e29\u012bad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94250
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1aa9955ef51dd4588773ea832e46af53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209619975
+        }
+    ],
+    "wof:id":1209619975,
+    "wof:lastmodified":1536281553,
+    "wof:name":"Kokh-i Muhiad",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6,
+    35.73333,
+    45.6,
+    35.73333
+],
+  "geometry": {"coordinates":[45.6,35.73333],"type":"Point"}
+}

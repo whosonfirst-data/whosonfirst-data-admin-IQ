@@ -1,0 +1,68 @@
+{
+  "id": 1209397079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3772,32.62437,45.3772,32.62437",
+    "geom:latitude":32.62437,
+    "geom:longitude":45.3772,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98460.0",
+    "gn:asciiname":"Sayyid Yahya",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6733720,
+    "gn:latitude":32.62437,
+    "gn:longitude":45.3772,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sayyid Ya\u1e29y\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f \u064a\u062d\u064a\u0649"
+    ],
+    "name:und_x_variant":[
+        "Sayyid Ya\u1e29y\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6733720
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"725688f2e31c5c4fcf34db30376ad67f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209397079
+        }
+    ],
+    "wof:id":1209397079,
+    "wof:lastmodified":1537639141,
+    "wof:name":"Sayyid Yahya",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3772,
+    32.62437,
+    45.3772,
+    32.62437
+],
+  "geometry": {"coordinates":[45.3772,32.62437],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 421203337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39806,33.34056,44.39806,33.34056",
+    "geom:latitude":33.34056,
+    "geom:longitude":44.39806,
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "S\u016bq al Ghaz\u0101l"
+    ],
+    "qs:gn_country":"IQ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":90511,
+    "qs:gn_pop":0,
+    "qs:name":"S\u00f8q Al Ghazl",
+    "qs:name_adm0":"Iraq",
+    "qs:name_adm1":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":59170,
+    "qs:woe_adm0":23424855,
+    "qs:woe_id":1978408,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108562785,
+        85672447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90511,
+        "gp:id":1978408,
+        "qs:id":59170
+    },
+    "wof:country":"IQ",
+    "wof:created":1459010147,
+    "wof:geomhash":"b15240162ceef0c0a5620a178d5df5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562785,
+            "locality_id":-1,
+            "neighbourhood_id":421203337,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":421203337,
+    "wof:lastmodified":1531858823,
+    "wof:name":"S\u00f8q Al Ghazl",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39806,
+    33.34056,
+    44.39806,
+    33.34056
+],
+  "geometry": {"coordinates":[44.39806,33.34056],"type":"Point"}
+}

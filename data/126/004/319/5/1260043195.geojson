@@ -1,0 +1,74 @@
+{
+  "id": 1260043195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.15344,35.34136,43.15344,35.34136",
+    "geom:latitude":35.34136,
+    "geom:longitude":43.15344,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6804454.0",
+    "gn:asciiname":"Qaryat Nasif Jasim",
+    "gn:country_code":"IQ",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837354,
+    "gn:latitude":35.34136,
+    "gn:longitude":43.15344,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Na\u015f\u012bf J\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0646\u0635\u064a\u0641 \u062c\u0627\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Na\u015f\u012bf J\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837354
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"227bc443cd1e66b9eb1e2e2a707275e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562645,
+            "locality_id":1260043195,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1260043195,
+    "wof:lastmodified":1537639700,
+    "wof:name":"Qaryat Nasif Jasim",
+    "wof:parent_id":1108562645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.15344,
+    35.34135999999999,
+    43.15344,
+    35.34135999999999
+],
+  "geometry": {"coordinates":[43.15344,35.34135999999999],"type":"Point"}
+}

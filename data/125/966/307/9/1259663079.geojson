@@ -1,0 +1,86 @@
+{
+  "id": 1259663079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39219,35.3565,44.39219,35.3565",
+    "geom:latitude":35.3565,
+    "geom:longitude":44.39219,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9166581.0",
+    "gn:asciiname":"Tukhama Khalu",
+    "gn:country_code":"IQ",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90219,
+    "gn:latitude":35.3565,
+    "gn:longitude":44.39219,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"T\u016bkham\u0101 Khal\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u062e\u0645\u0627 \u062e\u0644\u0648"
+    ],
+    "name:kur_x_preferred":[
+        "Toxme"
+    ],
+    "name:kur_x_variant":[
+        "Tokhma",
+        "\u062a\u06c6\u062e\u0645\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Taqm\u0101ql\u016b",
+        "T\u016bqm\u0101qlu",
+        "Tauq M\u0101qlu",
+        "\u0162\u0101w\u016bq M\u0101ql\u016b",
+        "T\u016bkham\u0101 Khal\u016b",
+        "Tokhma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90219
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e95cbc2b6cc491aac5d5435776b4c8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562775,
+            "locality_id":1259663079,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1259663079,
+    "wof:lastmodified":1537637843,
+    "wof:name":"Tukhama Khalu",
+    "wof:parent_id":1108562775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39219,
+    35.3565,
+    44.39219,
+    35.3565
+],
+  "geometry": {"coordinates":[44.39219,35.3565],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260179479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.265,32.81167,44.265,32.81167",
+    "geom:latitude":32.81167,
+    "geom:longitude":44.265,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"Ibrahim al Muhammad",
+    "gn:country_code":"IQ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95608,
+    "gn:latitude":32.81167,
+    "gn:longitude":44.265,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ibr\u0101h\u012bm al Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibr\u0101h\u012bm al Mu\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421172849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95608
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"211050fb3df56800177216b735fd4c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172849,
+            "locality_id":1260179479,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1260179479,
+    "wof:lastmodified":1537638322,
+    "wof:name":"Ibrahim al Muhammad",
+    "wof:parent_id":421172849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.265,
+    32.81167,
+    44.265,
+    32.81167
+],
+  "geometry": {"coordinates":[44.265,32.81167],"type":"Point"}
+}

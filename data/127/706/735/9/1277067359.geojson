@@ -1,0 +1,84 @@
+{
+  "id": 1277067359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.79917,37.32652,42.79917,37.32652",
+    "geom:latitude":37.32652,
+    "geom:longitude":42.79917,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"89569.0",
+    "gn:asciiname":"Dere Shish",
+    "gn:country_code":"IQ",
+    "gn:dem":1440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90832,
+    "gn:latitude":37.32652,
+    "gn:longitude":42.79917,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u00eare Sh\u00eesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631\u06d5 \u0634\u064a\u0634"
+    ],
+    "name:kur_x_preferred":[
+        "D\u00eare Sh\u00eesh"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u06ce\u0631\u06d5 \u0634\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Shish",
+        "Dera Shish",
+        "D\u0113r\u0113sh\u012bsh",
+        "Dayrah Sh\u012bsh",
+        "Derashish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        890445289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90832
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"33fa76dc11a3bda233dec708242d36fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445289,
+            "locality_id":1277067359,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1277067359,
+    "wof:lastmodified":1537637906,
+    "wof:name":"Dere Shish",
+    "wof:parent_id":890445289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.79917,
+    37.32652,
+    42.79917,
+    37.32652
+],
+  "geometry": {"coordinates":[42.79917,37.32652],"type":"Point"}
+}

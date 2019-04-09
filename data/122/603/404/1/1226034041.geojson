@@ -1,0 +1,72 @@
+{
+  "id": 1226034041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9,33.73333,44.9,33.73333",
+    "geom:latitude":33.73333,
+    "geom:longitude":44.9,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Salman as Sa'dun",
+    "gn:country_code":"IQ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91621,
+    "gn:latitude":33.73333,
+    "gn:longitude":44.9,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Salm\u0101n as Sa\u2018d\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salm\u0101n",
+        "Salm\u0101n as Sa\u2018d\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91621
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"af31e9c3abbffb6844e6b74e86ce98f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1226034041,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1226034041,
+    "wof:lastmodified":1537637982,
+    "wof:name":"Salman as Sa'dun",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9,
+    33.73333,
+    44.9,
+    33.73333
+],
+  "geometry": {"coordinates":[44.9,33.73333],"type":"Point"}
+}

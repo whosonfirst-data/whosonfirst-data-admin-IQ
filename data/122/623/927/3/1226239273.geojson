@@ -1,0 +1,84 @@
+{
+  "id": 1226239273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.83458,37.05204,42.83458,37.05204",
+    "geom:latitude":37.05204,
+    "geom:longitude":42.83458,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"97269.0",
+    "gn:asciiname":"Temerava",
+    "gn:country_code":"IQ",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446085,
+    "gn:latitude":37.05204,
+    "gn:longitude":42.83458,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Temerava",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0633\u0627\u063a\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Temerava"
+    ],
+    "name:kur_x_variant":[
+        "\u062a\u06d5\u0645\u06d5\u0631\u0626\u0627\u06a4\u0627",
+        "Temeragha",
+        "\u062a\u06d5\u0645\u06d5\u0631\u0626\u0627\u063a\u0627"
+    ],
+    "name:und_x_variant":[
+        "B\u0101s\u0101gh\u0101",
+        "B\u0101s\u0101ghah",
+        "Tamarava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        890445289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446085
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"860a4d2cb74b4ec9c20a0092981121d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445289,
+            "locality_id":1226239273,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1226239273,
+    "wof:lastmodified":1537638957,
+    "wof:name":"Temerava",
+    "wof:parent_id":890445289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.83458,
+    37.05204000000001,
+    42.83458,
+    37.05204000000001
+],
+  "geometry": {"coordinates":[42.83458,37.05204000000001],"type":"Point"}
+}

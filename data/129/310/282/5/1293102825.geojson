@@ -1,0 +1,76 @@
+{
+  "id": 1293102825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42025,33.44936,43.42025,33.44936",
+    "geom:latitude":33.44936,
+    "geom:longitude":43.42025,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"98718.0",
+    "gn:asciiname":"Mintaqat Albu Hinnah",
+    "gn:country_code":"IQ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":435872,
+    "gn:latitude":33.44936,
+    "gn:longitude":43.42025,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Min\u0163aqat \u0100lb\u016b \u1e28innah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0622\u0644\u0628\u0648 \u062d\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Min\u0163aqat \u0100lb\u016b \u1e10ah",
+        "\u0645\u0646\u0637\u0642\u0629 \u0622\u0644\u0628\u0648 \u0636\u0629",
+        "Min\u0163aqat \u0100lb\u016b \u1e28innah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421178933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":435872
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"069049712372ddba0defd686733571f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421178933,
+            "locality_id":1293102825,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1293102825,
+    "wof:lastmodified":1537638880,
+    "wof:name":"Mintaqat Albu Hinnah",
+    "wof:parent_id":421178933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42025,
+    33.44936,
+    43.42025,
+    33.44936
+],
+  "geometry": {"coordinates":[43.42025,33.44936],"type":"Point"}
+}

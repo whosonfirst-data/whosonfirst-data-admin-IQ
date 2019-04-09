@@ -1,0 +1,73 @@
+{
+  "id": 1360176379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88852,33.26712,43.88852,33.26712",
+    "geom:latitude":33.26712,
+    "geom:longitude":43.88852,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Qaryat al Mu`amir",
+    "gn:country_code":"IQ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448716,
+    "gn:latitude":33.26712,
+    "gn:longitude":43.88852,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Qaryat al Mu\u2018\u0101m\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0645\u0639\u0627\u0645\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al Mu\u2018\u0101m\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448716
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5f1197778a0fae00ec4d441f0a09965a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1360176379,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1360176379,
+    "wof:lastmodified":1537639070,
+    "wof:name":"Qaryat al Mu`amir",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88852,
+    33.26712,
+    43.88852,
+    33.26712
+],
+  "geometry": {"coordinates":[43.88852,33.26712],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243538347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61826,33.86504,44.61826,33.86504",
+    "geom:latitude":33.86504,
+    "geom:longitude":44.61826,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"99170.0",
+    "gn:asciiname":"Al Amjadad",
+    "gn:country_code":"IQ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6784680,
+    "gn:latitude":33.86504,
+    "gn:longitude":44.61826,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Amjad\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0645\u062c\u062f\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Al Amjad\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        421169765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6784680
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0ea22b294f86f1da2cca7439824a8568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421169765,
+            "locality_id":1243538347,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1243538347,
+    "wof:lastmodified":1537639389,
+    "wof:name":"Al Amjadad",
+    "wof:parent_id":421169765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61826,
+    33.86504,
+    44.61826,
+    33.86504
+],
+  "geometry": {"coordinates":[44.61826,33.86504],"type":"Point"}
+}

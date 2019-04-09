@@ -1,0 +1,81 @@
+{
+  "id": 1259456123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.19015,36.55464,43.19015,36.55464",
+    "geom:latitude":36.55464,
+    "geom:longitude":43.19015,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166618.0",
+    "gn:asciiname":"Sumaqiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999613,
+    "gn:latitude":36.55464,
+    "gn:longitude":43.19015,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Sum\u0101q\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0645\u0627\u0642\u064a\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Smaqye"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u0645\u0627\u0642\u064a\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Smaqia",
+        "Sum\u0101q\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999613
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c10ba4a8c62d1c1df645541ebcb619d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562629,
+            "locality_id":1259456123,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1259456123,
+    "wof:lastmodified":1537639885,
+    "wof:name":"Sumaqiyah",
+    "wof:parent_id":1108562629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.19015,
+    36.55464,
+    43.19015,
+    36.55464
+],
+  "geometry": {"coordinates":[43.19015,36.55464],"type":"Point"}
+}

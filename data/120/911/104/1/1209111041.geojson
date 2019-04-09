@@ -1,0 +1,77 @@
+{
+  "id": 1209111041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.04366,35.29146,45.04366,35.29146",
+    "geom:latitude":35.29146,
+    "geom:longitude":45.04366,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Mir Isma'il",
+    "gn:country_code":"IQ",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330112,
+    "gn:latitude":35.29146,
+    "gn:longitude":45.04366,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"M\u012br Ism\u0101\u2018\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u012br Ism\u0101\u2018\u012bl"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u0631 \u0627\u0633\u0645\u0627\u0639\u064a\u0644"
+    ],
+    "name:kur_x_preferred":[
+        "M\u00eer \u00cesma\u2018\u00eel"
+    ],
+    "name:kur_x_variant":[
+        "\u0645\u064a\u0631 \u0626\u064a\u0633\u0645\u0627\u0639\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Meer Ismaeel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330112
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b09efef410c32053f791cb2042917d54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209111041
+        }
+    ],
+    "wof:id":1209111041,
+    "wof:lastmodified":1537640000,
+    "wof:name":"Mir Isma'il",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.04366,
+    35.29146,
+    45.04366,
+    35.29146
+],
+  "geometry": {"coordinates":[45.04366,35.29146],"type":"Point"}
+}

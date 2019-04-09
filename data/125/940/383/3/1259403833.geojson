@@ -1,0 +1,74 @@
+{
+  "id": 1259403833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5475,33.11361,44.5475,33.11361",
+    "geom:latitude":33.11361,
+    "geom:longitude":44.5475,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Husayn as Salih",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95682,
+    "gn:latitude":33.11361,
+    "gn:longitude":44.5475,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28usayn a\u015f \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Husain al S\u0101lih",
+        "\u1e28usayn \u015e\u0101li\u1e29",
+        "\u1e28usayn a\u015f \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95682
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"105b7937fee6c5ffefb5cdcb7e926099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1259403833,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1259403833,
+    "wof:lastmodified":1537638325,
+    "wof:name":"Husayn as Salih",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5475,
+    33.11360999999999,
+    44.5475,
+    33.11360999999999
+],
+  "geometry": {"coordinates":[44.5475,33.11360999999999],"type":"Point"}
+}

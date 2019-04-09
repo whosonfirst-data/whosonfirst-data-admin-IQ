@@ -1,0 +1,71 @@
+{
+  "id": 1277068435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30226,33.47758,44.30226,33.47758",
+    "geom:latitude":33.47758,
+    "geom:longitude":44.30226,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9167085.0",
+    "gn:asciiname":"Shakir as Sa'id",
+    "gn:country_code":"IQ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448874,
+    "gn:latitude":33.47758,
+    "gn:longitude":44.30226,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sh\u0101kir as Sa\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u0101kir as Sa\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448874
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a44b60001fe9e7342a6248f1962b1cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562771,
+            "locality_id":1277068435,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1277068435,
+    "wof:lastmodified":1537639076,
+    "wof:name":"Shakir as Sa'id",
+    "wof:parent_id":1108562771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30226,
+    33.47758,
+    44.30226,
+    33.47758
+],
+  "geometry": {"coordinates":[44.30226,33.47758],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276617211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2177,35.22215,43.2177,35.22215",
+    "geom:latitude":35.22215,
+    "geom:longitude":43.2177,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6872046.0",
+    "gn:asciiname":"Muhammad al 'Awwad",
+    "gn:country_code":"IQ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837433,
+    "gn:latitude":35.22215,
+    "gn:longitude":43.2177,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29ammad al \u2018Aww\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0648\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e29ammad al \u2018Aww\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837433
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"736cc1c3aecd10a23d72c688e93d40b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562647,
+            "locality_id":1276617211,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1276617211,
+    "wof:lastmodified":1537639705,
+    "wof:name":"Muhammad al 'Awwad",
+    "wof:parent_id":1108562647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2177,
+    35.22215,
+    43.2177,
+    35.22215
+],
+  "geometry": {"coordinates":[43.2177,35.22215],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310194707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.23056,31.01472,46.23056,31.01472",
+    "geom:latitude":31.01472,
+    "geom:longitude":46.23056,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98855.0",
+    "gn:asciiname":"'Ajil at Tuwayli",
+    "gn:country_code":"IQ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99669,
+    "gn:latitude":31.01472,
+    "gn:longitude":46.23056,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Aj\u012bl at Tuwayl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ajil at Tuwaili",
+        "\u2018Aj\u012bl a\u0163 \u0162aw\u012bl\u012b",
+        "\u2018Aj\u012bl at Tuwayl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        421172357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99669
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"15a09bfa1ebb3ba8719b8a475de53f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172357,
+            "locality_id":1310194707,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1310194707,
+    "wof:lastmodified":1537638691,
+    "wof:name":"'Ajil at Tuwayli",
+    "wof:parent_id":421172357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.23056,
+    31.01472,
+    46.23056,
+    31.01472
+],
+  "geometry": {"coordinates":[46.23056,31.01472],"type":"Point"}
+}

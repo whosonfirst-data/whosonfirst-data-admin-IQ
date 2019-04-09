@@ -1,0 +1,74 @@
+{
+  "id": 1210000241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.07562,33.5306,45.07562,33.5306",
+    "geom:latitude":33.5306,
+    "geom:longitude":45.07562,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"'Uthalat al Hasu",
+    "gn:country_code":"IQ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6835671,
+    "gn:latitude":33.5306,
+    "gn:longitude":45.07562,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Uth\u0101lat al \u1e28a\u015f\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u062b\u0627\u0644\u0629 \u0627\u0644\u062d\u0635\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u2018Uth\u0101lat al \u1e28a\u015f\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6835671
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"067c74f5aa14285447012e2a128e55f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1210000241,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1210000241,
+    "wof:lastmodified":1537639689,
+    "wof:name":"'Uthalat al Hasu",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.07562,
+    33.5306,
+    45.07562,
+    33.5306
+],
+  "geometry": {"coordinates":[45.07562,33.5306],"type":"Point"}
+}

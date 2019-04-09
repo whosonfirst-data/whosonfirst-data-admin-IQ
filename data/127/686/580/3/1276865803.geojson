@@ -1,0 +1,76 @@
+{
+  "id": 1276865803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.15809,33.65212,45.15809,33.65212",
+    "geom:latitude":33.65212,
+    "geom:longitude":45.15809,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Qaryat Shah 'Ali",
+    "gn:country_code":"IQ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6835627,
+    "gn:latitude":33.65212,
+    "gn:longitude":45.15809,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Sh\u0101h \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0634\u0627\u0647 \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28urr\u012byah",
+        "\u0627\u0644\u062d\u0631\u064a\u0629",
+        "Qaryat Sh\u0101h \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6835627
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c6272d592d37816ab85505889f32c9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1276865803,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1276865803,
+    "wof:lastmodified":1537639687,
+    "wof:name":"Qaryat Shah 'Ali",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.15809,
+    33.65212,
+    45.15809,
+    33.65212
+],
+  "geometry": {"coordinates":[45.15809,33.65212],"type":"Point"}
+}

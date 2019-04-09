@@ -1,0 +1,88 @@
+{
+  "id": 1225842031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44033,37.08853,43.44033,37.08853",
+    "geom:latitude":37.08853,
+    "geom:longitude":43.44033,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Qaryat Bilay Jan",
+    "gn:country_code":"IQ",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390836,
+    "gn:latitude":37.08853,
+    "gn:longitude":43.44033,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Qaryat Bilay J\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0628\u0644\u064a \u062c\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Bil\u00eecanke"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u0644\u064a\u062c\u0627\u0646\u0643\u06d5",
+        "Bil\u00eacank\u00ea",
+        "\u0628\u0644\u06ce\u062c\u0627\u0646\u0643\u06ce",
+        "Bil\u00eacanik",
+        "\u0628\u0644\u06ce\u062c\u0627\u0646\u0643"
+    ],
+    "name:und_x_variant":[
+        "Blijanka",
+        "Bilich\u0101n",
+        "Qaryat Bilay J\u0101n",
+        "Bilejank",
+        "Bilechan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390836
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3f5c759061a1e3b95d2b1f19d4b3533e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1225842031,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1225842031,
+    "wof:lastmodified":1537638831,
+    "wof:name":"Qaryat Bilay Jan",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44033,
+    37.08853,
+    43.44033,
+    37.08853
+],
+  "geometry": {"coordinates":[43.44033,37.08853],"type":"Point"}
+}

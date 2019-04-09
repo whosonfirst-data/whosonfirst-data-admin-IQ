@@ -1,0 +1,74 @@
+{
+  "id": 1310214619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03752,33.4892,43.03752,33.4892",
+    "geom:latitude":33.4892,
+    "geom:longitude":43.03752,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9166579.0",
+    "gn:asciiname":"Ibrahim at Ta'an",
+    "gn:country_code":"IQ",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798496,
+    "gn:latitude":33.4892,
+    "gn:longitude":43.03752,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ibr\u0101h\u012bm a\u0163 \u0162a\u2018\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u0627\u0644\u0637\u0639\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ibr\u0101h\u012bm a\u0163 \u0162a\u2018\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421177881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798496
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a040a47b3866fe4e36d1f31dec84c6db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421177881,
+            "locality_id":1310214619,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1310214619,
+    "wof:lastmodified":1537639544,
+    "wof:name":"Ibrahim at Ta'an",
+    "wof:parent_id":421177881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03752,
+    33.4892,
+    43.03752,
+    33.4892
+],
+  "geometry": {"coordinates":[43.03752,33.4892],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226771803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30614,32.43214,44.30614,32.43214",
+    "geom:latitude":32.43214,
+    "geom:longitude":44.30614,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99348.0",
+    "gn:asciiname":"Ghutnah",
+    "gn:country_code":"IQ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448382,
+    "gn:latitude":32.43214,
+    "gn:longitude":44.30614,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ghu\u0163nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0637\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Gu\u0163nah",
+        "Ghu\u0163nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448382
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d19b3568a4ffaf863dc430b58e9ecdf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562695,
+            "locality_id":1226771803,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1226771803,
+    "wof:lastmodified":1537639065,
+    "wof:name":"Ghutnah",
+    "wof:parent_id":1108562695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30614,
+    32.43214,
+    44.30614,
+    32.43214
+],
+  "geometry": {"coordinates":[44.30614,32.43214],"type":"Point"}
+}

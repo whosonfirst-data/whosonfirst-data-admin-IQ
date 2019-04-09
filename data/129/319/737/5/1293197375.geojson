@@ -1,0 +1,88 @@
+{
+  "id": 1293197375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47494,37.07211,43.47494,37.07211",
+    "geom:latitude":37.07211,
+    "geom:longitude":43.47494,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Ibrahim Zilah",
+    "gn:country_code":"IQ",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390835,
+    "gn:latitude":37.07211,
+    "gn:longitude":43.47494,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Ibr\u0101h\u012bm Zilah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u0632\u0644\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Bermaze\u0142e"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06d5\u0631\u0645\u0627\u0632\u06d5\u06b5\u06d5",
+        "\u00cebrah\u00eem Zala",
+        "\u0626\u064a\u0628\u0631\u0627\u0647\u064a\u0645 \u0632\u0627\u0644\u0627",
+        "Bir\u00eemzila",
+        "\u0628\u0631\u064a\u0645\u0632\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Barmizl\u0101",
+        "Buraymzillah",
+        "Ibr\u0101h\u012bm Zilah",
+        "Ibrahim Zla",
+        "Braimazla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390835
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c1bb3fded7c8edadb9efb12bc7ea757a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1293197375,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1293197375,
+    "wof:lastmodified":1537638831,
+    "wof:name":"Ibrahim Zilah",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47494,
+    37.07211,
+    43.47494,
+    37.07211
+],
+  "geometry": {"coordinates":[43.47494,37.07211],"type":"Point"}
+}

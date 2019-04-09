@@ -1,0 +1,74 @@
+{
+  "id": 1242871679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76423,32.55599,44.76423,32.55599",
+    "geom:latitude":32.55599,
+    "geom:longitude":44.76423,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"6818313.0",
+    "gn:asciiname":"Juhayl 'Ujayl",
+    "gn:country_code":"IQ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6754555,
+    "gn:latitude":32.55599,
+    "gn:longitude":44.76423,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ju\u1e29ayl \u2018Ujayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062d\u064a\u0644 \u0639\u062c\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ju\u1e29ayl \u2018Ujayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421188909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754555
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"11c6c4de819b63bebd97fe1ca9c4d8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421188909,
+            "locality_id":1242871679,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1242871679,
+    "wof:lastmodified":1537639198,
+    "wof:name":"Juhayl 'Ujayl",
+    "wof:parent_id":421188909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76423,
+    32.55599,
+    44.76423,
+    32.55599
+],
+  "geometry": {"coordinates":[44.76423,32.55599],"type":"Point"}
+}

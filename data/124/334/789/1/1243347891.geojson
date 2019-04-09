@@ -1,0 +1,74 @@
+{
+  "id": 1243347891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.14821,31.71601,46.14821,31.71601",
+    "geom:latitude":31.71601,
+    "geom:longitude":46.14821,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98700.0",
+    "gn:asciiname":"Qal'at 'Agas",
+    "gn:country_code":"IQ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7025586,
+    "gn:latitude":31.71601,
+    "gn:longitude":46.14821,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qal\u2018at \u2018Agas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0639\u06af\u0633"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018at \u2018Agas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7025586
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"192ff3a6ea1acca8ee7c46d96e0ff8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562683,
+            "locality_id":1243347891,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1243347891,
+    "wof:lastmodified":1537639933,
+    "wof:name":"Qal'at 'Agas",
+    "wof:parent_id":1108562683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.14821,
+    31.71601,
+    46.14821,
+    31.71601
+],
+  "geometry": {"coordinates":[46.14821,31.71601],"type":"Point"}
+}

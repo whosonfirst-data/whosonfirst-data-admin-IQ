@@ -1,0 +1,83 @@
+{
+  "id": 421184431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.095687,36.859021,44.095687,36.859021",
+    "geom:latitude":36.859021,
+    "geom:longitude":44.095687,
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Az Zibar"
+    ],
+    "name:eng_x_preferred":[
+        "Az Zibar"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Az Zibar",
+    "qs:name_adm0":"Iraq",
+    "qs:name_adm1":"Ninawa",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":996413,
+    "qs:woe_adm0":23424855,
+    "qs:woe_id":1972053,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1972053,
+        "qs:id":996413,
+        "wd:id":"Q4831985"
+    },
+    "wof:country":"IQ",
+    "wof:created":1459009410,
+    "wof:geomhash":"c58bf673b3ce270025b74908aa772786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":421184431,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":421184431,
+    "wof:lastmodified":1527716447,
+    "wof:name":"Az Zibar",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.095687,
+    36.859021,
+    44.095687,
+    36.859021
+],
+  "geometry": {"coordinates":[44.095687,36.859021],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243038777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.21667,31.73333,47.21667,31.73333",
+    "geom:latitude":31.73333,
+    "geom:longitude":47.21667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"99097.0",
+    "gn:asciiname":"Al Hasan",
+    "gn:country_code":"IQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99363,
+    "gn:latitude":31.73333,
+    "gn:longitude":47.21667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100l \u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99363
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0819cd0c5dd17ccc15872ce7e5dba89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562707,
+            "locality_id":1243038777,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1243038777,
+    "wof:lastmodified":1537638671,
+    "wof:name":"Al Hasan",
+    "wof:parent_id":1108562707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.21667,
+    31.73333,
+    47.21667,
+    31.73333
+],
+  "geometry": {"coordinates":[47.21667,31.73333],"type":"Point"}
+}

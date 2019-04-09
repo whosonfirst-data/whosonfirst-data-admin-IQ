@@ -1,0 +1,87 @@
+{
+  "id": 1310005193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.89115,36.26668,44.89115,36.26668",
+    "geom:latitude":36.26668,
+    "geom:longitude":44.89115,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92051.0",
+    "gn:asciiname":"Kunese",
+    "gn:country_code":"IQ",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94154,
+    "gn:latitude":36.26668,
+    "gn:longitude":44.89115,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Kunese",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0646\u0629 \u0635\u0643"
+    ],
+    "name:kur_x_preferred":[
+        "\u0643\u0648\u0646\u06d5\u0633\u06d5"
+    ],
+    "name:kur_x_variant":[
+        "Kunase",
+        "Kunese",
+        "Kunes\u00ea",
+        "\u0643\u0648\u0646\u06d5\u0633\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Kunasak",
+        "K\u016bnah \u015eak",
+        "Kunase",
+        "Kunasa",
+        "K\u016bnah S\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94154
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bbfb2b417622928b4c132b3fdf0f21a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562755,
+            "locality_id":1310005193,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1310005193,
+    "wof:lastmodified":1537638196,
+    "wof:name":"Kunese",
+    "wof:parent_id":1108562755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.89115,
+    36.26668,
+    44.89115,
+    36.26668
+],
+  "geometry": {"coordinates":[44.89115,36.26668],"type":"Point"}
+}

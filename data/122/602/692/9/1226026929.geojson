@@ -1,0 +1,84 @@
+{
+  "id": 1226026929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.41293,32.55621,45.41293,32.55621",
+    "geom:latitude":32.55621,
+    "geom:longitude":45.41293,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98460.0",
+    "gn:asciiname":"An Nu'maniyah",
+    "gn:country_code":"IQ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":98846,
+    "gn:latitude":32.55621,
+    "gn:longitude":45.41293,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"An Nu\u2018m\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0639\u0645\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "N\u2018am\u0101n\u012bya",
+        "Bogheili",
+        "Na\u2019amiya",
+        "Bughaila",
+        "Al Bughaylah",
+        "Bghailah",
+        "Bogheileh",
+        "Baghela",
+        "Bughaylah",
+        "Baghailah",
+        "An Nu\u2018m\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98846
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"071badbd4cd9cd86b7faea3cf18970d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562783,
+            "locality_id":1226026929,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1226026929,
+    "wof:lastmodified":1537638636,
+    "wof:name":"An Nu'maniyah",
+    "wof:parent_id":1108562783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.41293,
+    32.55621,
+    45.41293,
+    32.55621
+],
+  "geometry": {"coordinates":[45.41293,32.55621],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292997445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3029,33.23415,44.3029,33.23415",
+    "geom:latitude":33.23415,
+    "geom:longitude":44.3029,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166545.0",
+    "gn:asciiname":"'Arab Khamis al 'Ali",
+    "gn:country_code":"IQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6927639,
+    "gn:latitude":33.23415,
+    "gn:longitude":44.3029,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab Kham\u012bs al \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u062e\u0645\u064a\u0633 \u0627\u0644\u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab Kham\u012bs al \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6927639
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"baade7abe765b42b4fa5839ac9630270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562793,
+            "locality_id":1292997445,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1292997445,
+    "wof:lastmodified":1537639845,
+    "wof:name":"'Arab Khamis al 'Ali",
+    "wof:parent_id":1108562793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3029,
+    33.23415,
+    44.3029,
+    33.23415
+],
+  "geometry": {"coordinates":[44.3029,33.23415],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310407625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26667,31.36667,45.26667,31.36667",
+    "geom:latitude":31.36667,
+    "geom:longitude":45.26667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9166568.0",
+    "gn:asciiname":"Hachama",
+    "gn:country_code":"IQ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96335,
+    "gn:latitude":31.36667,
+    "gn:longitude":45.26667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hachama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96335
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c52163d57c430f4a93f3a07df5b2b978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562705,
+            "locality_id":1310407625,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1310407625,
+    "wof:lastmodified":1537055788,
+    "wof:name":"Hachama",
+    "wof:parent_id":1108562705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26667,
+    31.36667000000001,
+    45.26667,
+    31.36667000000001
+],
+  "geometry": {"coordinates":[45.26667,31.36667000000001],"type":"Point"}
+}

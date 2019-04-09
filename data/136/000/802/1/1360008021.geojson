@@ -1,0 +1,90 @@
+{
+  "id": 1360008021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4315,37.23482,43.4315,37.23482",
+    "geom:latitude":37.23482,
+    "geom:longitude":43.4315,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Dayrishk",
+    "gn:country_code":"IQ",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96972,
+    "gn:latitude":37.23482,
+    "gn:longitude":43.4315,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Dayrishk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631\u0634\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u064a\u0631\u0634\u0643\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "D\u00ear\u00eeshke"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u06ce\u0631\u064a\u0634\u0643\u06d5",
+        "D\u00ear\u00eeshk Nesara",
+        "\u062f\u06ce\u0631\u064a\u0634\u0643 \u0646\u06d5\u0633\u0627\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "Dirishk",
+        "Dayrishkah",
+        "Darishk",
+        "Derishka",
+        "Dayrishk",
+        "Derishk Nasara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96972
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5c860c3057caadb17ac5c8a4227ab84c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1360008021,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1360008021,
+    "wof:lastmodified":1537638446,
+    "wof:name":"Dayrishk",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4315,
+    37.23482,
+    43.4315,
+    37.23482
+],
+  "geometry": {"coordinates":[43.4315,37.23482],"type":"Point"}
+}

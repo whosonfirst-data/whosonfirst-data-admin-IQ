@@ -1,0 +1,70 @@
+{
+  "id": 1209313807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.04354,35.80272,45.04354,35.80272",
+    "geom:latitude":35.80272,
+    "geom:longitude":45.04354,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"'Aysa Paki",
+    "gn:country_code":"IQ",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7426217,
+    "gn:latitude":35.80272,
+    "gn:longitude":45.04354,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Ays\u00e1 Pak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0633\u0649 \u067e\u0643\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018\u012as\u00e1 Pak\u012b",
+        "\u2018\u012as\u00e1 Bak\u012b",
+        "\u0639\u064a\u0633 \u0628\u0643\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7426217
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4553c11556eb57e3f44152c7f61f71c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209313807
+        }
+    ],
+    "wof:id":1209313807,
+    "wof:lastmodified":1537640047,
+    "wof:name":"'Aysa Paki",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.04354,
+    35.80272,
+    45.04354,
+    35.80272
+],
+  "geometry": {"coordinates":[45.04354,35.80272],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242600423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1187,35.1607,46.1187,35.1607",
+    "geom:latitude":35.1607,
+    "geom:longitude":46.1187,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Havar",
+    "gn:country_code":"IQ",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6709226,
+    "gn:latitude":35.1607,
+    "gn:longitude":46.1187,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"H\u0101v\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0648\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6709226
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e8d7150e51c2f3542ad19b0085e81df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1242600423,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1242600423,
+    "wof:lastmodified":1537639123,
+    "wof:name":"Havar",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1187,
+    35.1607,
+    46.1187,
+    35.1607
+],
+  "geometry": {"coordinates":[46.1187,35.1607],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209720487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.20917,34.80389,45.20917,34.80389",
+    "geom:latitude":34.80389,
+    "geom:longitude":45.20917,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Zarda Muhammad Mahmud",
+    "gn:country_code":"IQ",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89515,
+    "gn:latitude":34.80389,
+    "gn:longitude":45.20917,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zarda Mu\u1e29ammad Ma\u1e29m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89515
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"791988f757df47d8bdd49fa374a0eee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1209720487,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1209720487,
+    "wof:lastmodified":1536386601,
+    "wof:name":"Zarda Muhammad Mahmud",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.20917,
+    34.80389,
+    45.20917,
+    34.80389
+],
+  "geometry": {"coordinates":[45.20917,34.80389],"type":"Point"}
+}

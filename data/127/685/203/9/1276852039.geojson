@@ -1,0 +1,79 @@
+{
+  "id": 1276852039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37706,36.3796,44.37706,36.3796",
+    "geom:latitude":36.3796,
+    "geom:longitude":44.37706,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166591.0",
+    "gn:asciiname":"Spikra",
+    "gn:country_code":"IQ",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446369,
+    "gn:latitude":36.3796,
+    "gn:longitude":44.37706,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Spikr\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u064a\u0643\u0631\u0627"
+    ],
+    "name:ara_x_variant":[
+        "Sb\u012bkr\u0101"
+    ],
+    "name:und_x_variant":[
+        "Spikr\u0101",
+        "Sp\u012bgila",
+        "\u0633\u067e\u0643\u0631\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446369
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bf79b5e27329bcc2c7bd084d25db1e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562757,
+            "locality_id":1276852039,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1276852039,
+    "wof:lastmodified":1537638983,
+    "wof:name":"Spikra",
+    "wof:parent_id":1108562757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37706,
+    36.3796,
+    44.37706,
+    36.3796
+],
+  "geometry": {"coordinates":[44.37706,36.3796],"type":"Point"}
+}

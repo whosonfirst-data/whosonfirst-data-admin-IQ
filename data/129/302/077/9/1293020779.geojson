@@ -1,0 +1,85 @@
+{
+  "id": 1293020779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.64123,37.119,42.64123,37.119",
+    "geom:latitude":37.119,
+    "geom:longitude":42.64123,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"89569.0",
+    "gn:asciiname":"Selka",
+    "gn:country_code":"IQ",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390763,
+    "gn:latitude":37.119,
+    "gn:longitude":42.64123,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Selka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0644\u0643\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Salga"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u0627\u0644\u06af\u0627",
+        "Selka",
+        "\u0633\u06d5\u0644\u0643\u0627"
+    ],
+    "name:und_x_variant":[
+        "S\u0101lk\u0101",
+        "S\u0101lg\u0101",
+        "\u0100lkah",
+        "Salka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        890445289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390763
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"154202cc05943a39de6e7da73c2058d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445289,
+            "locality_id":1293020779,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1293020779,
+    "wof:lastmodified":1537638824,
+    "wof:name":"Selka",
+    "wof:parent_id":890445289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.64123,
+    37.119,
+    42.64123,
+    37.119
+],
+  "geometry": {"coordinates":[42.64123,37.119],"type":"Point"}
+}

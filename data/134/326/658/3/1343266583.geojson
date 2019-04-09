@@ -1,0 +1,68 @@
+{
+  "id": 1343266583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.71667,35.2,44.71667,35.2",
+    "geom:latitude":35.2,
+    "geom:longitude":44.71667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Hoba",
+    "gn:country_code":"IQ",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":95783,
+    "gn:latitude":35.2,
+    "gn:longitude":44.71667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95783
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"63cf2b08ca3cfd6f4335f6321a158029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1343266583,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1343266583,
+    "wof:lastmodified":1537024918,
+    "wof:name":"Hoba",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.71667,
+    35.2,
+    44.71667,
+    35.2
+],
+  "geometry": {"coordinates":[44.71667,35.2],"type":"Point"}
+}

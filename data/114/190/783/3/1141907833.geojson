@@ -1,0 +1,242 @@
+{
+  "id": 1141907833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.4497497139,36.3759824819,42.4497497139,36.3759824819",
+    "geom:latitude":36.375982,
+    "geom:longitude":42.44975,
+    "iso:country":"IQ",
+    "lbl:latitude":36.375982,
+    "lbl:longitude":42.44975,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0639\u0641\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0644\u0639\u0641\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0644\u0639\u0641\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "T\u0259laf\u0259r \u015f\u0259h\u0259ri"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u043b \u0410\u0444\u0430\u0440"
+    ],
+    "name:chi_x_preferred":[
+        "\u6cf0\u52d2\u963f\u8cbb\u723e"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u06d5\u0644\u06d5\u0639\u0641\u06d5\u0631"
+    ],
+    "name:cze_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:dut_x_preferred":[
+        "Tel Afar"
+    ],
+    "name:eng_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:epo_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:est_x_preferred":[
+        "Tall \u2018Afar"
+    ],
+    "name:fin_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:fre_x_preferred":[
+        "Tall Afar"
+    ],
+    "name:ger_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05dc \u05e2\u05e4\u05e8"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30eb\u30fb\u30a2\u30d5\u30a1\u30eb"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0430\u043b\u043b\u044c-\u0410\u0444\u0430\u0440"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062a\u0644\u0639\u0641\u0631"
+    ],
+    "name:nob_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0644\u0639\u0641\u0631"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u0644\u0639\u0641\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Tall Afar"
+    ],
+    "name:rum_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u043b\u044c-\u0410\u0444\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:swe_x_preferred":[
+        "Tall \u2018Afar"
+    ],
+    "name:tur_x_preferred":[
+        "Telafer"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043b\u044c-\u0410\u0444\u0430\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0644\u0639\u0641\u0631"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Iraq",
+    "ne:ADM0_A3":"IRQ",
+    "ne:ADM1NAME":"Ninawa",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"IQ",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":36.375982,
+    "ne:LONGITUDE":42.44975,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Tall Afar",
+    "ne:MAX_AREAKM":20.0,
+    "ne:MAX_AREAMI":8.0,
+    "ne:MAX_BBXMAX":42.475,
+    "ne:MAX_BBXMIN":42.391667,
+    "ne:MAX_BBYMAX":36.391667,
+    "ne:MAX_BBYMIN":36.35,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":27.0,
+    "ne:MAX_PERMI":17.0,
+    "ne:MAX_POP10":144465,
+    "ne:MAX_POP20":144465,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":42.441236,
+    "ne:MEAN_BBYC":36.372845,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":20.0,
+    "ne:MIN_AREAMI":8.0,
+    "ne:MIN_BBXMAX":42.475,
+    "ne:MIN_BBXMIN":42.391667,
+    "ne:MIN_BBYMAX":36.391667,
+    "ne:MIN_BBYMIN":36.35,
+    "ne:MIN_PERKM":27.0,
+    "ne:MIN_PERMI":17.0,
+    "ne:NAME":"Tall Afar",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Tall Afar",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":144465,
+    "ne:POP_MIN":144465,
+    "ne:POP_OTHER":143870,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Iraq",
+    "ne:SOV_A3":"IRQ",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
+    "reversegeo:latitude":36.375982,
+    "reversegeo:longitude":42.44975,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q990427"
+    },
+    "wof:country":"IQ",
+    "wof:created":1499130777,
+    "wof:geomhash":"26f1354e32a23ce738111f2024e7e705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1141907833,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1141907833,
+    "wof:lastmodified":1553816736,
+    "wof:name":"Tall Afar",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.44974971392452,
+    36.37598248193285,
+    42.44974971392452,
+    36.37598248193285
+],
+  "geometry": {"coordinates":[42.44974971392452,36.37598248193285],"type":"Point"}
+}

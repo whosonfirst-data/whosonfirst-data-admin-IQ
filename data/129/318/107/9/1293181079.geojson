@@ -1,0 +1,71 @@
+{
+  "id": 1293181079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21388,32.53063,44.21388,32.53063",
+    "geom:latitude":32.53063,
+    "geom:longitude":44.21388,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"99345.0",
+    "gn:asciiname":"Majzarah Suwayrij",
+    "gn:country_code":"IQ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387177,
+    "gn:latitude":32.53063,
+    "gn:longitude":44.21388,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Majzarah \u015euwayr\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Majzarah \u015euwayr\u012bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672443,
+        1108562777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387177
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"25a7d102aee76c730c385b86f17d999a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562777,
+            "locality_id":1293181079,
+            "region_id":85672443
+        }
+    ],
+    "wof:id":1293181079,
+    "wof:lastmodified":1537638794,
+    "wof:name":"Majzarah Suwayrij",
+    "wof:parent_id":1108562777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21388,
+    32.53063,
+    44.21388,
+    32.53063
+],
+  "geometry": {"coordinates":[44.21388,32.53063],"type":"Point"}
+}

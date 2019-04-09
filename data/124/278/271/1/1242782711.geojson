@@ -1,0 +1,86 @@
+{
+  "id": 1242782711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.72751,35.30961,45.72751,35.30961",
+    "geom:latitude":35.30961,
+    "geom:longitude":45.72751,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166594.0",
+    "gn:asciiname":"Kani Kawah Jabukh",
+    "gn:country_code":"IQ",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94932,
+    "gn:latitude":35.30961,
+    "gn:longitude":45.72751,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u0101n\u012b Kawah Jab\u016bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0646\u064a \u0643\u0648\u0629 \u062c\u0628\u0648\u062e"
+    ],
+    "name:kur_x_preferred":[
+        "Kan\u00ee Kewey Chox"
+    ],
+    "name:kur_x_variant":[
+        "Kan\u00ee Kewe",
+        "\u0643\u0627\u0646\u0649 \u0643\u06d5\u0648\u06d5\u0649 \u0686\u06c6\u062e",
+        "\u0643\u0627\u0646\u0649 \u0643\u06d5\u0648\u06d5"
+    ],
+    "name:und_x_variant":[
+        "K\u0101n\u012b Kawah",
+        "K\u0101n\u012b Kawah Jab\u016bkh",
+        "K\u0101n\u012b Kawa",
+        "Kani Kawa",
+        "K\u0101n\u012b Kawah J\u012bwkh",
+        "\u0643\u0627\u0646\u064a \u0643\u0648\u0629 \u062c\u064a\u0648\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        1108562767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94932
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"437f433e29d824ec22cc1e697c3fd683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":1108562767,
+            "locality_id":1242782711,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1242782711,
+    "wof:lastmodified":1537638275,
+    "wof:name":"Kani Kawah Jabukh",
+    "wof:parent_id":1108562767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.72751,
+    35.30961,
+    45.72751,
+    35.30961
+],
+  "geometry": {"coordinates":[45.72751,35.30961],"type":"Point"}
+}

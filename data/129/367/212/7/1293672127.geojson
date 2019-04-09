@@ -1,0 +1,81 @@
+{
+  "id": 1293672127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.06963,36.35106,42.06963,36.35106",
+    "geom:latitude":36.35106,
+    "geom:longitude":42.06963,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Shaykh Khanis",
+    "gn:country_code":"IQ",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6786636,
+    "gn:latitude":36.35106,
+    "gn:longitude":42.06963,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shaykh Kh\u0101nis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u062e\u0627\u0646\u0633"
+    ],
+    "name:kur_x_preferred":[
+        "Sh\u00eax Xan\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0634\u06ce\u062e \u062e\u0627\u0646\u0649"
+    ],
+    "name:und_x_variant":[
+        "Sheikh Khani",
+        "Shaykh Kh\u0101nis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6786636
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3dfceedd6de63e7919f1397785480187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1293672127,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1293672127,
+    "wof:lastmodified":1537639395,
+    "wof:name":"Shaykh Khanis",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.06963,
+    36.35106,
+    42.06963,
+    36.35106
+],
+  "geometry": {"coordinates":[42.06963,36.35106],"type":"Point"}
+}

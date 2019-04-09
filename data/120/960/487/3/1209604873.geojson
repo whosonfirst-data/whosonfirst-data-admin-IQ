@@ -1,0 +1,73 @@
+{
+  "id": 1209604873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.36056,31.00214,46.36056,31.00214",
+    "geom:latitude":31.00214,
+    "geom:longitude":46.36056,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"90509.0",
+    "gn:asciiname":"Al 'Asakirah",
+    "gn:country_code":"IQ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98663,
+    "gn:latitude":31.00214,
+    "gn:longitude":46.36056,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018As\u0101kirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0633\u0627\u0643\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018As\u0101khir",
+        "\u2018As\u0101kir",
+        "\u2018As\u0101kirah",
+        "A\u0163 \u0162\u0101miyah",
+        "\u0627\u0644\u0637\u0627\u0645\u064a\u0629",
+        "Al \u2018As\u0101kirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98663
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4f5b6b984d4c97de3478bfef740e7978",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209604873
+        }
+    ],
+    "wof:id":1209604873,
+    "wof:lastmodified":1537638623,
+    "wof:name":"Al 'Asakirah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.36056,
+    31.00214,
+    46.36056,
+    31.00214
+],
+  "geometry": {"coordinates":[46.36056,31.00214],"type":"Point"}
+}

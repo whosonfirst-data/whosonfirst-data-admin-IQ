@@ -1,0 +1,82 @@
+{
+  "id": 1259506375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.02875,36.10469,45.02875,36.10469",
+    "geom:latitude":36.10469,
+    "geom:longitude":45.02875,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Qarah Tabbah",
+    "gn:country_code":"IQ",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92406,
+    "gn:latitude":36.10469,
+    "gn:longitude":45.02875,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Qarah Tabbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0629 \u062a\u0628\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Qere Tepe"
+    ],
+    "name:kur_x_variant":[
+        "\u0642\u06d5\u0631\u06d5 \u062a\u06d5\u067e\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Qare Tepe",
+        "Qara Tapa",
+        "Qaratappa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92406
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6afbc622bea0155ef0c2dc69a2bdccba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1259506375,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1259506375,
+    "wof:lastmodified":1537638042,
+    "wof:name":"Qarah Tabbah",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.02875,
+    36.10469000000001,
+    45.02875,
+    36.10469000000001
+],
+  "geometry": {"coordinates":[45.02875,36.10469000000001],"type":"Point"}
+}

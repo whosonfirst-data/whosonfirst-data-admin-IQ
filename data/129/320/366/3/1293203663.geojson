@@ -1,0 +1,72 @@
+{
+  "id": 1293203663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.79222,30.57083,47.79222,30.57083",
+    "geom:latitude":30.57083,
+    "geom:longitude":47.79222,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fayruziyah",
+    "gn:country_code":"IQ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96721,
+    "gn:latitude":30.57083,
+    "gn:longitude":47.79222,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Fayr\u016bz\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fir\u016bz\u012bya",
+        "Fayr\u016bz\u012byah",
+        "F\u012br\u016bz\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96721
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"faa4294a2bbd3828c9d19ea6eb632369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562729,
+            "locality_id":1293203663,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1293203663,
+    "wof:lastmodified":1537638423,
+    "wof:name":"Fayruziyah",
+    "wof:parent_id":1108562729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.79222,
+    30.57083,
+    47.79222,
+    30.57083
+],
+  "geometry": {"coordinates":[47.79222,30.57083],"type":"Point"}
+}

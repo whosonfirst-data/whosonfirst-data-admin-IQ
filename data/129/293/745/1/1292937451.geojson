@@ -1,0 +1,84 @@
+{
+  "id": 1292937451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.72222,35.33801,45.72222,35.33801",
+    "geom:latitude":35.33801,
+    "geom:longitude":45.72222,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166594.0",
+    "gn:asciiname":"Mahmud Khani al 'Ulya",
+    "gn:country_code":"IQ",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93303,
+    "gn:latitude":35.33801,
+    "gn:longitude":45.72222,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29m\u016bd Kh\u0101n\u012b al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u0648\u062f \u062e\u0627\u0646\u064a \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "M\u1e27emed Xan\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "Mu\u1e27emed Xan\u00ee",
+        "\u0645\u062d\u06d5\u0645\u06d5\u062f \u062e\u0627\u0646\u0649",
+        "\u0645\u0648\u062d\u06d5\u0645\u06d5\u062f \u062e\u0627\u0646\u0649"
+    ],
+    "name:und_x_variant":[
+        "Mahmad Kh\u0101ni",
+        "Ma\u1e29m\u016bd Kh\u0101n\u012b al \u2018Uly\u0101",
+        "Mu\u1e29ammad Kh\u0101n\u012b",
+        "Muhamad Khani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        1108562767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93303
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ad5d1dbc71708238ef90b85d11bad4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":1108562767,
+            "locality_id":1292937451,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1292937451,
+    "wof:lastmodified":1537638124,
+    "wof:name":"Mahmud Khani al 'Ulya",
+    "wof:parent_id":1108562767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.72222,
+    35.33801,
+    45.72222,
+    35.33801
+],
+  "geometry": {"coordinates":[45.72222,35.33801],"type":"Point"}
+}

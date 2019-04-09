@@ -1,0 +1,74 @@
+{
+  "id": 1277153511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78716,35.34966,43.78716,35.34966",
+    "geom:latitude":35.34966,
+    "geom:longitude":43.78716,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"6770659.0",
+    "gn:asciiname":"Muhammad an Nabah",
+    "gn:country_code":"IQ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6770398,
+    "gn:latitude":35.34966,
+    "gn:longitude":43.78716,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Mu\u1e29ammad an Naba\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u062f \u0627\u0644\u0646\u0628\u062d"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e29ammad an Naba\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6770398
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d23b16ac044348d6be56a31e10518d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562743,
+            "locality_id":1277153511,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1277153511,
+    "wof:lastmodified":1537639255,
+    "wof:name":"Muhammad an Nabah",
+    "wof:parent_id":1108562743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78716,
+    35.34966,
+    43.78716,
+    35.34966
+],
+  "geometry": {"coordinates":[43.78716,35.34966],"type":"Point"}
+}

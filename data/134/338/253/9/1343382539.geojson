@@ -1,0 +1,74 @@
+{
+  "id": 1343382539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37302,33.55133,44.37302,33.55133",
+    "geom:latitude":33.55133,
+    "geom:longitude":44.37302,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9167085.0",
+    "gn:asciiname":"Qaryat al Quds Lana",
+    "gn:country_code":"IQ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805691,
+    "gn:latitude":33.55133,
+    "gn:longitude":44.37302,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat al Quds Lan\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0642\u062f\u0633 \u0644\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al Quds Lan\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805691
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d1cb39dc4cf519f4c3068628819b16eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562771,
+            "locality_id":1343382539,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1343382539,
+    "wof:lastmodified":1537639587,
+    "wof:name":"Qaryat al Quds Lana",
+    "wof:parent_id":1108562771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37302,
+    33.55133,
+    44.37302,
+    33.55133
+],
+  "geometry": {"coordinates":[44.37302,33.55133],"type":"Point"}
+}

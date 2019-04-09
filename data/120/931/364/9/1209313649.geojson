@@ -1,0 +1,71 @@
+{
+  "id": 1209313649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25053,36.30336,45.25053,36.30336",
+    "geom:latitude":36.30336,
+    "geom:longitude":45.25053,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Kune Mar",
+    "gn:country_code":"IQ",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8429841,
+    "gn:latitude":36.30336,
+    "gn:longitude":45.25053,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Kune Mar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kur_x_preferred":[
+        "Kune Mar"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0648\u0646\u06d5 \u0645\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kunamara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8429841
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7b571bc595292bb809547451d020aab8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209313649
+        }
+    ],
+    "wof:id":1209313649,
+    "wof:lastmodified":1537640083,
+    "wof:name":"Kune Mar",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25053,
+    36.30336,
+    45.25053,
+    36.30336
+],
+  "geometry": {"coordinates":[45.25053,36.30336],"type":"Point"}
+}

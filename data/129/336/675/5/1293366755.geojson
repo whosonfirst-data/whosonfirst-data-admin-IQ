@@ -1,0 +1,77 @@
+{
+  "id": 1293366755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96363,35.64585,43.96363,35.64585",
+    "geom:latitude":35.64585,
+    "geom:longitude":43.96363,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Darkah as Sughra",
+    "gn:country_code":"IQ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":97041,
+    "gn:latitude":35.64585,
+    "gn:longitude":43.96363,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Darkah a\u015f \u015eughr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0643\u0629 \u0627\u0644\u0635\u063a\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "Derk\u0113 Kithka",
+        "Derke K\u012bthkah",
+        "Derkeh K\u012bch",
+        "Derk\u0113 Kitchka",
+        "Darkah a\u015f \u015eughr\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97041
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5eb54a557bdc46395a6e51a3d79af351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562779,
+            "locality_id":1293366755,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1293366755,
+    "wof:lastmodified":1537638451,
+    "wof:name":"Darkah as Sughra",
+    "wof:parent_id":1108562779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96363,
+    35.64585,
+    43.96363,
+    35.64585
+],
+  "geometry": {"coordinates":[43.96363,35.64585],"type":"Point"}
+}

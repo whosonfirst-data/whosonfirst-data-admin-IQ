@@ -1,0 +1,82 @@
+{
+  "id": 1310589335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28301,36.60931,44.28301,36.60931",
+    "geom:latitude":36.60931,
+    "geom:longitude":44.28301,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166591.0",
+    "gn:asciiname":"Filawn",
+    "gn:country_code":"IQ",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446690,
+    "gn:latitude":36.60931,
+    "gn:longitude":44.28301,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Filawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u0648\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Filon"
+    ],
+    "name:kur_x_variant":[
+        "\u0641\u0644\u06c6\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0641\u0644\u0648\u0646",
+        "Fil\u014dn",
+        "Flon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446690
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4bdae0e27d7f23d58e4ca24eb1b9f722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562757,
+            "locality_id":1310589335,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1310589335,
+    "wof:lastmodified":1537639001,
+    "wof:name":"Filawn",
+    "wof:parent_id":1108562757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28301,
+    36.60931,
+    44.28301,
+    36.60931
+],
+  "geometry": {"coordinates":[44.28301,36.60931],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259546721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27845,33.78029,44.27845,33.78029",
+    "geom:latitude":33.78029,
+    "geom:longitude":44.27845,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"9166616.0",
+    "gn:asciiname":"Sabih 'Arawi",
+    "gn:country_code":"IQ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805540,
+    "gn:latitude":33.78029,
+    "gn:longitude":44.27845,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u015eab\u012b\u1e29 \u2018Ar\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0628\u064a\u062d \u0639\u0631\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u015eab\u012b\u1e29 \u2018Ar\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805540
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4eff48b0ed956cd4a36a0088ec8912f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562809,
+            "locality_id":1259546721,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1259546721,
+    "wof:lastmodified":1537639578,
+    "wof:name":"Sabih 'Arawi",
+    "wof:parent_id":1108562809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27845,
+    33.78029,
+    44.27845,
+    33.78029
+],
+  "geometry": {"coordinates":[44.27845,33.78029],"type":"Point"}
+}

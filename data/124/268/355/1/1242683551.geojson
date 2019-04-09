@@ -1,0 +1,75 @@
+{
+  "id": 1242683551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6603,31.62289,44.6603,31.62289",
+    "geom:latitude":31.62289,
+    "geom:longitude":44.6603,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"98634.0",
+    "gn:asciiname":"Al Bu Hamud",
+    "gn:country_code":"IQ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449007,
+    "gn:latitude":31.62289,
+    "gn:longitude":44.6603,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l B\u016b \u1e28am\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0628\u0648 \u062d\u0645\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0100l B\u016b \u1e28amm\u016bd",
+        "\u0100l B\u016b \u1e28am\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449007
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d9498e68ecf651f0b76d4c78ee014313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562699,
+            "locality_id":1242683551,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1242683551,
+    "wof:lastmodified":1537639081,
+    "wof:name":"Al Bu Hamud",
+    "wof:parent_id":1108562699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6603,
+    31.62289,
+    44.6603,
+    31.62289
+],
+  "geometry": {"coordinates":[44.6603,31.62289],"type":"Point"}
+}

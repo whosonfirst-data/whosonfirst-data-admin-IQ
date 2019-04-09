@@ -1,0 +1,74 @@
+{
+  "id": 1260277241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8,33.51667,44.8,33.51667",
+    "geom:latitude":33.51667,
+    "geom:longitude":44.8,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Na'if",
+    "gn:country_code":"IQ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93045,
+    "gn:latitude":33.51667,
+    "gn:longitude":44.8,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"N\u0101\u2019if",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "N\u0101\u2019if"
+    ],
+    "name:und_x_variant":[
+        "N\u0101yif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93045
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d77a2cbc64cf20db1450a7cf0f44a184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1260277241,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1260277241,
+    "wof:lastmodified":1537638107,
+    "wof:name":"Na'if",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8,
+    33.51667,
+    44.8,
+    33.51667
+],
+  "geometry": {"coordinates":[44.8,33.51667],"type":"Point"}
+}

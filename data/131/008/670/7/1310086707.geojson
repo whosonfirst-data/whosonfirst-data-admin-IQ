@@ -1,0 +1,90 @@
+{
+  "id": 1310086707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0506,36.66462,45.0506,36.66462",
+    "geom:latitude":36.66462,
+    "geom:longitude":45.0506,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166586.0",
+    "gn:asciiname":"Mawetan",
+    "gn:country_code":"IQ",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":93423,
+    "gn:latitude":36.66462,
+    "gn:longitude":45.0506,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Mawetan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0648\u062a\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0648\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "M\u012bvat\u0101n"
+    ],
+    "name:kur_x_preferred":[
+        "Mawetan"
+    ],
+    "name:kur_x_variant":[
+        "\u0645\u0627\u0648\u06d5\u062a\u0627\u0646",
+        "Mawtan",
+        "\u0645\u0627\u0648\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "M\u012bwat\u0101n",
+        "Mautan",
+        "Mawatan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93423
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"19f3f03da27d61af1dc4972270b6991d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562749,
+            "locality_id":1310086707,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1310086707,
+    "wof:lastmodified":1537638132,
+    "wof:name":"Mawetan",
+    "wof:parent_id":1108562749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0506,
+    36.66462,
+    45.0506,
+    36.66462
+],
+  "geometry": {"coordinates":[45.0506,36.66462],"type":"Point"}
+}

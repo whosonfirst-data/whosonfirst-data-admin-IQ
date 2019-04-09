@@ -1,0 +1,83 @@
+{
+  "id": 1327215085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15284,36.04705,44.15284,36.04705",
+    "geom:latitude":36.04705,
+    "geom:longitude":44.15284,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Helece",
+    "gn:country_code":"IQ",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446177,
+    "gn:latitude":36.04705,
+    "gn:longitude":44.15284,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"He\u0142ece",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0631\u062d\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "He\u0142ece"
+    ],
+    "name:kur_x_variant":[
+        "\u0647\u06d5\u06b5\u06d5\u062c\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Al\u0101ja",
+        "Halaja",
+        "Harja",
+        "Har\u1e29\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446177
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c88e90c845d27698022e1ab931f4f5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":1327215085,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1327215085,
+    "wof:lastmodified":1537638970,
+    "wof:name":"Helece",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15284000000001,
+    36.04705,
+    44.15284000000001,
+    36.04705
+],
+  "geometry": {"coordinates":[44.15284000000001,36.04705],"type":"Point"}
+}

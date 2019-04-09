@@ -1,0 +1,74 @@
+{
+  "id": 1293863149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85372,35.44454,43.85372,35.44454",
+    "geom:latitude":35.44454,
+    "geom:longitude":43.85372,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"6770659.0",
+    "gn:asciiname":"Khidr Muhammad `Abd",
+    "gn:country_code":"IQ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6770500,
+    "gn:latitude":35.44454,
+    "gn:longitude":43.85372,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Khi\u1e11r Mu\u1e29ammad \u2018Abd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0636\u0631 \u0645\u062d\u0645\u062f \u0639\u0628\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khi\u1e11r Mu\u1e29ammad \u2018Abd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6770500
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a70367ee5fbe5ea36abe06a98ba00560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562743,
+            "locality_id":1293863149,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1293863149,
+    "wof:lastmodified":1537639260,
+    "wof:name":"Khidr Muhammad `Abd",
+    "wof:parent_id":1108562743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85372,
+    35.44454,
+    43.85372,
+    35.44454
+],
+  "geometry": {"coordinates":[43.85372,35.44454],"type":"Point"}
+}

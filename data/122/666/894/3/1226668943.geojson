@@ -1,0 +1,84 @@
+{
+  "id": 1226668943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.12252,35.30014,45.12252,35.30014",
+    "geom:latitude":35.30014,
+    "geom:longitude":45.12252,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Jinukat Haji Shal",
+    "gn:country_code":"IQ",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95143,
+    "gn:latitude":35.30014,
+    "gn:longitude":45.12252,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jin\u016bkat \u1e28\u0101j\u012b Shal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u0648\u0643\u0629 \u062d\u0627\u062c\u064a \u0634\u0644"
+    ],
+    "name:kur_x_preferred":[
+        "Cinokey Qaz\u00ee Shel"
+    ],
+    "name:kur_x_variant":[
+        "Cinoke(Qaz\u00ee Shel)",
+        "\u062c\u0646\u06c6\u0643\u06d5\u0649 \u0642\u0627\u0632\u0649 \u0634\u06d5\u0644",
+        "\u062c\u0646\u06c6\u0643\u06d5(\u0642\u0627\u0632\u0649 \u0634\u06d5\u0644"
+    ],
+    "name:und_x_variant":[
+        "Jin\u016bkat \u1e28\u0101j\u012b Shal",
+        "Jin\u014dka-i \u2019\u0101j\u012b Shal",
+        "Jnokay Qazi Shal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95143
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"46479eadd848991989b92bf9a9e8c908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1226668943,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1226668943,
+    "wof:lastmodified":1537638297,
+    "wof:name":"Jinukat Haji Shal",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.12252,
+    35.30014,
+    45.12252,
+    35.30014
+],
+  "geometry": {"coordinates":[45.12252,35.30014],"type":"Point"}
+}

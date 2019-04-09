@@ -1,0 +1,74 @@
+{
+  "id": 1209979801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49404,34.18804,43.49404,34.18804",
+    "geom:latitude":34.18804,
+    "geom:longitude":43.49404,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"91594.0",
+    "gn:asciiname":"Khalaf Jasim Mut'ab",
+    "gn:country_code":"IQ",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6871405,
+    "gn:latitude":34.18804,
+    "gn:longitude":43.49404,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khalaf J\u0101sim Mut\u2018ab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0641 \u062c\u0627\u0633\u0645 \u0645\u062a\u0639\u0628"
+    ],
+    "name:und_x_variant":[
+        "Khalaf J\u0101sim Mut\u2018ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6871405
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2f40cabddcb104321c24113a99487bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562799,
+            "locality_id":1209979801,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1209979801,
+    "wof:lastmodified":1537639781,
+    "wof:name":"Khalaf Jasim Mut'ab",
+    "wof:parent_id":1108562799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49404000000001,
+    34.18804,
+    43.49404000000001,
+    34.18804
+],
+  "geometry": {"coordinates":[43.49404000000001,34.18804],"type":"Point"}
+}

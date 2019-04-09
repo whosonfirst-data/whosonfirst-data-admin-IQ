@@ -1,0 +1,68 @@
+{
+  "id": 1343975621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.1275,34.30222,42.1275,34.30222",
+    "geom:latitude":34.30222,
+    "geom:longitude":42.1275,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9166650.0",
+    "gn:asciiname":"Mazid",
+    "gn:country_code":"IQ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93526,
+    "gn:latitude":34.30222,
+    "gn:longitude":42.1275,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maz\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        1108562803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93526
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5d5ec6d55bb52ddc2e1ed3cdaa1ee4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562803,
+            "locality_id":1343975621,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1343975621,
+    "wof:lastmodified":1536997389,
+    "wof:name":"Mazid",
+    "wof:parent_id":1108562803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.1275,
+    34.30222,
+    42.1275,
+    34.30222
+],
+  "geometry": {"coordinates":[42.1275,34.30222],"type":"Point"}
+}

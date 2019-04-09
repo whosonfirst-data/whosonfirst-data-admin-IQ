@@ -1,0 +1,81 @@
+{
+  "id": 1310582549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36407,36.60739,44.36407,36.60739",
+    "geom:latitude":36.60739,
+    "geom:longitude":44.36407,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166592.0",
+    "gn:asciiname":"Kalin",
+    "gn:country_code":"IQ",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539055,
+    "gn:latitude":36.60739,
+    "gn:longitude":44.36407,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Kal\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0644\u064a\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Kelek\u00een"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u06d5\u0644\u06d5\u0643\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kal\u012bn",
+        "\u0643\u0644\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539055
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ebb3674cfa6fe07ca2ee3f85f77de82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445495,
+            "locality_id":1310582549,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1310582549,
+    "wof:lastmodified":1537640066,
+    "wof:name":"Kalin",
+    "wof:parent_id":890445495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36407,
+    36.60739,
+    44.36407,
+    36.60739
+],
+  "geometry": {"coordinates":[44.36407,36.60739],"type":"Point"}
+}

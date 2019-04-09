@@ -1,0 +1,74 @@
+{
+  "id": 1360180717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3053,34.02372,45.3053,34.02372",
+    "geom:latitude":34.02372,
+    "geom:longitude":45.3053,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"'Abd Allah al Hatam",
+    "gn:country_code":"IQ",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6928137,
+    "gn:latitude":34.02372,
+    "gn:longitude":45.3053,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"\u2018Abd All\u0101h al \u1e28a\u0163\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f \ufdf2 \u0627\u0644\u062d\u0637\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abd All\u0101h al \u1e28a\u0163\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6928137
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5f91d7c7846624607f9b52405080aff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1360180717,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1360180717,
+    "wof:lastmodified":1537639866,
+    "wof:name":"'Abd Allah al Hatam",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3053,
+    34.02372,
+    45.3053,
+    34.02372
+],
+  "geometry": {"coordinates":[45.3053,34.02372],"type":"Point"}
+}

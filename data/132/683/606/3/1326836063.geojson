@@ -1,0 +1,74 @@
+{
+  "id": 1326836063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85971,31.48194,44.85971,31.48194",
+    "geom:latitude":31.48194,
+    "geom:longitude":44.85971,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"6850588.0",
+    "gn:asciiname":"Sultan as Sagar",
+    "gn:country_code":"IQ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026919,
+    "gn:latitude":31.48194,
+    "gn:longitude":44.85971,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sul\u0163\u0101n a\u015f \u015eagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0635\u06af\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sul\u0163\u0101n a\u015f \u015eagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026919
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"27118517e3e8257be463ee9e83078208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562701,
+            "locality_id":1326836063,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1326836063,
+    "wof:lastmodified":1537639946,
+    "wof:name":"Sultan as Sagar",
+    "wof:parent_id":1108562701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85971,
+    31.48194,
+    44.85971,
+    31.48194
+],
+  "geometry": {"coordinates":[44.85971,31.48194],"type":"Point"}
+}

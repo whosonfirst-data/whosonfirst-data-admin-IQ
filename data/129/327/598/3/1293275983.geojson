@@ -1,0 +1,77 @@
+{
+  "id": 1293275983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.34817,34.32082,45.34817,34.32082",
+    "geom:latitude":34.32082,
+    "geom:longitude":45.34817,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Kukhah Tahir",
+    "gn:country_code":"IQ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90433,
+    "gn:latitude":34.32082,
+    "gn:longitude":45.34817,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"K\u016bkhah \u0162\u0101hir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u062e\u0629 \u0637\u0627\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "K\u00f6kh\u0101 Tahir",
+        "Kukha T\u0101hir",
+        "\u0162\u0101hir Afand\u012b",
+        "K\u016bkhah \u0162\u0101hir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90433
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3a02fa7c604b79567646784b36a5b56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1293275983,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1293275983,
+    "wof:lastmodified":1537637864,
+    "wof:name":"Kukhah Tahir",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.34817,
+    34.32082,
+    45.34817,
+    34.32082
+],
+  "geometry": {"coordinates":[45.34817,34.32082],"type":"Point"}
+}

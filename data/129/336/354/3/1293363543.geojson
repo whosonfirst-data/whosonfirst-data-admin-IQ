@@ -1,0 +1,74 @@
+{
+  "id": 1293363543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.35499,35.96673,41.35499,35.96673",
+    "geom:latitude":35.96673,
+    "geom:longitude":41.35499,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166608.0",
+    "gn:asciiname":"Umm Hajarah",
+    "gn:country_code":"IQ",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6870021,
+    "gn:latitude":35.96673,
+    "gn:longitude":41.35499,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Umm \u1e28aj\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u062d\u062c\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Umm \u1e28aj\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870021
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3182d12ede4e905b8acbf8d359485b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562639,
+            "locality_id":1293363543,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1293363543,
+    "wof:lastmodified":1537639779,
+    "wof:name":"Umm Hajarah",
+    "wof:parent_id":1108562639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.35499,
+    35.96673,
+    41.35499,
+    35.96673
+],
+  "geometry": {"coordinates":[41.35499,35.96673],"type":"Point"}
+}

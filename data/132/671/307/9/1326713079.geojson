@@ -1,0 +1,74 @@
+{
+  "id": 1326713079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.95082,36.03053,41.95082,36.03053",
+    "geom:latitude":36.03053,
+    "geom:longitude":41.95082,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166608.0",
+    "gn:asciiname":"Chulaymiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7047055,
+    "gn:latitude":36.03053,
+    "gn:longitude":41.95082,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Chulaym\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0686\u0644\u064a\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Chulaym\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7047055
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2f2318d3d9205411e9bb120319df975c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562639,
+            "locality_id":1326713079,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1326713079,
+    "wof:lastmodified":1537639972,
+    "wof:name":"Chulaymiyah",
+    "wof:parent_id":1108562639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.95082,
+    36.03053,
+    41.95082,
+    36.03053
+],
+  "geometry": {"coordinates":[41.95082,36.03053],"type":"Point"}
+}

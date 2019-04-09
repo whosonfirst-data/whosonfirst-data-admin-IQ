@@ -1,0 +1,68 @@
+{
+  "id": 1209027957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36049,33.23421,44.36049,33.23421",
+    "geom:latitude":33.23421,
+    "geom:longitude":44.36049,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166545.0",
+    "gn:asciiname":"Qaryat al 'Asifah",
+    "gn:country_code":"IQ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6927501,
+    "gn:latitude":33.23421,
+    "gn:longitude":44.36049,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat al \u2018\u0100\u015fifah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0639\u0627\u0635\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al \u2018\u0100\u015fifah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6927501
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"061a787bfdcbbfd27537e37e1355c55d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209027957
+        }
+    ],
+    "wof:id":1209027957,
+    "wof:lastmodified":1537639839,
+    "wof:name":"Qaryat al 'Asifah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36049000000001,
+    33.23421,
+    44.36049000000001,
+    33.23421
+],
+  "geometry": {"coordinates":[44.36049000000001,33.23421],"type":"Point"}
+}

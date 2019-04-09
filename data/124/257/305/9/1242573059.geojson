@@ -1,0 +1,74 @@
+{
+  "id": 1242573059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.17173,33.49216,45.17173,33.49216",
+    "geom:latitude":33.49216,
+    "geom:longitude":45.17173,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"'Arab Shaykh Sa'id al 'Abd Wali",
+    "gn:country_code":"IQ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6911302,
+    "gn:latitude":33.49216,
+    "gn:longitude":45.17173,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab Shaykh Sa\u2018\u012bd al \u2018Abd W\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0634\u064a\u062e \u0633\u0639\u064a\u062f \u0627\u0644\u0639\u0628\u062f \u0648\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab Shaykh Sa\u2018\u012bd al \u2018Abd W\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6911302
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b13d0837129622e4384283457d98d7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1242573059,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1242573059,
+    "wof:lastmodified":1537639812,
+    "wof:name":"'Arab Shaykh Sa'id al 'Abd Wali",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.17173,
+    33.49216,
+    45.17173,
+    33.49216
+],
+  "geometry": {"coordinates":[45.17173,33.49216],"type":"Point"}
+}

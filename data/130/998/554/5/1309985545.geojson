@@ -1,0 +1,75 @@
+{
+  "id": 1309985545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.52376,35.55942,44.52376,35.55942",
+    "geom:latitude":35.55942,
+    "geom:longitude":44.52376,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"94786.0",
+    "gn:asciiname":"Shurjah",
+    "gn:country_code":"IQ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384643,
+    "gn:latitude":35.55942,
+    "gn:longitude":44.52376,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sh\u016brjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0631\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sh\u016brjah",
+        "Shorija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        421199293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384643
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"575504758a2c1b42d33d696c61a1608a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421199293,
+            "locality_id":1309985545,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1309985545,
+    "wof:lastmodified":1537638748,
+    "wof:name":"Shurjah",
+    "wof:parent_id":421199293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.52376,
+    35.55942,
+    44.52376,
+    35.55942
+],
+  "geometry": {"coordinates":[44.52376,35.55942],"type":"Point"}
+}

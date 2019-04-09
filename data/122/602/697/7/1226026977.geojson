@@ -1,0 +1,74 @@
+{
+  "id": 1226026977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.99332,32.85146,44.99332,32.85146",
+    "geom:latitude":32.85146,
+    "geom:longitude":44.99332,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98460.0",
+    "gn:asciiname":"Qaryat al Ikhlas",
+    "gn:country_code":"IQ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6754250,
+    "gn:latitude":32.85146,
+    "gn:longitude":44.99332,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat al Ikhl\u0101\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0627\u062e\u0644\u0627\u0635"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al Ikhl\u0101\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754250
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"aa47dc3e560a4030819ddc55b7f4b8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562783,
+            "locality_id":1226026977,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1226026977,
+    "wof:lastmodified":1537639183,
+    "wof:name":"Qaryat al Ikhlas",
+    "wof:parent_id":1108562783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.99332,
+    32.85146,
+    44.99332,
+    32.85146
+],
+  "geometry": {"coordinates":[44.99332,32.85146],"type":"Point"}
+}

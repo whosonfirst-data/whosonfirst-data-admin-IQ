@@ -1,0 +1,74 @@
+{
+  "id": 1310576981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75623,34.48757,43.75623,34.48757",
+    "geom:latitude":34.48757,
+    "geom:longitude":43.75623,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"90148.0",
+    "gn:asciiname":"'Arab al 'Uwaynat",
+    "gn:country_code":"IQ",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6783064,
+    "gn:latitude":34.48757,
+    "gn:longitude":43.75623,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab al \u2018Uwayn\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0627\u0644\u0639\u0648\u064a\u0646\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab al \u2018Uwayn\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        421186243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783064
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4b51b30fa2313f0112244b39d9070262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186243,
+            "locality_id":1310576981,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1310576981,
+    "wof:lastmodified":1537639355,
+    "wof:name":"'Arab al 'Uwaynat",
+    "wof:parent_id":421186243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75623,
+    34.48757,
+    43.75623,
+    34.48757
+],
+  "geometry": {"coordinates":[43.75623,34.48757],"type":"Point"}
+}

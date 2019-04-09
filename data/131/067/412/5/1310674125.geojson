@@ -1,0 +1,83 @@
+{
+  "id": 1310674125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.79432,36.56356,41.79432,36.56356",
+    "geom:latitude":36.56356,
+    "geom:longitude":41.79432,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Qaryat Rajim al 'Abd",
+    "gn:country_code":"IQ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6962696,
+    "gn:latitude":36.56356,
+    "gn:longitude":41.79432,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Rajim al \u2018Abd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0631\u062c\u0645 \u0627\u0644\u0639\u0628\u062f"
+    ],
+    "name:kur_x_preferred":[
+        "Quc\u00ee Chem\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0642\u0648\u062c\u0649 \u0686\u06d5\u0645\u0649"
+    ],
+    "name:und_x_variant":[
+        "Quji Chami",
+        "Q\u016bj\u012b Jam\u012b ash Shim\u0101l\u012byah",
+        "\u0642\u0648\u062c\u064a \u062c\u0645\u064a \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+        "Qaryat Rajim al \u2018Abd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6962696
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bded450de82019fed35602ab2c27c4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1310674125,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1310674125,
+    "wof:lastmodified":1537639875,
+    "wof:name":"Qaryat Rajim al 'Abd",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.79432,
+    36.56356,
+    41.79432,
+    36.56356
+],
+  "geometry": {"coordinates":[41.79432,36.56356],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193254629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38639,32.03583,44.38639,32.03583",
+    "geom:latitude":32.03583,
+    "geom:longitude":44.38639,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166629.0",
+    "gn:asciiname":"Hayy Hayliyah",
+    "gn:country_code":"IQ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448493,
+    "gn:latitude":32.03583,
+    "gn:longitude":44.38639,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"\u1e28ayy Hayl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ayy Hayl\u012bah",
+        "\u1e28ayy Hayl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448493
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2e1c8ce2b0a4f2563cecd5a0d9637485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562691,
+            "locality_id":1193254629,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1193254629,
+    "wof:lastmodified":1537639069,
+    "wof:name":"Hayy Hayliyah",
+    "wof:parent_id":1108562691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38639000000001,
+    32.03583,
+    44.38639000000001,
+    32.03583
+],
+  "geometry": {"coordinates":[44.38639000000001,32.03583],"type":"Point"}
+}

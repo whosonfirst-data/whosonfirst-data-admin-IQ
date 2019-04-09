@@ -1,0 +1,88 @@
+{
+  "id": 1276859459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.04386,36.67331,45.04386,36.67331",
+    "geom:latitude":36.67331,
+    "geom:longitude":45.04386,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166586.0",
+    "gn:asciiname":"Hajj 'Umran",
+    "gn:country_code":"IQ",
+    "gn:dem":1705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96213,
+    "gn:latitude":36.67331,
+    "gn:longitude":45.04386,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"\u1e28\u0101jj \u2018Umr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28\u0101jj \u2018Umr\u0101n"
+    ],
+    "name:kur_x_preferred":[
+        "\u1e26ac\u00ee Homaran"
+    ],
+    "name:kur_x_variant":[
+        "\u062d\u0627\u062c\u0649 \u06be\u06c6\u0645\u06d5\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Haji Omran",
+        "\u1e28aj\u012b \u2018Umr\u0101n",
+        "Haj Umran",
+        "Haji Umran",
+        "H\u0101j\u012b H\u014dmaran",
+        "H\u0101j \u2018Imr\u0101n",
+        "Haji Omaran",
+        "Hajy Homaran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96213,
+        "wk:page":"Haji_Omeran"
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ecaafd31e347ecf4160209ac7c360133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562749,
+            "locality_id":1276859459,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1276859459,
+    "wof:lastmodified":1537638371,
+    "wof:name":"Hajj 'Umran",
+    "wof:parent_id":1108562749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.04386,
+    36.67331,
+    45.04386,
+    36.67331
+],
+  "geometry": {"coordinates":[45.04386,36.67331],"type":"Point"}
+}

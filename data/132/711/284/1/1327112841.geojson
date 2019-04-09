@@ -1,0 +1,88 @@
+{
+  "id": 1327112841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22987,36.60007,44.22987,36.60007",
+    "geom:latitude":36.60007,
+    "geom:longitude":44.22987,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166591.0",
+    "gn:asciiname":"Kani Tawuk",
+    "gn:country_code":"IQ",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446622,
+    "gn:latitude":36.60007,
+    "gn:longitude":44.22987,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"K\u0101n\u012b T\u0101wuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u0101n\u012b T\u0101wuk"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0646\u064a \u062a\u0627\u0648\u0643"
+    ],
+    "name:kur_x_preferred":[
+        "Kan\u00ee Tawik"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0627\u0646\u0649 \u062a\u0627\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u0643\u0627\u0646\u064a \u062a\u0627\u0648\u0643",
+        "K\u0101n\u012b T\u0101r\u016bk",
+        "Qaryat K\u0101n\u012b T\u0101wuk",
+        "\u0643\u0627\u0646\u064a \u062a\u0627\u0631\u0648\u0643",
+        "\u0642\u0631\u064a\u0629 \u0643\u0627\u0646\u064a \u062a\u0627\u0648\u0643",
+        "Kani Tawk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446622
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7202019d5e02bbd91f90e1ea5bd01f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562757,
+            "locality_id":1327112841,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1327112841,
+    "wof:lastmodified":1537638991,
+    "wof:name":"Kani Tawuk",
+    "wof:parent_id":1108562757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22987,
+    36.60007,
+    44.22987,
+    36.60007
+],
+  "geometry": {"coordinates":[44.22987,36.60007],"type":"Point"}
+}

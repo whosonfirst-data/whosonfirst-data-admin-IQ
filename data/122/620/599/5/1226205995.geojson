@@ -1,0 +1,74 @@
+{
+  "id": 1226205995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54773,32.13533,44.54773,32.13533",
+    "geom:latitude":32.13533,
+    "geom:longitude":44.54773,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166629.0",
+    "gn:asciiname":"Wahid Yasin",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789305,
+    "gn:latitude":32.13533,
+    "gn:longitude":44.54773,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wa\u1e29\u012bd Y\u0101s\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u062d\u064a\u062f \u064a\u0627\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Wa\u1e29\u012bd Y\u0101s\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789305
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fcc5dce4d32b119b938235b19cfb2d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562691,
+            "locality_id":1226205995,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1226205995,
+    "wof:lastmodified":1537639476,
+    "wof:name":"Wahid Yasin",
+    "wof:parent_id":1108562691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54773,
+    32.13533,
+    44.54773,
+    32.13533
+],
+  "geometry": {"coordinates":[44.54773,32.13533],"type":"Point"}
+}

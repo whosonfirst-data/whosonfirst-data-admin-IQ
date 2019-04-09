@@ -1,0 +1,74 @@
+{
+  "id": 1260188491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51653,31.99058,44.51653,31.99058",
+    "geom:latitude":31.99058,
+    "geom:longitude":44.51653,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"98634.0",
+    "gn:asciiname":"As Sabghan",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449084,
+    "gn:latitude":31.99058,
+    "gn:longitude":44.51653,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u015f \u015eabgh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0628\u063a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eabgh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449084
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9d33cb537f7debde7fd72ca6e2d19482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562699,
+            "locality_id":1260188491,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1260188491,
+    "wof:lastmodified":1537639084,
+    "wof:name":"As Sabghan",
+    "wof:parent_id":1108562699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51653,
+    31.99058,
+    44.51653,
+    31.99058
+],
+  "geometry": {"coordinates":[44.51653,31.99058],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310703765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.57944,31.18361,45.57944,31.18361",
+    "geom:latitude":31.18361,
+    "geom:longitude":45.57944,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9166626.0",
+    "gn:asciiname":"Marhi al Mahmud",
+    "gn:country_code":"IQ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6688625,
+    "gn:latitude":31.18361,
+    "gn:longitude":45.57944,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mar\u1e29\u012b al Ma\u1e29m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062d\u064a \u0627\u0644\u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mar\u1e29\u012b al Ma\u1e29m\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6688625
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c4b93773485314b0b1a1408824d34e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562721,
+            "locality_id":1310703765,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1310703765,
+    "wof:lastmodified":1537639118,
+    "wof:name":"Marhi al Mahmud",
+    "wof:parent_id":1108562721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.57944000000001,
+    31.18361,
+    45.57944000000001,
+    31.18361
+],
+  "geometry": {"coordinates":[45.57944000000001,31.18361],"type":"Point"}
+}

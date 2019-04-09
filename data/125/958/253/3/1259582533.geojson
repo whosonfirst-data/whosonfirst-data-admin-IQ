@@ -1,0 +1,78 @@
+{
+  "id": 1259582533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65462,35.84949,44.65462,35.84949",
+    "geom:latitude":35.84949,
+    "geom:longitude":44.65462,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Dar Ikhtiyar",
+    "gn:country_code":"IQ",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97213,
+    "gn:latitude":35.84949,
+    "gn:longitude":44.65462,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u0101r Ikhtiy\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0627\u062e\u062a\u064a\u0627\u0631"
+    ],
+    "name:ara_x_variant":[
+        "D\u0101r Ikhtiy\u0101r"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r Ikhtiy\u0101r",
+        "D\u0101r\u0101 Ikhtiy\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97213
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0ae30c5e2a0349f8a54bc8c2859766b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1259582533,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1259582533,
+    "wof:lastmodified":1537638474,
+    "wof:name":"Dar Ikhtiyar",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65462,
+    35.84949,
+    44.65462,
+    35.84949
+],
+  "geometry": {"coordinates":[44.65462,35.84949],"type":"Point"}
+}

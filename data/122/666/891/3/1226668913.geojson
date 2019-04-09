@@ -1,0 +1,83 @@
+{
+  "id": 1226668913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70112,36.32867,44.70112,36.32867",
+    "geom:latitude":36.32867,
+    "geom:longitude":44.70112,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92051.0",
+    "gn:asciiname":"Dwawe",
+    "gn:country_code":"IQ",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7542574,
+    "gn:latitude":36.32867,
+    "gn:longitude":44.70112,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Dwawe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Dw Awan"
+    ],
+    "name:kur_x_variant":[
+        "Dwawe",
+        "\u062f\u0648 \u0626\u0627\u0648\u0627\u0646",
+        "\u062f\u0648\u0627\u0648\u06d5"
+    ],
+    "name:und_x_variant":[
+        "D\u0101d\u0101wid",
+        "\u062f\u0627\u062f\u0627\u0648\u062f",
+        "Dwawa",
+        "Du Awan",
+        "Duw \u0100w\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542574
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0c6637b2830a10314523707b71257dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562755,
+            "locality_id":1226668913,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1226668913,
+    "wof:lastmodified":1537640070,
+    "wof:name":"Dwawe",
+    "wof:parent_id":1108562755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70112,
+    36.32867,
+    44.70112,
+    36.32867
+],
+  "geometry": {"coordinates":[44.70112,36.32867],"type":"Point"}
+}

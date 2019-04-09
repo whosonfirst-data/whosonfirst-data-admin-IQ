@@ -1,0 +1,89 @@
+{
+  "id": 1259876409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.76116,36.8604,42.76116,36.8604",
+    "geom:latitude":36.8604,
+    "geom:longitude":42.76116,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9166607.0",
+    "gn:asciiname":"Kirikur",
+    "gn:country_code":"IQ",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384970,
+    "gn:latitude":36.8604,
+    "gn:longitude":42.76116,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kir\u012bk\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u064a\u0643\u0648\u0631"
+    ],
+    "name:ara_x_variant":[
+        "Kir\u012bk\u016br"
+    ],
+    "name:kur_x_preferred":[
+        "Gir\u00eekor"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u0631\u064a\u0643\u06c6\u0631",
+        "Kumelgeha Gir\u00ea Gewr\u00ea",
+        "\u0643\u0648\u0645\u06d5\u0644\u06af\u06d5\u06be\u0627 \u06af\u0631\u06ce \u06af\u06d5\u0648\u0631\u06ce",
+        "Kome\u0142geha Gir\u00ee Gewr\u00ea",
+        "\u0643\u06c6\u0645\u06d5\u06b5\u06af\u06d5\u06be\u0627 \u06af\u0631\u0649 \u06af\u06d5\u0648\u0631\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Grigor",
+        "G\u012br\u0113g\u014dr",
+        "Gre Gawre Collective"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        1108562637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384970
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a1dd4b8e8314c5dc2bafdb8b7fed5357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562637,
+            "locality_id":1259876409,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1259876409,
+    "wof:lastmodified":1537638768,
+    "wof:name":"Kirikur",
+    "wof:parent_id":1108562637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.76116,
+    36.8604,
+    42.76116,
+    36.8604
+],
+  "geometry": {"coordinates":[42.76116,36.8604],"type":"Point"}
+}

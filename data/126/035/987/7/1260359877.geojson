@@ -1,0 +1,82 @@
+{
+  "id": 1260359877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.72144,36.57837,42.72144,36.57837",
+    "geom:latitude":36.57837,
+    "geom:longitude":42.72144,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Kharabah Rash",
+    "gn:country_code":"IQ",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":383425,
+    "gn:latitude":36.57837,
+    "gn:longitude":42.72144,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khar\u0101bah Rash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628\u0629 \u0631\u0634"
+    ],
+    "name:kur_x_preferred":[
+        "Xurbe \u1e5eesh"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u0648\u0631\u0628\u06d5 \u0695\u06d5\u0634"
+    ],
+    "name:und_x_variant":[
+        "Khirbat R\u0101sh",
+        "Khurba Rash",
+        "Khar\u0101bah Rashsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383425
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a94ab63334e5267a2dd12e052dd0c6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1260359877,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1260359877,
+    "wof:lastmodified":1537638725,
+    "wof:name":"Kharabah Rash",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.72144,
+    36.57837,
+    42.72144,
+    36.57837
+],
+  "geometry": {"coordinates":[42.72144,36.57837],"type":"Point"}
+}

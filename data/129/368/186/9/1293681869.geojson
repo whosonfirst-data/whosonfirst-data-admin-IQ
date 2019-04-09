@@ -1,0 +1,74 @@
+{
+  "id": 1293681869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51517,32.37447,44.51517,32.37447",
+    "geom:latitude":32.37447,
+    "geom:longitude":44.51517,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99358.0",
+    "gn:asciiname":"Qaryat Haymati",
+    "gn:country_code":"IQ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6790317,
+    "gn:latitude":32.37447,
+    "gn:longitude":44.51517,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Haymat\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0647\u064a\u0645\u062a\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Haymat\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6790317
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"be1adbfc1f027dc0fba4ae41d2f4b319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562689,
+            "locality_id":1293681869,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1293681869,
+    "wof:lastmodified":1537639521,
+    "wof:name":"Qaryat Haymati",
+    "wof:parent_id":1108562689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51517,
+    32.37447,
+    44.51517,
+    32.37447
+],
+  "geometry": {"coordinates":[44.51517,32.37447],"type":"Point"}
+}

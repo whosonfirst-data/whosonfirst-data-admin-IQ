@@ -1,0 +1,68 @@
+{
+  "id": 1209378075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02876,34.60563,44.02876,34.60563",
+    "geom:latitude":34.60563,
+    "geom:longitude":44.02876,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"Khalif Majami",
+    "gn:country_code":"IQ",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6752161,
+    "gn:latitude":34.60563,
+    "gn:longitude":44.02876,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khal\u012bf Majam\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u0641 \u0645\u062c\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "Khal\u012bf Majam\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6752161
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7d0f128699d7a3f514ca91a6ced1c417",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209378075
+        }
+    ],
+    "wof:id":1209378075,
+    "wof:lastmodified":1537639169,
+    "wof:name":"Khalif Majami",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02876,
+    34.60563,
+    44.02876,
+    34.60563
+],
+  "geometry": {"coordinates":[44.02876,34.60563],"type":"Point"}
+}

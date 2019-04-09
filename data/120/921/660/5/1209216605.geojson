@@ -1,0 +1,73 @@
+{
+  "id": 1209216605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42081,31.33158,45.42081,31.33158",
+    "geom:latitude":31.33158,
+    "geom:longitude":45.42081,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"98532.0",
+    "gn:asciiname":"Gwam Nasir",
+    "gn:country_code":"IQ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99637,
+    "gn:latitude":31.33158,
+    "gn:longitude":45.42081,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gw\u0101m N\u0101\u015fir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u06af\u0648\u0627\u0645 \u0646\u0627\u0635\u0631"
+    ],
+    "name:ara_x_variant":[
+        "Gw\u0101m N\u0101\u015fir"
+    ],
+    "name:und_x_variant":[
+        "Kw\u0101m N\u0101sir",
+        "Kaw\u0101m N\u0101sir",
+        "Akw\u0101m N\u0101\u015fir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99637
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ff9f40d217f24167c87a1bf4dcea4dd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209216605
+        }
+    ],
+    "wof:id":1209216605,
+    "wof:lastmodified":1537638690,
+    "wof:name":"Gwam Nasir",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42081,
+    31.33158,
+    45.42081,
+    31.33158
+],
+  "geometry": {"coordinates":[45.42081,31.33158],"type":"Point"}
+}

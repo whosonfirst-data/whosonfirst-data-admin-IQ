@@ -1,0 +1,74 @@
+{
+  "id": 1226525239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.70857,35.98298,41.70857,35.98298",
+    "geom:latitude":35.98298,
+    "geom:longitude":41.70857,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166608.0",
+    "gn:asciiname":"As Silitiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019284,
+    "gn:latitude":35.98298,
+    "gn:longitude":41.70857,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"As Sil\u012b\u0163\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u064a\u0637\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "As Sil\u012b\u0163\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019284
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a7144999a9b6ca88652db88b4a4305b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562639,
+            "locality_id":1226525239,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1226525239,
+    "wof:lastmodified":1537639912,
+    "wof:name":"As Silitiyah",
+    "wof:parent_id":1108562639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.70857,
+    35.98298,
+    41.70857,
+    35.98298
+],
+  "geometry": {"coordinates":[41.70857,35.98298],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1344134923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.53486,36.24184,44.53486,36.24184",
+    "geom:latitude":36.24184,
+    "geom:longitude":44.53486,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166588.0",
+    "gn:asciiname":"Nazenin",
+    "gn:country_code":"IQ",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92918,
+    "gn:latitude":36.24184,
+    "gn:longitude":44.53486,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Nazen\u00een",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0632\u0629 \u0646\u064a\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "\u0646\u0627\u0632\u06d5\u0646\u064a\u0646"
+    ],
+    "name:kur_x_variant":[
+        "Nazaneen",
+        "Nazen\u00een"
+    ],
+    "name:und_x_variant":[
+        "N\u0101zahn\u012bn",
+        "N\u0101zan\u012bn",
+        "N\u0101waz\u012bn\u0101n",
+        "Nazaneen",
+        "Nazanin",
+        "N\u0101zah N\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92918
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a706f6e6123c1f366d3ba2d3b3e88529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445493,
+            "locality_id":1344134923,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1344134923,
+    "wof:lastmodified":1537638096,
+    "wof:name":"Nazenin",
+    "wof:parent_id":890445493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.53486,
+    36.24184,
+    44.53486,
+    36.24184
+],
+  "geometry": {"coordinates":[44.53486,36.24184],"type":"Point"}
+}

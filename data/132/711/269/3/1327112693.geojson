@@ -1,0 +1,84 @@
+{
+  "id": 1327112693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11637,36.11126,44.11637,36.11126",
+    "geom:latitude":36.11126,
+    "geom:longitude":44.11637,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Baghemre Shehab",
+    "gn:country_code":"IQ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98172,
+    "gn:latitude":36.11126,
+    "gn:longitude":44.11637,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Baghemre Shehab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u063a\u0645\u0631\u0629 \u0627\u0644\u0635\u063a\u064a\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Baghemre Shehab"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u0627\u063a\u06d5\u0645\u0631\u06d5 \u0634\u06d5\u0647\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "B\u0101ghumray\u012b Ayy\u016bh",
+        "Bakhumar-i Ayy\u016bb",
+        "Baghamra Shah\u0101b",
+        "Baghamra Shahab",
+        "B\u0101ghmrah a\u015f \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98172
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"cbd058349da57815051b4c1249cb6050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":1327112693,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1327112693,
+    "wof:lastmodified":1537638585,
+    "wof:name":"Baghemre Shehab",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11637,
+    36.11126,
+    44.11637,
+    36.11126
+],
+  "geometry": {"coordinates":[44.11637,36.11126],"type":"Point"}
+}

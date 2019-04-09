@@ -1,0 +1,74 @@
+{
+  "id": 1277153501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73575,35.34405,43.73575,35.34405",
+    "geom:latitude":35.34405,
+    "geom:longitude":43.73575,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"6770659.0",
+    "gn:asciiname":"Qaryat al Mansuriyah",
+    "gn:country_code":"IQ",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6770385,
+    "gn:latitude":35.34405,
+    "gn:longitude":43.73575,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat al Man\u015f\u016br\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al Man\u015f\u016br\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6770385
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fa41e7f906da89c100856c6841142321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562743,
+            "locality_id":1277153501,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1277153501,
+    "wof:lastmodified":1537639254,
+    "wof:name":"Qaryat al Mansuriyah",
+    "wof:parent_id":1108562743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73575,
+    35.34405,
+    43.73575,
+    35.34405
+],
+  "geometry": {"coordinates":[43.73575,35.34405],"type":"Point"}
+}

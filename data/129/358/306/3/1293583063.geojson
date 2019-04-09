@@ -1,0 +1,74 @@
+{
+  "id": 1293583063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8331,33.96062,44.8331,33.96062",
+    "geom:latitude":33.96062,
+    "geom:longitude":44.8331,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"99063.0",
+    "gn:asciiname":"Marawi Sayda",
+    "gn:country_code":"IQ",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6784001,
+    "gn:latitude":33.96062,
+    "gn:longitude":44.8331,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mar\u0101w\u012b \u015eayd\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u0648\u064a \u0635\u064a\u062f\u0627"
+    ],
+    "name:und_x_variant":[
+        "Mar\u0101w\u012b \u015eayd\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        421184253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6784001
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bacdcf1a140a22545f4363ea1266b8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184253,
+            "locality_id":1293583063,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1293583063,
+    "wof:lastmodified":1537639360,
+    "wof:name":"Marawi Sayda",
+    "wof:parent_id":421184253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8331,
+    33.96062,
+    44.8331,
+    33.96062
+],
+  "geometry": {"coordinates":[44.8331,33.96062],"type":"Point"}
+}

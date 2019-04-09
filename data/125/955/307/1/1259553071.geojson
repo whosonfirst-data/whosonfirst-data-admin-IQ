@@ -1,0 +1,74 @@
+{
+  "id": 1259553071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.39133,32.54955,45.39133,32.54955",
+    "geom:latitude":32.54955,
+    "geom:longitude":45.39133,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98460.0",
+    "gn:asciiname":"Sa'dun",
+    "gn:country_code":"IQ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6733710,
+    "gn:latitude":32.54955,
+    "gn:longitude":45.39133,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sa\u2018d\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0639\u062f\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sa\u2018d\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6733710
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2f6e3541e139077d37e7ca5bb9f7a639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562783,
+            "locality_id":1259553071,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1259553071,
+    "wof:lastmodified":1537639140,
+    "wof:name":"Sa'dun",
+    "wof:parent_id":1108562783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.39133,
+    32.54955,
+    45.39133,
+    32.54955
+],
+  "geometry": {"coordinates":[45.39133,32.54955],"type":"Point"}
+}

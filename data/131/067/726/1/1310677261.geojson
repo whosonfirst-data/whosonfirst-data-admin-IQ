@@ -1,0 +1,77 @@
+{
+  "id": 1310677261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28333,35.63333,44.28333,35.63333",
+    "geom:latitude":35.63333,
+    "geom:longitude":44.28333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9171727.0",
+    "gn:asciiname":"Kuldazah",
+    "gn:country_code":"IQ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94179,
+    "gn:latitude":35.63333,
+    "gn:longitude":44.28333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kuldazah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Gu\u0142dize"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u0648\u06b5\u062f\u0632\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Guldiza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94179
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"08b9766c1864d644e5ada3e25238fe90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562807,
+            "locality_id":1310677261,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1310677261,
+    "wof:lastmodified":1537638199,
+    "wof:name":"Kuldazah",
+    "wof:parent_id":1108562807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28333,
+    35.63333,
+    44.28333,
+    35.63333
+],
+  "geometry": {"coordinates":[44.28333,35.63333],"type":"Point"}
+}

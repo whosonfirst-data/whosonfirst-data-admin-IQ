@@ -1,0 +1,71 @@
+{
+  "id": 1326909821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.50833,35.07611,44.50833,35.07611",
+    "geom:latitude":35.07611,
+    "geom:longitude":44.50833,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9166581.0",
+    "gn:asciiname":"Shur Awah",
+    "gn:country_code":"IQ",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":384158,
+    "gn:latitude":35.07611,
+    "gn:longitude":44.50833,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sh\u016br Awah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sh\u016br Awah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384158
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"328f8a6b6db0829d0c326e6c0ebe8aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562775,
+            "locality_id":1326909821,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1326909821,
+    "wof:lastmodified":1537638744,
+    "wof:name":"Shur Awah",
+    "wof:parent_id":1108562775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.50833,
+    35.07611,
+    44.50833,
+    35.07611
+],
+  "geometry": {"coordinates":[44.50833,35.07611],"type":"Point"}
+}

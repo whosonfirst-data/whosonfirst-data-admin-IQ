@@ -1,0 +1,76 @@
+{
+  "id": 1327029227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25619,36.307,45.25619,36.307",
+    "geom:latitude":36.307,
+    "geom:longitude":45.25619,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Be Delan",
+    "gn:country_code":"IQ",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8429838,
+    "gn:latitude":36.307,
+    "gn:longitude":45.25619,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"B\u00ea De\u0142an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kur_x_preferred":[
+        "B\u00ea De\u0142an"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06ce \u062f\u06d5\u06b5\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bedalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8429838
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"333da9161ba458ed0617f718ff661278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1327029227,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1327029227,
+    "wof:lastmodified":1537640083,
+    "wof:name":"Be Delan",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25619,
+    36.307,
+    45.25619,
+    36.307
+],
+  "geometry": {"coordinates":[45.25619,36.307],"type":"Point"}
+}

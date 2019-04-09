@@ -1,0 +1,74 @@
+{
+  "id": 1327210967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4815,32.57788,43.4815,32.57788",
+    "geom:latitude":32.57788,
+    "geom:longitude":43.4815,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9166603.0",
+    "gn:asciiname":"Albu Huwaydi",
+    "gn:country_code":"IQ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6917212,
+    "gn:latitude":32.57788,
+    "gn:longitude":43.4815,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100lb\u016b Huwayd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648 \u0647\u0648\u064a\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u0100lb\u016b Huwayd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672443,
+        1108562671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6917212
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"be3196b2e9f087203001b688b59daec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562671,
+            "locality_id":1327210967,
+            "region_id":85672443
+        }
+    ],
+    "wof:id":1327210967,
+    "wof:lastmodified":1537639830,
+    "wof:name":"Albu Huwaydi",
+    "wof:parent_id":1108562671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4815,
+    32.57788,
+    43.4815,
+    32.57788
+],
+  "geometry": {"coordinates":[43.4815,32.57788],"type":"Point"}
+}

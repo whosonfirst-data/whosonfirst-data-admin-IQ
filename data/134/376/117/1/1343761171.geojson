@@ -1,0 +1,85 @@
+{
+  "id": 1343761171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.30259,34.74453,45.30259,34.74453",
+    "geom:latitude":34.74453,
+    "geom:longitude":45.30259,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Gopan",
+    "gn:country_code":"IQ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96460,
+    "gn:latitude":34.74453,
+    "gn:longitude":45.30259,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Gopan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u067e\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Gopan"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u06c6\u067e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Gawb\u0101n",
+        "Kawp\u0101n",
+        "G\u014db\u0101n",
+        "Kawb\u0101n",
+        "Koban",
+        "\u0643\u0648\u0628\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96460
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a1268cb85e98203f0f079e7b1e2f5f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1343761171,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1343761171,
+    "wof:lastmodified":1537638395,
+    "wof:name":"Gopan",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.30259,
+    34.74453,
+    45.30259,
+    34.74453
+],
+  "geometry": {"coordinates":[45.30259,34.74453],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343253507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.14065,33.52017,44.14065,33.52017",
+    "geom:latitude":33.52017,
+    "geom:longitude":44.14065,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"`Affan Faraj",
+    "gn:country_code":"IQ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806133,
+    "gn:latitude":33.52017,
+    "gn:longitude":44.14065,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"\u2018Aff\u0101n Faraj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0641\u0627\u0646 \u0641\u0631\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u2018Aff\u0101n Faraj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806133
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b1db56def5339894f20224c8c7a155fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1343253507,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1343253507,
+    "wof:lastmodified":1537639616,
+    "wof:name":"`Affan Faraj",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.14065,
+    33.52017,
+    44.14065,
+    33.52017
+],
+  "geometry": {"coordinates":[44.14065,33.52017],"type":"Point"}
+}

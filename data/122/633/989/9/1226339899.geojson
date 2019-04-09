@@ -1,0 +1,71 @@
+{
+  "id": 1226339899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38333,32.48333,44.38333,32.48333",
+    "geom:latitude":32.48333,
+    "geom:longitude":44.38333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"Qal'at Husayn",
+    "gn:country_code":"IQ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92592,
+    "gn:latitude":32.48333,
+    "gn:longitude":44.38333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qal\u2018at \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018at \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421172849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92592
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b427ec43a8ede6a2335a9605ce82c9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172849,
+            "locality_id":1226339899,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1226339899,
+    "wof:lastmodified":1537638061,
+    "wof:name":"Qal'at Husayn",
+    "wof:parent_id":421172849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38333,
+    32.48333,
+    44.38333,
+    32.48333
+],
+  "geometry": {"coordinates":[44.38333,32.48333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259396545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.40871,32.15234,40.40871,32.15234",
+    "geom:latitude":32.15234,
+    "geom:longitude":40.40871,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"98678.0",
+    "gn:asciiname":"Qaryat Abu Muntar",
+    "gn:country_code":"IQ",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6740267,
+    "gn:latitude":32.15234,
+    "gn:longitude":40.40871,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Ab\u016b Mun\u0163\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0628\u0648 \u0645\u0646\u0637\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qariyat Abu Muntar",
+        "Ab\u016b Mun\u0163\u0101r",
+        "\u0627\u0628\u0648 \u0645\u0646\u0637\u0627\u0631",
+        "Qaryat Ab\u016b Mun\u0163\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        1108562667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6740267
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"988058efcb70ac0c5528f2c2f68a89ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562667,
+            "locality_id":1259396545,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1259396545,
+    "wof:lastmodified":1537639157,
+    "wof:name":"Qaryat Abu Muntar",
+    "wof:parent_id":1108562667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.40871,
+    32.15234,
+    40.40871,
+    32.15234
+],
+  "geometry": {"coordinates":[40.40871,32.15234],"type":"Point"}
+}

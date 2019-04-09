@@ -1,0 +1,77 @@
+{
+  "id": 1293562339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43803,36.53809,43.43803,36.53809",
+    "geom:latitude":36.53809,
+    "geom:longitude":43.43803,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98612.0",
+    "gn:asciiname":"Babaw",
+    "gn:country_code":"IQ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999604,
+    "gn:latitude":36.53809,
+    "gn:longitude":43.43803,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"B\u0101b\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628\u0627\u0648"
+    ],
+    "name:ara_x_variant":[
+        "B\u0101b\u0101w"
+    ],
+    "name:kur_x_preferred":[
+        "Babaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421172365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999604
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3400764498c33bc9e84717467299ce08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172365,
+            "locality_id":1293562339,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1293562339,
+    "wof:lastmodified":1537639884,
+    "wof:name":"Babaw",
+    "wof:parent_id":421172365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43803,
+    36.53809,
+    43.43803,
+    36.53809
+],
+  "geometry": {"coordinates":[43.43803,36.53809],"type":"Point"}
+}

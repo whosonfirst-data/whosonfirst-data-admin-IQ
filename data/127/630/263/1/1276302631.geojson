@@ -1,0 +1,81 @@
+{
+  "id": 1276302631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.9148,36.63323,41.9148,36.63323",
+    "geom:latitude":36.63323,
+    "geom:longitude":41.9148,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Na'im al Hassun",
+    "gn:country_code":"IQ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386102,
+    "gn:latitude":36.63323,
+    "gn:longitude":41.9148,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Na\u2018\u012bm al \u1e28ass\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0639\u064a\u0645 \u0627\u0644\u062d\u0633\u0648\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Na\u2018\u00eem Hesen"
+    ],
+    "name:kur_x_variant":[
+        "\u0646\u0627\u0639\u064a\u0645 \u062d\u06d5\u0633\u06d5\u0646"
+    ],
+    "name:und_x_variant":[
+        "Naeim Hasun",
+        "Na\u2018\u012bm al \u1e28ass\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386102
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"695615e022e19e8276b2c92bb25e8aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1276302631,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1276302631,
+    "wof:lastmodified":1537638778,
+    "wof:name":"Na'im al Hassun",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.9148,
+    36.63323,
+    41.9148,
+    36.63323
+],
+  "geometry": {"coordinates":[41.9148,36.63323],"type":"Point"}
+}

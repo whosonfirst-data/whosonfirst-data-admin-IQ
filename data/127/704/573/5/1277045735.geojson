@@ -1,0 +1,74 @@
+{
+  "id": 1277045735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.75545,36.29094,41.75545,36.29094",
+    "geom:latitude":36.29094,
+    "geom:longitude":41.75545,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Qaruki",
+    "gn:country_code":"IQ",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7047032,
+    "gn:latitude":36.29094,
+    "gn:longitude":41.75545,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Qar\u016bk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0648\u0643\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qar\u016bk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7047032
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d358a814dbd4fe422e0846c775594864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1277045735,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1277045735,
+    "wof:lastmodified":1537639970,
+    "wof:name":"Qaruki",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.75545,
+    36.29094,
+    41.75545,
+    36.29094
+],
+  "geometry": {"coordinates":[41.75545,36.29094],"type":"Point"}
+}

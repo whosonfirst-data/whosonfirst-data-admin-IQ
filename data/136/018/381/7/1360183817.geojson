@@ -1,0 +1,85 @@
+{
+  "id": 1360183817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.67768,35.57642,45.67768,35.57642",
+    "geom:latitude":35.57642,
+    "geom:longitude":45.67768,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Wandaraynah",
+    "gn:country_code":"IQ",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89721,
+    "gn:latitude":35.57642,
+    "gn:longitude":45.67768,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wandaraynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0646\u062f\u0631\u064a\u0646\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Honger\u00eane"
+    ],
+    "name:kur_x_variant":[
+        "Wender\u00eane",
+        "\u0647\u06c6\u0646\u06af\u06d5\u0631\u06ce\u0646\u06d5",
+        "\u0648\u06d5\u0646\u062f\u06d5\u0631\u06ce\u0646\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Wandar\u0113na",
+        "Wandah D\u012bndah",
+        "Hangarena",
+        "\u0648\u0646\u062f\u0647 \u062f\u064a\u0646\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89721
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f220e05e5cc84e55c247b8f91bc445de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1360183817,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1360183817,
+    "wof:lastmodified":1537637808,
+    "wof:name":"Wandaraynah",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.67768,
+    35.57642,
+    45.67768,
+    35.57642
+],
+  "geometry": {"coordinates":[45.67768,35.57642],"type":"Point"}
+}

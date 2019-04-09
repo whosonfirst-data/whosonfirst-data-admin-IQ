@@ -1,0 +1,72 @@
+{
+  "id": 1276465305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.52245,33.33556,44.52245,33.33556",
+    "geom:latitude":33.33556,
+    "geom:longitude":44.52245,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166668.0",
+    "gn:asciiname":"Fadh'aliyah",
+    "gn:country_code":"IQ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96827,
+    "gn:latitude":33.33556,
+    "gn:longitude":44.52245,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fadh\u2018al\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fuzailiya",
+        "Fadh\u2018al\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96827
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6a48eea6a4345c6eb75c3acd7a304014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562785,
+            "locality_id":1276465305,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1276465305,
+    "wof:lastmodified":1537638430,
+    "wof:name":"Fadh'aliyah",
+    "wof:parent_id":1108562785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.52245,
+    33.33556,
+    44.52245,
+    33.33556
+],
+  "geometry": {"coordinates":[44.52245,33.33556],"type":"Point"}
+}

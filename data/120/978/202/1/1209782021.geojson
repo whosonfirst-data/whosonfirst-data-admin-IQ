@@ -1,0 +1,74 @@
+{
+  "id": 1209782021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35707,34.19591,43.35707,34.19591",
+    "geom:latitude":34.19591,
+    "geom:longitude":43.35707,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"91594.0",
+    "gn:asciiname":"'Abd Sabah Hamad",
+    "gn:country_code":"IQ",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6871462,
+    "gn:latitude":34.19591,
+    "gn:longitude":43.35707,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abd \u015eab\u0101\u1e29 \u1e28amad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f \u0635\u0628\u0627\u062d \u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abd \u015eab\u0101\u1e29 \u1e28amad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6871462
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5f866450661325f407653de461321831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562799,
+            "locality_id":1209782021,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1209782021,
+    "wof:lastmodified":1537639785,
+    "wof:name":"'Abd Sabah Hamad",
+    "wof:parent_id":1108562799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35707,
+    34.19591,
+    43.35707,
+    34.19591
+],
+  "geometry": {"coordinates":[43.35707,34.19591],"type":"Point"}
+}

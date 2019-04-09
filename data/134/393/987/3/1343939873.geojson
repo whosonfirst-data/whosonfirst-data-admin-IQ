@@ -1,0 +1,72 @@
+{
+  "id": 1343939873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.83444,32.12417,45.83444,32.12417",
+    "geom:latitude":32.12417,
+    "geom:longitude":45.83444,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"99351.0",
+    "gn:asciiname":"Faysal 'Abd al Hadi",
+    "gn:country_code":"IQ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96739,
+    "gn:latitude":32.12417,
+    "gn:longitude":45.83444,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fay\u015fal \u2018Abd al H\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faisal Abdul H\u0101di",
+        "Fay\u015fal \u2018Abd al H\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96739
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6d2c64680f11784fe8043f835452d977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562685,
+            "locality_id":1343939873,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1343939873,
+    "wof:lastmodified":1537638424,
+    "wof:name":"Faysal 'Abd al Hadi",
+    "wof:parent_id":1108562685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.83444,
+    32.12417,
+    45.83444,
+    32.12417
+],
+  "geometry": {"coordinates":[45.83444,32.12417],"type":"Point"}
+}

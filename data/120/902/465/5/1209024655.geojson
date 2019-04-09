@@ -1,0 +1,79 @@
+{
+  "id": 1209024655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.12725,34.54733,45.12725,34.54733",
+    "geom:latitude":34.54733,
+    "geom:longitude":45.12725,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94296.0",
+    "gn:asciiname":"Kukhah Hasan",
+    "gn:country_code":"IQ",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":94191,
+    "gn:latitude":34.54733,
+    "gn:longitude":45.12725,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"K\u016bkhah \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u062e\u0629 \u062d\u0633\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Kw\u00eaxa \u1e26esen"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0648\u06ce\u062e\u0627 \u062d\u06d5\u0633\u06d5\u0646"
+    ],
+    "name:und_x_variant":[
+        "Q\u016bkha L\u0101wah",
+        "K\u016bkhah L\u0101wah",
+        "Q\u016bkha L\u0101wa",
+        "K\u016bkhah \u1e28asan",
+        "K\u00f6kh\u0101 \u1e28asan",
+        "Kokha Hasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94191
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"699989a10296bd6aed53690f832edc30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209024655
+        }
+    ],
+    "wof:id":1209024655,
+    "wof:lastmodified":1537638200,
+    "wof:name":"Kukhah Hasan",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.12725,
+    34.54733,
+    45.12725,
+    34.54733
+],
+  "geometry": {"coordinates":[45.12725,34.54733],"type":"Point"}
+}

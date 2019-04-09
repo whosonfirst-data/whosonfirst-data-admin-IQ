@@ -1,0 +1,74 @@
+{
+  "id": 1193151007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.16145,33.27423,39.16145,33.27423",
+    "geom:latitude":33.27423,
+    "geom:longitude":39.16145,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"98678.0",
+    "gn:asciiname":"Qaryat Barim",
+    "gn:country_code":"IQ",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6786954,
+    "gn:latitude":33.27423,
+    "gn:longitude":39.16145,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Bar\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0628\u0631\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Bar\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        1108562667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6786954
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"08716fc1434b8caa2de1029b17520a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562667,
+            "locality_id":1193151007,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1193151007,
+    "wof:lastmodified":1537639401,
+    "wof:name":"Qaryat Barim",
+    "wof:parent_id":1108562667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.16145,
+    33.27423,
+    39.16145,
+    33.27423
+],
+  "geometry": {"coordinates":[39.16145,33.27423],"type":"Point"}
+}

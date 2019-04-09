@@ -1,0 +1,76 @@
+{
+  "id": 1293603119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.7289,33.77633,42.7289,33.77633",
+    "geom:latitude":33.77633,
+    "geom:longitude":42.7289,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9166579.0",
+    "gn:asciiname":"Khazraj",
+    "gn:country_code":"IQ",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94682,
+    "gn:latitude":33.77633,
+    "gn:longitude":42.7289,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khazraj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0632\u0631\u062c"
+    ],
+    "name:und_x_variant":[
+        "Khad\u0101ram",
+        "Khadr\u0101m",
+        "Khazraj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421177881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94682
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bc9180be6ef796453637e8d313293b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421177881,
+            "locality_id":1293603119,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1293603119,
+    "wof:lastmodified":1537638246,
+    "wof:name":"Khazraj",
+    "wof:parent_id":421177881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.7289,
+    33.77633,
+    42.7289,
+    33.77633
+],
+  "geometry": {"coordinates":[42.7289,33.77633],"type":"Point"}
+}

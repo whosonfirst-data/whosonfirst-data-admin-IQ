@@ -1,0 +1,82 @@
+{
+  "id": 1344055925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.45911,35.01975,45.45911,35.01975",
+    "geom:latitude":35.01975,
+    "geom:longitude":45.45911,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Shaykh Tawil",
+    "gn:country_code":"IQ",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90912,
+    "gn:latitude":35.01975,
+    "gn:longitude":45.45911,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shaykh \u0162aw\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0637\u0648\u064a\u0644"
+    ],
+    "name:kur_x_preferred":[
+        "Sh\u00eax Tew\u00ea\u0142"
+    ],
+    "name:kur_x_variant":[
+        "\u0634\u06ce\u062e \u062a\u06d5\u0648\u06ce\u06b5"
+    ],
+    "name:und_x_variant":[
+        "Shaikh Taw\u012bl",
+        "Shaykh \u0162aw\u012bl",
+        "Shekh Tawel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90912
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0d7db188dff2a7a0ecf0352ec8dfcaa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1344055925,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1344055925,
+    "wof:lastmodified":1537637916,
+    "wof:name":"Shaykh Tawil",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.45911,
+    35.01975,
+    45.45911,
+    35.01975
+],
+  "geometry": {"coordinates":[45.45911,35.01975],"type":"Point"}
+}

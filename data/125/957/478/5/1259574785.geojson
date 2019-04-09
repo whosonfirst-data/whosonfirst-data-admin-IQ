@@ -1,0 +1,74 @@
+{
+  "id": 1259574785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.53907,32.87784,44.53907,32.87784",
+    "geom:latitude":32.87784,
+    "geom:longitude":44.53907,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Hamzah 'Alwan",
+    "gn:country_code":"IQ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6754061,
+    "gn:latitude":32.87784,
+    "gn:longitude":44.53907,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28amzah \u2018Alw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0632\u0629 \u0639\u0644\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e28amzah \u2018Alw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754061
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f4c130bfad89feb44fc10a0428f041c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1259574785,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1259574785,
+    "wof:lastmodified":1537639174,
+    "wof:name":"Hamzah 'Alwan",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.53907,
+    32.87784,
+    44.53907,
+    32.87784
+],
+  "geometry": {"coordinates":[44.53907,32.87784],"type":"Point"}
+}

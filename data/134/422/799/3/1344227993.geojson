@@ -1,0 +1,74 @@
+{
+  "id": 1344227993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.92621,31.91414,46.92621,31.91414",
+    "geom:latitude":31.91414,
+    "geom:longitude":46.92621,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"99610.0",
+    "gn:asciiname":"Salaf Muhammad Husayn",
+    "gn:country_code":"IQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386641,
+    "gn:latitude":31.91414,
+    "gn:longitude":46.92621,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Salaf Mu\u1e29ammad \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0641 \u0645\u062d\u0645\u062f \u062d\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Salaf Mu\u1e29ammad \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386641
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6d11e75fcff2cf473756db2bdaaf556c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562681,
+            "locality_id":1344227993,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1344227993,
+    "wof:lastmodified":1537638784,
+    "wof:name":"Salaf Muhammad Husayn",
+    "wof:parent_id":1108562681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.92621,
+    31.91414,
+    46.92621,
+    31.91414
+],
+  "geometry": {"coordinates":[46.92621,31.91414],"type":"Point"}
+}

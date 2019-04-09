@@ -1,0 +1,76 @@
+{
+  "id": 1209193797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17113,35.29681,44.17113,35.29681",
+    "geom:latitude":35.29681,
+    "geom:longitude":44.17113,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"94786.0",
+    "gn:asciiname":"Wastaniyah",
+    "gn:country_code":"IQ",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6820660,
+    "gn:latitude":35.29681,
+    "gn:longitude":44.17113,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Was\u0163\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0633\u0637\u0627\u0646\u064a\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Wistania"
+    ],
+    "name:kur_x_variant":[
+        "Westan\u00eee",
+        "\u0648\u06d5\u0633\u062a\u0627\u0646\u064a\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Was\u0163\u0101n\u012byah",
+        "Wistania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6820660
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"75709b0caeb2798a4d0755e5f8cda102",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209193797
+        }
+    ],
+    "wof:id":1209193797,
+    "wof:lastmodified":1537639670,
+    "wof:name":"Wastaniyah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17113,
+    35.29681,
+    44.17113,
+    35.29681
+],
+  "geometry": {"coordinates":[44.17113,35.29681],"type":"Point"}
+}

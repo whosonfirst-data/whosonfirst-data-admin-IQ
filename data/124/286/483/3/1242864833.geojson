@@ -1,0 +1,90 @@
+{
+  "id": 1242864833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.05491,37.16215,43.05491,37.16215",
+    "geom:latitude":37.16215,
+    "geom:longitude":43.05491,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"89569.0",
+    "gn:asciiname":"Shirkhaws",
+    "gn:country_code":"IQ",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90837,
+    "gn:latitude":37.16215,
+    "gn:longitude":43.05491,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Shirkh\u0101ws",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u062e\u0627\u0648\u0633"
+    ],
+    "name:ara_x_variant":[
+        "Shirkh\u0101ws"
+    ],
+    "name:kur_x_preferred":[
+        "\u0634\u06ce\u0631\u062e\u0627\u0648\u0633"
+    ],
+    "name:kur_x_variant":[
+        "Sh\u00earxas",
+        "\u0634\u06ce\u0631\u062e\u0627\u0633",
+        "Sh\u00eerxas",
+        "\u0634\u064a\u0631\u062e\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "Sh\u012brkha\u015f",
+        "Sh\u0113rkh\u0101was",
+        "Sherkhaws",
+        "Sh\u00earxaws",
+        "Sherkhas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        890445289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90837
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8333347a87abec0441bd6fd01d727cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445289,
+            "locality_id":1242864833,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1242864833,
+    "wof:lastmodified":1537637907,
+    "wof:name":"Shirkhaws",
+    "wof:parent_id":890445289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.05491,
+    37.16215,
+    43.05491,
+    37.16215
+],
+  "geometry": {"coordinates":[43.05491,37.16215],"type":"Point"}
+}

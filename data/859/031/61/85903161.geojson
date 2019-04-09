@@ -1,0 +1,113 @@
+{
+  "id": 85903161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13266027.047321,
+    "geom:bbox":"43.153381,36.347725,43.153381,36.347725",
+    "geom:latitude":36.347725,
+    "geom:longitude":43.153381,
+    "iso:country":"IQ",
+    "lbl:latitude":36.347725,
+    "lbl:longitude":43.153381,
+    "mps:latitude":36.348202,
+    "mps:longitude":43.161493,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_colloquial":[
+        "Al Faysaliyah",
+        "Al-Faisaliya",
+        "Faysaliyah"
+    ],
+    "name:ara_x_preferred":[
+        "Al Fay\u015fal\u012byah"
+    ],
+    "name:ara_x_variant":[
+        "Al-Fai\u00b5aliya",
+        "Faisaliya",
+        "Fay\u015fal\u012byah"
+    ],
+    "name:unk_x_variant":[
+        "Al Fay\u015fal\u012byah"
+    ],
+    "qs:gn_adm0_cc":"IQ",
+    "qs:gn_id":0,
+    "qs:gn_local":99072,
+    "qs:gn_nam_loc":"\u0645\u0648\u0635\u0644, \u0645\u0648\u0635\u0644, Ninawa, IQ",
+    "qs:gn_namadm1":"15",
+    "qs:id":0,
+    "qs:local_max":15,
+    "qs:local_sum":15,
+    "qs:localhoods":1,
+    "qs:name":"Al Fay\u015fal\u012byah",
+    "qs:name_adm0":"Iraq",
+    "qs:name_adm1":"Ninawa",
+    "qs:name_adm2":"\u0645\u0648\u0635\u0644",
+    "qs:name_local":"\u0645\u0648\u0635\u0644",
+    "qs:photo_max":6,
+    "qs:photo_sum":15,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424855,
+    "qs:woe_adm1":2345847,
+    "qs:woe_adm2":55999964,
+    "qs:woe_lau":0,
+    "qs:woe_local":1979409,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108562631,
+        85672429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1970805
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"eaa6bf0e5604f7efe5969c4846854746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562631,
+            "locality_id":-1,
+            "neighbourhood_id":85903161,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":85903161,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936024,
+    "wof:name":"Al Fay\u015fal\u012byah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.153381,
+    36.347725,
+    43.153381,
+    36.347725
+],
+  "geometry": {"coordinates":[43.153381,36.347725],"type":"Point"}
+}

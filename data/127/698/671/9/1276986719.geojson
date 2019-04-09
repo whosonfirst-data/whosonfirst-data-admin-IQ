@@ -1,0 +1,74 @@
+{
+  "id": 1276986719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26555,32.03928,45.26555,32.03928",
+    "geom:latitude":32.03928,
+    "geom:longitude":45.26555,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99737.0",
+    "gn:asciiname":"Saman at Tahir",
+    "gn:country_code":"IQ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6739292,
+    "gn:latitude":32.03928,
+    "gn:longitude":45.26555,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"S\u0101m\u0101n a\u0163 \u0162\u0101hir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0645\u0627\u0646 \u0627\u0644\u0637\u0627\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "S\u0101m\u0101n a\u0163 \u0162\u0101hir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6739292
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3cec368cf3c26d9ca652bfed24ac0eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562687,
+            "locality_id":1276986719,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1276986719,
+    "wof:lastmodified":1537639155,
+    "wof:name":"Saman at Tahir",
+    "wof:parent_id":1108562687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26555,
+    32.03928,
+    45.26555,
+    32.03928
+],
+  "geometry": {"coordinates":[45.26555,32.03928],"type":"Point"}
+}

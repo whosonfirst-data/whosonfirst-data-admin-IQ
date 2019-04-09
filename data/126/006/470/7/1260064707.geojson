@@ -1,0 +1,74 @@
+{
+  "id": 1260064707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11764,31.15782,46.11764,31.15782",
+    "geom:latitude":31.15782,
+    "geom:longitude":46.11764,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98623.0",
+    "gn:asciiname":"Tall al Jalali",
+    "gn:country_code":"IQ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7025108,
+    "gn:latitude":31.15782,
+    "gn:longitude":46.11764,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tall al Jal\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u062c\u0644\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Tall al Jal\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7025108
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3cd2ebb192b5f0761e67025dfb04e297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562741,
+            "locality_id":1260064707,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1260064707,
+    "wof:lastmodified":1537639920,
+    "wof:name":"Tall al Jalali",
+    "wof:parent_id":1108562741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11764,
+    31.15782,
+    46.11764,
+    31.15782
+],
+  "geometry": {"coordinates":[46.11764,31.15782],"type":"Point"}
+}

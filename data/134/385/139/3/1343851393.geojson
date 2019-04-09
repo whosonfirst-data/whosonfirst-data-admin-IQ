@@ -1,0 +1,87 @@
+{
+  "id": 1343851393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51967,37.19923,43.51967,37.19923",
+    "geom:latitude":37.19923,
+    "geom:longitude":43.51967,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Khuwari",
+    "gn:country_code":"IQ",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96190,
+    "gn:latitude":37.19923,
+    "gn:longitude":43.51967,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Khuw\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0627\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Khuw\u0101r\u012b"
+    ],
+    "name:kur_x_preferred":[
+        "Xuwar\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u0648\u0627\u0631\u0649",
+        "Xar\u00ee",
+        "\u062e\u0627\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "Khaw\u0101rah",
+        "Hawari",
+        "Halva Fala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96190
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"40e4d05883bb3b7f8b9755e45ee8034b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1343851393,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1343851393,
+    "wof:lastmodified":1537638369,
+    "wof:name":"Khuwari",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51967,
+    37.19923,
+    43.51967,
+    37.19923
+],
+  "geometry": {"coordinates":[43.51967,37.19923],"type":"Point"}
+}

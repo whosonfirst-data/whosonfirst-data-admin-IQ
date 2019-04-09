@@ -1,0 +1,74 @@
+{
+  "id": 1310484473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02956,36.78819,44.02956,36.78819",
+    "geom:latitude":36.78819,
+    "geom:longitude":44.02956,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Kani Halan",
+    "gn:country_code":"IQ",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8678340,
+    "gn:latitude":36.78819,
+    "gn:longitude":44.02956,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kani Halan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Kan\u00ee \u1e26elan"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0627\u0646\u0649 \u062d\u06d5\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8678340
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"edb551d1fbeae4c844476cce7c077ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1310484473,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1310484473,
+    "wof:lastmodified":1537640103,
+    "wof:name":"Kani Halan",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02956,
+    36.78819,
+    44.02956,
+    36.78819
+],
+  "geometry": {"coordinates":[44.02956,36.78819],"type":"Point"}
+}

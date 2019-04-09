@@ -1,0 +1,71 @@
+{
+  "id": 1225867627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.55667,35.36111,45.55667,35.36111",
+    "geom:latitude":35.36111,
+    "geom:longitude":45.55667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Gurgachiya",
+    "gn:country_code":"IQ",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":96370,
+    "gn:latitude":35.36111,
+    "gn:longitude":45.55667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gurgachiy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Gurgachiy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96370
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c89e9d7b29d41b9c86e03c2b8f0d0a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1225867627,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1225867627,
+    "wof:lastmodified":1537638382,
+    "wof:name":"Gurgachiya",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.55667,
+    35.36111,
+    45.55667,
+    35.36111
+],
+  "geometry": {"coordinates":[45.55667,35.36111],"type":"Point"}
+}

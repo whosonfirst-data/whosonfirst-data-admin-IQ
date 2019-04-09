@@ -1,0 +1,85 @@
+{
+  "id": 1226130693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08736,36.92907,44.08736,36.92907",
+    "geom:latitude":36.92907,
+    "geom:longitude":44.08736,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166534.0",
+    "gn:asciiname":"Hostan",
+    "gn:country_code":"IQ",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95865,
+    "gn:latitude":36.92907,
+    "gn:longitude":44.08736,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Hostan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0633\u062a\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Hostan"
+    ],
+    "name:kur_x_variant":[
+        "\u0647\u06c6\u0633\u062a\u0627\u0646",
+        "Xostan",
+        "\u062e\u06c6\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Haust\u0101n",
+        "Hawst\u0101n",
+        "Khostan",
+        "\u0647\u0648\u0633\u062a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95865
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6b93446ed33fc24eb19aa9c904b5c401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562747,
+            "locality_id":1226130693,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1226130693,
+    "wof:lastmodified":1537638340,
+    "wof:name":"Hostan",
+    "wof:parent_id":1108562747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08736,
+    36.92907,
+    44.08736,
+    36.92907
+],
+  "geometry": {"coordinates":[44.08736,36.92907],"type":"Point"}
+}

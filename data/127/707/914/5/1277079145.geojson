@@ -1,0 +1,77 @@
+{
+  "id": 1277079145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.28137,35.53325,45.28137,35.53325",
+    "geom:latitude":35.53325,
+    "geom:longitude":45.28137,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Qazan",
+    "gn:country_code":"IQ",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92250,
+    "gn:latitude":35.53325,
+    "gn:longitude":45.28137,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Q\u0101z\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Q\u0101z\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0627\u0632\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Qazan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92250
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"31eea802d5220804faa6ff6fbd12375e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1277079145,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1277079145,
+    "wof:lastmodified":1537638027,
+    "wof:name":"Qazan",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.28137,
+    35.53325,
+    45.28137,
+    35.53325
+],
+  "geometry": {"coordinates":[45.28137,35.53325],"type":"Point"}
+}

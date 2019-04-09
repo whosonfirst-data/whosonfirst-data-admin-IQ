@@ -1,0 +1,74 @@
+{
+  "id": 1344049707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55768,32.24381,44.55768,32.24381",
+    "geom:latitude":32.24381,
+    "geom:longitude":44.55768,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99358.0",
+    "gn:asciiname":"Marhab",
+    "gn:country_code":"IQ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6788919,
+    "gn:latitude":32.24381,
+    "gn:longitude":44.55768,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mar\u1e29ab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062d\u0628"
+    ],
+    "name:und_x_variant":[
+        "Mar\u1e29ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6788919
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a4a6c56ca672c74fc19a83bc5b622d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562689,
+            "locality_id":1344049707,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1344049707,
+    "wof:lastmodified":1537639458,
+    "wof:name":"Marhab",
+    "wof:parent_id":1108562689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55768,
+    32.24381,
+    44.55768,
+    32.24381
+],
+  "geometry": {"coordinates":[44.55768,32.24381],"type":"Point"}
+}

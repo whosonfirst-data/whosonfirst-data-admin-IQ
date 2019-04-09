@@ -1,0 +1,80 @@
+{
+  "id": 1243176895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.916,36.23217,44.916,36.23217",
+    "geom:latitude":36.23217,
+    "geom:longitude":44.916,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92051.0",
+    "gn:asciiname":"Buskin",
+    "gn:country_code":"IQ",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97574,
+    "gn:latitude":36.23217,
+    "gn:longitude":44.916,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"B\u016bsk\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "\u0628\u06c6\u0633\u0643\u06ce\u0646"
+    ],
+    "name:kur_x_variant":[
+        "Bosken",
+        "Bosk\u00ean"
+    ],
+    "name:und_x_variant":[
+        "B\u016bsk\u012bn",
+        "Boskin",
+        "Bosken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97574
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2a5208e23606a7f2d564cb28bb9f991a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562755,
+            "locality_id":1243176895,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1243176895,
+    "wof:lastmodified":1537638510,
+    "wof:name":"Buskin",
+    "wof:parent_id":1108562755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.916,
+    36.23217,
+    44.916,
+    36.23217
+],
+  "geometry": {"coordinates":[44.916,36.23217],"type":"Point"}
+}

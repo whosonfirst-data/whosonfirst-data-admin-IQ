@@ -1,0 +1,75 @@
+{
+  "id": 1293472787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.72784,36.28019,41.72784,36.28019",
+    "geom:latitude":36.28019,
+    "geom:longitude":41.72784,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Wardiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89705,
+    "gn:latitude":36.28019,
+    "gn:longitude":41.72784,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Ward\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0631\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Wardiya",
+        "Ward\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89705
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8e97fcaeb4dff193486c85eff0d91e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1293472787,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1293472787,
+    "wof:lastmodified":1537637806,
+    "wof:name":"Wardiyah",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.72784,
+    36.28019000000001,
+    41.72784,
+    36.28019000000001
+],
+  "geometry": {"coordinates":[41.72784,36.28019000000001],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1344269867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.86085,30.52708,47.86085,30.52708",
+    "geom:latitude":30.52708,
+    "geom:longitude":47.86085,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"At Tannumah",
+    "gn:country_code":"IQ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98409,
+    "gn:latitude":30.52708,
+    "gn:longitude":47.86085,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"At Tann\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0646\u0648\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tan\u016bma",
+        "Tan\u016bmah",
+        "Tann\u016bmah",
+        "Tann\u016bma",
+        "At Tann\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98409
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"884ac4451d276968b7d7a6d4758742ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562729,
+            "locality_id":1344269867,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1344269867,
+    "wof:lastmodified":1537638605,
+    "wof:name":"At Tannumah",
+    "wof:parent_id":1108562729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.86085,
+    30.52708,
+    47.86085,
+    30.52708
+],
+  "geometry": {"coordinates":[47.86085,30.52708],"type":"Point"}
+}

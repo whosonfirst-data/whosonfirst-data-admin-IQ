@@ -1,0 +1,71 @@
+{
+  "id": 1310633679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.93056,31.48417,44.93056,31.48417",
+    "geom:latitude":31.48417,
+    "geom:longitude":44.93056,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"6850588.0",
+    "gn:asciiname":"Sultan as Saghir",
+    "gn:country_code":"IQ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90537,
+    "gn:latitude":31.48417,
+    "gn:longitude":44.93056,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sul\u0163\u0101n a\u015f \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sul\u0163\u0101n a\u015f \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90537
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6984fe2015919a9459bd3c5b38511d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562701,
+            "locality_id":1310633679,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1310633679,
+    "wof:lastmodified":1537637875,
+    "wof:name":"Sultan as Saghir",
+    "wof:parent_id":1108562701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.93056,
+    31.48417,
+    44.93056,
+    31.48417
+],
+  "geometry": {"coordinates":[44.93056,31.48417],"type":"Point"}
+}

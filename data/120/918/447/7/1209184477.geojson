@@ -1,0 +1,65 @@
+{
+  "id": 1209184477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.54625,36.03594,41.54625,36.03594",
+    "geom:latitude":36.03594,
+    "geom:longitude":41.54625,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166608.0",
+    "gn:asciiname":"Al Buwayr",
+    "gn:country_code":"IQ",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7047047,
+    "gn:latitude":36.03594,
+    "gn:longitude":41.54625,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Al Buwayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u064a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7047047
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"11910f69a8993b8e38f6269d36941d19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209184477
+        }
+    ],
+    "wof:id":1209184477,
+    "wof:lastmodified":1537639971,
+    "wof:name":"Al Buwayr",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.54625,
+    36.03594,
+    41.54625,
+    36.03594
+],
+  "geometry": {"coordinates":[41.54625,36.03594],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276788749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39598,32.26378,44.39598,32.26378",
+    "geom:latitude":32.26378,
+    "geom:longitude":44.39598,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99348.0",
+    "gn:asciiname":"Qaryat al Maqbadiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6781154,
+    "gn:latitude":32.26378,
+    "gn:longitude":44.39598,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat al Maqba\u1e11\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0645\u0642\u0628\u0636\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al Maqba\u1e11\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6781154
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e00e55ad9eea97689740a8b1ee6af050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562695,
+            "locality_id":1276788749,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1276788749,
+    "wof:lastmodified":1537639310,
+    "wof:name":"Qaryat al Maqbadiyah",
+    "wof:parent_id":1108562695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39598,
+    32.26378,
+    44.39598,
+    32.26378
+],
+  "geometry": {"coordinates":[44.39598,32.26378],"type":"Point"}
+}

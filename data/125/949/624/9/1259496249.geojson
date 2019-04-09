@@ -1,0 +1,71 @@
+{
+  "id": 1259496249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.45056,31.11139,47.45056,31.11139",
+    "geom:latitude":31.11139,
+    "geom:longitude":47.45056,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"98994.0",
+    "gn:asciiname":"Humayun",
+    "gn:country_code":"IQ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95737,
+    "gn:latitude":31.11139,
+    "gn:longitude":47.45056,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hum\u0101y\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Hum\u0101y\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95737
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5169744e8834521e5ce7ef400100b50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562719,
+            "locality_id":1259496249,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1259496249,
+    "wof:lastmodified":1537638330,
+    "wof:name":"Humayun",
+    "wof:parent_id":1108562719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.45056,
+    31.11139,
+    47.45056,
+    31.11139
+],
+  "geometry": {"coordinates":[47.45056,31.11139],"type":"Point"}
+}

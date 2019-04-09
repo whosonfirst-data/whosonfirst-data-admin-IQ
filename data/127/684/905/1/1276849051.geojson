@@ -1,0 +1,78 @@
+{
+  "id": 1276849051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47082,35.44616,43.47082,35.44616",
+    "geom:latitude":35.44616,
+    "geom:longitude":43.47082,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"93817.0",
+    "gn:asciiname":"Qaryat Tall al Farah",
+    "gn:country_code":"IQ",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837305,
+    "gn:latitude":35.44616,
+    "gn:longitude":43.47082,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Tall al F\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u062a\u0644 \u0627\u0644\u0641\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tall as Sa\u2018\u012bd",
+        "Tall al F\u0101rah",
+        "\u062a\u0644 \u0627\u0644\u0641\u0627\u0631\u0629",
+        "\u062a\u0644 \u0627\u0644\u0633\u0639\u064a\u062f",
+        "Qaryat Tall al F\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837305
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"44a5c3574d17bf2c5941b412cdd4cc69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562779,
+            "locality_id":1276849051,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1276849051,
+    "wof:lastmodified":1537639698,
+    "wof:name":"Qaryat Tall al Farah",
+    "wof:parent_id":1108562779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47082,
+    35.44616,
+    43.47082,
+    35.44616
+],
+  "geometry": {"coordinates":[43.47082,35.44616],"type":"Point"}
+}

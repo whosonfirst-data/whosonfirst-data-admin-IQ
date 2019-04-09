@@ -1,0 +1,77 @@
+{
+  "id": 1293182085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.75433,36.69508,44.75433,36.69508",
+    "geom:latitude":36.69508,
+    "geom:longitude":44.75433,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166586.0",
+    "gn:asciiname":"Tenge",
+    "gn:country_code":"IQ",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8558609,
+    "gn:latitude":36.69508,
+    "gn:longitude":44.75433,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Tenge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Tenge"
+    ],
+    "name:kur_x_variant":[
+        "\u062a\u06d5\u0646\u06af\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Tanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558609
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"09bfd6cf14d480ab0a62963748517321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562749,
+            "locality_id":1293182085,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1293182085,
+    "wof:lastmodified":1537640089,
+    "wof:name":"Tenge",
+    "wof:parent_id":1108562749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.75433,
+    36.69508,
+    44.75433,
+    36.69508
+],
+  "geometry": {"coordinates":[44.75433,36.69508],"type":"Point"}
+}

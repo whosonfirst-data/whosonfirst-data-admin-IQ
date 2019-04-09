@@ -1,0 +1,95 @@
+{
+  "id": 1242646831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.43565,32.89482,46.43565,32.89482",
+    "geom:latitude":32.89482,
+    "geom:longitude":46.43565,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"99132.0",
+    "gn:asciiname":"Qasr Baksayah",
+    "gn:country_code":"IQ",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97991,
+    "gn:latitude":32.89482,
+    "gn:longitude":46.43565,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qa\u015fr Baks\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0628\u0643\u0633\u0627\u064a\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "B\u0101ghs\u0101y"
+    ],
+    "name:fas_x_variant":[
+        "Bags\u0101yeh",
+        "\u0628\u0627\u063a\u0633\u0627\u06cc",
+        "\u0628\u0642\u0633\u0627\u06cc\u0627",
+        "\u0628\u06af\u0633\u0627\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "Baqs\u0101y\u0101",
+        "Qa\u015fr Baks\u0101yah",
+        "Baks\u0101yah",
+        "Ash Shah\u0101b\u012b",
+        "Ash Shih\u0101b\u012b",
+        "B\u0101gh Sh\u0101h\u012b",
+        "B\u0101gh-i-Sh\u0101h\u012b",
+        "Baksai",
+        "Baksaie",
+        "Shahabi",
+        "\u0628\u0627\u063a\u0633\u0627\u06cc",
+        "\u0628\u0642\u0633\u0627\u06cc\u0627",
+        "\u0628\u06af\u0633\u0627\u06cc\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        421186459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97991
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9d85ab85042e70cced90d2accf54b9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186459,
+            "locality_id":1242646831,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1242646831,
+    "wof:lastmodified":1537638565,
+    "wof:name":"Qasr Baksayah",
+    "wof:parent_id":421186459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.43565,
+    32.89482,
+    46.43565,
+    32.89482
+],
+  "geometry": {"coordinates":[46.43565,32.89482],"type":"Point"}
+}

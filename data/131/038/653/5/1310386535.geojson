@@ -1,0 +1,82 @@
+{
+  "id": 1310386535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07343,35.94122,44.07343,35.94122",
+    "geom:latitude":35.94122,
+    "geom:longitude":44.07343,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Dulah Bakrah",
+    "gn:country_code":"IQ",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97102,
+    "gn:latitude":35.94122,
+    "gn:longitude":44.07343,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u016blah Bakrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0644\u0629 \u0628\u0643\u0631\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Do\u0142e Bekre"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u06c6\u06b5\u06d5 \u0628\u06d5\u0643\u0631\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Dawlah Bakrah",
+        "D\u016blah Bakrah",
+        "Dola Bakra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97102
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9337c42d874112d4d796d10b70954c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":1310386535,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1310386535,
+    "wof:lastmodified":1537638459,
+    "wof:name":"Dulah Bakrah",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07343,
+    35.94122,
+    44.07343,
+    35.94122
+],
+  "geometry": {"coordinates":[44.07343,35.94122],"type":"Point"}
+}

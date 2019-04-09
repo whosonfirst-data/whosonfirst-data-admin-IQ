@@ -1,0 +1,74 @@
+{
+  "id": 1343663633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21495,31.39162,45.21495,31.39162",
+    "geom:latitude":31.39162,
+    "geom:longitude":45.21495,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"98532.0",
+    "gn:asciiname":"Al 'Ilwan",
+    "gn:country_code":"IQ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6776346,
+    "gn:latitude":31.39162,
+    "gn:longitude":45.21495,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l \u2018Ilw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0622\u0644 \u0639\u0644\u0648\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0100l \u2018Ilw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        421205333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6776346
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2f08fd972e8f72f0c970c2fcc6229e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421205333,
+            "locality_id":1343663633,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1343663633,
+    "wof:lastmodified":1537639279,
+    "wof:name":"Al 'Ilwan",
+    "wof:parent_id":421205333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21495,
+    31.39162,
+    45.21495,
+    31.39162
+],
+  "geometry": {"coordinates":[45.21495,31.39162],"type":"Point"}
+}

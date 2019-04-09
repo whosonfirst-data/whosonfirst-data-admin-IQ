@@ -1,0 +1,85 @@
+{
+  "id": 1310010603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.83715,36.47295,44.83715,36.47295",
+    "geom:latitude":36.47295,
+    "geom:longitude":44.83715,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Zarayki",
+    "gn:country_code":"IQ",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89508,
+    "gn:latitude":36.47295,
+    "gn:longitude":44.83715,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Z\u0101rayk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0631\u064a\u0643\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Zargel\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0632\u0627\u0631\u06af\u06d5\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Z\u0101r Gelli",
+        "Z\u0101r\u012bg\u012b",
+        "Z\u0101rgal\u012b",
+        "Z\u0101rayk\u012b",
+        "\u0632\u0627\u0631\u064a\u0643\u064a",
+        "Zargaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89508
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"36089eb85113df0c01e9c378733fb42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445495,
+            "locality_id":1310010603,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1310010603,
+    "wof:lastmodified":1537637785,
+    "wof:name":"Zarayki",
+    "wof:parent_id":890445495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.83715,
+    36.47295,
+    44.83715,
+    36.47295
+],
+  "geometry": {"coordinates":[44.83715,36.47295],"type":"Point"}
+}

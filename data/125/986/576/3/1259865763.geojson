@@ -1,0 +1,83 @@
+{
+  "id": 1259865763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39092,35.82026,44.39092,35.82026",
+    "geom:latitude":35.82026,
+    "geom:longitude":44.39092,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9171727.0",
+    "gn:asciiname":"Kawlat Suwar",
+    "gn:country_code":"IQ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":94243,
+    "gn:latitude":35.82026,
+    "gn:longitude":44.39092,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u0101wlat Suw\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0648\u0644\u0629 \u0633\u0648\u0627\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Kawle Suar"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0627\u0648\u0644\u06d5 \u0633\u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kolasow\u0101l",
+        "Q\u016blasuw\u0101r",
+        "Kawla Suar",
+        "K\u0101wlat Suw\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94243
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4bf29b60e5c04d2458911d0fb5b09068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562807,
+            "locality_id":1259865763,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1259865763,
+    "wof:lastmodified":1537638207,
+    "wof:name":"Kawlat Suwar",
+    "wof:parent_id":1108562807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39092,
+    35.82026,
+    44.39092,
+    35.82026
+],
+  "geometry": {"coordinates":[44.39092,35.82026],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209295761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95265,36.11045,43.95265,36.11045",
+    "geom:latitude":36.11045,
+    "geom:longitude":43.95265,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Mam Zawah",
+    "gn:country_code":"IQ",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018295,
+    "gn:latitude":36.11045,
+    "gn:longitude":43.95265,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"M\u0101m Z\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0645 \u0632\u0627\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "M\u0101m Z\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018295
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"58329329503f234f96119aba274e49ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209295761
+        }
+    ],
+    "wof:id":1209295761,
+    "wof:lastmodified":1537639902,
+    "wof:name":"Mam Zawah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95265,
+    36.11045,
+    43.95265,
+    36.11045
+],
+  "geometry": {"coordinates":[43.95265,36.11045],"type":"Point"}
+}

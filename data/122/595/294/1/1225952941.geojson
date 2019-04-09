@@ -1,0 +1,71 @@
+{
+  "id": 1225952941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.49167,29.96528,48.49167,29.96528",
+    "geom:latitude":29.96528,
+    "geom:longitude":48.49167,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"9166549.0",
+    "gn:asciiname":"Kut al Hajj Shayd",
+    "gn:country_code":"IQ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412847,
+    "gn:latitude":29.96528,
+    "gn:longitude":48.49167,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u016bt al \u1e28\u0101jj Shayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016bt al \u1e28\u0101jj Shayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412847
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ef2deb33b7a87a555bbb1506f7bf88ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562737,
+            "locality_id":1225952941,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1225952941,
+    "wof:lastmodified":1537638853,
+    "wof:name":"Kut al Hajj Shayd",
+    "wof:parent_id":1108562737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.49167,
+    29.96528,
+    48.49167,
+    29.96528
+],
+  "geometry": {"coordinates":[48.49167,29.96528],"type":"Point"}
+}

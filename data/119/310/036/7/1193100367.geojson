@@ -1,0 +1,74 @@
+{
+  "id": 1193100367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.86483,34.48617,43.86483,34.48617",
+    "geom:latitude":34.48617,
+    "geom:longitude":43.86483,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"Al Hajj Hamid Hamdi",
+    "gn:country_code":"IQ",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783076,
+    "gn:latitude":34.48617,
+    "gn:longitude":43.86483,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28\u0101jj \u1e28am\u012bd \u1e28amd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0627\u062c \u062d\u0645\u064a\u062f \u062d\u0645\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28\u0101jj \u1e28am\u012bd \u1e28amd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783076
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"333a143124bd67e9a8ddab4c852c72e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562773,
+            "locality_id":1193100367,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1193100367,
+    "wof:lastmodified":1537639356,
+    "wof:name":"Al Hajj Hamid Hamdi",
+    "wof:parent_id":1108562773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.86483,
+    34.48617,
+    43.86483,
+    34.48617
+],
+  "geometry": {"coordinates":[43.86483,34.48617],"type":"Point"}
+}

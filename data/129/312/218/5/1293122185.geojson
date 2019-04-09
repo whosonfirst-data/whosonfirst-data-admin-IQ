@@ -1,0 +1,74 @@
+{
+  "id": 1293122185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20949,33.54824,44.20949,33.54824",
+    "geom:latitude":33.54824,
+    "geom:longitude":44.20949,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99173.0",
+    "gn:asciiname":"'Ali 'Abud",
+    "gn:country_code":"IQ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806026,
+    "gn:latitude":33.54824,
+    "gn:longitude":44.20949,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Al\u012b \u2018Ab\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u0639\u0628\u0648\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Al\u012b \u2018Ab\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806026
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"01417e6f6c2d03a5014c201232867091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562795,
+            "locality_id":1293122185,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1293122185,
+    "wof:lastmodified":1537639609,
+    "wof:name":"'Ali 'Abud",
+    "wof:parent_id":1108562795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20949,
+    33.54824,
+    44.20949,
+    33.54824
+],
+  "geometry": {"coordinates":[44.20949,33.54824],"type":"Point"}
+}

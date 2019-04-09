@@ -1,0 +1,74 @@
+{
+  "id": 1260204819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35869,33.03247,44.35869,33.03247",
+    "geom:latitude":33.03247,
+    "geom:longitude":44.35869,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Hasan an Naqib",
+    "gn:country_code":"IQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449149,
+    "gn:latitude":33.03247,
+    "gn:longitude":44.35869,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28asan an Naq\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u0646 \u0627\u0644\u0646\u0642\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u1e28asan an Naq\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449149
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"010b7f757e54de0972dd06ad25bc0bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1260204819,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1260204819,
+    "wof:lastmodified":1537639088,
+    "wof:name":"Hasan an Naqib",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35869,
+    33.03247,
+    44.35869,
+    33.03247
+],
+  "geometry": {"coordinates":[44.35869,33.03247],"type":"Point"}
+}

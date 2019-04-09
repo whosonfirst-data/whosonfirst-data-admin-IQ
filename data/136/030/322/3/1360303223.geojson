@@ -1,0 +1,75 @@
+{
+  "id": 1360303223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.61736,34.48717,41.61736,34.48717",
+    "geom:latitude":34.48717,
+    "geom:longitude":41.61736,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9166650.0",
+    "gn:asciiname":"'Ajamiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99624,
+    "gn:latitude":34.48717,
+    "gn:longitude":41.61736,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Aj\u0101m\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062c\u0627\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Ajjam\u012byah",
+        "\u2018Aj\u0101m\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        1108562803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99624
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"51677538f66de4fddd2719515d7603b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562803,
+            "locality_id":1360303223,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1360303223,
+    "wof:lastmodified":1537638689,
+    "wof:name":"'Ajamiyah",
+    "wof:parent_id":1108562803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.61736,
+    34.48717,
+    41.61736,
+    34.48717
+],
+  "geometry": {"coordinates":[41.61736,34.48717],"type":"Point"}
+}

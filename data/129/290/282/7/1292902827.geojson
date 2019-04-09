@@ -1,0 +1,80 @@
+{
+  "id": 1292902827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.53956,34.92367,45.53956,34.92367",
+    "geom:latitude":34.92367,
+    "geom:longitude":45.53956,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Garmuk",
+    "gn:country_code":"IQ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97308,
+    "gn:latitude":34.92367,
+    "gn:longitude":45.53956,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Garm\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u06af\u0631\u0645\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "Cunduk",
+        "Gundok",
+        "G\u016bnd\u016bk",
+        "K\u016bnduk",
+        "\u0643\u0648\u0646\u062f\u0643",
+        "\u06af\u0648\u0646\u062f\u0648\u0643",
+        "Garm\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97308
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"12daa32d47a632b6e5d9b50b45c366b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1292902827,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1292902827,
+    "wof:lastmodified":1537638481,
+    "wof:name":"Garmuk",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.53956,
+    34.92367,
+    45.53956,
+    34.92367
+],
+  "geometry": {"coordinates":[45.53956,34.92367],"type":"Point"}
+}

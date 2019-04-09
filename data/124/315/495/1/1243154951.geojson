@@ -1,0 +1,81 @@
+{
+  "id": 1243154951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50543,36.45003,43.50543,36.45003",
+    "geom:latitude":36.45003,
+    "geom:longitude":43.50543,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166541.0",
+    "gn:asciiname":"Sikani al Kabir",
+    "gn:country_code":"IQ",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018336,
+    "gn:latitude":36.45003,
+    "gn:longitude":43.50543,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"S\u012bk\u0101n\u012b al Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0643\u0627\u0646\u064a \u0627\u0644\u0643\u0628\u064a\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "S\u00eekan"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u064a\u0643\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sikan",
+        "S\u012bk\u0101n\u012b al Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018336
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"26b0570906d56ca3763ce7909cf5a999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562631,
+            "locality_id":1243154951,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1243154951,
+    "wof:lastmodified":1537639903,
+    "wof:name":"Sikani al Kabir",
+    "wof:parent_id":1108562631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50543,
+    36.45003,
+    43.50543,
+    36.45003
+],
+  "geometry": {"coordinates":[43.50543,36.45003],"type":"Point"}
+}

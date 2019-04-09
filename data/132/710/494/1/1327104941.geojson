@@ -1,0 +1,88 @@
+{
+  "id": 1327104941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56543,36.56034,43.56543,36.56034",
+    "geom:latitude":36.56034,
+    "geom:longitude":43.56543,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Asmawah Mirza",
+    "gn:country_code":"IQ",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98559,
+    "gn:latitude":36.56034,
+    "gn:longitude":43.56543,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Asm\u0101wah M\u012brz\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u0645\u0627\u0648\u0647 \u0645\u064a\u0631\u0632\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Simawe M\u00eerza"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u0645\u0627\u0648\u06d5 \u0645\u064a\u0631\u0632\u0627",
+        "\u00cesmawe",
+        "\u00cesmawa M\u00eerza",
+        "\u0626\u064a\u0633\u0645\u0627\u0648\u06d5",
+        "\u0626\u064a\u0633\u0645\u0627\u0648\u0627 \u0645\u064a\u0631\u0632\u0627"
+    ],
+    "name:und_x_variant":[
+        "Asm\u0101wa Mirza",
+        "Asm\u0101wah M\u012brzah",
+        "Smawa Mirza",
+        "Asm\u0101wah M\u012brz\u0101",
+        "Esmawa Mirza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98559
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"055c7f3b535115625aeed3f06d27779f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1327104941,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1327104941,
+    "wof:lastmodified":1537638616,
+    "wof:name":"Asmawah Mirza",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56543,
+    36.56034,
+    43.56543,
+    36.56034
+],
+  "geometry": {"coordinates":[43.56543,36.56034],"type":"Point"}
+}

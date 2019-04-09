@@ -1,0 +1,74 @@
+{
+  "id": 1343583499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.92859,32.36006,44.92859,32.36006",
+    "geom:latitude":32.36006,
+    "geom:longitude":44.92859,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99358.0",
+    "gn:asciiname":"Muhsin Hajji",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6788343,
+    "gn:latitude":32.36006,
+    "gn:longitude":44.92859,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29sin \u1e28\u0101jj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0633\u0646 \u062d\u0627\u062c\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Mu\u1e29sin \u1e28\u0101jj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6788343
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0434b57f3a0e2f52aa8ed3b287c32138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562689,
+            "locality_id":1343583499,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1343583499,
+    "wof:lastmodified":1537639432,
+    "wof:name":"Muhsin Hajji",
+    "wof:parent_id":1108562689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.92859,
+    32.36006,
+    44.92859,
+    32.36006
+],
+  "geometry": {"coordinates":[44.92859,32.36006],"type":"Point"}
+}

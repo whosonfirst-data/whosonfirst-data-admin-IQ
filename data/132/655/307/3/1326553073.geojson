@@ -1,0 +1,83 @@
+{
+  "id": 1326553073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.17184,35.92508,45.17184,35.92508",
+    "geom:latitude":35.92508,
+    "geom:longitude":45.17184,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Hanjilu",
+    "gn:country_code":"IQ",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7426276,
+    "gn:latitude":35.92508,
+    "gn:longitude":45.17184,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hanj\u012bl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0646\u062c\u064a\u0644\u0648"
+    ],
+    "name:kur_x_preferred":[
+        "Henc\u00eere"
+    ],
+    "name:kur_x_variant":[
+        "Henc\u00eelu",
+        "\u0647\u06d5\u0646\u062c\u064a\u0631\u06d5",
+        "\u0647\u06d5\u0646\u062c\u064a\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Hanj\u012bl\u016b",
+        "Hangira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7426276
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0f350e4a71e39c005215c6b4d1fb8805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1326553073,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1326553073,
+    "wof:lastmodified":1537640048,
+    "wof:name":"Hanjilu",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.17184,
+    35.92508,
+    45.17184,
+    35.92508
+],
+  "geometry": {"coordinates":[45.17184,35.92508],"type":"Point"}
+}

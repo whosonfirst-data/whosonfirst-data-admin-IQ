@@ -1,0 +1,71 @@
+{
+  "id": 1310111845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61667,31.76667,44.61667,31.76667",
+    "geom:latitude":31.76667,
+    "geom:longitude":44.61667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"98634.0",
+    "gn:asciiname":"Salman az Zahir",
+    "gn:country_code":"IQ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91620,
+    "gn:latitude":31.76667,
+    "gn:longitude":44.61667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Salm\u0101n az\u0327 Z\u0327ahir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salm\u0101n az\u0327 Z\u0327ahir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91620
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"35c16128d160ddb8a2dd8853f79b6b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562699,
+            "locality_id":1310111845,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1310111845,
+    "wof:lastmodified":1537637982,
+    "wof:name":"Salman az Zahir",
+    "wof:parent_id":1108562699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61667,
+    31.76667,
+    44.61667,
+    31.76667
+],
+  "geometry": {"coordinates":[44.61667,31.76667],"type":"Point"}
+}

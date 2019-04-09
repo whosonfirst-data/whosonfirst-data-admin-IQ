@@ -1,0 +1,74 @@
+{
+  "id": 1226240189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58678,32.2868,44.58678,32.2868",
+    "geom:latitude":32.2868,
+    "geom:longitude":44.58678,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99358.0",
+    "gn:asciiname":"Al Tuhaymah",
+    "gn:country_code":"IQ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6790586,
+    "gn:latitude":32.2868,
+    "gn:longitude":44.58678,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l \u0162u\u1e29aymah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0644 \u0637\u062d\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0100l \u0162u\u1e29aymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6790586
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a4d6df9b713d8c0ff718f67ffccf5909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562689,
+            "locality_id":1226240189,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1226240189,
+    "wof:lastmodified":1537639530,
+    "wof:name":"Al Tuhaymah",
+    "wof:parent_id":1108562689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58678,
+    32.2868,
+    44.58678,
+    32.2868
+],
+  "geometry": {"coordinates":[44.58678,32.2868],"type":"Point"}
+}

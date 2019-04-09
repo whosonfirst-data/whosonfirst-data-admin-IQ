@@ -1,0 +1,81 @@
+{
+  "id": 1343839107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.379,35.8417,44.379,35.8417",
+    "geom:latitude":35.8417,
+    "geom:longitude":44.379,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166588.0",
+    "gn:asciiname":"Shaytan Rahman Awa",
+    "gn:country_code":"IQ",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":90902,
+    "gn:latitude":35.8417,
+    "gn:longitude":44.379,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shay\u0163\u0101n Ra\u1e29m\u0101n \u0100w\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0637\u0627\u0646 \u0631\u062d\u0645\u0627\u0646 \u0627\u0648\u0627"
+    ],
+    "name:und_x_variant":[
+        "Shaytana",
+        "Shaitana",
+        "Shay\u0163\u0101nah",
+        "Shay\u0163\u0101n",
+        "Shaltan Rahman Awa",
+        "She\u0142tan \u1e5ee\u1e27man Awa",
+        "\u0634\u0647 \u06b5\u062a\u0627\u0646 \u0695\u0647 \u062d\u0645\u0627\u0646 \u0626\u0627\u0648\u0627",
+        "Shay\u0163\u0101n Ra\u1e29m\u0101n \u0100w\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90902
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"36a82348d2935c1f3b2aa518154ae9d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445493,
+            "locality_id":1343839107,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1343839107,
+    "wof:lastmodified":1537637914,
+    "wof:name":"Shaytan Rahman Awa",
+    "wof:parent_id":890445493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.379,
+    35.8417,
+    44.379,
+    35.8417
+],
+  "geometry": {"coordinates":[44.379,35.8417],"type":"Point"}
+}

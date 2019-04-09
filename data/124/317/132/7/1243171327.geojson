@@ -1,0 +1,86 @@
+{
+  "id": 1243171327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.02651,36.41176,45.02651,36.41176",
+    "geom:latitude":36.41176,
+    "geom:longitude":45.02651,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Sarkinil",
+    "gn:country_code":"IQ",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":91522,
+    "gn:latitude":36.41176,
+    "gn:longitude":45.02651,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Sark\u012bnil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0643\u064a\u0646\u0644"
+    ],
+    "name:kur_x_preferred":[
+        "Sergen\u00eel"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u06d5\u0631\u06af\u06d5\u0646\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Sargan\u012bl",
+        "Sark\u012bnil",
+        "Sarg\u0113n\u012bl",
+        "Sark\u012bn\u012bl",
+        "\u0633\u0631\u0643\u064a\u0646\u064a\u0644",
+        "Sargenil",
+        "Sarganil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91522
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6e28dbdf4cf90efdd773a00ad0a1d3c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1243171327,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1243171327,
+    "wof:lastmodified":1537637973,
+    "wof:name":"Sarkinil",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.02651,
+    36.41176,
+    45.02651,
+    36.41176
+],
+  "geometry": {"coordinates":[45.02651,36.41176],"type":"Point"}
+}

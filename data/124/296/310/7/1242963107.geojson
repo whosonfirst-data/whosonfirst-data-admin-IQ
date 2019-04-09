@@ -1,0 +1,71 @@
+{
+  "id": 1242963107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.18333,31.03333,46.18333,31.03333",
+    "geom:latitude":31.03333,
+    "geom:longitude":46.18333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98855.0",
+    "gn:asciiname":"Karim",
+    "gn:country_code":"IQ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94806,
+    "gn:latitude":31.03333,
+    "gn:longitude":46.18333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kar\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kar\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        421172357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94806
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"300ca92e7b96a3862e6f35025a6e6c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172357,
+            "locality_id":1242963107,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1242963107,
+    "wof:lastmodified":1537638258,
+    "wof:name":"Karim",
+    "wof:parent_id":421172357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.18333,
+    31.03333,
+    46.18333,
+    31.03333
+],
+  "geometry": {"coordinates":[46.18333,31.03333],"type":"Point"}
+}

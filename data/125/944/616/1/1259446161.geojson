@@ -1,0 +1,71 @@
+{
+  "id": 1259446161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8525,34.25889,43.8525,34.25889",
+    "geom:latitude":34.25889,
+    "geom:longitude":43.8525,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"Tuffah Ibn 'Aqqas",
+    "gn:country_code":"IQ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90092,
+    "gn:latitude":34.25889,
+    "gn:longitude":43.8525,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0162uff\u0101\u1e29 Ibn \u2018Aqq\u0101\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162uff\u0101\u1e29 Ibn \u2018Aqq\u0101\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90092
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"dfa870ace91c61ed2ffb3856d124c075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562773,
+            "locality_id":1259446161,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1259446161,
+    "wof:lastmodified":1537637828,
+    "wof:name":"Tuffah Ibn 'Aqqas",
+    "wof:parent_id":1108562773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8525,
+    34.25889,
+    43.8525,
+    34.25889
+],
+  "geometry": {"coordinates":[43.8525,34.25889],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309785211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49111,35.78917,44.49111,35.78917",
+    "geom:latitude":35.78917,
+    "geom:longitude":44.49111,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"94786.0",
+    "gn:asciiname":"Hasan Qibaq",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":95960,
+    "gn:latitude":35.78917,
+    "gn:longitude":44.49111,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28asan Qib\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u1e28asan Qabgh",
+        "\u1e28asan Qab\u0101gh",
+        "\u1e28asan Qib\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        421199293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95960
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6ecaf275f625592d9733bcb869737459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421199293,
+            "locality_id":1309785211,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1309785211,
+    "wof:lastmodified":1537638347,
+    "wof:name":"Hasan Qibaq",
+    "wof:parent_id":421199293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49111,
+    35.78917,
+    44.49111,
+    35.78917
+],
+  "geometry": {"coordinates":[44.49111,35.78917],"type":"Point"}
+}

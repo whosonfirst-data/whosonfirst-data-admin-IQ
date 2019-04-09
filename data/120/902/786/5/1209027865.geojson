@@ -1,0 +1,68 @@
+{
+  "id": 1209027865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17327,33.60343,44.17327,33.60343",
+    "geom:latitude":33.60343,
+    "geom:longitude":44.17327,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166569.0",
+    "gn:asciiname":"Dakhil Mahmud",
+    "gn:country_code":"IQ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805966,
+    "gn:latitude":33.60343,
+    "gn:longitude":44.17327,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dakh\u012bl Ma\u1e29m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u062e\u064a\u0644 \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Dakh\u012bl Ma\u1e29m\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805966
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"14f6e4f2cf52d913a8ce4cce91bf6e34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209027865
+        }
+    ],
+    "wof:id":1209027865,
+    "wof:lastmodified":1537639605,
+    "wof:name":"Dakhil Mahmud",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17327,
+    33.60343,
+    44.17327,
+    33.60343
+],
+  "geometry": {"coordinates":[44.17327,33.60343],"type":"Point"}
+}

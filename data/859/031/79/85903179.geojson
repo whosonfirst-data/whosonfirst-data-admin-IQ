@@ -1,0 +1,173 @@
+{
+  "id": 85903179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":11529224.287198,
+    "geom:bbox":"44.340454,33.375494,44.340454,33.375494",
+    "geom:latitude":33.375494,
+    "geom:longitude":44.340454,
+    "gn:latitude":33.37646,
+    "gn:longitude":44.34155,
+    "iso:country":"IQ",
+    "lbl:latitude":33.375494,
+    "lbl:longitude":44.340454,
+    "mps:latitude":33.375193,
+    "mps:longitude":44.342275,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_colloquial":[
+        "Al Kaadhimain",
+        "Al Kadhimain",
+        "Al Kazimiyah",
+        "Kaadhimain",
+        "Kaadhmain",
+        "Kadhimain",
+        "Kadhmain"
+    ],
+    "name:ara_x_preferred":[
+        "Al K\u0101z\u0327im\u012byah"
+    ],
+    "name:ara_x_variant":[
+        "Al K\u00e5dhimain",
+        "Kadhimiya",
+        "Kazimain",
+        "K\u00e5dhimain",
+        "K\u00e5dhmain",
+        "\u0627\u0644\u0643\u0627\u0638\u0645\u064a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Kadhimiya"
+    ],
+    "name:dut_x_preferred":[
+        "Kadhimiya"
+    ],
+    "name:eng_x_preferred":[
+        "Kadhimiya"
+    ],
+    "name:fin_x_preferred":[
+        "Al-Kazimiyah"
+    ],
+    "name:fre_x_preferred":[
+        "Kadhimiya"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d0\u10d3\u10d8\u10db\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Al-Kazimiyya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05d0\u05d6\u05de\u05d9\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Kazimain"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Kazimiyya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30fc\u30b8\u30de\u30a4\u30f3\u30fb\u30e2\u30b9\u30af"
+    ],
+    "name:may_x_preferred":[
+        "Kazimain"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06a9\u0627\u0638\u0645\u06cc\u0646"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0638\u0645\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Kazimija"
+    ],
+    "name:rum_x_preferred":[
+        "Kazimain"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0434\u0438\u043c\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Kadhimiya"
+    ],
+    "name:swe_x_preferred":[
+        "Kazimain"
+    ],
+    "name:tur_x_preferred":[
+        "Kaz\u0131miye"
+    ],
+    "name:unk_x_variant":[
+        "Al K\u0101dhimain",
+        "Al K\u0101z\u0327im\u012byah"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0638\u0645\u06cc\u0646"
+    ],
+    "name:war_x_preferred":[
+        "Kadhimain"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672447,
+        102191569,
+        85632191,
+        1108562795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99172,
+        "gp:id":1970991,
+        "qs:id":266916,
+        "wd:id":"Q311315",
+        "wk:page":"Kadhimiya"
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7fb5f0a996687fa2fdbaeeb9619cdce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562795,
+            "locality_id":-1,
+            "neighbourhood_id":85903179,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":85903179,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1534379347,
+    "wof:name":"Al K\u0101z\u0327im\u012byah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[
+        1126072033
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.340454,
+    33.375494,
+    44.340454,
+    33.375494
+],
+  "geometry": {"coordinates":[44.340454,33.375494],"type":"Point"}
+}

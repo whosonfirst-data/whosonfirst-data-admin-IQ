@@ -1,0 +1,77 @@
+{
+  "id": 1310571673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.2822,36.2631,42.2822,36.2631",
+    "geom:latitude":36.2631,
+    "geom:longitude":42.2822,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Shuwayrah",
+    "gn:country_code":"IQ",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91028,
+    "gn:latitude":36.2631,
+    "gn:longitude":42.2822,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Shuwayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sh\u016br\u012b",
+        "Sh\u016bra",
+        "Shawrah",
+        "Shuwayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91028
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c38c4a4967512953782db4dc60b4188e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1310571673,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1310571673,
+    "wof:lastmodified":1537637926,
+    "wof:name":"Shuwayrah",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.2822,
+    36.2631,
+    42.2822,
+    36.2631
+],
+  "geometry": {"coordinates":[42.2822,36.2631],"type":"Point"}
+}

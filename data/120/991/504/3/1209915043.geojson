@@ -1,0 +1,74 @@
+{
+  "id": 1209915043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86825,32.0124,44.86825,32.0124",
+    "geom:latitude":32.0124,
+    "geom:longitude":44.86825,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"'Abbud al Hamzah",
+    "gn:country_code":"IQ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100194,
+    "gn:latitude":32.0124,
+    "gn:longitude":44.86825,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abb\u016bd al \u1e28amzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u0648\u062f \u0627\u0644\u062d\u0645\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abb\u016bd al \u1e28amzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100194
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"05eca65c37e5eb6f5921251165537e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1209915043,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1209915043,
+    "wof:lastmodified":1537638716,
+    "wof:name":"'Abbud al Hamzah",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86825,
+    32.0124,
+    44.86825,
+    32.0124
+],
+  "geometry": {"coordinates":[44.86825,32.0124],"type":"Point"}
+}

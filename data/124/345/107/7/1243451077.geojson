@@ -1,0 +1,74 @@
+{
+  "id": 1243451077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21169,33.16824,44.21169,33.16824",
+    "geom:latitude":33.16824,
+    "geom:longitude":44.21169,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Qal'at 'Ali Salih",
+    "gn:country_code":"IQ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9998334,
+    "gn:latitude":33.16824,
+    "gn:longitude":44.21169,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qal\u2018at \u2018Al\u012b \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0639\u0644\u064a \u0635\u0627\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018at \u2018Al\u012b \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9998334
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f244919e9f329d838f94f9a35ed0d282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1243451077,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1243451077,
+    "wof:lastmodified":1537640113,
+    "wof:name":"Qal'at 'Ali Salih",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21169,
+    33.16824,
+    44.21169,
+    33.16824
+],
+  "geometry": {"coordinates":[44.21169,33.16824],"type":"Point"}
+}

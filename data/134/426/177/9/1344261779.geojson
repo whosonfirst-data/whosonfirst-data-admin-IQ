@@ -1,0 +1,87 @@
+{
+  "id": 1344261779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.11466,36.0697,45.11466,36.0697",
+    "geom:latitude":36.0697,
+    "geom:longitude":45.11466,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Sofiyan",
+    "gn:country_code":"IQ",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90641,
+    "gn:latitude":36.0697,
+    "gn:longitude":45.11466,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sofiyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sufiy\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0641\u064a\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Sofiyan"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u06c6\u0641\u064a\u0627\u0646",
+        "Sufiyan",
+        "\u0633\u0648\u0641\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "S\u014dfiy\u0101n",
+        "Sofian",
+        "Sofyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90641
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3501ee701e034d85137864d7393afcc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1344261779,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1344261779,
+    "wof:lastmodified":1537637886,
+    "wof:name":"Sofiyan",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.11466,
+    36.0697,
+    45.11466,
+    36.0697
+],
+  "geometry": {"coordinates":[45.11466,36.0697],"type":"Point"}
+}

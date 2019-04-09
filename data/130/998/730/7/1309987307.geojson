@@ -1,0 +1,78 @@
+{
+  "id": 1309987307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8359,35.91396,44.8359,35.91396",
+    "geom:latitude":35.91396,
+    "geom:longitude":44.8359,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166588.0",
+    "gn:asciiname":"Kaylah Zindan",
+    "gn:country_code":"IQ",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89401,
+    "gn:latitude":35.91396,
+    "gn:longitude":44.8359,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kaylah Zind\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0644\u0629 \u0632\u0646\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zind\u0101n",
+        "Kailah Zind\u0101n",
+        "Zind\u0101nah",
+        "Kaylah Zind\u0101n",
+        "K\u0113lazind\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89401
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"59199fdec2e4dd5b2799f48c13a9c7e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445493,
+            "locality_id":1309987307,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1309987307,
+    "wof:lastmodified":1537637772,
+    "wof:name":"Kaylah Zindan",
+    "wof:parent_id":890445493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8359,
+    35.91396,
+    44.8359,
+    35.91396
+],
+  "geometry": {"coordinates":[44.8359,35.91396],"type":"Point"}
+}

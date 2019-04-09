@@ -1,0 +1,71 @@
+{
+  "id": 1243381165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62861,33.39444,43.62861,33.39444",
+    "geom:latitude":33.39444,
+    "geom:longitude":43.62861,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"Salman al 'Ayid",
+    "gn:country_code":"IQ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91636,
+    "gn:latitude":33.39444,
+    "gn:longitude":43.62861,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Salm\u0101n al \u2018Ayid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salm\u0101n al \u2018Ayid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91636
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d03f2326b994debe6dafc4d13fa488db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1243381165,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1243381165,
+    "wof:lastmodified":1537637984,
+    "wof:name":"Salman al 'Ayid",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62861,
+    33.39444,
+    43.62861,
+    33.39444
+],
+  "geometry": {"coordinates":[43.62861,33.39444],"type":"Point"}
+}

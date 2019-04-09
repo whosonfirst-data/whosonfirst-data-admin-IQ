@@ -1,0 +1,76 @@
+{
+  "id": 1327204327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.95197,36.48723,42.95197,36.48723",
+    "geom:latitude":36.48723,
+    "geom:longitude":42.95197,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166618.0",
+    "gn:asciiname":"Mulla al 'Ulya",
+    "gn:country_code":"IQ",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93764,
+    "gn:latitude":36.48723,
+    "gn:longitude":42.95197,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Mull\u0101 al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0627 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Mall\u0101h Uliya",
+        "Mall\u0101 \u2018Uly\u0101",
+        "Mull\u0101 al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93764
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"346b21e262c7bd9ed2106354dd064d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562629,
+            "locality_id":1327204327,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1327204327,
+    "wof:lastmodified":1537638165,
+    "wof:name":"Mulla al 'Ulya",
+    "wof:parent_id":1108562629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.95197,
+    36.48723,
+    42.95197,
+    36.48723
+],
+  "geometry": {"coordinates":[42.95197,36.48723],"type":"Point"}
+}

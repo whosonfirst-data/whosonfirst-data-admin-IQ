@@ -1,0 +1,68 @@
+{
+  "id": 1209481491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59369,34.20835,43.59369,34.20835",
+    "geom:latitude":34.20835,
+    "geom:longitude":43.59369,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"91594.0",
+    "gn:asciiname":"Ahmad Ibrahim 'Abd Allah",
+    "gn:country_code":"IQ",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6782755,
+    "gn:latitude":34.20835,
+    "gn:longitude":43.59369,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u1e29mad Ibr\u0101h\u012bm \u2018Abd All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u062d\u0645\u062f \u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u0639\u0628\u062f \ufdf2"
+    ],
+    "name:und_x_variant":[
+        "A\u1e29mad Ibr\u0101h\u012bm \u2018Abd All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6782755
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7ddfb03e63e735c650a1fde96b2b8249",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209481491
+        }
+    ],
+    "wof:id":1209481491,
+    "wof:lastmodified":1537639337,
+    "wof:name":"Ahmad Ibrahim 'Abd Allah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59369,
+    34.20835,
+    43.59369,
+    34.20835
+],
+  "geometry": {"coordinates":[43.59369,34.20835],"type":"Point"}
+}

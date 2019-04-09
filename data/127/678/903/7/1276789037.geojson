@@ -1,0 +1,74 @@
+{
+  "id": 1276789037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93612,37.13291,43.93612,37.13291",
+    "geom:latitude":37.13291,
+    "geom:longitude":43.93612,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Kula",
+    "gn:country_code":"IQ",
+    "gn:dem":1452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8678377,
+    "gn:latitude":37.13291,
+    "gn:longitude":43.93612,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Kula"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0648\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8678377
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2f562c7c2aa1db61aaee3be497c47d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1276789037,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1276789037,
+    "wof:lastmodified":1537640104,
+    "wof:name":"Kula",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93612,
+    37.13291,
+    43.93612,
+    37.13291
+],
+  "geometry": {"coordinates":[43.93612,37.13291],"type":"Point"}
+}

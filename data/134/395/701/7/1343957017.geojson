@@ -1,0 +1,86 @@
+{
+  "id": 1343957017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18056,36.35593,45.18056,36.35593",
+    "geom:latitude":36.35593,
+    "geom:longitude":45.18056,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Erke",
+    "gn:country_code":"IQ",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":98737,
+    "gn:latitude":36.35593,
+    "gn:longitude":45.18056,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Erke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0622\u0631\u0643\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Erke"
+    ],
+    "name:kur_x_variant":[
+        "\u0626\u06d5\u0631\u0643\u06d5",
+        "Warkele",
+        "\u0648\u0627\u0631\u0643\u06d5\u0644\u06d5"
+    ],
+    "name:und_x_variant":[
+        "\u0100rkah",
+        "Arka",
+        "Arka Lower",
+        "Arka Upper",
+        "Warkala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98737
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2a7b4101de2da144f2550f7f2c638856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1343957017,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1343957017,
+    "wof:lastmodified":1537638628,
+    "wof:name":"Erke",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18056,
+    36.35593,
+    45.18056,
+    36.35593
+],
+  "geometry": {"coordinates":[45.18056,36.35593],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1242862329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00979,36.04103,44.00979,36.04103",
+    "geom:latitude":36.04103,
+    "geom:longitude":44.00979,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Koske",
+    "gn:country_code":"IQ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96415,
+    "gn:latitude":36.04103,
+    "gn:longitude":44.00979,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Koske",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Koske"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u06c6\u0633\u0643\u06d5"
+    ],
+    "name:und_x_variant":[
+        "G\u016bzkah",
+        "K\u016bzkah",
+        "G\u014dzkah",
+        "Gozka",
+        "K\u014dska",
+        "Koska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96415
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"87e58432115e79a815fd0bd1d9e2d4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":1242862329,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1242862329,
+    "wof:lastmodified":1537638389,
+    "wof:name":"Koske",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00979,
+    36.04103,
+    44.00979,
+    36.04103
+],
+  "geometry": {"coordinates":[44.00979,36.04103],"type":"Point"}
+}

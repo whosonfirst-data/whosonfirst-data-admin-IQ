@@ -1,0 +1,74 @@
+{
+  "id": 1343327871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37308,35.10028,43.37308,35.10028",
+    "geom:latitude":35.10028,
+    "geom:longitude":43.37308,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6872046.0",
+    "gn:asciiname":"Muhammad al Abdawi",
+    "gn:country_code":"IQ",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837535,
+    "gn:latitude":35.10028,
+    "gn:longitude":43.37308,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29ammad al Abdaw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u062f\u0627\u0644\u0627\u0628\u062f\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e29ammad al Abdaw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837535
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"06b2124b06e4e1192257158f3bf97aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562647,
+            "locality_id":1343327871,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1343327871,
+    "wof:lastmodified":1537639710,
+    "wof:name":"Muhammad al Abdawi",
+    "wof:parent_id":1108562647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37308,
+    35.10028,
+    43.37308,
+    35.10028
+],
+  "geometry": {"coordinates":[43.37308,35.10028],"type":"Point"}
+}

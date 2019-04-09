@@ -1,0 +1,68 @@
+{
+  "id": 1209499661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.70823,31.04146,46.70823,31.04146",
+    "geom:latitude":31.04146,
+    "geom:longitude":46.70823,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98855.0",
+    "gn:asciiname":"Tall Hamad",
+    "gn:country_code":"IQ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7011941,
+    "gn:latitude":31.04146,
+    "gn:longitude":46.70823,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tall \u1e28amad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Tall \u1e28amad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7011941
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bccbb140c443d392f41da9f6b368e134",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209499661
+        }
+    ],
+    "wof:id":1209499661,
+    "wof:lastmodified":1537639900,
+    "wof:name":"Tall Hamad",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.70823,
+    31.04146,
+    46.70823,
+    31.04146
+],
+  "geometry": {"coordinates":[46.70823,31.04146],"type":"Point"}
+}

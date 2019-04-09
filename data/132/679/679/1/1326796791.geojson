@@ -1,0 +1,74 @@
+{
+  "id": 1326796791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00756,34.39543,44.00756,34.39543",
+    "geom:latitude":34.39543,
+    "geom:longitude":44.00756,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"Albu Shamat",
+    "gn:country_code":"IQ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6917106,
+    "gn:latitude":34.39543,
+    "gn:longitude":44.00756,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Alb\u016b Sh\u0101m\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648 \u0634\u0627\u0645\u0627\u062a"
+    ],
+    "name:ara_x_variant":[
+        "Alb\u016b Sh\u0101m\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6917106
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d3dea73e5e89deb65fd75b4f8fd799c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562773,
+            "locality_id":1326796791,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1326796791,
+    "wof:lastmodified":1537639828,
+    "wof:name":"Albu Shamat",
+    "wof:parent_id":1108562773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00756,
+    34.39543,
+    44.00756,
+    34.39543
+],
+  "geometry": {"coordinates":[44.00756,34.39543],"type":"Point"}
+}

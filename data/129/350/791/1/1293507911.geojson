@@ -1,0 +1,73 @@
+{
+  "id": 1293507911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86667,33.65,44.86667,33.65",
+    "geom:latitude":33.65,
+    "geom:longitude":44.86667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Ibrahim Afandi",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95618,
+    "gn:latitude":33.65,
+    "gn:longitude":44.86667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ibr\u0101h\u012bm Afand\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibrahim Effendi",
+        "Ibr\u0101h\u012bm Afand\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95618
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"753b1752f023a52903dd5dc9dd4c27eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1293507911,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1293507911,
+    "wof:lastmodified":1537638323,
+    "wof:name":"Ibrahim Afandi",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86667,
+    33.65,
+    44.86667,
+    33.65
+],
+  "geometry": {"coordinates":[44.86667,33.65],"type":"Point"}
+}

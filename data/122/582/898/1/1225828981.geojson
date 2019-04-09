@@ -1,0 +1,81 @@
+{
+  "id": 1225828981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6662,34.67565,45.6662,34.67565",
+    "geom:latitude":34.67565,
+    "geom:longitude":45.6662,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Dachwar Kalad Khuwar",
+    "gn:country_code":"IQ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97313,
+    "gn:latitude":34.67565,
+    "gn:longitude":45.6662,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dachw\u0101r Kal\u0101d Khuw\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0686\u0648\u0627\u0631 \u0643\u0644\u0627\u062f \u062e\u0648\u0627\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "Chov\u0101rkal\u0101v-e Khv\u0101r\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0648\u0627\u0631\u06a9\u0644\u0627\u0648 \u062e\u0648\u0627\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Chw\u0101rklaw-e Khw\u0101r\u016b",
+        "Dachw\u0101r Kal\u0101d Khuw\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97313
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"12e275a55589611a20e9e1d9c495c35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1225828981,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1225828981,
+    "wof:lastmodified":1537638482,
+    "wof:name":"Dachwar Kalad Khuwar",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6662,
+    34.67565,
+    45.6662,
+    34.67565
+],
+  "geometry": {"coordinates":[45.6662,34.67565],"type":"Point"}
+}

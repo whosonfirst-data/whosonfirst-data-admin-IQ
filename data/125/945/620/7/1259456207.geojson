@@ -1,0 +1,86 @@
+{
+  "id": 1259456207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68958,36.48186,43.68958,36.48186",
+    "geom:latitude":36.48186,
+    "geom:longitude":43.68958,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Dukundan al Kabir",
+    "gn:country_code":"IQ",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018339,
+    "gn:latitude":36.48186,
+    "gn:longitude":43.68958,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dukund\u0101n al Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0643\u0646\u062f\u0627\u0646 \u0627\u0644\u0643\u0628\u064a\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Dukanyan"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u0648\u0643\u0627\u0646\u064a\u0627\u0646",
+        "Dugundan Mezin",
+        "Dugundan Gewre",
+        "\u062f\u0648\u06af\u0648\u0646\u062f\u0627\u0646 \u0645\u06d5\u0632\u0646",
+        "\u062f\u0648\u06af\u0648\u0646\u062f\u0627\u0646 \u06af\u06d5\u0648\u0631\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Dukanian",
+        "Dukund\u0101n al Kab\u012br",
+        "Dugundan Big"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018339
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1a0162db080198a1cc390f08701cb7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1259456207,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1259456207,
+    "wof:lastmodified":1537639904,
+    "wof:name":"Dukundan al Kabir",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68958,
+    36.48186,
+    43.68958,
+    36.48186
+],
+  "geometry": {"coordinates":[43.68958,36.48186],"type":"Point"}
+}

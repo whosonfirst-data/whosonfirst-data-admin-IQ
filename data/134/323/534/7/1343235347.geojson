@@ -1,0 +1,79 @@
+{
+  "id": 1343235347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89737,36.62231,43.89737,36.62231",
+    "geom:latitude":36.62231,
+    "geom:longitude":43.89737,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Kurka Mizgeft",
+    "gn:country_code":"IQ",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8664708,
+    "gn:latitude":36.62231,
+    "gn:longitude":43.89737,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Kurka Mizgeft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Kurka Mizgeft"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0648\u0631\u0643\u0627 \u0645\u0632\u06af\u06d5\u0641\u062a",
+        "Kurkan Mescid",
+        "\u0643\u0648\u0631\u0643\u0627\u0646 \u0645\u06d5\u0633\u062c\u062f"
+    ],
+    "name:und_x_variant":[
+        "Korkan Masjid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8664708
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4a3e4a1867f44fa1acdcdf088e26cf58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1343235347,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1343235347,
+    "wof:lastmodified":1537640096,
+    "wof:name":"Kurka Mizgeft",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89737,
+    36.62231,
+    43.89737,
+    36.62231
+],
+  "geometry": {"coordinates":[43.89737,36.62231],"type":"Point"}
+}

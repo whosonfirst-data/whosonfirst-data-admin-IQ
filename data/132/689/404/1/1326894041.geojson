@@ -1,0 +1,74 @@
+{
+  "id": 1326894041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.52908,32.05804,44.52908,32.05804",
+    "geom:latitude":32.05804,
+    "geom:longitude":44.52908,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166629.0",
+    "gn:asciiname":"'Abd al Hasan Adhar",
+    "gn:country_code":"IQ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789127,
+    "gn:latitude":32.05804,
+    "gn:longitude":44.52908,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abd al \u1e28asan \u0100dh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f \u0627\u0644\u062d\u0633\u0646 \u0622\u0630\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abd al \u1e28asan \u0100dh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789127
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f0cb048281aab5e78fca40a73fb9721e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562691,
+            "locality_id":1326894041,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1326894041,
+    "wof:lastmodified":1537639467,
+    "wof:name":"'Abd al Hasan Adhar",
+    "wof:parent_id":1108562691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.52908,
+    32.05804000000001,
+    44.52908,
+    32.05804000000001
+],
+  "geometry": {"coordinates":[44.52908,32.05804000000001],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1210002139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.91947,37.18083,42.91947,37.18083",
+    "geom:latitude":37.18083,
+    "geom:longitude":42.91947,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"89569.0",
+    "gn:asciiname":"Af Gani",
+    "gn:country_code":"IQ",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98751,
+    "gn:latitude":37.18083,
+    "gn:longitude":42.91947,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"\u0100f Gan\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Argin\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0622\u0641 \u06af\u0646\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Avgeny\u00ea"
+    ],
+    "name:kur_x_variant":[
+        "\u0626\u0627\u06a4\u06af\u06d5\u0646\u064a\u06ce",
+        "Avgen\u00ee",
+        "\u0626\u0627\u06a4\u06af\u06d5\u0646\u0649"
+    ],
+    "name:und_x_variant":[
+        "\u0100f Gan\u012b",
+        "\u0100vkat\u012b",
+        "Avgany",
+        "Avgani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        890445289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98751
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"27a2175c47ee57e08835478d7a404349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445289,
+            "locality_id":1210002139,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1210002139,
+    "wof:lastmodified":1537638629,
+    "wof:name":"Af Gani",
+    "wof:parent_id":890445289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.91947,
+    37.18083,
+    42.91947,
+    37.18083
+],
+  "geometry": {"coordinates":[42.91947,37.18083],"type":"Point"}
+}

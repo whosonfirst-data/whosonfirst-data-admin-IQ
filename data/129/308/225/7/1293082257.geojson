@@ -1,0 +1,83 @@
+{
+  "id": 1293082257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37136,36.50712,44.37136,36.50712",
+    "geom:latitude":36.50712,
+    "geom:longitude":44.37136,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166591.0",
+    "gn:asciiname":"Mutrawe",
+    "gn:country_code":"IQ",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":446708,
+    "gn:latitude":36.50712,
+    "gn:longitude":44.37136,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Mutrawe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u062a\u0631\u0627\u0648\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Mutrawe"
+    ],
+    "name:kur_x_variant":[
+        "\u0645\u0648\u062a\u0631\u0627\u0648\u06d5"
+    ],
+    "name:und_x_variant":[
+        "M\u014dtl\u0101wa",
+        "Muzawa",
+        "M\u016btar\u0101wah",
+        "\u0645\u0648\u062a\u0631\u0627\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446708
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"67e0dbfdd63399fdb9f91232f112e6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562757,
+            "locality_id":1293082257,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1293082257,
+    "wof:lastmodified":1537639003,
+    "wof:name":"Mutrawe",
+    "wof:parent_id":1108562757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37136,
+    36.50712,
+    44.37136,
+    36.50712
+],
+  "geometry": {"coordinates":[44.37136,36.50712],"type":"Point"}
+}

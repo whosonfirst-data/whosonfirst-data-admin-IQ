@@ -1,0 +1,88 @@
+{
+  "id": 1276852099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03311,35.95691,44.03311,35.95691",
+    "geom:latitude":35.95691,
+    "geom:longitude":44.03311,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Tabbah Ya'qub",
+    "gn:country_code":"IQ",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92164,
+    "gn:latitude":35.95691,
+    "gn:longitude":44.03311,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tabbah Ya\u2018q\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0644 \u062a\u067e\u0629 \u064a\u0627\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0628\u0629 \u064a\u0639\u0642\u0648\u0628"
+    ],
+    "name:kur_x_preferred":[
+        "Qul Tepe Yabe"
+    ],
+    "name:kur_x_variant":[
+        "\u0642\u0648\u0644 \u062a\u06d5\u067e\u06d5 \u064a\u0627\u0628\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Tappah Ya\u2019 Q\u016bb",
+        "Qul Tepe Y\u0101q\u016bb",
+        "Q\u016bl Tappah Ya\u2018q\u016bb",
+        "Qul Tapa Yaba",
+        "Q\u016bl Tappah Y\u0101bah",
+        "Tabbah Ya\u2018q\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92164
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"946559fc6845b825d074435a160da39b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":1276852099,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1276852099,
+    "wof:lastmodified":1537638017,
+    "wof:name":"Tabbah Ya'qub",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03311,
+    35.95691,
+    44.03311,
+    35.95691
+],
+  "geometry": {"coordinates":[44.03311,35.95691],"type":"Point"}
+}

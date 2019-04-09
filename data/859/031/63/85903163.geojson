@@ -1,0 +1,104 @@
+{
+  "id": 85903163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6180626.488563,
+    "geom:bbox":"44.296875,33.286915,44.296875,33.286915",
+    "geom:latitude":33.286915,
+    "geom:longitude":44.296875,
+    "gn:id":"",
+    "iso:country":"IQ",
+    "lbl:latitude":33.286915,
+    "lbl:longitude":44.296875,
+    "mps:latitude":33.286916,
+    "mps:longitude":44.291056,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "Al Firdaws"
+    ],
+    "name:unk_x_variant":[
+        "Al Firdaws"
+    ],
+    "qs:gn_adm0_cc":"IQ",
+    "qs:gn_id":0,
+    "qs:gn_local":98182,
+    "qs:gn_nam_loc":"\u0628\u063a\u062f\u0627\u062f, \u0628\u063a\u062f\u0627\u062f, \u0628\u063a\u062f\u0627\u062f, IQ",
+    "qs:gn_namadm1":"07",
+    "qs:local_max":603,
+    "qs:local_sum":1151,
+    "qs:localhoods":15,
+    "qs:name":"Al Firdaws",
+    "qs:name_adm0":"Iraq",
+    "qs:name_adm1":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:name_adm2":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:name_local":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:photo_max":1,
+    "qs:photo_sum":2,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424855,
+    "qs:woe_adm1":2345839,
+    "qs:woe_adm2":55999983,
+    "qs:woe_lau":0,
+    "qs:woe_local":1979455,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108562793,
+        85672447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1970808,
+        "qs:id":1120228
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"94139ded25cb7a12363de3d99d0970ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562793,
+            "locality_id":-1,
+            "neighbourhood_id":85903163,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":85903163,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936025,
+    "wof:name":"Al Firdaws",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.296875,
+    33.286915,
+    44.296875,
+    33.286915
+],
+  "geometry": {"coordinates":[44.296875,33.286915],"type":"Point"}
+}

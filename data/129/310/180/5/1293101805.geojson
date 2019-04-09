@@ -1,0 +1,74 @@
+{
+  "id": 1293101805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.04606,30.05615,47.04606,30.05615",
+    "geom:latitude":30.05615,
+    "geom:longitude":47.04606,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"98247.0",
+    "gn:asciiname":"Ar Raji",
+    "gn:country_code":"IQ",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798682,
+    "gn:latitude":30.05615,
+    "gn:longitude":47.04606,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Raj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ar Raj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798682
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1e5647aafd4b69b1fd2c4dee3a648b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562727,
+            "locality_id":1293101805,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1293101805,
+    "wof:lastmodified":1537639546,
+    "wof:name":"Ar Raji",
+    "wof:parent_id":1108562727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.04606,
+    30.05615,
+    47.04606,
+    30.05615
+],
+  "geometry": {"coordinates":[47.04606,30.05615],"type":"Point"}
+}

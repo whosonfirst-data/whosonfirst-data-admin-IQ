@@ -1,0 +1,74 @@
+{
+  "id": 1343262193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.51745,31.90951,45.51745,31.90951",
+    "geom:latitude":31.90951,
+    "geom:longitude":45.51745,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99737.0",
+    "gn:asciiname":"Sibahi",
+    "gn:country_code":"IQ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90737,
+    "gn:latitude":31.90951,
+    "gn:longitude":45.51745,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sib\u0101h\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u0627\u0647\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Sib\u0101h\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90737
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4a8899bcd949c30d64f2ce0897792984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562687,
+            "locality_id":1343262193,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1343262193,
+    "wof:lastmodified":1537637897,
+    "wof:name":"Sibahi",
+    "wof:parent_id":1108562687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.51745,
+    31.90951,
+    45.51745,
+    31.90951
+],
+  "geometry": {"coordinates":[45.51745,31.90951],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1309886869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5436,35.9612,43.5436,35.9612",
+    "geom:latitude":35.9612,
+    "geom:longitude":43.5436,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"93817.0",
+    "gn:asciiname":"Maylhut Hajji Qarani",
+    "gn:country_code":"IQ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96217,
+    "gn:latitude":35.9612,
+    "gn:longitude":43.5436,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Maylh\u016bt \u1e28\u0101jj\u012b Qaran\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0644\u0647\u0648\u062a \u062d\u0627\u062c\u064a \u0642\u0631\u0646\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Hajy Qarany"
+    ],
+    "name:kur_x_variant":[
+        "\u1e26ac\u00ee Qeren\u00ee",
+        "\u062d\u0627\u062c\u0649 \u0642\u06d5\u0631\u06d5\u0646\u0649"
+    ],
+    "name:und_x_variant":[
+        "Mil Hort H\u0101j\u012b Qarani",
+        "Mil Hort Hajji Qarani",
+        "\u1e28\u0101jj Qara\u2019l\u012b",
+        "Maylh\u016bt \u1e28\u0101jj\u012b Qaran\u012b",
+        "Hajy Qarany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96217
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0e150768b82754875ec574fd3254809c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562779,
+            "locality_id":1309886869,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1309886869,
+    "wof:lastmodified":1537638371,
+    "wof:name":"Maylhut Hajji Qarani",
+    "wof:parent_id":1108562779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5436,
+    35.9612,
+    43.5436,
+    35.9612
+],
+  "geometry": {"coordinates":[43.5436,35.9612],"type":"Point"}
+}

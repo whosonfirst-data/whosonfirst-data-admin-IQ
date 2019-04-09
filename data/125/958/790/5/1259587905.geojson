@@ -1,0 +1,71 @@
+{
+  "id": 1259587905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.2762,36.2827,45.2762,36.2827",
+    "geom:latitude":36.2827,
+    "geom:longitude":45.2762,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Shino",
+    "gn:country_code":"IQ",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6676819,
+    "gn:latitude":36.2827,
+    "gn:longitude":45.2762,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sh\u012bno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6676819
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"42f870f5c6d1e35362c8e5135883b1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1259587905,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1259587905,
+    "wof:lastmodified":1537639102,
+    "wof:name":"Shino",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.2762,
+    36.2827,
+    45.2762,
+    36.2827
+],
+  "geometry": {"coordinates":[45.2762,36.2827],"type":"Point"}
+}

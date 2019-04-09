@@ -1,0 +1,68 @@
+{
+  "id": 1209277499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34094,34.33586,44.34094,34.33586",
+    "geom:latitude":34.33586,
+    "geom:longitude":44.34094,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"'Arab Hammad at Tahir",
+    "gn:country_code":"IQ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6917056,
+    "gn:latitude":34.33586,
+    "gn:longitude":44.34094,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab \u1e28amm\u0101d a\u0163 \u0162\u0101hir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u062d\u0645\u0627\u062f \u0627\u0644\u0637\u0627\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab \u1e28amm\u0101d a\u0163 \u0162\u0101hir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6917056
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"371e3b8a8639caff6fc3869ea34fc7a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209277499
+        }
+    ],
+    "wof:id":1209277499,
+    "wof:lastmodified":1537639825,
+    "wof:name":"'Arab Hammad at Tahir",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34094,
+    34.33586,
+    44.34094,
+    34.33586
+],
+  "geometry": {"coordinates":[44.34094,34.33586],"type":"Point"}
+}

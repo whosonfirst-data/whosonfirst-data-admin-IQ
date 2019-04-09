@@ -1,0 +1,74 @@
+{
+  "id": 1293579101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.54835,30.9765,46.54835,30.9765",
+    "geom:latitude":30.9765,
+    "geom:longitude":46.54835,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"90509.0",
+    "gn:asciiname":"Al Shadid",
+    "gn:country_code":"IQ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386737,
+    "gn:latitude":30.9765,
+    "gn:longitude":46.54835,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l Shad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0644 \u0634\u062f\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0100l Shad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386737
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ec305a4dc82818009e10a70c128e84f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562723,
+            "locality_id":1293579101,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1293579101,
+    "wof:lastmodified":1537638785,
+    "wof:name":"Al Shadid",
+    "wof:parent_id":1108562723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.54835,
+    30.9765,
+    46.54835,
+    30.9765
+],
+  "geometry": {"coordinates":[46.54835,30.9765],"type":"Point"}
+}

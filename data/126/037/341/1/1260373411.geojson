@@ -1,0 +1,82 @@
+{
+  "id": 1260373411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.46251,36.61998,42.46251,36.61998",
+    "geom:latitude":36.61998,
+    "geom:longitude":42.46251,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Abu Wali",
+    "gn:country_code":"IQ",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99800,
+    "gn:latitude":36.61998,
+    "gn:longitude":42.46251,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ab\u016b Wal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u0648\u0644\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Ebu Wel\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0626\u06d5\u0628\u0648 \u0648\u06d5\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Winni \u1e28amzabbak",
+        "Abu Waly",
+        "Ab\u016b Wal\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99800
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ac1dd7a351a4924c7ff05b37b28273ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1260373411,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1260373411,
+    "wof:lastmodified":1537638698,
+    "wof:name":"Abu Wali",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.46251,
+    36.61998,
+    42.46251,
+    36.61998
+],
+  "geometry": {"coordinates":[42.46251,36.61998],"type":"Point"}
+}

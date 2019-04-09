@@ -1,0 +1,73 @@
+{
+  "id": 1327336715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.72667,30.74802,47.72667,30.74802",
+    "geom:latitude":30.74802,
+    "geom:longitude":47.72667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sayyid Majid",
+    "gn:country_code":"IQ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386802,
+    "gn:latitude":30.74802,
+    "gn:longitude":47.72667,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Sayyid Maj\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f \u0645\u062c\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sayyid Maj\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386802
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"69eed1574aa0efdd5f4058ea1b2cec7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562729,
+            "locality_id":1327336715,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1327336715,
+    "wof:lastmodified":1537638788,
+    "wof:name":"Sayyid Majid",
+    "wof:parent_id":1108562729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.72667,
+    30.74802,
+    47.72667,
+    30.74802
+],
+  "geometry": {"coordinates":[47.72667,30.74802],"type":"Point"}
+}

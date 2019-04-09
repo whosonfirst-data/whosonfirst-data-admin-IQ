@@ -1,0 +1,75 @@
+{
+  "id": 1209393057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56159,36.0534,43.56159,36.0534",
+    "geom:latitude":36.0534,
+    "geom:longitude":43.56159,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"93817.0",
+    "gn:asciiname":"Kilawrash",
+    "gn:country_code":"IQ",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7018322,
+    "gn:latitude":36.0534,
+    "gn:longitude":43.56159,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Kil\u0101wrash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0643\u0644\u0627\u0648\u0631\u0634"
+    ],
+    "name:kur_x_preferred":[
+        "K\u0142aw \u1e5eesh"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u06b5\u0627\u0648 \u0695\u06d5\u0634"
+    ],
+    "name:und_x_variant":[
+        "Claw Rash",
+        "Kil\u0101wrash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018322
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f07b44ba8584dce23d97db72fcfd4854",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209393057
+        }
+    ],
+    "wof:id":1209393057,
+    "wof:lastmodified":1537639903,
+    "wof:name":"Kilawrash",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56159,
+    36.0534,
+    43.56159,
+    36.0534
+],
+  "geometry": {"coordinates":[43.56159,36.0534],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310371561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38553,35.1913,43.38553,35.1913",
+    "geom:latitude":35.1913,
+    "geom:longitude":43.38553,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6872046.0",
+    "gn:asciiname":"Mahmud Ibrahim",
+    "gn:country_code":"IQ",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837616,
+    "gn:latitude":35.1913,
+    "gn:longitude":43.38553,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u1e29m\u016bd Ibrah\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u0648\u062f \u0627\u0628\u0631\u0647\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29m\u016bd Ibrah\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837616
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5f91bcfeea5db2e5cc507a8ec671b1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562647,
+            "locality_id":1310371561,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1310371561,
+    "wof:lastmodified":1537639714,
+    "wof:name":"Mahmud Ibrahim",
+    "wof:parent_id":1108562647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38553,
+    35.1913,
+    43.38553,
+    35.1913
+],
+  "geometry": {"coordinates":[43.38553,35.1913],"type":"Point"}
+}

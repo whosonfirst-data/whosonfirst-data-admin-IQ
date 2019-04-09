@@ -1,0 +1,74 @@
+{
+  "id": 1259589327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76653,31.47486,44.76653,31.47486",
+    "geom:latitude":31.47486,
+    "geom:longitude":44.76653,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"6850588.0",
+    "gn:asciiname":"Salman al Jabr",
+    "gn:country_code":"IQ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026956,
+    "gn:latitude":31.47486,
+    "gn:longitude":44.76653,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Salm\u0101n al Jabr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0645\u0627\u0646 \u0627\u0644\u062c\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Salm\u0101n al Jabr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026956
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7a4a2c818953f97b2e236686259a0d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562701,
+            "locality_id":1259589327,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1259589327,
+    "wof:lastmodified":1537639947,
+    "wof:name":"Salman al Jabr",
+    "wof:parent_id":1108562701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76653,
+    31.47486,
+    44.76653,
+    31.47486
+],
+  "geometry": {"coordinates":[44.76653,31.47486],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259868675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.88333,33.63333,44.88333,33.63333",
+    "geom:latitude":33.63333,
+    "geom:longitude":44.88333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Muhammad Yunus",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93291,
+    "gn:latitude":33.63333,
+    "gn:longitude":44.88333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29ammad Y\u016bnus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29m\u016bd Y\u016bnus",
+        "Mu\u1e29ammad Y\u016bnis",
+        "Mu\u1e29ammad Y\u016bnus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93291
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"679287279eb982f1a0d211104ccbd1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1259868675,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1259868675,
+    "wof:lastmodified":1537638123,
+    "wof:name":"Muhammad Yunus",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.88333,
+    33.63333,
+    44.88333,
+    33.63333
+],
+  "geometry": {"coordinates":[44.88333,33.63333],"type":"Point"}
+}

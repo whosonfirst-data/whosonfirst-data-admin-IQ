@@ -1,0 +1,74 @@
+{
+  "id": 1293472731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3382,35.95504,43.3382,35.95504",
+    "geom:latitude":35.95504,
+    "geom:longitude":43.3382,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166649.0",
+    "gn:asciiname":"Qaryat Hufrat al Fadil",
+    "gn:country_code":"IQ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804471,
+    "gn:latitude":35.95504,
+    "gn:longitude":43.3382,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Qaryat \u1e28ufrat al F\u0101\u1e11il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u062d\u0641\u0631\u0629 \u0627\u0644\u0641\u0627\u0636\u0644"
+    ],
+    "name:und_x_variant":[
+        "Qaryat \u1e28ufrat al F\u0101\u1e11il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804471
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bc0e354d9f3cbe0c971da21b21f622b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562633,
+            "locality_id":1293472731,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1293472731,
+    "wof:lastmodified":1537639556,
+    "wof:name":"Qaryat Hufrat al Fadil",
+    "wof:parent_id":1108562633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3382,
+    35.95504000000001,
+    43.3382,
+    35.95504000000001
+],
+  "geometry": {"coordinates":[43.3382,35.95504000000001],"type":"Point"}
+}

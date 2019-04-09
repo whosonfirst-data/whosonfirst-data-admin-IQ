@@ -1,0 +1,86 @@
+{
+  "id": 1193159775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.99369,36.41983,44.99369,36.41983",
+    "geom:latitude":36.41983,
+    "geom:longitude":44.99369,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Shiwe",
+    "gn:country_code":"IQ",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447415,
+    "gn:latitude":36.41983,
+    "gn:longitude":44.99369,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Sh\u00eewe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u012bw"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u0648"
+    ],
+    "name:kur_x_preferred":[
+        "\u0634\u064a\u0648\u06d5"
+    ],
+    "name:kur_x_variant":[
+        "Shewa",
+        "Sh\u00eewe"
+    ],
+    "name:und_x_variant":[
+        "Sh\u012bwah",
+        "\u0634\u064a\u0648",
+        "Shewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447415
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7fdce81c37f81885743f6415593193df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1193159775,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1193159775,
+    "wof:lastmodified":1537639041,
+    "wof:name":"Shiwe",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.99369,
+    36.41983,
+    44.99369,
+    36.41983
+],
+  "geometry": {"coordinates":[44.99369,36.41983],"type":"Point"}
+}

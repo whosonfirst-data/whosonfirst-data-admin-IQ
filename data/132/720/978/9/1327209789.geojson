@@ -1,0 +1,74 @@
+{
+  "id": 1327209789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.99517,33.75397,43.99517,33.75397",
+    "geom:latitude":33.75397,
+    "geom:longitude":43.99517,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"9166616.0",
+    "gn:asciiname":"'Asaf 'Awad",
+    "gn:country_code":"IQ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798331,
+    "gn:latitude":33.75397,
+    "gn:longitude":43.99517,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018As\u0101f \u2018Aw\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0633\u0627\u0641 \u0639\u0648\u0627\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u2018As\u0101f \u2018Aw\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798331
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"30b76b13c2ada97e1b9fc9f0eaccf12c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562809,
+            "locality_id":1327209789,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1327209789,
+    "wof:lastmodified":1537639541,
+    "wof:name":"'Asaf 'Awad",
+    "wof:parent_id":1108562809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.99517,
+    33.75397,
+    43.99517,
+    33.75397
+],
+  "geometry": {"coordinates":[43.99517,33.75397],"type":"Point"}
+}

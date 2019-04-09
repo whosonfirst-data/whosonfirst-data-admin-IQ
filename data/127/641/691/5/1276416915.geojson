@@ -1,0 +1,74 @@
+{
+  "id": 1276416915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08063,34.97605,44.08063,34.97605",
+    "geom:latitude":34.97605,
+    "geom:longitude":44.08063,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9166581.0",
+    "gn:asciiname":"Qaryat Mulla Nasr",
+    "gn:country_code":"IQ",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6752009,
+    "gn:latitude":34.97605,
+    "gn:longitude":44.08063,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Mull\u0101 N\u0101\u015fr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0645\u0644\u0627 \u0646\u0627\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Mull\u0101 N\u0101\u015fr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6752009
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fb0634df8a457c59db972d3e623cddeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562775,
+            "locality_id":1276416915,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1276416915,
+    "wof:lastmodified":1537639160,
+    "wof:name":"Qaryat Mulla Nasr",
+    "wof:parent_id":1108562775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08063,
+    34.97605,
+    44.08063,
+    34.97605
+],
+  "geometry": {"coordinates":[44.08063,34.97605],"type":"Point"}
+}

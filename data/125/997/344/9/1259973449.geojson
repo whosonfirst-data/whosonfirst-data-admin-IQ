@@ -1,0 +1,76 @@
+{
+  "id": 1259973449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.66825,33.9172,44.66825,33.9172",
+    "geom:latitude":33.9172,
+    "geom:longitude":44.66825,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"99063.0",
+    "gn:asciiname":"'Aziz Mustafa",
+    "gn:country_code":"IQ",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97508,
+    "gn:latitude":33.9172,
+    "gn:longitude":44.66825,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Az\u012bz Mu\u015f\u0163af\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u064a\u0632 \u0645\u0635\u0637\u0641\u0649"
+    ],
+    "name:und_x_variant":[
+        "Bist\u0101n \u2018Az\u012bz",
+        "Bust\u0101n \u2018Az\u012bz",
+        "\u2018Az\u012bz Mu\u015f\u0163af\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        421184253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97508
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"93094dd99320de78b0d1b7ad83a21668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184253,
+            "locality_id":1259973449,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1259973449,
+    "wof:lastmodified":1537638505,
+    "wof:name":"'Aziz Mustafa",
+    "wof:parent_id":421184253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.66825,
+    33.9172,
+    44.66825,
+    33.9172
+],
+  "geometry": {"coordinates":[44.66825,33.9172],"type":"Point"}
+}

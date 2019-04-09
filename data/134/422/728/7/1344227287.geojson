@@ -1,0 +1,86 @@
+{
+  "id": 1344227287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03697,36.8189,44.03697,36.8189",
+    "geom:latitude":36.8189,
+    "geom:longitude":44.03697,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Zaywah",
+    "gn:country_code":"IQ",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":446652,
+    "gn:latitude":36.8189,
+    "gn:longitude":44.03697,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Zaywah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0648\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Z\u00eewe"
+    ],
+    "name:kur_x_variant":[
+        "Z\u00eawe",
+        "\u0632\u06ce\u0648\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Z\u0113wa",
+        "Zaywah",
+        "\u0632\u064a\u0648\u0647",
+        "Zayw\u0101",
+        "\u0632\u064a\u0648\u0627",
+        "Ziwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446652
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fc6b30f49889642bc2fc7f52b552b2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1344227287,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1344227287,
+    "wof:lastmodified":1537638996,
+    "wof:name":"Zaywah",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03697,
+    36.8189,
+    44.03697,
+    36.8189
+],
+  "geometry": {"coordinates":[44.03697,36.8189],"type":"Point"}
+}

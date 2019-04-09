@@ -1,0 +1,78 @@
+{
+  "id": 1310488003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38756,35.06531,44.38756,35.06531",
+    "geom:latitude":35.06531,
+    "geom:longitude":44.38756,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9166581.0",
+    "gn:asciiname":"'Arab Kuyi",
+    "gn:country_code":"IQ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98778,
+    "gn:latitude":35.06531,
+    "gn:longitude":44.38756,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab K\u016by\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0643\u0648\u064a\u064a"
+    ],
+    "name:und_x_variant":[
+        "Arab Kol",
+        "\u2018Arab Koi",
+        "\u2018Arab K\u016bl",
+        "\u2018Arab K\u016by",
+        "\u2018Arab K\u016by\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98778
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"13c646cce577e37419a52912e0eb7e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562775,
+            "locality_id":1310488003,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1310488003,
+    "wof:lastmodified":1537638632,
+    "wof:name":"'Arab Kuyi",
+    "wof:parent_id":1108562775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38756,
+    35.06531,
+    44.38756,
+    35.06531
+],
+  "geometry": {"coordinates":[44.38756,35.06531],"type":"Point"}
+}

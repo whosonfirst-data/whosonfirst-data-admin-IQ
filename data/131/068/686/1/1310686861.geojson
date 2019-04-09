@@ -1,0 +1,86 @@
+{
+  "id": 1310686861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.56367,36.96875,42.56367,36.96875",
+    "geom:latitude":36.96875,
+    "geom:longitude":42.56367,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9166607.0",
+    "gn:asciiname":"Hafshay Rash",
+    "gn:country_code":"IQ",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":383392,
+    "gn:latitude":36.96875,
+    "gn:longitude":42.56367,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28afshay Rash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0641\u0634\u064a \u0631\u0634"
+    ],
+    "name:kur_x_preferred":[
+        "Hefsh\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0647\u06d5\u0641\u0634\u0649",
+        "Hefsh\u00ea Resh",
+        "\u06be\u06d5\u0641\u0634\u06ce \u0631\u06d5\u0634",
+        "Hefsh\u00ea \u1e5eesh",
+        "\u06be\u06d5\u0641\u0634\u06ce \u0695\u06d5\u0634"
+    ],
+    "name:und_x_variant":[
+        "Hafshi",
+        "\u1e28afshay Rashsh",
+        "Hafshe Rash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        1108562637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383392
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"aebe2aa640864b1214507b7c812dc434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562637,
+            "locality_id":1310686861,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1310686861,
+    "wof:lastmodified":1537638721,
+    "wof:name":"Hafshay Rash",
+    "wof:parent_id":1108562637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.56367,
+    36.96875,
+    42.56367,
+    36.96875
+],
+  "geometry": {"coordinates":[42.56367,36.96875],"type":"Point"}
+}

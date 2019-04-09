@@ -1,0 +1,80 @@
+{
+  "id": 1209588827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.39579,36.6802,42.39579,36.6802",
+    "geom:latitude":36.6802,
+    "geom:longitude":42.39579,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Tall 'Uwaynat",
+    "gn:country_code":"IQ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90331,
+    "gn:latitude":36.6802,
+    "gn:longitude":42.39579,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tall \u2018Uwayn\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0639\u0648\u064a\u0646\u0627\u062a"
+    ],
+    "name:kur_x_preferred":[
+        "Tel \u2018Uw\u00eenat"
+    ],
+    "name:kur_x_variant":[
+        "\u062a\u06d5\u0644 \u0639\u0648\u064a\u0646\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Tall \u2018Umwayn\u0101t",
+        "Tall Awainat",
+        "Tel el Uwainat",
+        "Tel Uwainat",
+        "Tal Awinat",
+        "Tel Uwanat",
+        "Tall \u2018Uwayn\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90331
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d4a5ce0d7cb3827c178adc849666fc40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209588827
+        }
+    ],
+    "wof:id":1209588827,
+    "wof:lastmodified":1537637854,
+    "wof:name":"Tall 'Uwaynat",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.39579000000001,
+    36.6802,
+    42.39579000000001,
+    36.6802
+],
+  "geometry": {"coordinates":[42.39579000000001,36.6802],"type":"Point"}
+}

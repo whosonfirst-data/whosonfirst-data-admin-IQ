@@ -1,0 +1,74 @@
+{
+  "id": 1226313853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.02931,31.88561,47.02931,31.88561",
+    "geom:latitude":31.88561,
+    "geom:longitude":47.02931,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"99610.0",
+    "gn:asciiname":"Salaf Farhan al 'Uras",
+    "gn:country_code":"IQ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6818907,
+    "gn:latitude":31.88561,
+    "gn:longitude":47.02931,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Salaf Far\u1e29\u0101n al \u2018Uras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0641 \u0641\u0631\u062d\u0627\u0646 \u0627\u0644\u0639\u0631\u0633"
+    ],
+    "name:und_x_variant":[
+        "Salaf Far\u1e29\u0101n al \u2018Uras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818907
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6363be7f3a61b154c82f315bfcf1717a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562681,
+            "locality_id":1226313853,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1226313853,
+    "wof:lastmodified":1537639661,
+    "wof:name":"Salaf Farhan al 'Uras",
+    "wof:parent_id":1108562681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.02931,
+    31.88561,
+    47.02931,
+    31.88561
+],
+  "geometry": {"coordinates":[47.02931,31.88561],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260066707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.44379,35.15562,43.44379,35.15562",
+    "geom:latitude":35.15562,
+    "geom:longitude":43.44379,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"6770659.0",
+    "gn:asciiname":"Jaryat Musa al Hawayij",
+    "gn:country_code":"IQ",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837492,
+    "gn:latitude":35.15562,
+    "gn:longitude":43.44379,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jaryat M\u016bs\u00e1 al \u1e28aw\u0101yij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u064a\u0629 \u0645\u0648\u0633\u0649 \u0627\u0644\u062d\u0648\u0627\u064a\u062c"
+    ],
+    "name:und_x_variant":[
+        "Jaryat M\u016bs\u00e1 al \u1e28aw\u0101yij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837492
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5d8c58e627dfded9ed9e9979cd5f2fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562743,
+            "locality_id":1260066707,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1260066707,
+    "wof:lastmodified":1537639707,
+    "wof:name":"Jaryat Musa al Hawayij",
+    "wof:parent_id":1108562743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.44379,
+    35.15562,
+    43.44379,
+    35.15562
+],
+  "geometry": {"coordinates":[43.44379,35.15562],"type":"Point"}
+}

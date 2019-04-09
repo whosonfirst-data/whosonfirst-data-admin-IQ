@@ -1,0 +1,74 @@
+{
+  "id": 1326903531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.71061,36.43513,42.71061,36.43513",
+    "geom:latitude":36.43513,
+    "geom:longitude":42.71061,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Malishah",
+    "gn:country_code":"IQ",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7320938,
+    "gn:latitude":36.43513,
+    "gn:longitude":42.71061,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Mal\u012bshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u064a\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mal\u012bshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320938
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0d77e90733642521fea9e0b3d4bd2ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1326903531,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1326903531,
+    "wof:lastmodified":1537639994,
+    "wof:name":"Malishah",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.71061,
+    36.43513,
+    42.71061,
+    36.43513
+],
+  "geometry": {"coordinates":[42.71061,36.43513],"type":"Point"}
+}

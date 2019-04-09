@@ -1,0 +1,84 @@
+{
+  "id": 1210012093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48333,37.105,43.48333,37.105",
+    "geom:latitude":37.105,
+    "geom:longitude":43.48333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Sulav",
+    "gn:country_code":"IQ",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390832,
+    "gn:latitude":37.105,
+    "gn:longitude":43.48333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"S\u016blav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u064a\u0641 \u0633\u0648\u0644\u0627\u0641"
+    ],
+    "name:kur_x_preferred":[
+        "Solav"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u06c6\u0644\u0627\u06a4",
+        "Suw\u00eelav",
+        "\u0633\u0648\u064a\u0644\u0627\u06a4"
+    ],
+    "name:und_x_variant":[
+        "S\u016blav",
+        "Sulav",
+        "Ma\u015f\u012bf S\u016bl\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390832
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c4bb7ab87cb45921a0019d717aeaa28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1210012093,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1210012093,
+    "wof:lastmodified":1537638831,
+    "wof:name":"Sulav",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48333,
+    37.105,
+    43.48333,
+    37.105
+],
+  "geometry": {"coordinates":[43.48333,37.105],"type":"Point"}
+}

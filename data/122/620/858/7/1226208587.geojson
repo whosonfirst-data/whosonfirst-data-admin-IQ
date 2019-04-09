@@ -1,0 +1,74 @@
+{
+  "id": 1226208587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12238,34.62793,44.12238,34.62793",
+    "geom:latitude":34.62793,
+    "geom:longitude":44.12238,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"Sarnas Anhaytal",
+    "gn:country_code":"IQ",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6752152,
+    "gn:latitude":34.62793,
+    "gn:longitude":44.12238,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sarn\u0101s An\u1e29ay\u0163al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0646\u0627\u0633 \u0627\u0646\u062d\u064a\u0637\u0644"
+    ],
+    "name:und_x_variant":[
+        "Sarn\u0101s An\u1e29ay\u0163al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6752152
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4a8c3e78f5a5bd7f8dc3254f9b7fb79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562773,
+            "locality_id":1226208587,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1226208587,
+    "wof:lastmodified":1537639168,
+    "wof:name":"Sarnas Anhaytal",
+    "wof:parent_id":1108562773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12238,
+    34.62793,
+    44.12238,
+    34.62793
+],
+  "geometry": {"coordinates":[44.12238,34.62793],"type":"Point"}
+}

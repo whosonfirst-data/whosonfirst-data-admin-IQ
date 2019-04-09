@@ -1,0 +1,77 @@
+{
+  "id": 1276571503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91389,37.11722,43.91389,37.11722",
+    "geom:latitude":37.11722,
+    "geom:longitude":43.91389,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Cheme Ci",
+    "gn:country_code":"IQ",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":97415,
+    "gn:latitude":37.11722,
+    "gn:longitude":43.91389,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Chem\u00ea C\u00ee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kur_x_preferred":[
+        "Chem\u00ea C\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0686\u06d5\u0645\u06ce \u062c\u0649"
+    ],
+    "name:und_x_variant":[
+        "Cham\u0113j\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97415
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fd00f5b62bf888f42b7aea43a06e6f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1276571503,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1276571503,
+    "wof:lastmodified":1537638494,
+    "wof:name":"Cheme Ci",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91389,
+    37.11722,
+    43.91389,
+    37.11722
+],
+  "geometry": {"coordinates":[43.91389,37.11722],"type":"Point"}
+}

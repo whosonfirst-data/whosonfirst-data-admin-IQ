@@ -1,0 +1,91 @@
+{
+  "id": 1326529223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.34087,35.53141,45.34087,35.53141",
+    "geom:latitude":35.53141,
+    "geom:longitude":45.34087,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Balchugh",
+    "gn:country_code":"IQ",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98099,
+    "gn:latitude":35.53141,
+    "gn:longitude":45.34087,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u0101lch\u016bgh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101lj\u016bgh"
+    ],
+    "name:ara_x_variant":[
+        "B\u0101lch\u016bgh",
+        "\u0628\u0627\u0644\u0686\u0648\u063a"
+    ],
+    "name:kur_x_preferred":[
+        "Ba\u0142chugh"
+    ],
+    "name:kur_x_variant":[
+        "Balchux",
+        "\u0628\u0627\u06b5\u0686\u0648\u063a",
+        "\u0628\u0627\u06b5\u0686\u0648\u062e"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0627\u0644\u062c\u0648\u063a",
+        "Balchiq",
+        "B\u0101lj\u016bgh",
+        "Balchukh",
+        "Kaw\u0101n\u012b B\u0101lch\u016b",
+        "G\u0101w\u0101n\u012b B\u0101lchukh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98099
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6d8d8ef97fd9f1876929fe518940c657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1326529223,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1326529223,
+    "wof:lastmodified":1537638576,
+    "wof:name":"Balchugh",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.34087,
+    35.53141,
+    45.34087,
+    35.53141
+],
+  "geometry": {"coordinates":[45.34087,35.53141],"type":"Point"}
+}

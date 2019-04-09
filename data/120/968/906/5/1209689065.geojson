@@ -1,0 +1,67 @@
+{
+  "id": 1209689065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88722,36.74472,43.88722,36.74472",
+    "geom:latitude":36.74472,
+    "geom:longitude":43.88722,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Saryan",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445693,
+    "gn:latitude":36.74472,
+    "gn:longitude":43.88722,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Saryan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101rmi (\u2018Ulya)",
+        "Saryan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445693
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"257acca6fd257f42c8e69832e5881e3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209689065
+        }
+    ],
+    "wof:id":1209689065,
+    "wof:lastmodified":1537638918,
+    "wof:name":"Saryan",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88722,
+    36.74472,
+    43.88722,
+    36.74472
+],
+  "geometry": {"coordinates":[43.88722,36.74472],"type":"Point"}
+}

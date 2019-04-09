@@ -1,0 +1,74 @@
+{
+  "id": 1310127045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16554,33.63081,44.16554,33.63081",
+    "geom:latitude":33.63081,
+    "geom:longitude":44.16554,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166569.0",
+    "gn:asciiname":"'Allawi Jasim",
+    "gn:country_code":"IQ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805909,
+    "gn:latitude":33.63081,
+    "gn:longitude":44.16554,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018All\u0101w\u012b J\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0627\u0648\u064a \u062c\u0627\u0633\u0645"
+    ],
+    "name:ara_x_variant":[
+        "\u2018All\u0101w\u012b J\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805909
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"dd041c131eba155fdb6e1a64b66d595f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562665,
+            "locality_id":1310127045,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1310127045,
+    "wof:lastmodified":1537639601,
+    "wof:name":"'Allawi Jasim",
+    "wof:parent_id":1108562665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16554,
+    33.63081,
+    44.16554,
+    33.63081
+],
+  "geometry": {"coordinates":[44.16554,33.63081],"type":"Point"}
+}

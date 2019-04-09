@@ -1,0 +1,85 @@
+{
+  "id": 1210039277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.82612,36.09983,44.82612,36.09983",
+    "geom:latitude":36.09983,
+    "geom:longitude":44.82612,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Basere",
+    "gn:country_code":"IQ",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97848,
+    "gn:latitude":36.09983,
+    "gn:longitude":44.82612,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Base\u1e5fe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0627\u0633\u0631\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "\u0628\u0627\u0633\u06d5\u0695\u06d5"
+    ],
+    "name:kur_x_variant":[
+        "Basara",
+        "Base\u1e5fe"
+    ],
+    "name:und_x_variant":[
+        "B\u0101\u015frah",
+        "B\u0101\u015firah",
+        "Y\u0101sarah",
+        "\u064a\u0627\u0633\u0631\u0629",
+        "Basara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97848
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e8bd5645ee7ebb697564c94372feb379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1210039277,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1210039277,
+    "wof:lastmodified":1537638546,
+    "wof:name":"Basere",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.82612,
+    36.09983,
+    44.82612,
+    36.09983
+],
+  "geometry": {"coordinates":[44.82612,36.09983],"type":"Point"}
+}

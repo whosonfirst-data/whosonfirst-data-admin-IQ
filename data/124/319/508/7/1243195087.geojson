@@ -1,0 +1,74 @@
+{
+  "id": 1243195087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78736,36.39768,44.78736,36.39768",
+    "geom:latitude":36.39768,
+    "geom:longitude":44.78736,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92051.0",
+    "gn:asciiname":"Qop",
+    "gn:country_code":"IQ",
+    "gn:dem":1028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8429311,
+    "gn:latitude":36.39768,
+    "gn:longitude":44.78736,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Qop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Qop"
+    ],
+    "name:kur_x_variant":[
+        "\u0642\u06c6\u067e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8429311
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d06828bef5960bd62571716f7ceb451a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562755,
+            "locality_id":1243195087,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1243195087,
+    "wof:lastmodified":1537640079,
+    "wof:name":"Qop",
+    "wof:parent_id":1108562755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78736,
+    36.39768,
+    44.78736,
+    36.39768
+],
+  "geometry": {"coordinates":[44.78736,36.39768],"type":"Point"}
+}

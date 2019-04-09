@@ -1,0 +1,74 @@
+{
+  "id": 1326533015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.85336,30.52411,47.85336,30.52411",
+    "geom:latitude":30.52411,
+    "geom:longitude":47.85336,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ash Shalamijah",
+    "gn:country_code":"IQ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999896,
+    "gn:latitude":30.52411,
+    "gn:longitude":47.85336,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Ash Shal\u0101mijah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0644\u0627\u0645\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ash Shal\u0101mijah",
+        "Ash Shal\u0101mjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999896
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7f3ba364481b29a1aced153820c27691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562729,
+            "locality_id":1326533015,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1326533015,
+    "wof:lastmodified":1537639895,
+    "wof:name":"Ash Shalamijah",
+    "wof:parent_id":1108562729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.85336,
+    30.52411,
+    47.85336,
+    30.52411
+],
+  "geometry": {"coordinates":[47.85336,30.52411],"type":"Point"}
+}

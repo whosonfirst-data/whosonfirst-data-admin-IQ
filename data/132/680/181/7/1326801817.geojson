@@ -1,0 +1,74 @@
+{
+  "id": 1326801817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30685,35.03793,44.30685,35.03793",
+    "geom:latitude":35.03793,
+    "geom:longitude":44.30685,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9166581.0",
+    "gn:asciiname":"Dalas as Sughra",
+    "gn:country_code":"IQ",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6820692,
+    "gn:latitude":35.03793,
+    "gn:longitude":44.30685,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dalas a\u015f \u015eughr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0644\u0633 \u0627\u0644\u0635\u063a\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "Dalas a\u015f \u015eughr\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6820692
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8a01b51a23d2216a5c5f0f9044165535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562775,
+            "locality_id":1326801817,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1326801817,
+    "wof:lastmodified":1537639672,
+    "wof:name":"Dalas as Sughra",
+    "wof:parent_id":1108562775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30685,
+    35.03793,
+    44.30685,
+    35.03793
+],
+  "geometry": {"coordinates":[44.30685,35.03793],"type":"Point"}
+}

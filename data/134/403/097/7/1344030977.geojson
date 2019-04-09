@@ -1,0 +1,82 @@
+{
+  "id": 1344030977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.40021,37.00562,42.40021,37.00562",
+    "geom:latitude":37.00562,
+    "geom:longitude":42.40021,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Guzgiran",
+    "gn:country_code":"IQ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910082,
+    "gn:latitude":37.00562,
+    "gn:longitude":42.40021,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"G\u016bzgir\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u06af\u0648\u0632\u06af\u0631\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "G\u016bzgir\u0101n"
+    ],
+    "name:kur_x_preferred":[
+        "Gozgiran"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u06c6\u0632\u06af\u0631\u0627\u0646",
+        "Gw\u00eazkeran",
+        "\u06af\u0648\u06ce\u0632\u0643\u06d5\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910082
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"65f0d9b0455a5c12f60ee245e7684600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1344030977,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1344030977,
+    "wof:lastmodified":1537639811,
+    "wof:name":"Guzgiran",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.40021,
+    37.00562,
+    42.40021,
+    37.00562
+],
+  "geometry": {"coordinates":[42.40021,37.00562],"type":"Point"}
+}

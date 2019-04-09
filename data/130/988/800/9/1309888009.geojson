@@ -1,0 +1,74 @@
+{
+  "id": 1309888009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.00904,32.41107,46.00904,32.41107",
+    "geom:latitude":32.41107,
+    "geom:longitude":46.00904,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"99132.0",
+    "gn:asciiname":"Shawi' ash Sharifi",
+    "gn:country_code":"IQ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6763858,
+    "gn:latitude":32.41107,
+    "gn:longitude":46.00904,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shaw\u012b\u2018 ash Shar\u012bf\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u064a\u0639 \u0627\u0644\u0634\u0631\u064a\u0641\u064a"
+    ],
+    "name:und_x_variant":[
+        "Shaw\u012b\u2018 ash Shar\u012bf\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        421186459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6763858
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"90b32fe9c34dc27c7fb269c19ef11801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186459,
+            "locality_id":1309888009,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1309888009,
+    "wof:lastmodified":1537639230,
+    "wof:name":"Shawi' ash Sharifi",
+    "wof:parent_id":421186459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.00904,
+    32.41107,
+    46.00904,
+    32.41107
+],
+  "geometry": {"coordinates":[46.00904,32.41107],"type":"Point"}
+}

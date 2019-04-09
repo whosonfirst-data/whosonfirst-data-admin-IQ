@@ -1,0 +1,68 @@
+{
+  "id": 1343443789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.93833,36.71861,42.93833,36.71861",
+    "geom:latitude":36.71861,
+    "geom:longitude":42.93833,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166618.0",
+    "gn:asciiname":"Kani Korik",
+    "gn:country_code":"IQ",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384901,
+    "gn:latitude":36.71861,
+    "gn:longitude":42.93833,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u0101n\u012b K\u014drik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384901
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"604bdc54c376248d3ce363944970497f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562629,
+            "locality_id":1343443789,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1343443789,
+    "wof:lastmodified":1536770846,
+    "wof:name":"Kani Korik",
+    "wof:parent_id":1108562629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.93833,
+    36.71861,
+    42.93833,
+    36.71861
+],
+  "geometry": {"coordinates":[42.93833,36.71861],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209949467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.32694,32.06861,45.32694,32.06861",
+    "geom:latitude":32.06861,
+    "geom:longitude":45.32694,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99737.0",
+    "gn:asciiname":"'Abd al Karim",
+    "gn:country_code":"IQ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100141,
+    "gn:latitude":32.06861,
+    "gn:longitude":45.32694,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abd al Kar\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abdul Kar\u012bm",
+        "\u2018Abd al Kar\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100141
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"44d7f5e25ddf1b1b54b98019999d30e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562687,
+            "locality_id":1209949467,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1209949467,
+    "wof:lastmodified":1537638712,
+    "wof:name":"'Abd al Karim",
+    "wof:parent_id":1108562687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.32694,
+    32.06861,
+    45.32694,
+    32.06861
+],
+  "geometry": {"coordinates":[45.32694,32.06861],"type":"Point"}
+}

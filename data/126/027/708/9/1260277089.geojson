@@ -1,0 +1,74 @@
+{
+  "id": 1260277089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.09575,33.98978,45.09575,33.98978",
+    "geom:latitude":33.98978,
+    "geom:longitude":45.09575,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Shathathah",
+    "gn:country_code":"IQ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6835400,
+    "gn:latitude":33.98978,
+    "gn:longitude":45.09575,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shath\u0101thah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u062b\u0627\u062b\u0629"
+    ],
+    "name:und_x_variant":[
+        "Shath\u0101thah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6835400
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"217764c5bd3ae5e26d26995c70568846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1260277089,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1260277089,
+    "wof:lastmodified":1537639676,
+    "wof:name":"Shathathah",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.09575,
+    33.98978,
+    45.09575,
+    33.98978
+],
+  "geometry": {"coordinates":[45.09575,33.98978],"type":"Point"}
+}

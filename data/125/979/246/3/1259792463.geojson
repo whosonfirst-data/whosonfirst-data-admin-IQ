@@ -1,0 +1,74 @@
+{
+  "id": 1259792463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.99373,30.45737,47.99373,30.45737",
+    "geom:latitude":30.45737,
+    "geom:longitude":47.99373,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"100049.0",
+    "gn:asciiname":"Balad Saltat",
+    "gn:country_code":"IQ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6751153,
+    "gn:latitude":30.45737,
+    "gn:longitude":47.99373,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Balad Sal\u0163\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f \u0633\u0644\u0637\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Balad Sal\u0163\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6751153
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e7eba5379030f36a29ec4ece2970ff48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562735,
+            "locality_id":1259792463,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1259792463,
+    "wof:lastmodified":1537639158,
+    "wof:name":"Balad Saltat",
+    "wof:parent_id":1108562735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.99373,
+    30.45737,
+    47.99373,
+    30.45737
+],
+  "geometry": {"coordinates":[47.99373,30.45737],"type":"Point"}
+}

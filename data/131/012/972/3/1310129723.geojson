@@ -1,0 +1,74 @@
+{
+  "id": 1310129723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85596,32.02225,44.85596,32.02225",
+    "geom:latitude":32.02225,
+    "geom:longitude":44.85596,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"Al Hajj Tahir",
+    "gn:country_code":"IQ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6788769,
+    "gn:latitude":32.02225,
+    "gn:longitude":44.85596,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28\u0101jj \u0162\u0101hir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0627\u062c \u0637\u0627\u0647\u0631"
+    ],
+    "name:ara_x_variant":[
+        "Al \u1e28\u0101jj \u0162\u0101hir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6788769
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4e12e051c9ca82081c1a1e67c89d7d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1310129723,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1310129723,
+    "wof:lastmodified":1537639452,
+    "wof:name":"Al Hajj Tahir",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85596,
+    32.02225,
+    44.85596,
+    32.02225
+],
+  "geometry": {"coordinates":[44.85596,32.02225],"type":"Point"}
+}

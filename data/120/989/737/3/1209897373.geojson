@@ -1,0 +1,82 @@
+{
+  "id": 1209897373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.73741,36.63252,44.73741,36.63252",
+    "geom:latitude":36.63252,
+    "geom:longitude":44.73741,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166586.0",
+    "gn:asciiname":"Kawayrtik",
+    "gn:country_code":"IQ",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96360,
+    "gn:latitude":36.63252,
+    "gn:longitude":44.73741,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kawayrtik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u064a\u0631\u062a\u0643"
+    ],
+    "name:kur_x_preferred":[
+        "Cizl\u00eenge"
+    ],
+    "name:kur_x_variant":[
+        "\u062c\u0632\u0644\u064a\u0646\u06af\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Guw\u012bzlangah",
+        "Kortik",
+        "Gwizlinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96360
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9246ebf50da2112dde75956de56d7df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562749,
+            "locality_id":1209897373,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1209897373,
+    "wof:lastmodified":1537638381,
+    "wof:name":"Kawayrtik",
+    "wof:parent_id":1108562749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.73741,
+    36.63252,
+    44.73741,
+    36.63252
+],
+  "geometry": {"coordinates":[44.73741,36.63252],"type":"Point"}
+}

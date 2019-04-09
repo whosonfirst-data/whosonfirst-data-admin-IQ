@@ -1,0 +1,74 @@
+{
+  "id": 1343937973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26404,32.38633,44.26404,32.38633",
+    "geom:latitude":32.38633,
+    "geom:longitude":44.26404,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"99345.0",
+    "gn:asciiname":"Qaryat Umm Qabbazah",
+    "gn:country_code":"IQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6781027,
+    "gn:latitude":32.38633,
+    "gn:longitude":44.26404,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Umm Qabb\u0101zah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0645 \u0642\u0628\u0627\u0632\u0647"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Umm Qabb\u0101zah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672443,
+        1108562777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6781027
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0e7ce5ab8d3aabdbec88272eac237bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562777,
+            "locality_id":1343937973,
+            "region_id":85672443
+        }
+    ],
+    "wof:id":1343937973,
+    "wof:lastmodified":1537639304,
+    "wof:name":"Qaryat Umm Qabbazah",
+    "wof:parent_id":1108562777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26404,
+    32.38633,
+    44.26404,
+    32.38633
+],
+  "geometry": {"coordinates":[44.26404,32.38633],"type":"Point"}
+}

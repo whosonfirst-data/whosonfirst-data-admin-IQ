@@ -1,0 +1,74 @@
+{
+  "id": 1293362861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.17239,32.5368,46.17239,32.5368",
+    "geom:latitude":32.5368,
+    "geom:longitude":46.17239,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"99132.0",
+    "gn:asciiname":"Al 'Alil",
+    "gn:country_code":"IQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7375084,
+    "gn:latitude":32.5368,
+    "gn:longitude":46.17239,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Al\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Al\u012bl"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0644\u064a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        421186459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7375084
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"577a81e2898be355e6bd17f158ff6adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186459,
+            "locality_id":1293362861,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1293362861,
+    "wof:lastmodified":1537640026,
+    "wof:name":"Al 'Alil",
+    "wof:parent_id":421186459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.17239,
+    32.5368,
+    46.17239,
+    32.5368
+],
+  "geometry": {"coordinates":[46.17239,32.5368],"type":"Point"}
+}

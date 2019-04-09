@@ -1,0 +1,73 @@
+{
+  "id": 1226237621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51667,33.71667,44.51667,33.71667",
+    "geom:latitude":33.71667,
+    "geom:longitude":44.51667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"99063.0",
+    "gn:asciiname":"Ayar al Kazim",
+    "gn:country_code":"IQ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98332,
+    "gn:latitude":33.71667,
+    "gn:longitude":44.51667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ay\u0101r al K\u0101z\u0327im",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ayy\u0101r al K\u0101z\u0327im",
+        "Ay\u0101r al K\u0101dhim",
+        "Ay\u0101r al K\u0101z\u0327im"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        421184253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98332
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"329ae3cb1266e2abc6b32930b97d05c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184253,
+            "locality_id":1226237621,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1226237621,
+    "wof:lastmodified":1537638598,
+    "wof:name":"Ayar al Kazim",
+    "wof:parent_id":421184253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51667,
+    33.71667,
+    44.51667,
+    33.71667
+],
+  "geometry": {"coordinates":[44.51667,33.71667],"type":"Point"}
+}

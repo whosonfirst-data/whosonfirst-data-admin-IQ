@@ -1,0 +1,74 @@
+{
+  "id": 1343263791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6694,31.17012,45.6694,31.17012",
+    "geom:latitude":31.17012,
+    "geom:longitude":45.6694,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9166626.0",
+    "gn:asciiname":"Hujamah",
+    "gn:country_code":"IQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6688601,
+    "gn:latitude":31.17012,
+    "gn:longitude":45.6694,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28uj\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062c\u0627\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28uj\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6688601
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d666e594d04f21fc745db4fc755a1fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562721,
+            "locality_id":1343263791,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1343263791,
+    "wof:lastmodified":1537639118,
+    "wof:name":"Hujamah",
+    "wof:parent_id":1108562721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6694,
+    31.17012,
+    45.6694,
+    31.17012
+],
+  "geometry": {"coordinates":[45.6694,31.17012],"type":"Point"}
+}

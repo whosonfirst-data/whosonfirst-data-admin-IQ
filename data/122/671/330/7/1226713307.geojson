@@ -1,0 +1,74 @@
+{
+  "id": 1226713307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13736,33.92677,44.13736,33.92677",
+    "geom:latitude":33.92677,
+    "geom:longitude":44.13736,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6805736.0",
+    "gn:asciiname":"Qaryat Salman Dawud",
+    "gn:country_code":"IQ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805322,
+    "gn:latitude":33.92677,
+    "gn:longitude":44.13736,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Salm\u0101n D\u0101wud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0633\u0644\u0645\u0627\u0646 \u062f\u0627\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Salm\u0101n D\u0101wud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        421180939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805322
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"52abb134ca143a1c25e9abf1bab9243e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421180939,
+            "locality_id":1226713307,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1226713307,
+    "wof:lastmodified":1537639564,
+    "wof:name":"Qaryat Salman Dawud",
+    "wof:parent_id":421180939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13736,
+    33.92677,
+    44.13736,
+    33.92677
+],
+  "geometry": {"coordinates":[44.13736,33.92677],"type":"Point"}
+}

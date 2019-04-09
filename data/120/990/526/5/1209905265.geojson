@@ -1,0 +1,75 @@
+{
+  "id": 1209905265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.52815,33.8038,45.52815,33.8038",
+    "geom:latitude":33.8038,
+    "geom:longitude":45.52815,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Abadi Mulla Hasan",
+    "gn:country_code":"IQ",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100249,
+    "gn:latitude":33.8038,
+    "gn:longitude":45.52815,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100b\u0101d\u012b Mull\u0101 \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0628\u0627\u062f\u064a \u0645\u0644\u0627 \u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0100b\u0101d\u012b Mull\u0101 \u1e28asan",
+        "Ab\u0101d\u012b Mullah Hasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100249
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"dfbf39bfd97bcd2c8fa142f97ad9033f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1209905265,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1209905265,
+    "wof:lastmodified":1537638719,
+    "wof:name":"Abadi Mulla Hasan",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.52815,
+    33.8038,
+    45.52815,
+    33.8038
+],
+  "geometry": {"coordinates":[45.52815,33.8038],"type":"Point"}
+}

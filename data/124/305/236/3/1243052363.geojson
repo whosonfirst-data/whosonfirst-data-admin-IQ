@@ -1,0 +1,74 @@
+{
+  "id": 1243052363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.00076,30.91244,47.00076,30.91244",
+    "geom:latitude":30.91244,
+    "geom:longitude":47.00076,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"99185.0",
+    "gn:asciiname":"Abu Sharbiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6763749,
+    "gn:latitude":30.91244,
+    "gn:longitude":47.00076,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ab\u016b Sharb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u0634\u0631\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Sharb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6763749
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"86a1a89e2162d58aeafe6f846e9a55e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562725,
+            "locality_id":1243052363,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1243052363,
+    "wof:lastmodified":1537639228,
+    "wof:name":"Abu Sharbiyah",
+    "wof:parent_id":1108562725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.00076,
+    30.91244,
+    47.00076,
+    30.91244
+],
+  "geometry": {"coordinates":[47.00076,30.91244],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344239763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.94752,35.88711,42.94752,35.88711",
+    "geom:latitude":35.88711,
+    "geom:longitude":42.94752,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"99414.0",
+    "gn:asciiname":"Abtayshah",
+    "gn:country_code":"IQ",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110829,
+    "gn:latitude":35.88711,
+    "gn:longitude":42.94752,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ab\u0163ayshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0637\u064a\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ab\u0163ayshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110829
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6c53992fe22831c278f3613ae7265df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562641,
+            "locality_id":1344239763,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1344239763,
+    "wof:lastmodified":1537639991,
+    "wof:name":"Abtayshah",
+    "wof:parent_id":1108562641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.94752,
+    35.88711,
+    42.94752,
+    35.88711
+],
+  "geometry": {"coordinates":[42.94752,35.88711],"type":"Point"}
+}

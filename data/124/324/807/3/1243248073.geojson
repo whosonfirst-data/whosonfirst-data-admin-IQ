@@ -1,0 +1,74 @@
+{
+  "id": 1243248073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.64541,30.82161,46.64541,30.82161",
+    "geom:latitude":30.82161,
+    "geom:longitude":46.64541,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"90509.0",
+    "gn:asciiname":"Umm ad Dayri",
+    "gn:country_code":"IQ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386795,
+    "gn:latitude":30.82161,
+    "gn:longitude":46.64541,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Umm ad Dayr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u062f\u064a\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Umm ad Dayr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386795
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f9098a061f2318ece1042dc5ad7c91fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562723,
+            "locality_id":1243248073,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1243248073,
+    "wof:lastmodified":1537638788,
+    "wof:name":"Umm ad Dayri",
+    "wof:parent_id":1108562723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.64541,
+    30.82161,
+    46.64541,
+    30.82161
+],
+  "geometry": {"coordinates":[46.64541,30.82161],"type":"Point"}
+}

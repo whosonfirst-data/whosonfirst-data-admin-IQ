@@ -1,0 +1,68 @@
+{
+  "id": 1209539787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.60156,31.94629,44.60156,31.94629",
+    "geom:latitude":31.94629,
+    "geom:longitude":44.60156,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"98634.0",
+    "gn:asciiname":"Wahid Shanan",
+    "gn:country_code":"IQ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6850435,
+    "gn:latitude":31.94629,
+    "gn:longitude":44.60156,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wa\u1e29\u012bd Shan\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u062d\u064a\u062f \u0634\u0646\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Wa\u1e29\u012bd Shan\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6850435
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ee10a7cfeec63e74be9eea69219445a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209539787
+        }
+    ],
+    "wof:id":1209539787,
+    "wof:lastmodified":1537639751,
+    "wof:name":"Wahid Shanan",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.60156,
+    31.94629,
+    44.60156,
+    31.94629
+],
+  "geometry": {"coordinates":[44.60156,31.94629],"type":"Point"}
+}

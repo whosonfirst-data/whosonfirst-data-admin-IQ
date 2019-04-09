@@ -1,0 +1,81 @@
+{
+  "id": 1293353653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03233,35.0666,43.03233,35.0666",
+    "geom:latitude":35.0666,
+    "geom:longitude":43.03233,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6872046.0",
+    "gn:asciiname":"Qaryat 'Ank al Hawa",
+    "gn:country_code":"IQ",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837557,
+    "gn:latitude":35.0666,
+    "gn:longitude":43.03233,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat \u2018Ank al Haw\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0639\u0646\u0643 \u0627\u0644\u0647\u0648\u0649"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0648\u0627\u0631 \u0627\u0644\u0635\u0631\u0641\u0627\u0646",
+        "\u0627\u0644\u0645\u0634\u0627\u0639\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Mash\u0101\u2018\u012bn",
+        "\u0627\u0644\u0645\u0634\u0627\u0639\u064a\u0646",
+        "Qaryat \u2018Ank al Haw\u00e1",
+        "Naw\u0101r a\u015f \u015earf\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837557
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fb1a9033066c4c78033f252d9e89ea11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562647,
+            "locality_id":1293353653,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1293353653,
+    "wof:lastmodified":1537639711,
+    "wof:name":"Qaryat 'Ank al Hawa",
+    "wof:parent_id":1108562647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03233,
+    35.0666,
+    43.03233,
+    35.0666
+],
+  "geometry": {"coordinates":[43.03233,35.0666],"type":"Point"}
+}

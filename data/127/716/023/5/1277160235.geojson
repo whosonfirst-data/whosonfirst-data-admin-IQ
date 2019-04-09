@@ -1,0 +1,74 @@
+{
+  "id": 1277160235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30743,36.49084,43.30743,36.49084",
+    "geom:latitude":36.49084,
+    "geom:longitude":43.30743,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166541.0",
+    "gn:asciiname":"Qaryat Kanunah",
+    "gn:country_code":"IQ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6860807,
+    "gn:latitude":36.49084,
+    "gn:longitude":43.30743,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Qaryat K\u0101n\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0643\u0627\u0646\u0648\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat K\u0101n\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6860807
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2ab6e3dcd64a7d3f2ca31f2b65c54551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562631,
+            "locality_id":1277160235,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1277160235,
+    "wof:lastmodified":1537639772,
+    "wof:name":"Qaryat Kanunah",
+    "wof:parent_id":1108562631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30743,
+    36.49084000000001,
+    43.30743,
+    36.49084000000001
+],
+  "geometry": {"coordinates":[43.30743,36.49084000000001],"type":"Point"}
+}

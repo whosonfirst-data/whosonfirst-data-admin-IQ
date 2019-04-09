@@ -1,0 +1,85 @@
+{
+  "id": 1209738401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.49531,35.09387,45.49531,35.09387",
+    "geom:latitude":35.09387,
+    "geom:longitude":45.49531,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Kutim Kahwah",
+    "gn:country_code":"IQ",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330203,
+    "gn:latitude":35.09387,
+    "gn:longitude":45.49531,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u016btim Kahwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u062a\u0645 \u0643\u06d5\u0648\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Gu\u0142m Kewe"
+    ],
+    "name:kur_x_variant":[
+        "Gu\u0142e Kawe",
+        "\u06af\u0648\u06b5\u0645 \u0643\u06d5\u0648\u06d5",
+        "\u06af\u0648\u06b5\u06d5 \u0643\u0627\u0648\u06d5"
+    ],
+    "name:und_x_variant":[
+        "K\u016btim Kahwah",
+        "Gulm Kawa",
+        "K\u016btim Kahw",
+        "\u0643\u0648\u062a\u0645 \u0643\u06d5\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330203
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9c49ffac237847ae41b952723bf024da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1209738401,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1209738401,
+    "wof:lastmodified":1537640005,
+    "wof:name":"Kutim Kahwah",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.49531,
+    35.09387,
+    45.49531,
+    35.09387
+],
+  "geometry": {"coordinates":[45.49531,35.09387],"type":"Point"}
+}

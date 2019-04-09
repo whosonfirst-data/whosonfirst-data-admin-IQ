@@ -1,0 +1,74 @@
+{
+  "id": 1242646817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.84436,32.43054,45.84436,32.43054",
+    "geom:latitude":32.43054,
+    "geom:longitude":45.84436,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"99132.0",
+    "gn:asciiname":"Qasr Muhammad as Sa'dun",
+    "gn:country_code":"IQ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759549,
+    "gn:latitude":32.43054,
+    "gn:longitude":45.84436,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qa\u015fr Mu\u1e29ammad as Sa\u2018d\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0645\u062d\u0645\u062f \u0627\u0644\u0633\u0639\u062f\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qa\u015fr Mu\u1e29ammad as Sa\u2018d\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        421186459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759549
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"36feb36e892dc008b653926f950b8370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186459,
+            "locality_id":1242646817,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1242646817,
+    "wof:lastmodified":1537639217,
+    "wof:name":"Qasr Muhammad as Sa'dun",
+    "wof:parent_id":421186459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.84436,
+    32.43054,
+    45.84436,
+    32.43054
+],
+  "geometry": {"coordinates":[45.84436,32.43054],"type":"Point"}
+}

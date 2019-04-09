@@ -1,0 +1,80 @@
+{
+  "id": 1326900811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.00199,36.35673,42.00199,36.35673",
+    "geom:latitude":36.35673,
+    "geom:longitude":42.00199,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Bajsi",
+    "gn:country_code":"IQ",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6786640,
+    "gn:latitude":36.35673,
+    "gn:longitude":42.00199,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"B\u0101js\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062c\u0633\u064a"
+    ],
+    "name:ara_x_variant":[
+        "B\u0101js\u012b"
+    ],
+    "name:kur_x_preferred":[
+        "Bacs\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u0627\u062c\u0633\u0649"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6786640
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7e4cff8a1426d94ac5262ce5920890e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1326900811,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1326900811,
+    "wof:lastmodified":1537639395,
+    "wof:name":"Bajsi",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.00199,
+    36.35673,
+    42.00199,
+    36.35673
+],
+  "geometry": {"coordinates":[42.00199,36.35673],"type":"Point"}
+}

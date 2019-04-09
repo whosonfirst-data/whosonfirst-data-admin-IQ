@@ -1,0 +1,74 @@
+{
+  "id": 1292973463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70157,32.94451,44.70157,32.94451",
+    "geom:latitude":32.94451,
+    "geom:longitude":44.70157,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98460.0",
+    "gn:asciiname":"Khaz'al Muhaysin",
+    "gn:country_code":"IQ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6754133,
+    "gn:latitude":32.94451,
+    "gn:longitude":44.70157,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khaz\u2018al Mu\u1e29aysin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0632\u0639\u0644 \u0645\u062d\u064a\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khaz\u2018al Mu\u1e29aysin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754133
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d0a3f43fd2f0c6d283b6130a01930de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562783,
+            "locality_id":1292973463,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1292973463,
+    "wof:lastmodified":1537639177,
+    "wof:name":"Khaz'al Muhaysin",
+    "wof:parent_id":1108562783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70157,
+    32.94451,
+    44.70157,
+    32.94451
+],
+  "geometry": {"coordinates":[44.70157,32.94451],"type":"Point"}
+}

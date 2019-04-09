@@ -1,0 +1,80 @@
+{
+  "id": 1293398749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.27862,31.00234,47.27862,31.00234",
+    "geom:latitude":31.00234,
+    "geom:longitude":47.27862,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"9166563.0",
+    "gn:asciiname":"Turabah",
+    "gn:country_code":"IQ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90069,
+    "gn:latitude":31.00234,
+    "gn:longitude":47.27862,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tur\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u0627\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tarabah",
+        "Tirubah",
+        "Taraba",
+        "Turaba",
+        "Turabeh",
+        "Turbah",
+        "Tur\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90069
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"cd3d663bbd9dd5cb1bdb0c4a07267e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562717,
+            "locality_id":1293398749,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1293398749,
+    "wof:lastmodified":1537637826,
+    "wof:name":"Turabah",
+    "wof:parent_id":1108562717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.27862,
+    31.00234,
+    47.27862,
+    31.00234
+],
+  "geometry": {"coordinates":[47.27862,31.00234],"type":"Point"}
+}

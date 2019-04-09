@@ -1,0 +1,74 @@
+{
+  "id": 1309785333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.72638,35.15532,43.72638,35.15532",
+    "geom:latitude":35.15532,
+    "geom:longitude":43.72638,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"6770659.0",
+    "gn:asciiname":"Hamad Sharaji",
+    "gn:country_code":"IQ",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6770252,
+    "gn:latitude":35.15532,
+    "gn:longitude":43.72638,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"\u1e28amad Sharaj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u062f \u0634\u0631\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28amad Sharaj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6770252
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b22ba22700d7bf5a108db5700f3768f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562743,
+            "locality_id":1309785333,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1309785333,
+    "wof:lastmodified":1537639247,
+    "wof:name":"Hamad Sharaji",
+    "wof:parent_id":1108562743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.72638,
+    35.15532,
+    43.72638,
+    35.15532
+],
+  "geometry": {"coordinates":[43.72638,35.15532],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1360162821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.87089,35.98361,43.87089,35.98361",
+    "geom:latitude":35.98361,
+    "geom:longitude":43.87089,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Yadi Qizlar",
+    "gn:country_code":"IQ",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89657,
+    "gn:latitude":35.98361,
+    "gn:longitude":43.87089,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Y\u0101d\u012b Qizlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0627\u062f\u064a \u0642\u0632\u0644\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Yad\u00ee Qzler"
+    ],
+    "name:kur_x_variant":[
+        "\u064a\u0627\u062f\u0649 \u0642\u0632\u0644\u0631"
+    ],
+    "name:und_x_variant":[
+        "Yad\u012b Qiziar",
+        "Yedi Qizlar",
+        "Y\u0101d\u012b Qizlar",
+        "Yad\u012b Qizlar",
+        "Yady Qiz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89657
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"58e867e1ef8575faad3df561767b3934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":1360162821,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1360162821,
+    "wof:lastmodified":1537637801,
+    "wof:name":"Yadi Qizlar",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.87089,
+    35.98361,
+    43.87089,
+    35.98361
+],
+  "geometry": {"coordinates":[43.87089,35.98361],"type":"Point"}
+}

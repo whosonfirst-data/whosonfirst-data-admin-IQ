@@ -1,0 +1,88 @@
+{
+  "id": 1243046167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.98541,36.94972,43.98541,36.94972",
+    "geom:latitude":36.94972,
+    "geom:longitude":43.98541,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166534.0",
+    "gn:asciiname":"Hemdan",
+    "gn:country_code":"IQ",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96143,
+    "gn:latitude":36.94972,
+    "gn:longitude":43.98541,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"\u1e26emdan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0645\u062f\u0648\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0645\u062f\u0648\u0644\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "\u1e26emdan"
+    ],
+    "name:kur_x_variant":[
+        "\u062d\u06d5\u0645\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e28amdullah",
+        "\u1e28amad\u0101n",
+        "Hamdan",
+        "\u1e28amd\u016blah",
+        "Hamdla",
+        "Hamd\u016blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96143
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"adb83e672be356dc6d17a50d958c61cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562747,
+            "locality_id":1243046167,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1243046167,
+    "wof:lastmodified":1537638364,
+    "wof:name":"Hemdan",
+    "wof:parent_id":1108562747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.98541,
+    36.94972,
+    43.98541,
+    36.94972
+],
+  "geometry": {"coordinates":[43.98541,36.94972],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293792655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1587,30.4146,48.1587,30.4146",
+    "geom:latitude":30.4146,
+    "geom:longitude":48.1587,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"100049.0",
+    "gn:asciiname":"Matuh",
+    "gn:country_code":"IQ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687631,
+    "gn:latitude":30.4146,
+    "gn:longitude":48.1587,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u0163\u016b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0637\u0648\u062d"
+    ],
+    "name:fas_x_variant":[
+        "Ma\u0163\u016b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687631
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2637c9621bbbcccf5ee59375e27e73dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562735,
+            "locality_id":1293792655,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1293792655,
+    "wof:lastmodified":1537639116,
+    "wof:name":"Matuh",
+    "wof:parent_id":1108562735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1587,
+    30.4146,
+    48.1587,
+    30.4146
+],
+  "geometry": {"coordinates":[48.1587,30.4146],"type":"Point"}
+}

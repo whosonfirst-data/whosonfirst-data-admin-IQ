@@ -1,0 +1,92 @@
+{
+  "id": 1310632411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.84684,35.80485,45.84684,35.80485",
+    "geom:latitude":35.80485,
+    "geom:longitude":45.84684,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166684.0",
+    "gn:asciiname":"Maysharaw",
+    "gn:country_code":"IQ",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93409,
+    "gn:latitude":35.80485,
+    "gn:longitude":45.84684,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maysharaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0634\u0631\u0648"
+    ],
+    "name:kur_x_preferred":[
+        "M\u00eashe\u1e5fo"
+    ],
+    "name:kur_x_variant":[
+        "Mush\u00eare",
+        "\u0645\u06ce\u0634\u06d5\u0695\u06c6",
+        "\u0645\u0648\u0634\u06ce\u0631\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Mush\u012brah",
+        "M\u012bshar\u016b",
+        "M\u016bsh\u012br\u0101w",
+        "Mashirwah",
+        "\u0645\u0634\u0631\u0648\u0647",
+        "Mosherau",
+        "Maysharaw",
+        "\u0645\u064a\u0634\u0631\u0648",
+        "Moshera",
+        "Mayshirwah",
+        "\u0645\u064a\u0634\u0631\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93409
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e9928168d27c1cfdb87a4e5466a2624a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562765,
+            "locality_id":1310632411,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1310632411,
+    "wof:lastmodified":1537638130,
+    "wof:name":"Maysharaw",
+    "wof:parent_id":1108562765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.84684,
+    35.80485,
+    45.84684,
+    35.80485
+],
+  "geometry": {"coordinates":[45.84684,35.80485],"type":"Point"}
+}

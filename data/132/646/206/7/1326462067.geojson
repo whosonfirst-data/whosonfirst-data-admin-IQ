@@ -1,0 +1,75 @@
+{
+  "id": 1326462067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.76652,35.38359,45.76652,35.38359",
+    "geom:latitude":35.38359,
+    "geom:longitude":45.76652,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Khirbat Dan Kal Kut",
+    "gn:country_code":"IQ",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7454939,
+    "gn:latitude":35.38359,
+    "gn:longitude":45.76652,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khirbat D\u0101n Kal K\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u062f\u0627\u0646 \u0643\u0644 \u0643\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Khirbat D\u0101n Kal K\u016bt",
+        "Khirbat D\u0101nah Kal K\u016bt",
+        "\u062e\u0631\u0628\u0629 \u062f\u0627\u0646\u0629 \u0643\u0644 \u0643\u0648\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7454939
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"120cca3b33a4683f3090419574576d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1326462067,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1326462067,
+    "wof:lastmodified":1537640054,
+    "wof:name":"Khirbat Dan Kal Kut",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.76652,
+    35.38359000000001,
+    45.76652,
+    35.38359000000001
+],
+  "geometry": {"coordinates":[45.76652,35.38359000000001],"type":"Point"}
+}

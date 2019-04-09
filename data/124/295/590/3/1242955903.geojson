@@ -1,0 +1,78 @@
+{
+  "id": 1242955903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27688,35.97022,43.27688,35.97022",
+    "geom:latitude":35.97022,
+    "geom:longitude":43.27688,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166649.0",
+    "gn:asciiname":"Qaryat Tall Zahrah Khatun",
+    "gn:country_code":"IQ",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89575,
+    "gn:latitude":35.97022,
+    "gn:longitude":43.27688,
+    "gn:modification_date":"2016-11-16",
+    "gn:name":"Qaryat Tall Zahrah Kh\u0101t\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u062a\u0644 \u0632\u0647\u0631\u0629 \u062e\u0627\u062a\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zahrah",
+        "Zuhrah",
+        "Zahrah Kh\u0101n\u016bn",
+        "Zahrat Kh\u0101t\u016bn",
+        "Qaryat Tall Zahrah Kh\u0101t\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89575
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9f3b66e515ef7ff973b1098ff2c4061c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562633,
+            "locality_id":1242955903,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1242955903,
+    "wof:lastmodified":1537637794,
+    "wof:name":"Qaryat Tall Zahrah Khatun",
+    "wof:parent_id":1108562633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27688,
+    35.97022,
+    43.27688,
+    35.97022
+],
+  "geometry": {"coordinates":[43.27688,35.97022],"type":"Point"}
+}

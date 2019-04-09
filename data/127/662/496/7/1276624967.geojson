@@ -1,0 +1,77 @@
+{
+  "id": 1276624967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.26718,36.18952,42.26718,36.18952",
+    "geom:latitude":36.18952,
+    "geom:longitude":42.26718,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Al Qamishliyah",
+    "gn:country_code":"IQ",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92836,
+    "gn:latitude":36.18952,
+    "gn:longitude":42.26718,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Al Q\u0101mishl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0627\u0645\u0634\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qamush\u012bya",
+        "O\u0101mush\u012byah",
+        "Q\u0101mish\u012byah",
+        "Al Q\u0101mishl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92836
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6e907f08f109045c588de7ec370ee2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1276624967,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1276624967,
+    "wof:lastmodified":1537638090,
+    "wof:name":"Al Qamishliyah",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.26718,
+    36.18952,
+    42.26718,
+    36.18952
+],
+  "geometry": {"coordinates":[42.26718,36.18952],"type":"Point"}
+}

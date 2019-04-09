@@ -1,0 +1,83 @@
+{
+  "id": 1344035747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56354,35.51797,43.56354,35.51797",
+    "geom:latitude":35.51797,
+    "geom:longitude":43.56354,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"93817.0",
+    "gn:asciiname":"Tel Ghezal",
+    "gn:country_code":"IQ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90369,
+    "gn:latitude":35.51797,
+    "gn:longitude":43.56354,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Tel Ghezal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u063a\u0632\u0627\u0644"
+    ],
+    "name:kur_x_preferred":[
+        "Tel Ghezal"
+    ],
+    "name:kur_x_variant":[
+        "Tal Ghazal",
+        "\u062a\u06d5\u0644 \u063a\u06d5\u0632\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Tall Ghazz\u0101l",
+        "Tall \u2018Az\u0101l",
+        "Tal Ghazal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90369
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"dca69d09db3f9acf645e3f13ce34d669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562779,
+            "locality_id":1344035747,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1344035747,
+    "wof:lastmodified":1537637858,
+    "wof:name":"Tel Ghezal",
+    "wof:parent_id":1108562779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56354,
+    35.51797,
+    43.56354,
+    35.51797
+],
+  "geometry": {"coordinates":[43.56354,35.51797],"type":"Point"}
+}

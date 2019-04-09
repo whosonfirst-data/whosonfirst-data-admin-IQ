@@ -1,0 +1,89 @@
+{
+  "id": 1209904163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01387,36.93283,44.01387,36.93283",
+    "geom:latitude":36.93283,
+    "geom:longitude":44.01387,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166534.0",
+    "gn:asciiname":"Hevindke",
+    "gn:country_code":"IQ",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447283,
+    "gn:latitude":36.93283,
+    "gn:longitude":44.01387,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Hevindke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u064a\u0641\u0646\u0643\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Hevindke"
+    ],
+    "name:kur_x_variant":[
+        "\u06be\u06d5\u06a4\u0646\u062f\u0643\u06d5",
+        "H\u00eevnke",
+        "\u0647\u064a\u06a4\u0646\u0643\u0647"
+    ],
+    "name:und_x_variant":[
+        "Hav\u012bnka",
+        "Hivinka",
+        "H\u012bfinkah",
+        "\u0647\u064a\u0641\u0646\u0643\u0647",
+        "Haf\u012bnk\u0101",
+        "\u0647\u0641\u064a\u0646\u0643\u0627",
+        "Hivnka",
+        "Havndka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447283
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ddd47dd59dadde25d797282fc8f4b230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562747,
+            "locality_id":1209904163,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1209904163,
+    "wof:lastmodified":1537639033,
+    "wof:name":"Hevindke",
+    "wof:parent_id":1108562747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01387,
+    36.93283,
+    44.01387,
+    36.93283
+],
+  "geometry": {"coordinates":[44.01387,36.93283],"type":"Point"}
+}

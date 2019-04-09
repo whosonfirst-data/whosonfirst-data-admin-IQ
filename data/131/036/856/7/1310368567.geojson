@@ -1,0 +1,74 @@
+{
+  "id": 1310368567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5799,34.24185,43.5799,34.24185",
+    "geom:latitude":34.24185,
+    "geom:longitude":43.5799,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"91594.0",
+    "gn:asciiname":"Nayif Zaydan Muhaymid",
+    "gn:country_code":"IQ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6782751,
+    "gn:latitude":34.24185,
+    "gn:longitude":43.5799,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"N\u0101yif Zayd\u0101n Mu\u1e29aym\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u064a\u0641 \u0632\u064a\u062f\u0627\u0646 \u0645\u062d\u064a\u0645\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "N\u0101yif Zayd\u0101n Mu\u1e29aym\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6782751
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"cf6771392bc5721b29b15cf8f0f25ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562799,
+            "locality_id":1310368567,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1310368567,
+    "wof:lastmodified":1537639336,
+    "wof:name":"Nayif Zaydan Muhaymid",
+    "wof:parent_id":1108562799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5799,
+    34.24185,
+    43.5799,
+    34.24185
+],
+  "geometry": {"coordinates":[43.5799,34.24185],"type":"Point"}
+}

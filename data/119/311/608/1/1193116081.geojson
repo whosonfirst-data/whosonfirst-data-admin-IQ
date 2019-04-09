@@ -1,0 +1,72 @@
+{
+  "id": 1193116081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.33333,31.55,47.33333,31.55",
+    "geom:latitude":31.55,
+    "geom:longitude":47.33333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"92536.0",
+    "gn:asciiname":"Al 'Uwaydat",
+    "gn:country_code":"IQ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98960,
+    "gn:latitude":31.55,
+    "gn:longitude":47.33333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Uwayd\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Uwaid\u0101t",
+        "Al \u2018Uwayd\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98960
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4f54d093f0eafcaa59ac63e7d9d1908c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562713,
+            "locality_id":1193116081,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1193116081,
+    "wof:lastmodified":1537638643,
+    "wof:name":"Al 'Uwaydat",
+    "wof:parent_id":1108562713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.33333,
+    31.55,
+    47.33333,
+    31.55
+],
+  "geometry": {"coordinates":[47.33333,31.55],"type":"Point"}
+}

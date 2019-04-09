@@ -1,0 +1,74 @@
+{
+  "id": 1343784047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36989,32.84217,44.36989,32.84217",
+    "geom:latitude":32.84217,
+    "geom:longitude":44.36989,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"6818313.0",
+    "gn:asciiname":"Qaryat Umm Tin",
+    "gn:country_code":"IQ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817826,
+    "gn:latitude":32.84217,
+    "gn:longitude":44.36989,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Umm T\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0645 \u062a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Umm T\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421188909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817826
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d6cf6f2658fbe6b1e00151769e017d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421188909,
+            "locality_id":1343784047,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1343784047,
+    "wof:lastmodified":1537639637,
+    "wof:name":"Qaryat Umm Tin",
+    "wof:parent_id":421188909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36989000000001,
+    32.84217,
+    44.36989000000001,
+    32.84217
+],
+  "geometry": {"coordinates":[44.36989000000001,32.84217],"type":"Point"}
+}

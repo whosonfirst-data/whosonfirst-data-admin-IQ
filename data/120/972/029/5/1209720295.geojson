@@ -1,0 +1,75 @@
+{
+  "id": 1209720295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.87957,35.45551,44.87957,35.45551",
+    "geom:latitude":35.45551,
+    "geom:longitude":44.87957,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Nurah",
+    "gn:country_code":"IQ",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92847,
+    "gn:latitude":35.45551,
+    "gn:longitude":44.87957,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"N\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Nura",
+        "N\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92847
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c8be179294980824ede819a8c1a8a96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1209720295,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1209720295,
+    "wof:lastmodified":1537638091,
+    "wof:name":"Nurah",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.87957,
+    35.45551,
+    44.87957,
+    35.45551
+],
+  "geometry": {"coordinates":[44.87957,35.45551],"type":"Point"}
+}

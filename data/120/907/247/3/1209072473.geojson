@@ -1,0 +1,68 @@
+{
+  "id": 1209072473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0789,33.6714,44.0789,33.6714",
+    "geom:latitude":33.6714,
+    "geom:longitude":44.0789,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"9166616.0",
+    "gn:asciiname":"'Ali Khanjar",
+    "gn:country_code":"IQ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805879,
+    "gn:latitude":33.6714,
+    "gn:longitude":44.0789,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Al\u012b Khanjar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u062e\u0646\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b Khanjar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805879
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"dbbcfc69fdeb63322e4e6f823a41dbed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209072473
+        }
+    ],
+    "wof:id":1209072473,
+    "wof:lastmodified":1537639600,
+    "wof:name":"'Ali Khanjar",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0789,
+    33.6714,
+    44.0789,
+    33.6714
+],
+  "geometry": {"coordinates":[44.0789,33.6714],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326529227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.82799,35.3055,44.82799,35.3055",
+    "geom:latitude":35.3055,
+    "geom:longitude":44.82799,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Shaykh Muhammad as Sufla",
+    "gn:country_code":"IQ",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7331591,
+    "gn:latitude":35.3055,
+    "gn:longitude":44.82799,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Shaykh Mu\u1e29ammad as Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0645\u062d\u0645\u062f \u0627\u0644\u0633\u0641\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Shaykh Mu\u1e29ammad as Sufl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7331591
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"31f87d95d1d6922896f837d3fdd0050f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1326529227,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1326529227,
+    "wof:lastmodified":1537640007,
+    "wof:name":"Shaykh Muhammad as Sufla",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.82799,
+    35.3055,
+    44.82799,
+    35.3055
+],
+  "geometry": {"coordinates":[44.82799,35.3055],"type":"Point"}
+}

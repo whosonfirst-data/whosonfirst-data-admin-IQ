@@ -1,0 +1,75 @@
+{
+  "id": 1327417547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98312,34.65558,44.98312,34.65558",
+    "geom:latitude":34.65558,
+    "geom:longitude":44.98312,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94296.0",
+    "gn:asciiname":"Sarcham",
+    "gn:country_code":"IQ",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":91503,
+    "gn:latitude":34.65558,
+    "gn:longitude":44.98312,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sarcham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0686\u0645"
+    ],
+    "name:und_x_variant":[
+        "Sarj\u0101m",
+        "Sarcham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91503
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a811fcc7193f134c4aa6508aa503e494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562653,
+            "locality_id":1327417547,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1327417547,
+    "wof:lastmodified":1537637971,
+    "wof:name":"Sarcham",
+    "wof:parent_id":1108562653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98312,
+    34.65558,
+    44.98312,
+    34.65558
+],
+  "geometry": {"coordinates":[44.98312,34.65558],"type":"Point"}
+}

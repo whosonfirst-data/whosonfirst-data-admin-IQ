@@ -1,0 +1,74 @@
+{
+  "id": 1310106443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9584,31.79866,44.9584,31.79866",
+    "geom:latitude":31.79866,
+    "geom:longitude":44.9584,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"6850588.0",
+    "gn:asciiname":"Al Mallahah",
+    "gn:country_code":"IQ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6850310,
+    "gn:latitude":31.79866,
+    "gn:longitude":44.9584,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mall\u0101\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u0627\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mall\u0101\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6850310
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"514c7c250d3be5a99fa7460f0559fac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562701,
+            "locality_id":1310106443,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1310106443,
+    "wof:lastmodified":1537639746,
+    "wof:name":"Al Mallahah",
+    "wof:parent_id":1108562701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9584,
+    31.79866,
+    44.9584,
+    31.79866
+],
+  "geometry": {"coordinates":[44.9584,31.79866],"type":"Point"}
+}

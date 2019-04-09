@@ -1,0 +1,82 @@
+{
+  "id": 1277079197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.85246,34.92976,45.85246,34.92976",
+    "geom:latitude":34.92976,
+    "geom:longitude":45.85246,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Barwin",
+    "gn:country_code":"IQ",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92796,
+    "gn:latitude":34.92976,
+    "gn:longitude":45.85246,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Barw\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0648\u064a\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "Parv\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0631\u0648\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Parw\u012bn",
+        "Parwen",
+        "Barw\u012bn",
+        "\u067e\u0631\u0648\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92796
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d137e47d9378270da7a0f657607beeed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1277079197,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1277079197,
+    "wof:lastmodified":1537638085,
+    "wof:name":"Barwin",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.85246,
+    34.92975999999999,
+    45.85246,
+    34.92975999999999
+],
+  "geometry": {"coordinates":[45.85246,34.92975999999999],"type":"Point"}
+}

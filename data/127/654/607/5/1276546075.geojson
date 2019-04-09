@@ -1,0 +1,88 @@
+{
+  "id": 1276546075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.2476,35.15421,45.2476,35.15421",
+    "geom:latitude":35.15421,
+    "geom:longitude":45.2476,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Jam Riz al Hajj Mustafa",
+    "gn:country_code":"IQ",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95267,
+    "gn:latitude":35.15421,
+    "gn:longitude":45.2476,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"J\u0101m R\u012bz al \u1e28\u0101jj Mu\u015f\u0163af\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0645 \u0631\u064a\u0632 \u0627\u0644\u062d\u0627\u062c \u0645\u0635\u0637\u0641\u0649"
+    ],
+    "name:kur_x_preferred":[
+        "Chem\u1e5f\u00eaz\u00ee Ser\u00fb"
+    ],
+    "name:kur_x_variant":[
+        "Cam \u1e5e\u00eaz",
+        "\u0686\u06d5\u0645\u0695\u06ce\u0632\u0649 \u0633\u06d5\u0631\u0648\u0648",
+        "\u062c\u0627\u0645 \u0695\u06ce\u0632"
+    ],
+    "name:und_x_variant":[
+        "J\u0101m R\u012bz al \u1e28\u0101jj Mu\u015f\u0163af\u00e1",
+        "Jamr\u0113z-i H\u0101j\u012b Mu\u015f\u0163af\u00e1",
+        "J\u0101ssam D\u012bs al \u1e28\u0101jj Mu\u015f\u0163af\u00e1",
+        "Jam Rez",
+        "J\u0101m D\u012bs al \u1e28\u0101jj Mu\u015f\u0163af\u00e1",
+        "\u062c\u0633\u0627\u0645 \u062f\u064a\u0633 \u0627\u0644\u062d\u0627\u062c \u0645\u0635\u0637\u0641\u0649",
+        "\u062c\u0627\u0645 \u062f\u064a\u0633 \u0627\u0644\u062d\u0627\u062c \u0645\u0635\u0637\u0641\u0649"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95267
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5dd2247fbd10820c8b5296210f1b5a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1276546075,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1276546075,
+    "wof:lastmodified":1537638305,
+    "wof:name":"Jam Riz al Hajj Mustafa",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.2476,
+    35.15421,
+    45.2476,
+    35.15421
+],
+  "geometry": {"coordinates":[45.2476,35.15421],"type":"Point"}
+}

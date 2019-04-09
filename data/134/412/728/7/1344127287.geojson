@@ -1,0 +1,82 @@
+{
+  "id": 1344127287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79978,36.59194,43.79978,36.59194",
+    "geom:latitude":36.59194,
+    "geom:longitude":43.79978,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Kuleka Mezin",
+    "gn:country_code":"IQ",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94041,
+    "gn:latitude":36.59194,
+    "gn:longitude":43.79978,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kuleka Mezin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u016bzk\u0101n"
+    ],
+    "name:kur_x_preferred":[
+        "Kuleka Mezin"
+    ],
+    "name:kur_x_variant":[
+        "Kuleka Mizgeft",
+        "\u0643\u0648\u0644\u06d5\u0643\u0627 \u0645\u06d5\u0632\u0646",
+        "\u0643\u0648\u0644\u06d5\u0643\u0627 \u0645\u0632\u06af\u06d5\u0641\u062a"
+    ],
+    "name:und_x_variant":[
+        "Kolaka Mizgaft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94041
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7eaa409ff1a21869b273717a94289130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1344127287,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1344127287,
+    "wof:lastmodified":1537638186,
+    "wof:name":"Kuleka Mezin",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79978,
+    36.59194,
+    43.79978,
+    36.59194
+],
+  "geometry": {"coordinates":[43.79978,36.59194],"type":"Point"}
+}

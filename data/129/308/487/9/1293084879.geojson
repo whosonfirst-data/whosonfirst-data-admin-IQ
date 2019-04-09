@@ -1,0 +1,74 @@
+{
+  "id": 1293084879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5264,33.76924,45.5264,33.76924",
+    "geom:latitude":33.76924,
+    "geom:longitude":45.5264,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Bari",
+    "gn:country_code":"IQ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97924,
+    "gn:latitude":33.76924,
+    "gn:longitude":45.5264,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101r\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0631\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97924
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"50183b506229d333a609e38e5736c17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1293084879,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1293084879,
+    "wof:lastmodified":1537638556,
+    "wof:name":"Bari",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5264,
+    33.76924,
+    45.5264,
+    33.76924
+],
+  "geometry": {"coordinates":[45.5264,33.76924],"type":"Point"}
+}

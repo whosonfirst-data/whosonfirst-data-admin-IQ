@@ -1,0 +1,74 @@
+{
+  "id": 1327327311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.10723,33.55867,45.10723,33.55867",
+    "geom:latitude":33.55867,
+    "geom:longitude":45.10723,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Salih Kaytan",
+    "gn:country_code":"IQ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6835662,
+    "gn:latitude":33.55867,
+    "gn:longitude":45.10723,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sali\u1e29 Kay\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0627\u0644\u062d \u0643\u064a\u0637\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sali\u1e29 Kay\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6835662
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b32279c59f5db2557a68615533dbb50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1327327311,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1327327311,
+    "wof:lastmodified":1537639689,
+    "wof:name":"Salih Kaytan",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.10723,
+    33.55867,
+    45.10723,
+    33.55867
+],
+  "geometry": {"coordinates":[45.10723,33.55867],"type":"Point"}
+}

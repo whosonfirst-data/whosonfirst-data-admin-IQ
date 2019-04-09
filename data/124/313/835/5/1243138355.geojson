@@ -1,0 +1,75 @@
+{
+  "id": 1243138355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50901,34.52717,43.50901,34.52717",
+    "geom:latitude":34.52717,
+    "geom:longitude":43.50901,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"90148.0",
+    "gn:asciiname":"Hammadi Salih",
+    "gn:country_code":"IQ",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6871808,
+    "gn:latitude":34.52717,
+    "gn:longitude":43.50901,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28amm\u0101d\u012b \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0627\u062f\u064a \u0635\u0627\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u1e28am\u0101d\u012b \u015e\u0101li\u1e29",
+        "\u1e28amm\u0101d\u012b \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        421186243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6871808
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6e4cbeb6969d19c25cbc5f03ef2afb0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186243,
+            "locality_id":1243138355,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1243138355,
+    "wof:lastmodified":1537639788,
+    "wof:name":"Hammadi Salih",
+    "wof:parent_id":421186243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50901,
+    34.52717,
+    43.50901,
+    34.52717
+],
+  "geometry": {"coordinates":[43.50901,34.52717],"type":"Point"}
+}

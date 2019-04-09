@@ -1,0 +1,74 @@
+{
+  "id": 1226405613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18762,34.50534,43.18762,34.50534",
+    "geom:latitude":34.50534,
+    "geom:longitude":43.18762,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6872046.0",
+    "gn:asciiname":"'Arab Ahmad 'Awdah 'Abd",
+    "gn:country_code":"IQ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849107,
+    "gn:latitude":34.50534,
+    "gn:longitude":43.18762,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab A\u1e29mad \u2018Awdah \u2018Abd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0627\u062d\u0645\u062f \u0639\u0648\u062f\u0647 \u0639\u0628\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab A\u1e29mad \u2018Awdah \u2018Abd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849107
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"04f9d6b460b4ec7928f2e29f14473435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562647,
+            "locality_id":1226405613,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1226405613,
+    "wof:lastmodified":1537639730,
+    "wof:name":"'Arab Ahmad 'Awdah 'Abd",
+    "wof:parent_id":1108562647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18762,
+    34.50534,
+    43.18762,
+    34.50534
+],
+  "geometry": {"coordinates":[43.18762,34.50534],"type":"Point"}
+}

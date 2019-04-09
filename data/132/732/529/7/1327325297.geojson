@@ -1,0 +1,74 @@
+{
+  "id": 1327325297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44615,32.90191,44.44615,32.90191",
+    "geom:latitude":32.90191,
+    "geom:longitude":44.44615,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Hindi al 'Ayid",
+    "gn:country_code":"IQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817739,
+    "gn:latitude":32.90191,
+    "gn:longitude":44.44615,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hind\u012b al \u2018\u0100yid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0646\u062f\u064a \u0627\u0644\u0639\u0627\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Hind\u012b al \u2018\u0100yid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817739
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"efea344f3c9cbefd25ac0dcfa5619469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1327325297,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1327325297,
+    "wof:lastmodified":1537639633,
+    "wof:name":"Hindi al 'Ayid",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44615,
+    32.90191,
+    44.44615,
+    32.90191
+],
+  "geometry": {"coordinates":[44.44615,32.90191],"type":"Point"}
+}

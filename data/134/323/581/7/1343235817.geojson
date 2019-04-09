@@ -1,0 +1,68 @@
+{
+  "id": 1343235817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9675,31.67806,46.9675,31.67806",
+    "geom:latitude":31.67806,
+    "geom:longitude":46.9675,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9166562.0",
+    "gn:asciiname":"Al maymonah",
+    "gn:country_code":"IQ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7799832,
+    "gn:latitude":31.67806,
+    "gn:longitude":46.9675,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al maymonah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7799832
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d7645a9455c063e763e8cc3e360d16f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562709,
+            "locality_id":1343235817,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1343235817,
+    "wof:lastmodified":1537067660,
+    "wof:name":"Al maymonah",
+    "wof:parent_id":1108562709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9675,
+    31.67806,
+    46.9675,
+    31.67806
+],
+  "geometry": {"coordinates":[46.9675,31.67806],"type":"Point"}
+}

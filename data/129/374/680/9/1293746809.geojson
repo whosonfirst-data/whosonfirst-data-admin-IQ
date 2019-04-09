@@ -1,0 +1,74 @@
+{
+  "id": 1293746809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32246,34.62739,43.32246,34.62739",
+    "geom:latitude":34.62739,
+    "geom:longitude":43.32246,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6872046.0",
+    "gn:asciiname":"Muhammad Hamid",
+    "gn:country_code":"IQ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6849047,
+    "gn:latitude":34.62739,
+    "gn:longitude":43.32246,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29ammad \u1e28am\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u062f \u062d\u0645\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e29ammad \u1e28am\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6849047
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e2a4b3a6338dd6960ada325698c437f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562647,
+            "locality_id":1293746809,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1293746809,
+    "wof:lastmodified":1537639726,
+    "wof:name":"Muhammad Hamid",
+    "wof:parent_id":1108562647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32246,
+    34.62739000000001,
+    43.32246,
+    34.62739000000001
+],
+  "geometry": {"coordinates":[43.32246,34.62739000000001],"type":"Point"}
+}

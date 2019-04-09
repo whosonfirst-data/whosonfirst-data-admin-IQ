@@ -1,0 +1,74 @@
+{
+  "id": 1310288611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.74457,31.27845,46.74457,31.27845",
+    "geom:latitude":31.27845,
+    "geom:longitude":46.74457,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9166562.0",
+    "gn:asciiname":"Dar 'Amir Hasan al Badr",
+    "gn:country_code":"IQ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7011800,
+    "gn:latitude":31.27845,
+    "gn:longitude":46.74457,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u0101r \u2018\u0100mir \u1e28asan al Badr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0639\u0627\u0645\u0631 \u062d\u0633\u0646 \u0627\u0644\u0628\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r \u2018\u0100mir \u1e28asan al Badr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7011800
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4acde20770222040c22df25633cc83c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562709,
+            "locality_id":1310288611,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1310288611,
+    "wof:lastmodified":1537639898,
+    "wof:name":"Dar 'Amir Hasan al Badr",
+    "wof:parent_id":1108562709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.74457,
+    31.27845,
+    46.74457,
+    31.27845
+],
+  "geometry": {"coordinates":[46.74457,31.27845],"type":"Point"}
+}

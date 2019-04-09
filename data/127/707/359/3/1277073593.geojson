@@ -1,0 +1,89 @@
+{
+  "id": 1277073593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25926,36.20901,45.25926,36.20901",
+    "geom:latitude":36.20901,
+    "geom:longitude":45.25926,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Halshaw",
+    "gn:country_code":"IQ",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":6676920,
+    "gn:latitude":36.20901,
+    "gn:longitude":45.25926,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Halshaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0644\u0634\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0634\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Alsh\u016b"
+    ],
+    "name:kur_x_preferred":[
+        "He\u0142sho"
+    ],
+    "name:kur_x_variant":[
+        "\u06be\u06d5\u06b5\u0634\u06c6"
+    ],
+    "name:und_x_variant":[
+        "Alsh\u016b",
+        "\u0627\u0644\u0634\u0648",
+        "Halsho",
+        "Halsho Upper"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6676920
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d3a4cccdea350bfb0b725ced19c864d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1277073593,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1277073593,
+    "wof:lastmodified":1537639103,
+    "wof:name":"Halshaw",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25926,
+    36.20901,
+    45.25926,
+    36.20901
+],
+  "geometry": {"coordinates":[45.25926,36.20901],"type":"Point"}
+}

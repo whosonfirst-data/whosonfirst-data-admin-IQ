@@ -1,0 +1,74 @@
+{
+  "id": 1226037729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.52256,32.44463,44.52256,32.44463",
+    "geom:latitude":32.44463,
+    "geom:longitude":44.52256,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"6818313.0",
+    "gn:asciiname":"Qal'at Albu Hasan",
+    "gn:country_code":"IQ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789852,
+    "gn:latitude":32.44463,
+    "gn:longitude":44.52256,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qal\u2018at \u0100lb\u016b \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0627\u0644\u0628\u0648 \u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018at \u0100lb\u016b \u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421188909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789852
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c7c21662d37abe8c62a9be2395b66e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421188909,
+            "locality_id":1226037729,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1226037729,
+    "wof:lastmodified":1537639502,
+    "wof:name":"Qal'at Albu Hasan",
+    "wof:parent_id":421188909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.52256,
+    32.44463,
+    44.52256,
+    32.44463
+],
+  "geometry": {"coordinates":[44.52256,32.44463],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226326863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.97732,30.93929,46.97732,30.93929",
+    "geom:latitude":30.93929,
+    "geom:longitude":46.97732,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"99185.0",
+    "gn:asciiname":"Al Muwajid",
+    "gn:country_code":"IQ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7056425,
+    "gn:latitude":30.93929,
+    "gn:longitude":46.97732,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Muw\u0101jid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u0627\u062c\u062f"
+    ],
+    "name:ara_x_variant":[
+        "Al Muw\u0101jid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7056425
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ad59d1bea0e44d2e62babf86be09b2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562725,
+            "locality_id":1226326863,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1226326863,
+    "wof:lastmodified":1537639978,
+    "wof:name":"Al Muwajid",
+    "wof:parent_id":1108562725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.97732,
+    30.93929,
+    46.97732,
+    30.93929
+],
+  "geometry": {"coordinates":[46.97732,30.93929],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309776923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.78788,31.69736,46.78788,31.69736",
+    "geom:latitude":31.69736,
+    "geom:longitude":46.78788,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9166562.0",
+    "gn:asciiname":"Umm al Khisaf",
+    "gn:country_code":"IQ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386686,
+    "gn:latitude":31.69736,
+    "gn:longitude":46.78788,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Umm al Khis\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u062e\u0633\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "Umm al Khis\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386686
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"756c4644620f352c80e7fcef6d74c8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562709,
+            "locality_id":1309776923,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1309776923,
+    "wof:lastmodified":1537638785,
+    "wof:name":"Umm al Khisaf",
+    "wof:parent_id":1108562709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.78788,
+    31.69736,
+    46.78788,
+    31.69736
+],
+  "geometry": {"coordinates":[46.78788,31.69736],"type":"Point"}
+}

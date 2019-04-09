@@ -1,0 +1,91 @@
+{
+  "id": 1293312571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81874,37.01647,43.81874,37.01647",
+    "geom:latitude":37.01647,
+    "geom:longitude":43.81874,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Sory",
+    "gn:country_code":"IQ",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90495,
+    "gn:latitude":37.01647,
+    "gn:longitude":43.81874,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Sory",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "S\u016br\u012b"
+    ],
+    "name:kur_x_preferred":[
+        "Sur\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u0648\u0631\u0649",
+        "Kumelgeha Sw\u00eery\u00ea",
+        "\u0643\u0648\u0645\u06d5\u0644\u06af\u06d5\u06be\u0627 \u0633\u0648\u064a\u0631\u064a\u06ce",
+        "Suyriya J\u00ear\u00ee",
+        "\u0633\u0648\u064a\u0631\u064a\u0627 \u0698\u06ce\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "S\u016br\u012by\u0101",
+        "Sory",
+        "Seri",
+        "Suirya Lower",
+        "S\u016br\u012b-\u0101 Zh\u00ear\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90495
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1dcdf984568d4281f2b675c939e0686d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1293312571,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1293312571,
+    "wof:lastmodified":1537637870,
+    "wof:name":"Sory",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81874000000001,
+    37.01647,
+    43.81874000000001,
+    37.01647
+],
+  "geometry": {"coordinates":[43.81874000000001,37.01647],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276191445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5296,34.50664,43.5296,34.50664",
+    "geom:latitude":34.50664,
+    "geom:longitude":43.5296,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"90148.0",
+    "gn:asciiname":"Aswad Najm",
+    "gn:country_code":"IQ",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6871793,
+    "gn:latitude":34.50664,
+    "gn:longitude":43.5296,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Aswad Najm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u0648\u062f \u0646\u062c\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        421186243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6871793
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b4cdc5aa24131609fdb88044f5bb7375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186243,
+            "locality_id":1276191445,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1276191445,
+    "wof:lastmodified":1537639788,
+    "wof:name":"Aswad Najm",
+    "wof:parent_id":421186243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5296,
+    34.50664,
+    43.5296,
+    34.50664
+],
+  "geometry": {"coordinates":[43.5296,34.50664],"type":"Point"}
+}

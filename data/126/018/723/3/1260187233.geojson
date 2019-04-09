@@ -1,0 +1,86 @@
+{
+  "id": 1260187233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.12179,35.78936,46.12179,35.78936",
+    "geom:latitude":35.78936,
+    "geom:longitude":46.12179,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166684.0",
+    "gn:asciiname":"Ismaeel Awa",
+    "gn:country_code":"IQ",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6709535,
+    "gn:latitude":35.78936,
+    "gn:longitude":46.12179,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ismaeel Awa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ism\u0101\u2018\u012bl \u0100w\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0633\u0645\u0627\u0639\u064a\u0644 \u0622\u0648\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0645\u0627\u0639\u06cc\u0644 \u0622\u0648\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Esm\u0101\u2018\u012bl \u0100v\u0101"
+    ],
+    "name:kur_x_preferred":[
+        "\u00cesma\u2018\u00eel Awa"
+    ],
+    "name:kur_x_variant":[
+        "\u0626\u064a\u0633\u0645\u0627\u0639\u064a\u0644 \u0626\u0627\u0648\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6709535
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d6a68d535613f72bb5db3b09579bead4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562765,
+            "locality_id":1260187233,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1260187233,
+    "wof:lastmodified":1537639124,
+    "wof:name":"Ismaeel Awa",
+    "wof:parent_id":1108562765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.12179,
+    35.78935999999999,
+    46.12179,
+    35.78935999999999
+],
+  "geometry": {"coordinates":[46.12179,35.78935999999999],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292895763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.19636,31.41461,46.19636,31.41461",
+    "geom:latitude":31.41461,
+    "geom:longitude":46.19636,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98623.0",
+    "gn:asciiname":"Hashim Rujayb",
+    "gn:country_code":"IQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7025377,
+    "gn:latitude":31.41461,
+    "gn:longitude":46.19636,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"H\u0101shim Rujayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0634\u0645 \u0631\u062c\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "H\u0101shim Rujayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7025377
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6562850300e2b5eafebd7a81a9132e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562741,
+            "locality_id":1292895763,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1292895763,
+    "wof:lastmodified":1537639927,
+    "wof:name":"Hashim Rujayb",
+    "wof:parent_id":1108562741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.19636,
+    31.41461,
+    46.19636,
+    31.41461
+],
+  "geometry": {"coordinates":[46.19636,31.41461],"type":"Point"}
+}

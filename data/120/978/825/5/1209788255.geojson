@@ -1,0 +1,71 @@
+{
+  "id": 1209788255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.84194,32.99028,44.84194,32.99028",
+    "geom:latitude":32.99028,
+    "geom:longitude":44.84194,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"9166961.0",
+    "gn:asciiname":"Qasr Hamid",
+    "gn:country_code":"IQ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92299,
+    "gn:latitude":32.99028,
+    "gn:longitude":44.84194,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qa\u015fr \u1e28\u0101mid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fr \u1e28\u0101mid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92299
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7d6f32fcab445d9ec33a59da962fff19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562781,
+            "locality_id":1209788255,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1209788255,
+    "wof:lastmodified":1537638032,
+    "wof:name":"Qasr Hamid",
+    "wof:parent_id":1108562781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.84194,
+    32.99028,
+    44.84194,
+    32.99028
+],
+  "geometry": {"coordinates":[44.84194,32.99028],"type":"Point"}
+}

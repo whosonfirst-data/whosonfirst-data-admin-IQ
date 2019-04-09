@@ -1,0 +1,74 @@
+{
+  "id": 1242865905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20562,33.51524,44.20562,33.51524",
+    "geom:latitude":33.51524,
+    "geom:longitude":44.20562,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99173.0",
+    "gn:asciiname":"'Ali Hassun Dawud",
+    "gn:country_code":"IQ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806107,
+    "gn:latitude":33.51524,
+    "gn:longitude":44.20562,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Al\u012b \u1e28ass\u016bn D\u0101wud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u062d\u0633\u0648\u0646 \u062f\u0627\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b \u1e28ass\u016bn D\u0101wud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806107
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5a69921fcf3f893f2fafb844f14c3590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562795,
+            "locality_id":1242865905,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1242865905,
+    "wof:lastmodified":1537639614,
+    "wof:name":"'Ali Hassun Dawud",
+    "wof:parent_id":1108562795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20562,
+    33.51524000000001,
+    44.20562,
+    33.51524000000001
+],
+  "geometry": {"coordinates":[44.20562,33.51524000000001],"type":"Point"}
+}

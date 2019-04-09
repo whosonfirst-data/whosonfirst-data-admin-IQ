@@ -1,0 +1,82 @@
+{
+  "id": 1209393177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83373,36.00519,43.83373,36.00519",
+    "geom:latitude":36.00519,
+    "geom:longitude":43.83373,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Kird 'Azaban",
+    "gn:country_code":"IQ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96497,
+    "gn:latitude":36.00519,
+    "gn:longitude":43.83373,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kird \u2018\u0100zab\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062f \u0639\u0627\u0632\u0628\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Gird \u2018Azeban"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u0631\u062f \u0639\u0627\u0632\u06d5\u0628\u0627\u0646",
+        "Grd \u2018Azeban"
+    ],
+    "name:und_x_variant":[
+        "Kird\u0101ray\u0101n",
+        "Gird-i \u0100zab\u0101n",
+        "Kird \u2018\u0100zayan",
+        "J\u012brd \u2018Az\u0101b\u0101n",
+        "Gird Azaban",
+        "Gird \u2018Azab\u0101n",
+        "Kird \u2018Azab\u0101n",
+        "Kird \u2018\u0100zab\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96497
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bf84ec445e348c84ce0abdd0418f65bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209393177
+        }
+    ],
+    "wof:id":1209393177,
+    "wof:lastmodified":1537638401,
+    "wof:name":"Kird 'Azaban",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83373,
+    36.00519,
+    43.83373,
+    36.00519
+],
+  "geometry": {"coordinates":[43.83373,36.00519],"type":"Point"}
+}

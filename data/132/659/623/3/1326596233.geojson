@@ -1,0 +1,74 @@
+{
+  "id": 1326596233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01696,34.00404,44.01696,34.00404",
+    "geom:latitude":34.00404,
+    "geom:longitude":44.01696,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6805736.0",
+    "gn:asciiname":"Qaryat al Farhaniyah",
+    "gn:country_code":"IQ",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6917267,
+    "gn:latitude":34.00404,
+    "gn:longitude":44.01696,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat al Far\u1e29\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0641\u0631\u062d\u0627\u0646\u064a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al Far\u1e29\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        421180939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6917267
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d85ee84d1c47b53691b4001edb648e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421180939,
+            "locality_id":1326596233,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1326596233,
+    "wof:lastmodified":1537639832,
+    "wof:name":"Qaryat al Farhaniyah",
+    "wof:parent_id":421180939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01696,
+    34.00404,
+    44.01696,
+    34.00404
+],
+  "geometry": {"coordinates":[44.01696,34.00404],"type":"Point"}
+}

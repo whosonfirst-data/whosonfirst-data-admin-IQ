@@ -1,0 +1,86 @@
+{
+  "id": 1293721243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.12465,36.11309,45.12465,36.11309",
+    "geom:latitude":36.11309,
+    "geom:longitude":45.12465,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Zukah",
+    "gn:country_code":"IQ",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":97582,
+    "gn:latitude":36.11309,
+    "gn:longitude":45.12465,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Z\u016bkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0643\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "N\u00eajuke"
+    ],
+    "name:kur_x_variant":[
+        "\u0646\u06ce\u0698\u0648\u0643\u06d5",
+        "Bizoke",
+        "\u0628\u0632\u06c6\u0643\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Bizuko",
+        "Z\u016bkah",
+        "Biz\u014dka",
+        "Nezoka",
+        "Bzoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97582
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2019f0bdc1ee5c2499e1d46c1c150b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1293721243,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1293721243,
+    "wof:lastmodified":1537638512,
+    "wof:name":"Zukah",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.12465,
+    36.11309,
+    45.12465,
+    36.11309
+],
+  "geometry": {"coordinates":[45.12465,36.11309],"type":"Point"}
+}

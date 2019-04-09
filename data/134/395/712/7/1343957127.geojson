@@ -1,0 +1,86 @@
+{
+  "id": 1343957127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.67921,35.3974,45.67921,35.3974",
+    "geom:latitude":35.3974,
+    "geom:longitude":45.67921,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Janakh Jiyan",
+    "gn:country_code":"IQ",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384882,
+    "gn:latitude":35.3974,
+    "gn:longitude":45.67921,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jan\u0101kh Jiy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u0627\u062e \u062c\u064a\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Chenaxchyan"
+    ],
+    "name:kur_x_variant":[
+        "\u0686\u06d5\u0646\u0627\u062e\u0686\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jan\u0101q Jiy\u0101n",
+        "Chanak Cheyan",
+        "Jan\u0101kh Jiy\u0101n",
+        "Chan\u0101qchiy\u0101n",
+        "Jan\u0101\u1e29 Jiy\u0101n",
+        "\u062c\u0646\u0627\u062d \u062c\u064a\u0627\u0646",
+        "Chanakhchean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384882
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c780364c2c2334e6c2bce2a758b92b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1343957127,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1343957127,
+    "wof:lastmodified":1537638761,
+    "wof:name":"Janakh Jiyan",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.67921,
+    35.3974,
+    45.67921,
+    35.3974
+],
+  "geometry": {"coordinates":[45.67921,35.3974],"type":"Point"}
+}

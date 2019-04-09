@@ -1,0 +1,83 @@
+{
+  "id": 1326811557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20241,36.49337,44.20241,36.49337",
+    "geom:latitude":36.49337,
+    "geom:longitude":44.20241,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166591.0",
+    "gn:asciiname":"Drke Serkend",
+    "gn:country_code":"IQ",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91979,
+    "gn:latitude":36.49337,
+    "gn:longitude":44.20241,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Drke Serkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0632\u0643\u0629 \u0633\u0631\u0643\u0646\u062f"
+    ],
+    "name:kur_x_preferred":[
+        "Drke Serkend"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u0631\u0643\u06d5 \u0633\u06d5\u0631\u0643\u06d5\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "Razhga",
+        "Drka Sarkand",
+        "Razg\u0101h",
+        "R\u0101zkah Sarkand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91979
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"51e3f37e6ae48c6e1bcc9cf5e8bb0a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562757,
+            "locality_id":1326811557,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1326811557,
+    "wof:lastmodified":1537638003,
+    "wof:name":"Drke Serkend",
+    "wof:parent_id":1108562757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20241,
+    36.49337,
+    44.20241,
+    36.49337
+],
+  "geometry": {"coordinates":[44.20241,36.49337],"type":"Point"}
+}

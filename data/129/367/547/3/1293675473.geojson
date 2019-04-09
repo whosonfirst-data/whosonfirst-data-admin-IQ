@@ -1,0 +1,80 @@
+{
+  "id": 1293675473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07393,35.23977,44.07393,35.23977",
+    "geom:latitude":35.23977,
+    "geom:longitude":44.07393,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"6770659.0",
+    "gn:asciiname":"Mu'ribat Garhah",
+    "gn:country_code":"IQ",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":383542,
+    "gn:latitude":35.23977,
+    "gn:longitude":44.07393,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u2018rib\u0101t Gar\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0631\u0628\u0627\u062a \u06af\u0631\u062d\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0639\u0631\u0628\u0627\u062a \u0643\u0631\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "M\u2019rb\u0101t",
+        "Mu\u2018rib\u0101t Kar\u1e29ah",
+        "\u0645\u0639\u0631\u0628\u0627\u062a \u0643\u0631\u062d\u0629",
+        "Mu\u2018rib\u0101t Gar\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383542
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9c94dd537ae26550ca053080600dd3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562743,
+            "locality_id":1293675473,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1293675473,
+    "wof:lastmodified":1537638729,
+    "wof:name":"Mu'ribat Garhah",
+    "wof:parent_id":1108562743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07393,
+    35.23977,
+    44.07393,
+    35.23977
+],
+  "geometry": {"coordinates":[44.07393,35.23977],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242663847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.52208,35.78232,44.52208,35.78232",
+    "geom:latitude":35.78232,
+    "geom:longitude":44.52208,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"94786.0",
+    "gn:asciiname":"Nibasrah",
+    "gn:country_code":"IQ",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92891,
+    "gn:latitude":35.78232,
+    "gn:longitude":44.52208,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"N\u012bbasrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0628\u0633\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Nibsara",
+        "N\u012bbasrah",
+        "Nib\u0101siy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        421199293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92891
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"79fa799103b8cba74bc25ff74be40363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421199293,
+            "locality_id":1242663847,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1242663847,
+    "wof:lastmodified":1537638094,
+    "wof:name":"Nibasrah",
+    "wof:parent_id":421199293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.52208,
+    35.78232,
+    44.52208,
+    35.78232
+],
+  "geometry": {"coordinates":[44.52208,35.78232],"type":"Point"}
+}

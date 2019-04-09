@@ -1,0 +1,74 @@
+{
+  "id": 1225920013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.01394,34.23989,43.01394,34.23989",
+    "geom:latitude":34.23989,
+    "geom:longitude":43.01394,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"91594.0",
+    "gn:asciiname":"'Arab Muhammad Faraj",
+    "gn:country_code":"IQ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6871370,
+    "gn:latitude":34.23989,
+    "gn:longitude":43.01394,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab Mu\u1e29ammad Faraj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0645\u062d\u0645\u062f \u0641\u0631\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab Mu\u1e29ammad Faraj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6871370
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8aae3e5c70dc1ed66a04bbaa37110044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562799,
+            "locality_id":1225920013,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1225920013,
+    "wof:lastmodified":1537639780,
+    "wof:name":"'Arab Muhammad Faraj",
+    "wof:parent_id":1108562799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.01394000000001,
+    34.23989,
+    43.01394000000001,
+    34.23989
+],
+  "geometry": {"coordinates":[43.01394000000001,34.23989],"type":"Point"}
+}

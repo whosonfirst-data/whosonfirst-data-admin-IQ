@@ -1,0 +1,74 @@
+{
+  "id": 1293167019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08323,33.85648,44.08323,33.85648",
+    "geom:latitude":33.85648,
+    "geom:longitude":44.08323,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6805736.0",
+    "gn:asciiname":"'Adwan 'Abd",
+    "gn:country_code":"IQ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805456,
+    "gn:latitude":33.85648,
+    "gn:longitude":44.08323,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Adw\u0101n \u2018Abd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u062f\u0648\u0627\u0646 \u0639\u0628\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Adw\u0101n \u2018Abd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        421180939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805456
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e68797d9b85568cf45d6795754fe9fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421180939,
+            "locality_id":1293167019,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1293167019,
+    "wof:lastmodified":1537639573,
+    "wof:name":"'Adwan 'Abd",
+    "wof:parent_id":421180939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08323,
+    33.85648,
+    44.08323,
+    33.85648
+],
+  "geometry": {"coordinates":[44.08323,33.85648],"type":"Point"}
+}

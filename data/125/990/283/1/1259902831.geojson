@@ -1,0 +1,85 @@
+{
+  "id": 1259902831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.7651,35.6941,45.7651,35.6941",
+    "geom:latitude":35.6941,
+    "geom:longitude":45.7651,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Chnara",
+    "gn:country_code":"IQ",
+    "gn:dem":1257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97345,
+    "gn:latitude":35.6941,
+    "gn:longitude":45.7651,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chnara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0646\u0631\u06cc \u0634\u06cc\u062e \u0644\u0637\u06cc\u0641"
+    ],
+    "name:kur_x_preferred":[
+        "Chinarey Sh\u00eax Let\u00eef"
+    ],
+    "name:kur_x_variant":[
+        "Chinarey Sh\u00eax E\u0142mar\u00ean",
+        "\u0686\u0646\u0627\u0631\u06d5\u0649 \u0634\u06ce\u062e \u0644\u06d5\u062a\u064a\u0641",
+        "\u0686\u0646\u0627\u0631\u06d5\u0649 \u0634\u06ce\u062e \u0626\u06d5\u06b5\u0645\u0627\u0631\u06ce\u0646"
+    ],
+    "name:und_x_variant":[
+        "Chinara-\u0113 Shaykh La\u0163\u012bf",
+        "Chanr\u012b Sheykh La\u0163\u012bf",
+        "Chnara",
+        "Chinarah Shaykh La\u0163\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97345
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0a9432b70d3fd27cffcbab72f00d243d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1259902831,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1259902831,
+    "wof:lastmodified":1537638487,
+    "wof:name":"Chnara",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.7651,
+    35.6941,
+    45.7651,
+    35.6941
+],
+  "geometry": {"coordinates":[45.7651,35.6941],"type":"Point"}
+}

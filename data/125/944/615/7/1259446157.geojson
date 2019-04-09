@@ -1,0 +1,71 @@
+{
+  "id": 1259446157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48264,34.97429,44.48264,34.97429",
+    "geom:latitude":34.97429,
+    "geom:longitude":44.48264,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"9166598.0",
+    "gn:asciiname":"Tabah Saws",
+    "gn:country_code":"IQ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6751996,
+    "gn:latitude":34.97429,
+    "gn:longitude":44.48264,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Tabah Saws",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0628\u0647 \u0633\u0648\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6751996
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"123570ce3533bd6224fe52312b1068e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562657,
+            "locality_id":1259446157,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1259446157,
+    "wof:lastmodified":1537639159,
+    "wof:name":"Tabah Saws",
+    "wof:parent_id":1108562657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48264,
+    34.97429,
+    44.48264,
+    34.97429
+],
+  "geometry": {"coordinates":[44.48264,34.97429],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276191417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46226,34.93543,44.46226,34.93543",
+    "geom:latitude":34.93543,
+    "geom:longitude":44.46226,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"9166598.0",
+    "gn:asciiname":"Qaryat Jayyam Mahjurah",
+    "gn:country_code":"IQ",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6752026,
+    "gn:latitude":34.93543,
+    "gn:longitude":44.46226,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Qaryat Jayy\u0101m Mahj\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u062c\u064a\u0627\u0645 \u0645\u0647\u062c\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Jayy\u0101m Mahj\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6752026
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7e6ffccb98525190bee14125d04d99ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562657,
+            "locality_id":1276191417,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1276191417,
+    "wof:lastmodified":1537639161,
+    "wof:name":"Qaryat Jayyam Mahjurah",
+    "wof:parent_id":1108562657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46226,
+    34.93543,
+    44.46226,
+    34.93543
+],
+  "geometry": {"coordinates":[44.46226,34.93543],"type":"Point"}
+}

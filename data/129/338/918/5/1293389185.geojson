@@ -1,0 +1,85 @@
+{
+  "id": 1293389185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.83863,35.55143,45.83863,35.55143",
+    "geom:latitude":35.55143,
+    "geom:longitude":45.83863,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Gulan al 'Ulya",
+    "gn:country_code":"IQ",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96398,
+    "gn:latitude":35.55143,
+    "gn:longitude":45.83863,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"G\u016bl\u0101n al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u06af\u0648\u0644\u0627\u0646 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Gu\u0142an\u00ee Ser\u00fb"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u0648\u06b5\u0627\u0646\u0649 \u0633\u06d5\u0631\u0648\u0648"
+    ],
+    "name:und_x_variant":[
+        "K\u016bl\u0101nah al \u2018Uly\u0101",
+        "\u0643\u0648\u0644\u0627\u0646\u0629 \u0627\u0644\u0639\u0644\u064a\u0627",
+        "Gul\u0101n-\u0113 Zh\u016br\u016b",
+        "G\u016bl\u0101n al \u2018Uly\u0101",
+        "\u06af\u0648\u0644\u0627\u0646 \u0627\u0644\u0639\u0644\u064a\u0627",
+        "Goolan Saroo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96398
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2d4bf02b95ea8529973dc9c7ec6c97d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1293389185,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1293389185,
+    "wof:lastmodified":1537638386,
+    "wof:name":"Gulan al 'Ulya",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.83863,
+    35.55143,
+    45.83863,
+    35.55143
+],
+  "geometry": {"coordinates":[45.83863,35.55143],"type":"Point"}
+}

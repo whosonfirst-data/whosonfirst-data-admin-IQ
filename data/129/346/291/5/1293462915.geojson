@@ -1,0 +1,76 @@
+{
+  "id": 1293462915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2544,36.14866,43.2544,36.14866",
+    "geom:latitude":36.14866,
+    "geom:longitude":43.2544,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166649.0",
+    "gn:asciiname":"As Salahiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6860761,
+    "gn:latitude":36.14866,
+    "gn:longitude":43.2544,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"A\u015f \u015eal\u0101\u1e29\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0644\u0627\u062d\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jah\u012bnah",
+        "\u062c\u0647\u064a\u0646\u0629",
+        "A\u015f \u015eal\u0101\u1e29\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6860761
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c7f2dcb5d58f23d33b59bc75e9d961ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562633,
+            "locality_id":1293462915,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1293462915,
+    "wof:lastmodified":1537639770,
+    "wof:name":"As Salahiyah",
+    "wof:parent_id":1108562633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2544,
+    36.14866,
+    43.2544,
+    36.14866
+],
+  "geometry": {"coordinates":[43.2544,36.14866],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1310706767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.66684,35.66649,45.66684,35.66649",
+    "geom:latitude":35.66649,
+    "geom:longitude":45.66684,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Hawlu",
+    "gn:country_code":"IQ",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95879,
+    "gn:latitude":35.66649,
+    "gn:longitude":45.66684,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hawl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0644\u0648"
+    ],
+    "name:kur_x_preferred":[
+        "Hew\u0142u"
+    ],
+    "name:kur_x_variant":[
+        "Hew\u0142o",
+        "\u0647\u06d5\u0648\u06b5\u0648",
+        "\u0647\u06d5\u0648\u06b5\u06c6"
+    ],
+    "name:und_x_variant":[
+        "Haulu",
+        "Hawl\u016b",
+        "Hawr\u016b",
+        "Hawlu",
+        "\u0647\u0648\u0631\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95879
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e19e72939fe249106ec6b426a52652d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1310706767,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1310706767,
+    "wof:lastmodified":1537638341,
+    "wof:name":"Hawlu",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.66684,
+    35.66649,
+    45.66684,
+    35.66649
+],
+  "geometry": {"coordinates":[45.66684,35.66649],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1293119125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0382,34.57949,45.0382,34.57949",
+    "geom:latitude":34.57949,
+    "geom:longitude":45.0382,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94296.0",
+    "gn:asciiname":"Jalaw Khalid",
+    "gn:country_code":"IQ",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":97457,
+    "gn:latitude":34.57949,
+    "gn:longitude":45.0382,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Jalaw Kh\u0101lid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0648 \u062e\u0627\u0644\u062f"
+    ],
+    "name:kur_x_preferred":[
+        "Cha\u0142aw Xalid"
+    ],
+    "name:kur_x_variant":[
+        "\u0686\u0627\u06b5\u0627\u0648 \u062e\u0627\u0644\u062f"
+    ],
+    "name:und_x_variant":[
+        "Jalaw Kh\u0101lid",
+        "Ch\u0101l\u0101w Kh\u0101lid",
+        "Chalaw Khalid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97457
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"32abfc1da7cbe360b96b09536203f9b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562653,
+            "locality_id":1293119125,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1293119125,
+    "wof:lastmodified":1537638500,
+    "wof:name":"Jalaw Khalid",
+    "wof:parent_id":1108562653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0382,
+    34.57949,
+    45.0382,
+    34.57949
+],
+  "geometry": {"coordinates":[45.0382,34.57949],"type":"Point"}
+}

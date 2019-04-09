@@ -1,0 +1,84 @@
+{
+  "id": 1259582599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.31215,36.023,45.31215,36.023",
+    "geom:latitude":36.023,
+    "geom:longitude":45.31215,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Weyse",
+    "gn:country_code":"IQ",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":89676,
+    "gn:latitude":36.023,
+    "gn:longitude":45.31215,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Weyse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0648\u064a\u0633\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Weyse"
+    ],
+    "name:kur_x_variant":[
+        "\u0648\u06d5\u064a\u0633\u06d5",
+        "W\u00ease",
+        "\u0648\u06ce\u0633\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Ways\u012b",
+        "W\u0113sa",
+        "Wesa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89676
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a17cb0ea30d7286eabc701f4230208b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1259582599,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1259582599,
+    "wof:lastmodified":1537637803,
+    "wof:name":"Weyse",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.31215,
+    36.023,
+    45.31215,
+    36.023
+],
+  "geometry": {"coordinates":[45.31215,36.023],"type":"Point"}
+}

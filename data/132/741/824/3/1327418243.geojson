@@ -1,0 +1,74 @@
+{
+  "id": 1327418243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38085,31.41806,46.38085,31.41806",
+    "geom:latitude":31.41806,
+    "geom:longitude":46.38085,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98623.0",
+    "gn:asciiname":"Ishan Itba'i",
+    "gn:country_code":"IQ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7025352,
+    "gn:latitude":31.41806,
+    "gn:longitude":46.38085,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u012ash\u0101n I\u0163ba\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064a\u0634\u0627\u0646 \u0627\u0637\u0628\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u012ash\u0101n I\u0163ba\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7025352
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"14b24ef57ba29c38afe8cd47896d94db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562741,
+            "locality_id":1327418243,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1327418243,
+    "wof:lastmodified":1537639926,
+    "wof:name":"Ishan Itba'i",
+    "wof:parent_id":1108562741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38085,
+    31.41806,
+    46.38085,
+    31.41806
+],
+  "geometry": {"coordinates":[46.38085,31.41806],"type":"Point"}
+}

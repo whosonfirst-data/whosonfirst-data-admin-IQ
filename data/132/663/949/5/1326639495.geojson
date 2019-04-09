@@ -1,0 +1,74 @@
+{
+  "id": 1326639495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.82964,33.45925,43.82964,33.45925",
+    "geom:latitude":33.45925,
+    "geom:longitude":43.82964,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"Tulul Abu Sakhr",
+    "gn:country_code":"IQ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6782283,
+    "gn:latitude":33.45925,
+    "gn:longitude":43.82964,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tul\u016bl Ab\u016b \u015eakhr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0648\u0644 \u0627\u0628\u0648 \u0635\u062e\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tul\u016bl Ab\u016b \u015eakhr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6782283
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8ff9d9c7e40132d33fad8a7f812a70e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1326639495,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1326639495,
+    "wof:lastmodified":1537639317,
+    "wof:name":"Tulul Abu Sakhr",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.82964000000001,
+    33.45925,
+    43.82964000000001,
+    33.45925
+],
+  "geometry": {"coordinates":[43.82964000000001,33.45925],"type":"Point"}
+}

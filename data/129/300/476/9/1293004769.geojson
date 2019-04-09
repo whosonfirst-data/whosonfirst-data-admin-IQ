@@ -1,0 +1,74 @@
+{
+  "id": 1293004769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7451,33.45584,43.7451,33.45584",
+    "geom:latitude":33.45584,
+    "geom:longitude":43.7451,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"Qaryat Ghaynan",
+    "gn:country_code":"IQ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448428,
+    "gn:latitude":33.45584,
+    "gn:longitude":43.7451,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Ghayn\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u063a\u064a\u0646\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Ghayn\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448428
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5d61f5f1332be7495831394bda90995a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1293004769,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1293004769,
+    "wof:lastmodified":1537639066,
+    "wof:name":"Qaryat Ghaynan",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7451,
+    33.45584,
+    43.7451,
+    33.45584
+],
+  "geometry": {"coordinates":[43.7451,33.45584],"type":"Point"}
+}

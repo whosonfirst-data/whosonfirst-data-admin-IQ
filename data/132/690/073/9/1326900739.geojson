@@ -1,0 +1,74 @@
+{
+  "id": 1326900739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.73799,36.28284,41.73799,36.28284",
+    "geom:latitude":36.28284,
+    "geom:longitude":41.73799,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Zirafki",
+    "gn:country_code":"IQ",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7047033,
+    "gn:latitude":36.28284,
+    "gn:longitude":41.73799,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Zir\u0101fk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0631\u0627\u0641\u0643\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Zir\u0101fk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7047033
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"94d654a4210bea7bcaa5f2a94cafb5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1326900739,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1326900739,
+    "wof:lastmodified":1537639970,
+    "wof:name":"Zirafki",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.73799,
+    36.28284,
+    41.73799,
+    36.28284
+],
+  "geometry": {"coordinates":[41.73799,36.28284],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1293756761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.53672,36.73962,42.53672,36.73962",
+    "geom:latitude":36.73962,
+    "geom:longitude":42.53672,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"'Ayn al Faras",
+    "gn:country_code":"IQ",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98320,
+    "gn:latitude":36.73962,
+    "gn:longitude":42.53672,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Ayn al Faras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0641\u0631\u0633"
+    ],
+    "name:kur_x_preferred":[
+        "\u2018Eyn Elfirs"
+    ],
+    "name:kur_x_variant":[
+        "\u0639\u06d5\u064a\u0646 \u0626\u06d5\u0644\u0641\u0631\u0633"
+    ],
+    "name:und_x_variant":[
+        "Ain Alfris",
+        "\u2018Ayn al Furs",
+        "\u2018Ayn al Faras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98320
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"031b4cbebf9ec5945b5dccfdaf000ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1293756761,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1293756761,
+    "wof:lastmodified":1537638598,
+    "wof:name":"'Ayn al Faras",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.53672,
+    36.73962,
+    42.53672,
+    36.73962
+],
+  "geometry": {"coordinates":[42.53672,36.73962],"type":"Point"}
+}

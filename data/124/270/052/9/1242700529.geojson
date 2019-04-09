@@ -1,0 +1,91 @@
+{
+  "id": 1242700529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08419,36.38582,45.08419,36.38582",
+    "geom:latitude":36.38582,
+    "geom:longitude":45.08419,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Ebu Bekre",
+    "gn:country_code":"IQ",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98893,
+    "gn:latitude":36.38582,
+    "gn:longitude":45.08419,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Ebu Bekre",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645\u0648 \u0628\u0643\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0628\u0648 \u0628\u0643\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Ebu Bekre"
+    ],
+    "name:kur_x_variant":[
+        "\u0626\u06d5\u0628\u0648 \u0628\u06d5\u0643\u0631\u06d5",
+        "Ebu Bakire"
+    ],
+    "name:und_x_variant":[
+        "Am\u014d Bakir",
+        "Amobakr",
+        "Abu Bakra",
+        "Ab\u016b Bakir",
+        "Abu Bakre Lower",
+        "\u0627\u0645\u0648 \u0628\u0643\u0631",
+        "Am\u016b Bakr",
+        "Abu Bakre Upper"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98893
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3008a915784bdc85f9474eacfa5fe6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1242700529,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1242700529,
+    "wof:lastmodified":1537638640,
+    "wof:name":"Ebu Bekre",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08419,
+    36.38582,
+    45.08419,
+    36.38582
+],
+  "geometry": {"coordinates":[45.08419,36.38582],"type":"Point"}
+}

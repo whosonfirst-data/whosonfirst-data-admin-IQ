@@ -1,0 +1,74 @@
+{
+  "id": 1276358419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27726,32.53483,44.27726,32.53483",
+    "geom:latitude":32.53483,
+    "geom:longitude":44.27726,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99348.0",
+    "gn:asciiname":"Qaryat as Sadah al Qazawinah",
+    "gn:country_code":"IQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6818251,
+    "gn:latitude":32.53483,
+    "gn:longitude":44.27726,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat as S\u0101dah al Qaz\u0101winah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0633\u0627\u062f\u0629 \u0627\u0644\u0642\u0632\u0627\u0648\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat as S\u0101dah al Qaz\u0101winah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818251
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"81e32d9b3628b01c3f45305358902562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562695,
+            "locality_id":1276358419,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1276358419,
+    "wof:lastmodified":1537639657,
+    "wof:name":"Qaryat as Sadah al Qazawinah",
+    "wof:parent_id":1108562695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27726,
+    32.53483,
+    44.27726,
+    32.53483
+],
+  "geometry": {"coordinates":[44.27726,32.53483],"type":"Point"}
+}

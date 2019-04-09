@@ -1,0 +1,68 @@
+{
+  "id": 890449715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02008,36.192692,44.02008,36.192692",
+    "geom:latitude":36.192692,
+    "geom:longitude":44.02008,
+    "gn:country":"IQ",
+    "gp:adm0":23424855,
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u0627\u0631\u0628\u064a\u0644",
+    "qs:name_adm0":"Iraq",
+    "qs:name_adm1":"Arbil",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1979432,
+        "qs:id":1120303
+    },
+    "wof:country":"IQ",
+    "wof:created":1469052705,
+    "wof:geomhash":"26f356adcaaae094bce36405c66e0dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":890449715,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":890449715,
+    "wof:lastmodified":1506729011,
+    "wof:name":"\u0627\u0631\u0628\u064a\u0644",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02008,
+    36.192692,
+    44.02008,
+    36.192692
+],
+  "geometry": {"coordinates":[44.02008,36.192692],"type":"Point"}
+}

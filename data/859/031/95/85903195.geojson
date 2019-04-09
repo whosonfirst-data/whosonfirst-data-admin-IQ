@@ -1,0 +1,111 @@
+{
+  "id": 85903195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7946311.919444,
+    "geom:bbox":"44.379548,33.315277,44.379548,33.315277",
+    "geom:latitude":33.315277,
+    "geom:longitude":44.379548,
+    "gn:id":"",
+    "iso:country":"IQ",
+    "lbl:latitude":33.315277,
+    "lbl:longitude":44.379548,
+    "mps:latitude":33.319052,
+    "mps:longitude":44.382048,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:ara_x_colloquial":[
+        "As Salihiyah"
+    ],
+    "name:ara_x_preferred":[
+        "A\u015f \u015e\u0101lih\u0327\u012byah"
+    ],
+    "name:ara_x_variant":[
+        "Salhya",
+        "Salhyah"
+    ],
+    "name:unk_x_variant":[
+        "A\u015f \u015e\u0101lih\u0327\u012byah"
+    ],
+    "qs:gn_adm0_cc":"IQ",
+    "qs:gn_id":0,
+    "qs:gn_local":98182,
+    "qs:gn_nam_loc":"\u0628\u063a\u062f\u0627\u062f, \u0628\u063a\u062f\u0627\u062f, \u0628\u063a\u062f\u0627\u062f, IQ",
+    "qs:gn_namadm1":"07",
+    "qs:local_max":603,
+    "qs:local_sum":1151,
+    "qs:localhoods":15,
+    "qs:name":"A\u015f \u015e\u0101lih\u0327\u012byah",
+    "qs:name_adm0":"Iraq",
+    "qs:name_adm1":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:name_adm2":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:name_local":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:photo_max":427,
+    "qs:photo_sum":603,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424855,
+    "qs:woe_adm1":2345839,
+    "qs:woe_adm2":55999983,
+    "qs:woe_lau":0,
+    "qs:woe_local":1979455,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108562793,
+        85672447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1971765,
+        "qs:id":900319
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d81fdcc5f25962b250d60ed5e3e0545b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562793,
+            "locality_id":-1,
+            "neighbourhood_id":85903195,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":85903195,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936035,
+    "wof:name":"A\u015f \u015e\u0101lih\u0327\u012byah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.379548,
+    33.315277,
+    44.379548,
+    33.315277
+],
+  "geometry": {"coordinates":[44.379548,33.315277],"type":"Point"}
+}

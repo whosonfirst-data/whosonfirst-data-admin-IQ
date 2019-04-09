@@ -1,0 +1,68 @@
+{
+  "id": 1193141971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.88333,35.53333,44.88333,35.53333",
+    "geom:latitude":35.53333,
+    "geom:longitude":44.88333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Kuraytah",
+    "gn:country_code":"IQ",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94132,
+    "gn:latitude":35.53333,
+    "gn:longitude":44.88333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kuraytah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94132
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"78932e74577214d681ddc1cc65f24ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1193141971,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1193141971,
+    "wof:lastmodified":1536365306,
+    "wof:name":"Kuraytah",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.88333,
+    35.53333,
+    44.88333,
+    35.53333
+],
+  "geometry": {"coordinates":[44.88333,35.53333],"type":"Point"}
+}

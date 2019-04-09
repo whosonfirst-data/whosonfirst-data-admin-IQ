@@ -1,0 +1,74 @@
+{
+  "id": 1293508517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.21463,31.40748,46.21463,31.40748",
+    "geom:latitude":31.40748,
+    "geom:longitude":46.21463,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98623.0",
+    "gn:asciiname":"Thujayl Almas",
+    "gn:country_code":"IQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7025376,
+    "gn:latitude":31.40748,
+    "gn:longitude":46.21463,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Thujayl Alm\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062b\u062c\u064a\u0644 \u0627\u0644\u0645\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "Thujayl Alm\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7025376
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d3d3bcff188a59f1e58e735d4f300951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562741,
+            "locality_id":1293508517,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1293508517,
+    "wof:lastmodified":1537639927,
+    "wof:name":"Thujayl Almas",
+    "wof:parent_id":1108562741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.21463,
+    31.40748,
+    46.21463,
+    31.40748
+],
+  "geometry": {"coordinates":[46.21463,31.40748],"type":"Point"}
+}

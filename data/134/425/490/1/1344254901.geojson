@@ -1,0 +1,74 @@
+{
+  "id": 1344254901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.40025,32.50476,44.40025,32.50476",
+    "geom:latitude":32.50476,
+    "geom:longitude":44.40025,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"Qaryat Uhayzim",
+    "gn:country_code":"IQ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6818304,
+    "gn:latitude":32.50476,
+    "gn:longitude":44.40025,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat U\u1e29ayzim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u062d\u064a\u0632\u0645"
+    ],
+    "name:und_x_variant":[
+        "Qaryat U\u1e29ayzim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421172849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818304
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"509cea8f2e0223743b70fd9a1f37e2f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172849,
+            "locality_id":1344254901,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1344254901,
+    "wof:lastmodified":1537639659,
+    "wof:name":"Qaryat Uhayzim",
+    "wof:parent_id":421172849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.40025,
+    32.50476,
+    44.40025,
+    32.50476
+],
+  "geometry": {"coordinates":[44.40025,32.50476],"type":"Point"}
+}

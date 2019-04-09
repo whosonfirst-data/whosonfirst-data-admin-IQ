@@ -1,0 +1,74 @@
+{
+  "id": 1344230743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.46329,31.48726,47.46329,31.48726",
+    "geom:latitude":31.48726,
+    "geom:longitude":47.46329,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"92536.0",
+    "gn:asciiname":"Abu Ghanam",
+    "gn:country_code":"IQ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6772232,
+    "gn:latitude":31.48726,
+    "gn:longitude":47.46329,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ab\u016b Ghan\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u063a\u0646\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Ghan\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6772232
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3f112173c3afb48d89633299292cd272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562713,
+            "locality_id":1344230743,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1344230743,
+    "wof:lastmodified":1537639269,
+    "wof:name":"Abu Ghanam",
+    "wof:parent_id":1108562713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.46329,
+    31.48726,
+    47.46329,
+    31.48726
+],
+  "geometry": {"coordinates":[47.46329,31.48726],"type":"Point"}
+}

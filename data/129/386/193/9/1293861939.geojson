@@ -1,0 +1,83 @@
+{
+  "id": 1293861939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4248,35.98957,43.4248,35.98957",
+    "geom:latitude":35.98957,
+    "geom:longitude":43.4248,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"93817.0",
+    "gn:asciiname":"Qaryat Sakiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91553,
+    "gn:latitude":35.98957,
+    "gn:longitude":43.4248,
+    "gn:modification_date":"2016-11-16",
+    "gn:name":"Qaryat S\u0101k\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0633\u0627\u0643\u064a\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Saq\u00eee"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u0627\u0642\u064a\u06d5"
+    ],
+    "name:und_x_variant":[
+        "S\u0101k\u012byah",
+        "S\u0101qiyah",
+        "Saqia",
+        "Qaryat S\u0101k\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91553
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ea8c03b9137b58c002656d78de584621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562779,
+            "locality_id":1293861939,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1293861939,
+    "wof:lastmodified":1537637978,
+    "wof:name":"Qaryat Sakiyah",
+    "wof:parent_id":1108562779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4248,
+    35.98957,
+    43.4248,
+    35.98957
+],
+  "geometry": {"coordinates":[43.4248,35.98957],"type":"Point"}
+}

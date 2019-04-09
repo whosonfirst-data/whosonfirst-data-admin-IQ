@@ -1,0 +1,79 @@
+{
+  "id": 1209319463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.56765,35.22183,45.56765,35.22183",
+    "geom:latitude":35.22183,
+    "geom:longitude":45.56765,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Mijah Kumiri al 'Ulya",
+    "gn:country_code":"IQ",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7455003,
+    "gn:latitude":35.22183,
+    "gn:longitude":45.56765,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mijah K\u016bm\u012br\u012b al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0629 \u0643\u0648\u0645\u064a\u0631\u064a \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Miche Kw\u00ear\u00ee Ser\u00fb"
+    ],
+    "name:kur_x_variant":[
+        "Miche Kw\u00ear",
+        "\u0645\u0686\u06d5 \u0643\u0648\u06ce\u0631\u0649 \u0633\u06d5\u0631\u0648\u0648",
+        "\u0645\u0686\u06d5 \u0643\u0648\u06ce\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mijah K\u016bm\u012br\u012b al \u2018Uly\u0101",
+        "Mcha Kuer",
+        "Macah Kur",
+        "Nacah Kur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7455003
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d41a5f2593b964cbe197f234792b655c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209319463
+        }
+    ],
+    "wof:id":1209319463,
+    "wof:lastmodified":1537640058,
+    "wof:name":"Mijah Kumiri al 'Ulya",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.56765,
+    35.22183,
+    45.56765,
+    35.22183
+],
+  "geometry": {"coordinates":[45.56765,35.22183],"type":"Point"}
+}

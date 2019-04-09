@@ -1,0 +1,74 @@
+{
+  "id": 1276653491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.50664,32.9475,44.50664,32.9475",
+    "geom:latitude":32.9475,
+    "geom:longitude":44.50664,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Ni'mat 'Ali",
+    "gn:country_code":"IQ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6754023,
+    "gn:latitude":32.9475,
+    "gn:longitude":44.50664,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ni\u2018mat \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0639\u0645\u0629 \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ni\u2018mat \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754023
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c4742bd05bbe2fc2d2cff3bc2c046c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1276653491,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1276653491,
+    "wof:lastmodified":1537639171,
+    "wof:name":"Ni'mat 'Ali",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.50664,
+    32.9475,
+    44.50664,
+    32.9475
+],
+  "geometry": {"coordinates":[44.50664,32.9475],"type":"Point"}
+}

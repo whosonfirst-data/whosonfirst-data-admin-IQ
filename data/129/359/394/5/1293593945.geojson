@@ -1,0 +1,81 @@
+{
+  "id": 1293593945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.325,35.18232,45.325,35.18232",
+    "geom:latitude":35.18232,
+    "geom:longitude":45.325,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Hazar Kani",
+    "gn:country_code":"IQ",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95839,
+    "gn:latitude":35.18232,
+    "gn:longitude":45.325,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Haz\u0101r K\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0632\u0627\u0631 \u0643\u0627\u0646\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Hezar Kan\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0647\u06d5\u0632\u0627\u0631 \u0643\u0627\u0646\u0649"
+    ],
+    "name:und_x_variant":[
+        "Haz\u0101r K\u0101n\u012b",
+        "Hazar Kany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95839
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e37dcaac2455633f2b74ed21bc33f76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1293593945,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1293593945,
+    "wof:lastmodified":1537638338,
+    "wof:name":"Hazar Kani",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.325,
+    35.18232,
+    45.325,
+    35.18232
+],
+  "geometry": {"coordinates":[45.325,35.18232],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310082045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.62,35.68472,44.62,35.68472",
+    "geom:latitude":35.68472,
+    "geom:longitude":44.62,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"94786.0",
+    "gn:asciiname":"Mama Rasn",
+    "gn:country_code":"IQ",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":384617,
+    "gn:latitude":35.68472,
+    "gn:longitude":44.62,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"M\u0101ma Rasn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "M\u0101ma Rasn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        421199293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384617
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"82c4caf2b8d16ba6e084ae12e4cb92e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421199293,
+            "locality_id":1310082045,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1310082045,
+    "wof:lastmodified":1537638746,
+    "wof:name":"Mama Rasn",
+    "wof:parent_id":421199293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.62,
+    35.68472,
+    44.62,
+    35.68472
+],
+  "geometry": {"coordinates":[44.62,35.68472],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226511951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98944,32.92472,44.98944,32.92472",
+    "geom:latitude":32.92472,
+    "geom:longitude":44.98944,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"9166961.0",
+    "gn:asciiname":"Al Qataniyah",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99007,
+    "gn:latitude":32.92472,
+    "gn:longitude":44.98944,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qa\u0163an\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u0163an\u012byah",
+        "Gataniya",
+        "Al Qa\u0163an\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99007
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d1266c4448c25db2ca7b75be3affbf59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562781,
+            "locality_id":1226511951,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1226511951,
+    "wof:lastmodified":1537638646,
+    "wof:name":"Al Qataniyah",
+    "wof:parent_id":1108562781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98944,
+    32.92472,
+    44.98944,
+    32.92472
+],
+  "geometry": {"coordinates":[44.98944,32.92472],"type":"Point"}
+}

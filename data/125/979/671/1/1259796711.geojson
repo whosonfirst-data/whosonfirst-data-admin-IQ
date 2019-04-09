@@ -1,0 +1,74 @@
+{
+  "id": 1259796711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3792,30.1174,48.3792,30.1174",
+    "geom:latitude":30.1174,
+    "geom:longitude":48.3792,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"9166549.0",
+    "gn:asciiname":"Manaril ol Gheybani",
+    "gn:country_code":"IQ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687594,
+    "gn:latitude":30.1174,
+    "gn:longitude":48.3792,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Man\u0101r\u012bl ol Gheyb\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0627\u0631\u06cc\u0644 \u0627\u0644\u063a\u06cc\u0628\u0627\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Man\u0101r\u012bl ol Gheyb\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687594
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"983aa5b14bfd9b6fa29cbe953de021b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562737,
+            "locality_id":1259796711,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1259796711,
+    "wof:lastmodified":1537639115,
+    "wof:name":"Manaril ol Gheybani",
+    "wof:parent_id":1108562737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3792,
+    30.1174,
+    48.3792,
+    30.1174
+],
+  "geometry": {"coordinates":[48.3792,30.1174],"type":"Point"}
+}

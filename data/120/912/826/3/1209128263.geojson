@@ -1,0 +1,68 @@
+{
+  "id": 1209128263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3312,32.72152,44.3312,32.72152",
+    "geom:latitude":32.72152,
+    "geom:longitude":44.3312,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"Qaryat as Subbar",
+    "gn:country_code":"IQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817955,
+    "gn:latitude":32.72152,
+    "gn:longitude":44.3312,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat a\u015f \u015eubb\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0635\u0628\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qaryat a\u015f \u015eubb\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817955
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3feb58331131fb1564835e5df954148b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209128263
+        }
+    ],
+    "wof:id":1209128263,
+    "wof:lastmodified":1537639642,
+    "wof:name":"Qaryat as Subbar",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3312,
+    32.72152,
+    44.3312,
+    32.72152
+],
+  "geometry": {"coordinates":[44.3312,32.72152],"type":"Point"}
+}

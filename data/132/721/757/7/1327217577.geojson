@@ -1,0 +1,74 @@
+{
+  "id": 1327217577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35594,33.69527,45.35594,33.69527",
+    "geom:latitude":33.69527,
+    "geom:longitude":45.35594,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Hadi Bathan",
+    "gn:country_code":"IQ",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6835586,
+    "gn:latitude":33.69527,
+    "gn:longitude":45.35594,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"H\u0101d\u012b Ba\u0163h\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u062f\u064a \u0628\u0622\u0647\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "H\u0101d\u012b Ba\u0163h\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6835586
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"32125fa5abbaa1c32fb649cd84f58ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1327217577,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1327217577,
+    "wof:lastmodified":1537639685,
+    "wof:name":"Hadi Bathan",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35594,
+    33.69527,
+    45.35594,
+    33.69527
+],
+  "geometry": {"coordinates":[45.35594,33.69527],"type":"Point"}
+}

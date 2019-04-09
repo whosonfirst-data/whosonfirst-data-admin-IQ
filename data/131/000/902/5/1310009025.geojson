@@ -1,0 +1,74 @@
+{
+  "id": 1310009025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.80519,30.49981,47.80519,30.49981",
+    "geom:latitude":30.49981,
+    "geom:longitude":47.80519,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"99534.0",
+    "gn:asciiname":"Akhawat Razanah",
+    "gn:country_code":"IQ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99650,
+    "gn:latitude":30.49981,
+    "gn:longitude":47.80519,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Akhaw\u0101t Razanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makina",
+        "Subkhaiya",
+        "Ikhwat Razana",
+        "Akhaw\u0101t Razanah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99650
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"47f5d971056f0c45b953ff68cb9bd032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562731,
+            "locality_id":1310009025,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1310009025,
+    "wof:lastmodified":1537638691,
+    "wof:name":"Akhawat Razanah",
+    "wof:parent_id":1108562731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.80519,
+    30.49981,
+    47.80519,
+    30.49981
+],
+  "geometry": {"coordinates":[47.80519,30.49981],"type":"Point"}
+}

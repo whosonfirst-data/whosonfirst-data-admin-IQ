@@ -1,0 +1,74 @@
+{
+  "id": 1343459289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.62249,32.12517,44.62249,32.12517",
+    "geom:latitude":32.12517,
+    "geom:longitude":44.62249,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"Al 'Arjah",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789032,
+    "gn:latitude":32.12517,
+    "gn:longitude":44.62249,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u2018Arjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Arjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789032
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"364727fd09e2a5ce221b0c2f64e3fbc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1343459289,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1343459289,
+    "wof:lastmodified":1537639463,
+    "wof:name":"Al 'Arjah",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.62249,
+    32.12517,
+    44.62249,
+    32.12517
+],
+  "geometry": {"coordinates":[44.62249,32.12517],"type":"Point"}
+}

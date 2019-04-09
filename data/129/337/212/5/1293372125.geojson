@@ -1,0 +1,74 @@
+{
+  "id": 1293372125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.2656,32.71448,45.2656,32.71448",
+    "geom:latitude":32.71448,
+    "geom:longitude":45.2656,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98460.0",
+    "gn:asciiname":"Dawud as Su'ud",
+    "gn:country_code":"IQ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6733657,
+    "gn:latitude":32.71448,
+    "gn:longitude":45.2656,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Daw\u016bd as Su\u2018\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0648\u062f \u0627\u0644\u0633\u0639\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Daw\u016bd as Su\u2018\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6733657
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4f02b6b542d56ef999dc38d1c9f430f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562781,
+            "locality_id":1293372125,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1293372125,
+    "wof:lastmodified":1537639139,
+    "wof:name":"Dawud as Su'ud",
+    "wof:parent_id":1108562781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.2656,
+    32.71448,
+    45.2656,
+    32.71448
+],
+  "geometry": {"coordinates":[45.2656,32.71448],"type":"Point"}
+}

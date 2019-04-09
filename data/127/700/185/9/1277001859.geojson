@@ -1,0 +1,87 @@
+{
+  "id": 1277001859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.37902,37.07525,42.37902,37.07525",
+    "geom:latitude":37.07525,
+    "geom:longitude":42.37902,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Fish Xabur",
+    "gn:country_code":"IQ",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96735,
+    "gn:latitude":37.07525,
+    "gn:longitude":42.37902,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Fish Xabur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Damascus",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0634 \u062e\u0627\u0628\u0648\u0631"
+    ],
+    "name:ara_x_variant":[
+        "F\u012bsh Kh\u0101b\u016br"
+    ],
+    "name:kur_x_preferred":[
+        "Fish Khabur"
+    ],
+    "name:kur_x_variant":[
+        "Fish Xabur",
+        "\u0641\u0634 \u062e\u0627\u0628\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Pesh Kh\u0101b\u016br",
+        "Faish Kh\u0101b\u016br",
+        "Faysh Kh\u0101b\u016br",
+        "Fish Khabur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        890445289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96735,
+        "wk:page":"Faysh_Khabur"
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b325a9186c380258d41765613ec46138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445289,
+            "locality_id":1277001859,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1277001859,
+    "wof:lastmodified":1537638424,
+    "wof:name":"Fish Xabur",
+    "wof:parent_id":890445289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.37902,
+    37.07525,
+    42.37902,
+    37.07525
+],
+  "geometry": {"coordinates":[42.37902,37.07525],"type":"Point"}
+}

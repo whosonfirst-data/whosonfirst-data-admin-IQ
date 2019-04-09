@@ -1,0 +1,74 @@
+{
+  "id": 1310301763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26847,33.17482,44.26847,33.17482",
+    "geom:latitude":33.17482,
+    "geom:longitude":44.26847,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Qaryat Umkatimah",
+    "gn:country_code":"IQ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6927621,
+    "gn:latitude":33.17482,
+    "gn:longitude":44.26847,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Umka\u0163\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0645\u0643\u0637\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Umka\u0163\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6927621
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fdf55960897cf1d0c8dd126c16b205a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1310301763,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1310301763,
+    "wof:lastmodified":1537639844,
+    "wof:name":"Qaryat Umkatimah",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26847,
+    33.17482,
+    44.26847,
+    33.17482
+],
+  "geometry": {"coordinates":[44.26847,33.17482],"type":"Point"}
+}

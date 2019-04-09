@@ -1,0 +1,74 @@
+{
+  "id": 1326531871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.09104,31.62828,45.09104,31.62828",
+    "geom:latitude":31.62828,
+    "geom:longitude":45.09104,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9166568.0",
+    "gn:asciiname":"Sayyid Husayn",
+    "gn:country_code":"IQ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731855,
+    "gn:latitude":31.62828,
+    "gn:longitude":45.09104,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sayyid \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f \u062d\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sayyid \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731855
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fb2b3b176e1e43bfe3b5743b90cc42f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562705,
+            "locality_id":1326531871,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1326531871,
+    "wof:lastmodified":1537639131,
+    "wof:name":"Sayyid Husayn",
+    "wof:parent_id":1108562705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.09104,
+    31.62828,
+    45.09104,
+    31.62828
+],
+  "geometry": {"coordinates":[45.09104,31.62828],"type":"Point"}
+}

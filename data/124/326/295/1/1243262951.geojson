@@ -1,0 +1,89 @@
+{
+  "id": 1243262951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.29044,34.58444,45.29044,34.58444",
+    "geom:latitude":34.58444,
+    "geom:longitude":45.29044,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Kirdah Mawzinah",
+    "gn:country_code":"IQ",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96373,
+    "gn:latitude":34.58444,
+    "gn:longitude":45.29044,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kirdah Mawz\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u06af\u0631\u062f\u0629 \u06af\u0648\u0632\u064a\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0631\u062f\u0629 \u0643\u0648\u0632\u064a\u0646\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Girde Goz\u00eene"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u0631\u062f\u06d5 \u06af\u06c6\u0632\u064a\u0646\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Gurda Gozinab",
+        "G\u016brda Gozina",
+        "Girdah Gawz\u012bnah",
+        "Girda Gozina",
+        "Kirdah Mawz\u012bnah",
+        "Kirdah Kawz\u012bnah",
+        "\u0643\u0631\u062f\u0629 \u0645\u0648\u0632\u064a\u0646\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96373
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e776dd85c848dcd5014728f5a057bfa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1243262951,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1243262951,
+    "wof:lastmodified":1537638382,
+    "wof:name":"Kirdah Mawzinah",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.29044,
+    34.58444,
+    45.29044,
+    34.58444
+],
+  "geometry": {"coordinates":[45.29044,34.58444],"type":"Point"}
+}

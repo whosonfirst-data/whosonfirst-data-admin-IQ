@@ -1,0 +1,74 @@
+{
+  "id": 1310277387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.29054,32.43591,46.29054,32.43591",
+    "geom:latitude":32.43591,
+    "geom:longitude":46.29054,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"99132.0",
+    "gn:asciiname":"Khara'ib Jabar Shari",
+    "gn:country_code":"IQ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6764019,
+    "gn:latitude":32.43591,
+    "gn:longitude":46.29054,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khar\u0101\u2019ib Jabar Shar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0623\u0626\u0628 \u062c\u0628\u0631 \u0634\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101\u2019ib Jabar Shar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        421186459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6764019
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"83cc7bcfdd04e5e2b11eaec71a779f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186459,
+            "locality_id":1310277387,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1310277387,
+    "wof:lastmodified":1537639235,
+    "wof:name":"Khara'ib Jabar Shari",
+    "wof:parent_id":421186459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.29054,
+    32.43591,
+    46.29054,
+    32.43591
+],
+  "geometry": {"coordinates":[46.29054,32.43591],"type":"Point"}
+}

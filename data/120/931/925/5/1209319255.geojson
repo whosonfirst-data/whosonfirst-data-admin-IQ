@@ -1,0 +1,72 @@
+{
+  "id": 1209319255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08431,35.85252,45.08431,35.85252",
+    "geom:latitude":35.85252,
+    "geom:longitude":45.08431,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Khurluk Saru",
+    "gn:country_code":"IQ",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":417170,
+    "gn:latitude":35.85252,
+    "gn:longitude":45.08431,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khurl\u016bk Sar\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u062f\u0644\u0648\u0643 \u0633\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Khuroa Luk",
+        "Khurdal\u016bk Sar\u016b",
+        "Khurdal\u016bk-i Sar\u016b",
+        "Khurdal\u016bk Sar\u016b al \u2018Uly\u0101",
+        "\u062e\u0631\u062f\u0644\u0648\u0643 \u0633\u0631\u0648 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":417170
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a37d1e84332e0fa176d548f2f122d33b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209319255
+        }
+    ],
+    "wof:id":1209319255,
+    "wof:lastmodified":1537638858,
+    "wof:name":"Khurluk Saru",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08431,
+    35.85252,
+    45.08431,
+    35.85252
+],
+  "geometry": {"coordinates":[45.08431,35.85252],"type":"Point"}
+}

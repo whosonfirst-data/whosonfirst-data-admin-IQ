@@ -1,0 +1,81 @@
+{
+  "id": 1344133351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0927,35.6898,44.0927,35.6898",
+    "geom:latitude":35.6898,
+    "geom:longitude":44.0927,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9171727.0",
+    "gn:asciiname":"Khazraj",
+    "gn:country_code":"IQ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6768318,
+    "gn:latitude":35.6898,
+    "gn:longitude":44.0927,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khazraj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0632\u0631\u062c"
+    ],
+    "name:kur_x_preferred":[
+        "Xazreg"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u0627\u0632\u0631\u06d5\u06af"
+    ],
+    "name:und_x_variant":[
+        "Khazrag",
+        "Khazraj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6768318
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f241e8e2df5ea8989a4e437853762d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562807,
+            "locality_id":1344133351,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1344133351,
+    "wof:lastmodified":1537639240,
+    "wof:name":"Khazraj",
+    "wof:parent_id":1108562807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0927,
+    35.6898,
+    44.0927,
+    35.6898
+],
+  "geometry": {"coordinates":[44.0927,35.6898],"type":"Point"}
+}

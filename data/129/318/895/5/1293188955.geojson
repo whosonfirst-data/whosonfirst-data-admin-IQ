@@ -1,0 +1,83 @@
+{
+  "id": 1293188955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.94529,36.6017,44.94529,36.6017",
+    "geom:latitude":36.6017,
+    "geom:longitude":44.94529,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166586.0",
+    "gn:asciiname":"Maranah",
+    "gn:country_code":"IQ",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93664,
+    "gn:latitude":36.6017,
+    "gn:longitude":44.94529,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Mar\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u0646\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Maran"
+    ],
+    "name:kur_x_variant":[
+        "Me\u1e5fan",
+        "\u0645\u0627\u0631\u0627\u0646",
+        "\u0645\u06d5\u0695\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mar\u0101nah",
+        "Marana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93664
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7994f41ec98dd933ba291b22cf7a7bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562749,
+            "locality_id":1293188955,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1293188955,
+    "wof:lastmodified":1537638155,
+    "wof:name":"Maranah",
+    "wof:parent_id":1108562749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.94529,
+    36.6017,
+    44.94529,
+    36.6017
+],
+  "geometry": {"coordinates":[44.94529,36.6017],"type":"Point"}
+}

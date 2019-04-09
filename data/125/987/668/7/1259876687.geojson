@@ -1,0 +1,74 @@
+{
+  "id": 1259876687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24927,33.0316,44.24927,33.0316",
+    "geom:latitude":33.0316,
+    "geom:longitude":44.24927,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"'Arab 'Abbas Kazim",
+    "gn:country_code":"IQ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6927530,
+    "gn:latitude":33.0316,
+    "gn:longitude":44.24927,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab \u2018Abb\u0101s K\u0101z\u0327im",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0639\u0628\u0627\u0633 \u0643\u0627\u0638\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab \u2018Abb\u0101s K\u0101z\u0327im"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6927530
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3030e05a8fa49a54cb5af2ce9099b296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1259876687,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1259876687,
+    "wof:lastmodified":1537639840,
+    "wof:name":"'Arab 'Abbas Kazim",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24927,
+    33.0316,
+    44.24927,
+    33.0316
+],
+  "geometry": {"coordinates":[44.24927,33.0316],"type":"Point"}
+}

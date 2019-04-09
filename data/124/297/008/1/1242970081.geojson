@@ -1,0 +1,82 @@
+{
+  "id": 1242970081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.57486,35.57945,45.57486,35.57945",
+    "geom:latitude":35.57945,
+    "geom:longitude":45.57486,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"'Azahban",
+    "gn:country_code":"IQ",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98282,
+    "gn:latitude":35.57945,
+    "gn:longitude":45.57486,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018\u0100zahb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0627\u0632\u0647 \u0628\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "\u2018Azeban"
+    ],
+    "name:kur_x_variant":[
+        "\u0639\u0627\u0632\u06d5\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018\u0100zahb\u0101n",
+        "\u0100zab\u0101n",
+        "Azaban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98282
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"129032eb88dd42a79caf296454700076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1242970081,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1242970081,
+    "wof:lastmodified":1537638594,
+    "wof:name":"'Azahban",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.57486,
+    35.57945,
+    45.57486,
+    35.57945
+],
+  "geometry": {"coordinates":[45.57486,35.57945],"type":"Point"}
+}

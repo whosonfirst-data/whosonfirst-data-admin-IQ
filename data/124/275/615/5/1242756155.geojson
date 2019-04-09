@@ -1,0 +1,83 @@
+{
+  "id": 1242756155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38726,35.82195,43.38726,35.82195",
+    "geom:latitude":35.82195,
+    "geom:longitude":43.38726,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"93817.0",
+    "gn:asciiname":"Qaryat al Khalidiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94650,
+    "gn:latitude":35.82195,
+    "gn:longitude":43.38726,
+    "gn:modification_date":"2016-11-16",
+    "gn:name":"Qaryat al Kh\u0101lid\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u062e\u0627\u0644\u062f\u064a\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Xald\u00eee"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u0627\u0644\u062f\u064a\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Al Kh\u0101lid\u012byah",
+        "Kh\u0101land\u012byah",
+        "Khaldia",
+        "Qaryat al Kh\u0101lid\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94650
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"84b3a88ba6e66dca5ab3868e0ef86689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562779,
+            "locality_id":1242756155,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1242756155,
+    "wof:lastmodified":1537638243,
+    "wof:name":"Qaryat al Khalidiyah",
+    "wof:parent_id":1108562779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38726,
+    35.82195,
+    43.38726,
+    35.82195
+],
+  "geometry": {"coordinates":[43.38726,35.82195],"type":"Point"}
+}

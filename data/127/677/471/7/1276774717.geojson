@@ -1,0 +1,74 @@
+{
+  "id": 1276774717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.30674,31.46091,45.30674,31.46091",
+    "geom:latitude":31.46091,
+    "geom:longitude":45.30674,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9166568.0",
+    "gn:asciiname":"Muhammad 'Arfash",
+    "gn:country_code":"IQ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6776276,
+    "gn:latitude":31.46091,
+    "gn:longitude":45.30674,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29ammad \u2018Arfash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u062f \u0639\u0631\u0641\u0634"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e29ammad \u2018Arfash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6776276
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ed4be7ac83b860115efa8889fffde7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562705,
+            "locality_id":1276774717,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1276774717,
+    "wof:lastmodified":1537639276,
+    "wof:name":"Muhammad 'Arfash",
+    "wof:parent_id":1108562705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.30674000000001,
+    31.46091,
+    45.30674000000001,
+    31.46091
+],
+  "geometry": {"coordinates":[45.30674000000001,31.46091],"type":"Point"}
+}

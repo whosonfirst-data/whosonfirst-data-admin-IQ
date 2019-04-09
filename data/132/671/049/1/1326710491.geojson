@@ -1,0 +1,75 @@
+{
+  "id": 1326710491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0891,32.62638,44.0891,32.62638",
+    "geom:latitude":32.62638,
+    "geom:longitude":44.0891,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"94822.0",
+    "gn:asciiname":"Bustan 'Ali al Jasm",
+    "gn:country_code":"IQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387202,
+    "gn:latitude":32.62638,
+    "gn:longitude":44.0891,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bust\u0101n \u2018Al\u012b al Jasm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u062a\u0627\u0646 \u0639\u0644\u064a \u0627\u0644\u062c\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "Bust\u0101n \u2018Ali al J\u0101sim",
+        "Bust\u0101n \u2018Al\u012b al Jasm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672443,
+        421194967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387202
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1662e4dad836c8a861aa141afa711b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421194967,
+            "locality_id":1326710491,
+            "region_id":85672443
+        }
+    ],
+    "wof:id":1326710491,
+    "wof:lastmodified":1537638796,
+    "wof:name":"Bustan 'Ali al Jasm",
+    "wof:parent_id":421194967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0891,
+    32.62638,
+    44.0891,
+    32.62638
+],
+  "geometry": {"coordinates":[44.0891,32.62638],"type":"Point"}
+}

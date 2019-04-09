@@ -1,0 +1,68 @@
+{
+  "id": 1209083473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13529,32.60516,44.13529,32.60516",
+    "geom:latitude":32.60516,
+    "geom:longitude":44.13529,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"94822.0",
+    "gn:asciiname":"'Abd Salim Shinafah",
+    "gn:country_code":"IQ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387195,
+    "gn:latitude":32.60516,
+    "gn:longitude":44.13529,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abd S\u0101lim Shin\u0101fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f \u0633\u0627\u0644\u0645 \u0634\u0646\u0627\u0641\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abd S\u0101lim Shin\u0101fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387195
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bd006be21d270c359f1cbdb314d28658",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209083473
+        }
+    ],
+    "wof:id":1209083473,
+    "wof:lastmodified":1537638795,
+    "wof:name":"'Abd Salim Shinafah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13529000000001,
+    32.60516,
+    44.13529000000001,
+    32.60516
+],
+  "geometry": {"coordinates":[44.13529000000001,32.60516],"type":"Point"}
+}

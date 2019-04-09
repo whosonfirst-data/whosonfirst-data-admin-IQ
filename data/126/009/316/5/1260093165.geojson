@@ -1,0 +1,76 @@
+{
+  "id": 1260093165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.39851,30.18982,48.39851,30.18982",
+    "geom:latitude":30.18982,
+    "geom:longitude":48.39851,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"9166549.0",
+    "gn:asciiname":"Mu'awiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92354,
+    "gn:latitude":30.18982,
+    "gn:longitude":48.39851,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u2018aw\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0648\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mu\u2018\u0101v\u012byeh",
+        "Mu\u2018aw\u012byah",
+        "Qaryat Mu\u2018\u0101wiyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92354
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"57f9175d4caeb158049e9b58d82166d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562737,
+            "locality_id":1260093165,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1260093165,
+    "wof:lastmodified":1537638036,
+    "wof:name":"Mu'awiyah",
+    "wof:parent_id":1108562737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.39851,
+    30.18982,
+    48.39851,
+    30.18982
+],
+  "geometry": {"coordinates":[48.39851,30.18982],"type":"Point"}
+}

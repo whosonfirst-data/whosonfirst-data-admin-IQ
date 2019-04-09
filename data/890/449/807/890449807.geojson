@@ -1,0 +1,107 @@
+{
+  "id": 890449807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27857,32.71557,44.27857,32.71557",
+    "geom:latitude":32.71557,
+    "geom:longitude":44.27857,
+    "gn:country":"IQ",
+    "gn:fcode":"PPL",
+    "gn:pop":30622,
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0646\u062f\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Hindiya"
+    ],
+    "name:eng_x_preferred":[
+        "Hindiya"
+    ],
+    "name:ger_x_preferred":[
+        "Hindiya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e0\u05d3\u05d9\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Hindiyya"
+    ],
+    "name:per_x_preferred":[
+        "\u0637\u0648\u0627\u0631\u06cc\u062c"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Hindijja"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0438\u043d\u0434\u0438\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Hindiyya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0413\u0456\u043d\u0434\u0456\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Hind\u012bya"
+    ],
+    "qs:name":"N\u0101\u1e29\u012byat Saddat al Hind\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421172849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99344,
+        "gp:id":1977336,
+        "qs:id":62231,
+        "qs_pg:id":512360,
+        "wd:id":"Q2617657"
+    },
+    "wof:country":"IQ",
+    "wof:created":1469052711,
+    "wof:geomhash":"c755a4c1fdf736441725423dae43e3fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172849,
+            "locality_id":890449807,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":890449807,
+    "wof:lastmodified":1514454992,
+    "wof:name":"N\u0101\u1e29\u012byat Saddat al Hind\u012byah",
+    "wof:parent_id":421172849,
+    "wof:placetype":"locality",
+    "wof:population":30622,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27857,
+    32.71557,
+    44.27857,
+    32.71557
+],
+  "geometry": {"coordinates":[44.27857,32.71557],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242583773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.95,31.7,44.95,31.7",
+    "geom:latitude":31.7,
+    "geom:longitude":44.95,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"6850588.0",
+    "gn:asciiname":"Rikan",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91960,
+    "gn:latitude":31.7,
+    "gn:longitude":44.95,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"R\u012bk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "R\u012bk\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Raik\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91960
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0f4c839aa19f3020ca07615c218e7acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562701,
+            "locality_id":1242583773,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1242583773,
+    "wof:lastmodified":1537638001,
+    "wof:name":"Rikan",
+    "wof:parent_id":1108562701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.95,
+    31.7,
+    44.95,
+    31.7
+],
+  "geometry": {"coordinates":[44.95,31.7],"type":"Point"}
+}

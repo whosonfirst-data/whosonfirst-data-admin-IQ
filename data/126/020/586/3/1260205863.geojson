@@ -1,0 +1,84 @@
+{
+  "id": 1260205863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.90594,36.86985,42.90594,36.86985",
+    "geom:latitude":36.86985,
+    "geom:longitude":42.90594,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9166607.0",
+    "gn:asciiname":"Hawshik",
+    "gn:country_code":"IQ",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7046761,
+    "gn:latitude":36.86985,
+    "gn:longitude":42.90594,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28awshik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0634\u0643"
+    ],
+    "name:kur_x_preferred":[
+        "Mushik"
+    ],
+    "name:kur_x_variant":[
+        "\u1e26ewshik J\u00ear\u00ee",
+        "\u062d\u06d5\u0648\u0634\u0643 \u0698\u06ce\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "\u1e28awshik",
+        "\u062d\u0648\u0634\u0643",
+        "M\u016bshik",
+        "Mushk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        1108562637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7046761
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e04a9b48624ad3311aabedc3e2cf4be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562637,
+            "locality_id":1260205863,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1260205863,
+    "wof:lastmodified":1537639964,
+    "wof:name":"Hawshik",
+    "wof:parent_id":1108562637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.90594,
+    36.86985,
+    42.90594,
+    36.86985
+],
+  "geometry": {"coordinates":[42.90594,36.86985],"type":"Point"}
+}

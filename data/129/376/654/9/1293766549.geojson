@@ -1,0 +1,82 @@
+{
+  "id": 1293766549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03834,36.61045,43.03834,36.61045",
+    "geom:latitude":36.61045,
+    "geom:longitude":43.03834,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166618.0",
+    "gn:asciiname":"Tall Sin",
+    "gn:country_code":"IQ",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90339,
+    "gn:latitude":36.61045,
+    "gn:longitude":43.03834,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Tall Sin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0633\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Tl Sen"
+    ],
+    "name:kur_x_variant":[
+        "\u062a\u0644 \u0633\u06d5\u0646"
+    ],
+    "name:und_x_variant":[
+        "Til Sin",
+        "Tall S\u012bn",
+        "Tall Sin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90339
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1cad9710b36d40f16975b8f42f0d7753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562629,
+            "locality_id":1293766549,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1293766549,
+    "wof:lastmodified":1537637855,
+    "wof:name":"Tall Sin",
+    "wof:parent_id":1108562629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03834000000001,
+    36.61045,
+    43.03834000000001,
+    36.61045
+],
+  "geometry": {"coordinates":[43.03834000000001,36.61045],"type":"Point"}
+}

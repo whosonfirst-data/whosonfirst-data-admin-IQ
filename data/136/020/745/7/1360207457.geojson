@@ -1,0 +1,74 @@
+{
+  "id": 1360207457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.71389,35.37778,45.71389,35.37778",
+    "geom:latitude":35.37778,
+    "geom:longitude":45.71389,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Bingird",
+    "gn:country_code":"IQ",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":384618,
+    "gn:latitude":35.37778,
+    "gn:longitude":45.71389,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bingird",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kur_x_preferred":[
+        "Bingird\u00ee Muwan"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u0646\u06af\u0631\u062f\u0649 \u0645\u0648\u0648\u0627\u0646",
+        "\u0628\u0646\u06af\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384618
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2439dfc11c33692cfe951fea2b1ab45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1360207457,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1360207457,
+    "wof:lastmodified":1537638746,
+    "wof:name":"Bingird",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.71389,
+    35.37778,
+    45.71389,
+    35.37778
+],
+  "geometry": {"coordinates":[45.71389,35.37778],"type":"Point"}
+}

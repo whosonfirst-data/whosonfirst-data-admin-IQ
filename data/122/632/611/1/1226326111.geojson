@@ -1,0 +1,74 @@
+{
+  "id": 1226326111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.40942,31.68075,47.40942,31.68075",
+    "geom:latitude":31.68075,
+    "geom:longitude":47.40942,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9166557.0",
+    "gn:asciiname":"'Arab Ghadban",
+    "gn:country_code":"IQ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819093,
+    "gn:latitude":31.68075,
+    "gn:longitude":47.40942,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab Gha\u1e11b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u063a\u0636\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab Gha\u1e11b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819093
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ff44f52187c1b340501798b7a20e324b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562711,
+            "locality_id":1226326111,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1226326111,
+    "wof:lastmodified":1537639667,
+    "wof:name":"'Arab Ghadban",
+    "wof:parent_id":1108562711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.40942,
+    31.68075,
+    47.40942,
+    31.68075
+],
+  "geometry": {"coordinates":[47.40942,31.68075],"type":"Point"}
+}

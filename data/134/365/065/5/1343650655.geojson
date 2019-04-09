@@ -1,0 +1,74 @@
+{
+  "id": 1343650655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35298,33.66567,45.35298,33.66567",
+    "geom:latitude":33.66567,
+    "geom:longitude":45.35298,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"'Ali al Mutlag",
+    "gn:country_code":"IQ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6835608,
+    "gn:latitude":33.66567,
+    "gn:longitude":45.35298,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Al\u012b al Mu\u0163lag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u0627\u0644\u0645\u0637\u0644\u06af"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b al Mu\u0163lag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6835608
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f6c7ef88175bd4817eca5f7f9581379c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1343650655,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1343650655,
+    "wof:lastmodified":1537639686,
+    "wof:name":"'Ali al Mutlag",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35298,
+    33.66567,
+    45.35298,
+    33.66567
+],
+  "geometry": {"coordinates":[45.35298,33.66567],"type":"Point"}
+}

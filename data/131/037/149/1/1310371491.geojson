@@ -1,0 +1,74 @@
+{
+  "id": 1310371491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37397,34.3248,43.37397,34.3248",
+    "geom:latitude":34.3248,
+    "geom:longitude":43.37397,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"91594.0",
+    "gn:asciiname":"Khalil Mutlak",
+    "gn:country_code":"IQ",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6871471,
+    "gn:latitude":34.3248,
+    "gn:longitude":43.37397,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khal\u012bl Mu\u0163lak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u0644 \u0645\u0637\u0644\u0643"
+    ],
+    "name:und_x_variant":[
+        "Khal\u012bl Mu\u0163lak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6871471
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a0fe6e982e82b21251827c7a983d34bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562799,
+            "locality_id":1310371491,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1310371491,
+    "wof:lastmodified":1537639785,
+    "wof:name":"Khalil Mutlak",
+    "wof:parent_id":1108562799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37397,
+    34.3248,
+    43.37397,
+    34.3248
+],
+  "geometry": {"coordinates":[43.37397,34.3248],"type":"Point"}
+}

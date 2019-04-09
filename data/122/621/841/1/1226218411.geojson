@@ -1,0 +1,74 @@
+{
+  "id": 1226218411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76809,34.34941,43.76809,34.34941",
+    "geom:latitude":34.34941,
+    "geom:longitude":43.76809,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"91594.0",
+    "gn:asciiname":"Khalaf as Salih",
+    "gn:country_code":"IQ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6782939,
+    "gn:latitude":34.34941,
+    "gn:longitude":43.76809,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khalaf a\u015f \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0641 \u0627\u0644\u0635\u0627\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "Khalaf a\u015f \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6782939
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d5cfe3a5c50933e38b4be905b7b3c0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562799,
+            "locality_id":1226218411,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1226218411,
+    "wof:lastmodified":1537639348,
+    "wof:name":"Khalaf as Salih",
+    "wof:parent_id":1108562799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76809,
+    34.34941,
+    43.76809,
+    34.34941
+],
+  "geometry": {"coordinates":[43.76809,34.34941],"type":"Point"}
+}

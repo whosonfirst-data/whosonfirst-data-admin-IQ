@@ -1,0 +1,74 @@
+{
+  "id": 1293201211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.19642,32.06064,45.19642,32.06064",
+    "geom:latitude":32.06064,
+    "geom:longitude":45.19642,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99737.0",
+    "gn:asciiname":"Qaryat Al 'Awf",
+    "gn:country_code":"IQ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6739284,
+    "gn:latitude":32.06064,
+    "gn:longitude":45.19642,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat \u0100l \u2018Awf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644 \u0639\u0648\u0641"
+    ],
+    "name:und_x_variant":[
+        "Qaryat \u0100l \u2018Awf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6739284
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a2073359d9192ca065f30a4c430dd8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562687,
+            "locality_id":1293201211,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1293201211,
+    "wof:lastmodified":1537639155,
+    "wof:name":"Qaryat Al 'Awf",
+    "wof:parent_id":1108562687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.19642,
+    32.06064,
+    45.19642,
+    32.06064
+],
+  "geometry": {"coordinates":[45.19642,32.06064],"type":"Point"}
+}

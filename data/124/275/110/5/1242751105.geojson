@@ -1,0 +1,71 @@
+{
+  "id": 1242751105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24583,36.15944,43.24583,36.15944",
+    "geom:latitude":36.15944,
+    "geom:longitude":43.24583,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166649.0",
+    "gn:asciiname":"Al Ma'badi 2",
+    "gn:country_code":"IQ",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":445830,
+    "gn:latitude":36.15944,
+    "gn:longitude":43.24583,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Al Ma\u2018bad\u012b 2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Al Ma\u2018bad\u012b 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445830
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f7cea28c47f9a06a680c5f6f9fa177b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562633,
+            "locality_id":1242751105,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1242751105,
+    "wof:lastmodified":1537638935,
+    "wof:name":"Al Ma'badi 2",
+    "wof:parent_id":1108562633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24583,
+    36.15944,
+    43.24583,
+    36.15944
+],
+  "geometry": {"coordinates":[43.24583,36.15944],"type":"Point"}
+}

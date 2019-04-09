@@ -1,0 +1,81 @@
+{
+  "id": 1226018125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76134,36.42129,43.76134,36.42129",
+    "geom:latitude":36.42129,
+    "geom:longitude":43.76134,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Bayuk",
+    "gn:country_code":"IQ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445495,
+    "gn:latitude":36.42129,
+    "gn:longitude":43.76134,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bay\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0648\u0643"
+    ],
+    "name:kur_x_preferred":[
+        "Bayuk"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u0627\u064a\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "Baiok",
+        "Bay\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445495
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"83643e77150c894cd786e57fe2290afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1226018125,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1226018125,
+    "wof:lastmodified":1537638895,
+    "wof:name":"Bayuk",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76134,
+    36.42129,
+    43.76134,
+    36.42129
+],
+  "geometry": {"coordinates":[43.76134,36.42129],"type":"Point"}
+}

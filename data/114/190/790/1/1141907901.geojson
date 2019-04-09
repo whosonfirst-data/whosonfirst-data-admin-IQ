@@ -1,0 +1,212 @@
+{
+  "id": 1141907901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.2844555245,33.0384601024,40.2844555245,33.0384601024",
+    "geom:latitude":33.03846,
+    "geom:longitude":40.284456,
+    "iso:country":"IQ",
+    "lbl:latitude":33.03846,
+    "lbl:longitude":40.284456,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0637\u0628\u0629"
+    ],
+    "name:chi_x_preferred":[
+        "\u9b6f\u7279\u62dc"
+    ],
+    "name:cze_x_preferred":[
+        "Rutba"
+    ],
+    "name:dut_x_preferred":[
+        "Ar Rutba"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rutba"
+    ],
+    "name:fin_x_preferred":[
+        "Rutba"
+    ],
+    "name:fre_x_preferred":[
+        "Ar Rutba"
+    ],
+    "name:ger_x_preferred":[
+        "Ar-Rutba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30c8\u30d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u0440-\u0420\u0443\u0442\u0431\u0430"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0631\u0637\u0628\u0647"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0637\u0628\u0647"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0644\u0631\u0637\u0628\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Ar-Rutba"
+    ],
+    "name:rum_x_preferred":[
+        "Ar Rutba"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440-\u0420\u0443\u0442\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Ar Rutba"
+    ],
+    "name:swe_x_preferred":[
+        "Ar Rutba"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0631\u0637\u0628\u06c1"
+    ],
+    "name:wel_x_preferred":[
+        "Ar Rutbah"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Iraq",
+    "ne:ADM0_A3":"IRQ",
+    "ne:ADM1NAME":"Al-Anbar",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":98677,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Ar Rutbah",
+    "ne:GN_POP":22370,
+    "ne:GTOPO30":618.0,
+    "ne:ISO_A2":"IQ",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":33.03846,
+    "ne:LONGITUDE":40.284456,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Ar Rutbah",
+    "ne:MAX_AREAKM":7.0,
+    "ne:MAX_AREAMI":3.0,
+    "ne:MAX_BBXMAX":40.308333,
+    "ne:MAX_BBXMIN":40.258333,
+    "ne:MAX_BBYMAX":33.05,
+    "ne:MAX_BBYMIN":33.025,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":16.0,
+    "ne:MAX_PERMI":10.0,
+    "ne:MAX_POP10":12029,
+    "ne:MAX_POP20":12029,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":40.283333,
+    "ne:MEAN_BBYC":33.0375,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":7.0,
+    "ne:MIN_AREAMI":3.0,
+    "ne:MIN_BBXMAX":40.308333,
+    "ne:MIN_BBXMIN":40.258333,
+    "ne:MIN_BBYMAX":33.05,
+    "ne:MIN_BBYMIN":33.025,
+    "ne:MIN_PERKM":16.0,
+    "ne:MIN_PERMI":10.0,
+    "ne:NAME":"Ar Rutbah",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Ar Rutbah",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":22370,
+    "ne:POP_MIN":12029,
+    "ne:POP_OTHER":12029,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Iraq",
+    "ne:SOV_A3":"IRQ",
+    "ne:TIMEZONE":"Asia/Baghdad",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
+    "reversegeo:latitude":33.03846,
+    "reversegeo:longitude":40.284456,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        1108562667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1029634"
+    },
+    "wof:country":"IQ",
+    "wof:created":1499130785,
+    "wof:geomhash":"b9436275bfecce8af2f523115c856283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562667,
+            "locality_id":1141907901,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1141907901,
+    "wof:lastmodified":1514454982,
+    "wof:name":"Ar Rutbah",
+    "wof:parent_id":1108562667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.28445552446266,
+    33.03846010236219,
+    40.28445552446266,
+    33.03846010236219
+],
+  "geometry": {"coordinates":[40.28445552446266,33.03846010236219],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1226520465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.93168,36.73115,44.93168,36.73115",
+    "geom:latitude":36.73115,
+    "geom:longitude":44.93168,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166586.0",
+    "gn:asciiname":"Herane",
+    "gn:country_code":"IQ",
+    "gn:dem":1693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":447812,
+    "gn:latitude":36.73115,
+    "gn:longitude":44.93168,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Herane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0631\u0627\u0646\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Herane"
+    ],
+    "name:kur_x_variant":[
+        "\u06be\u06d5\u0631\u0627\u0646\u06d5",
+        "Harane",
+        "\u06be\u0627\u0631\u0627\u0646\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Har\u0101nah",
+        "Har\u0101na",
+        "Harana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447812
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b2e1000c9e4858e3887665bf82bfb020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562749,
+            "locality_id":1226520465,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1226520465,
+    "wof:lastmodified":1537639051,
+    "wof:name":"Herane",
+    "wof:parent_id":1108562749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.93168,
+    36.73115,
+    44.93168,
+    36.73115
+],
+  "geometry": {"coordinates":[44.93168,36.73115],"type":"Point"}
+}

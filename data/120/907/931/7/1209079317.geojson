@@ -1,0 +1,91 @@
+{
+  "id": 1209079317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01492,36.72619,44.01492,36.72619",
+    "geom:latitude":36.72619,
+    "geom:longitude":44.01492,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Bujil",
+    "gn:country_code":"IQ",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97552,
+    "gn:latitude":36.72619,
+    "gn:longitude":44.01492,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"B\u016bj\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062c\u064a\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u062c\u064a\u0644"
+    ],
+    "name:kur_x_colloquial":[
+        "\u0628\u062c\u06cc\u0644"
+    ],
+    "name:kur_x_historical":[
+        "\u0628\u062c\u06cc\u0644"
+    ],
+    "name:kur_x_preferred":[
+        "\u0628\u062c\u06cc\u0644"
+    ],
+    "name:kur_x_variant":[
+        "Bic\u00eal",
+        "Bic\u00eel",
+        "Nehle",
+        "\u0628\u062c\u06ce\u0644",
+        "\u0646\u06d5\u06be\u0644\u06d5"
+    ],
+    "name:und_x_variant":[
+        "B\u016bj\u012bl",
+        "Buj\u012bl",
+        "Bjil",
+        "Bjel",
+        "Bujil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97552
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"34ba0aeabad45d65fcd5a0976767f4b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209079317
+        }
+    ],
+    "wof:id":1209079317,
+    "wof:lastmodified":1537638508,
+    "wof:name":"Bujil",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01492,
+    36.72619,
+    44.01492,
+    36.72619
+],
+  "geometry": {"coordinates":[44.01492,36.72619],"type":"Point"}
+}

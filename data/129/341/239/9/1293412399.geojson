@@ -1,0 +1,75 @@
+{
+  "id": 1293412399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.87967,35.62555,44.87967,35.62555",
+    "geom:latitude":35.62555,
+    "geom:longitude":44.87967,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Kuchuk Naqshinah",
+    "gn:country_code":"IQ",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94202,
+    "gn:latitude":35.62555,
+    "gn:longitude":44.87967,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kuchuk Naqsh\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0686\u0643 \u0646\u0642\u0634\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "K\u016bchuk Naqshina",
+        "Kuchuk Naqsh\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94202
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0a18d3d9afb4d29f31d79b7a245681d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1293412399,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1293412399,
+    "wof:lastmodified":1537638202,
+    "wof:name":"Kuchuk Naqshinah",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.87967,
+    35.62555,
+    44.87967,
+    35.62555
+],
+  "geometry": {"coordinates":[44.87967,35.62555],"type":"Point"}
+}

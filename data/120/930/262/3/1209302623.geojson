@@ -1,0 +1,65 @@
+{
+  "id": 1209302623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45,36.95,44.45,36.95",
+    "geom:latitude":36.95,
+    "geom:longitude":44.45,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166592.0",
+    "gn:asciiname":"Imam Shah",
+    "gn:country_code":"IQ",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95478,
+    "gn:latitude":36.95,
+    "gn:longitude":44.45,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Im\u0101m Sh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Im\u0101m Sh\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95478
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a48f9efa9f9d603d7cf7df1e46514013",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209302623
+        }
+    ],
+    "wof:id":1209302623,
+    "wof:lastmodified":1537638318,
+    "wof:name":"Imam Shah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45,
+    36.95,
+    44.45,
+    36.95
+],
+  "geometry": {"coordinates":[44.45,36.95],"type":"Point"}
+}

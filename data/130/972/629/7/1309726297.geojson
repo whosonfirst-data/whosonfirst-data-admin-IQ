@@ -1,0 +1,74 @@
+{
+  "id": 1309726297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.53808,33.89039,42.53808,33.89039",
+    "geom:latitude":33.89039,
+    "geom:longitude":42.53808,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9166579.0",
+    "gn:asciiname":"Al Jathamiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6780292,
+    "gn:latitude":33.89039,
+    "gn:longitude":42.53808,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jath\u0101m\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u062b\u0627\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Jath\u0101m\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421177881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6780292
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"850c7be09f9c8a7005de5599b9db5299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421177881,
+            "locality_id":1309726297,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1309726297,
+    "wof:lastmodified":1537639294,
+    "wof:name":"Al Jathamiyah",
+    "wof:parent_id":421177881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.53808,
+    33.89039,
+    42.53808,
+    33.89039
+],
+  "geometry": {"coordinates":[42.53808,33.89039],"type":"Point"}
+}

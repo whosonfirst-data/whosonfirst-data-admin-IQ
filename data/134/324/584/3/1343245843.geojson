@@ -1,0 +1,76 @@
+{
+  "id": 1343245843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18333,34.01116,45.18333,34.01116",
+    "geom:latitude":34.01116,
+    "geom:longitude":45.18333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Ya'qub Yusuf Zabalah",
+    "gn:country_code":"IQ",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92343,
+    "gn:latitude":34.01116,
+    "gn:longitude":45.18333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ya\u2018q\u016bb Y\u016bsuf Zab\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0639\u0642\u0648\u0628 \u064a\u0648\u0633\u0641 \u0632\u0628\u0627\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Qarya Y\u016bsuf",
+        "Qaryat Y\u016bsuf",
+        "Ya\u2018q\u016bb Y\u016bsuf Zab\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92343
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e80b5abe15cf3c7f24718fd558f1d3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1343245843,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1343245843,
+    "wof:lastmodified":1537638035,
+    "wof:name":"Ya'qub Yusuf Zabalah",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18333,
+    34.01116,
+    45.18333,
+    34.01116
+],
+  "geometry": {"coordinates":[45.18333,34.01116],"type":"Point"}
+}

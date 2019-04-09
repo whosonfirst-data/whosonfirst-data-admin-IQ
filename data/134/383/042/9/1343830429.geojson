@@ -1,0 +1,74 @@
+{
+  "id": 1343830429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.82547,32.9127,44.82547,32.9127",
+    "geom:latitude":32.9127,
+    "geom:longitude":44.82547,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98460.0",
+    "gn:asciiname":"Bid'at Najris",
+    "gn:country_code":"IQ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6754269,
+    "gn:latitude":32.9127,
+    "gn:longitude":44.82547,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bid\u2018at Najris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062f\u0639\u0629 \u0646\u062c\u0631\u0633"
+    ],
+    "name:und_x_variant":[
+        "Bid\u2018at Najris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754269
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"213b338bf16eadebfdca6d6aa19d4aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562783,
+            "locality_id":1343830429,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1343830429,
+    "wof:lastmodified":1537639184,
+    "wof:name":"Bid'at Najris",
+    "wof:parent_id":1108562783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.82547,
+    32.9127,
+    44.82547,
+    32.9127
+],
+  "geometry": {"coordinates":[44.82547,32.9127],"type":"Point"}
+}

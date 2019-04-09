@@ -1,0 +1,81 @@
+{
+  "id": 1310477919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.56215,32.05335,44.56215,32.05335",
+    "geom:latitude":32.05335,
+    "geom:longitude":44.56215,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166629.0",
+    "gn:asciiname":"Al Mahnawiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99099,
+    "gn:latitude":32.05335,
+    "gn:longitude":44.56215,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mahn\u0101w\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u062d\u064a\u0629 \u0627\u0644\u0645\u0647\u0646\u0648\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Muhann\u0101w\u012bya",
+        "Al Mahn\u0101w\u012bya",
+        "Al Mah\u0101w\u012bya",
+        "Al Mahn\u0101w\u012byah",
+        "N\u0101\u1e29iyat al Mihn\u0101w\u012byah",
+        "Al Mihnaw\u012byah",
+        "Al Mhnaweyah",
+        "\u0627\u0644\u0645\u0647\u0646\u0648\u064a\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99099
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"51c23f7b83c99e3e43fad0b340b52c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562691,
+            "locality_id":1310477919,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1310477919,
+    "wof:lastmodified":1537638652,
+    "wof:name":"Al Mahnawiyah",
+    "wof:parent_id":1108562691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.56215,
+    32.05335,
+    44.56215,
+    32.05335
+],
+  "geometry": {"coordinates":[44.56215,32.05335],"type":"Point"}
+}

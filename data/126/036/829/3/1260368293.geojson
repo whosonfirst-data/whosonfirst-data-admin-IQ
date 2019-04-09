@@ -1,0 +1,85 @@
+{
+  "id": 1260368293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41169,36.29482,44.41169,36.29482",
+    "geom:latitude":36.29482,
+    "geom:longitude":44.41169,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166591.0",
+    "gn:asciiname":"Solawk",
+    "gn:country_code":"IQ",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446328,
+    "gn:latitude":36.29482,
+    "gn:longitude":44.41169,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Solawk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0644\u0627\u0648\u0643 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Solawk"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u06c6\u0644\u0627\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "S\u016bl\u0101wka-i Zh\u016br\u016b",
+        "S\u016bl\u0101waka-i Zh\u016br\u016b",
+        "S\u016bl\u0101wk \u2018Uly\u0101",
+        "Sulawk",
+        "\u0633\u0648\u0644\u0627\u0648\u0643 \u0639\u0644\u064a\u0627",
+        "S\u016bl\u0101wk al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446328
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1b3e6ac864a8e21a33903e0321c21cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562757,
+            "locality_id":1260368293,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1260368293,
+    "wof:lastmodified":1537638980,
+    "wof:name":"Solawk",
+    "wof:parent_id":1108562757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41169,
+    36.29482,
+    44.41169,
+    36.29482
+],
+  "geometry": {"coordinates":[44.41169,36.29482],"type":"Point"}
+}

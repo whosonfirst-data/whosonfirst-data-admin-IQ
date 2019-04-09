@@ -1,0 +1,74 @@
+{
+  "id": 1344074609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09798,33.5157,44.09798,33.5157",
+    "geom:latitude":33.5157,
+    "geom:longitude":44.09798,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"Majid Mahdi",
+    "gn:country_code":"IQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806139,
+    "gn:latitude":33.5157,
+    "gn:longitude":44.09798,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maj\u012bd Mahd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u064a\u062f \u0645\u0647\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Maj\u012bd Mahd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806139
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"473100a892da9802925f979248cf1b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1344074609,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1344074609,
+    "wof:lastmodified":1537639616,
+    "wof:name":"Majid Mahdi",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09798,
+    33.5157,
+    44.09798,
+    33.5157
+],
+  "geometry": {"coordinates":[44.09798,33.5157],"type":"Point"}
+}

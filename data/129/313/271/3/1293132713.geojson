@@ -1,0 +1,83 @@
+{
+  "id": 1293132713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08361,36.03775,45.08361,36.03775",
+    "geom:latitude":36.03775,
+    "geom:longitude":45.08361,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Bashkash",
+    "gn:country_code":"IQ",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92793,
+    "gn:latitude":36.03775,
+    "gn:longitude":45.08361,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Bashkash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u0643\u0634"
+    ],
+    "name:kur_x_preferred":[
+        "Pashk\u00eash"
+    ],
+    "name:kur_x_variant":[
+        "\u067e\u0627\u0634\u0643\u06ce\u0634"
+    ],
+    "name:und_x_variant":[
+        "Pashkash",
+        "Bashkash",
+        "Pashkesh",
+        "\u0628\u0634\u0643\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92793
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2dc78df7e3b38dcbe1637550af4990d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1293132713,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1293132713,
+    "wof:lastmodified":1537638084,
+    "wof:name":"Bashkash",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08361,
+    36.03775,
+    45.08361,
+    36.03775
+],
+  "geometry": {"coordinates":[45.08361,36.03775],"type":"Point"}
+}

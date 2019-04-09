@@ -1,0 +1,82 @@
+{
+  "id": 1310710507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.65219,30.41095,47.65219,30.41095",
+    "geom:latitude":30.41095,
+    "geom:longitude":47.65219,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"98247.0",
+    "gn:asciiname":"Ash Shu`aybah",
+    "gn:country_code":"IQ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98586,
+    "gn:latitude":30.41095,
+    "gn:longitude":47.65219,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Ash Shu\u2018aybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0639\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Shaibah",
+        "Ash Shu\u2018aybah al Qad\u012bmah",
+        "Sha\u2018aibeh",
+        "Shuaibah",
+        "Shu\u2018aybah",
+        "Shu\u2018aiba",
+        "Ash Shu\u2018aybah",
+        "Ash Sha\u2018\u012bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98586,
+        "wk:page":"Shaibah"
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d593449275dff5471b709a3c3a041166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562727,
+            "locality_id":1310710507,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1310710507,
+    "wof:lastmodified":1537638618,
+    "wof:name":"Ash Shu`aybah",
+    "wof:parent_id":1108562727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.65219,
+    30.41095,
+    47.65219,
+    30.41095
+],
+  "geometry": {"coordinates":[47.65219,30.41095],"type":"Point"}
+}

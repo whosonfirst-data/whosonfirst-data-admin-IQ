@@ -1,0 +1,74 @@
+{
+  "id": 1260176449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08476,33.38751,44.08476,33.38751",
+    "geom:latitude":33.38751,
+    "geom:longitude":44.08476,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166542.0",
+    "gn:asciiname":"Qaryat as Sayir",
+    "gn:country_code":"IQ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7501478,
+    "gn:latitude":33.38751,
+    "gn:longitude":44.08476,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat as S\u0101yir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0633\u0627\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qaryat as S\u0101yir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421184257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7501478
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ecf434ff1124a41ad2dc2fd222f94a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184257,
+            "locality_id":1260176449,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1260176449,
+    "wof:lastmodified":1537640061,
+    "wof:name":"Qaryat as Sayir",
+    "wof:parent_id":421184257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08476,
+    33.38751,
+    44.08476,
+    33.38751
+],
+  "geometry": {"coordinates":[44.08476,33.38751],"type":"Point"}
+}

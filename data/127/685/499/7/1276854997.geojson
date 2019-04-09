@@ -1,0 +1,71 @@
+{
+  "id": 1276854997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.84722,33.88583,44.84722,33.88583",
+    "geom:latitude":33.88583,
+    "geom:longitude":44.84722,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"99063.0",
+    "gn:asciiname":"Kharir",
+    "gn:country_code":"IQ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94522,
+    "gn:latitude":33.88583,
+    "gn:longitude":44.84722,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khar\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khar\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        421184253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94522
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d93980d7df6c84960a20d1b093dda430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184253,
+            "locality_id":1276854997,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1276854997,
+    "wof:lastmodified":1537638230,
+    "wof:name":"Kharir",
+    "wof:parent_id":421184253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.84722,
+    33.88583,
+    44.84722,
+    33.88583
+],
+  "geometry": {"coordinates":[44.84722,33.88583],"type":"Point"}
+}

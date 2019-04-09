@@ -1,0 +1,74 @@
+{
+  "id": 1276854875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.75141,33.758,44.75141,33.758",
+    "geom:latitude":33.758,
+    "geom:longitude":44.75141,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"99063.0",
+    "gn:asciiname":"'Abd Allah Shayya'",
+    "gn:country_code":"IQ",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6784251,
+    "gn:latitude":33.758,
+    "gn:longitude":44.75141,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abd Allah Shayy\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0634\u064a\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abd Allah Shayy\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        421184253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6784251
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0c647e101f19a26a3ce7f97fac318517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184253,
+            "locality_id":1276854875,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1276854875,
+    "wof:lastmodified":1537639373,
+    "wof:name":"'Abd Allah Shayya'",
+    "wof:parent_id":421184253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.75141,
+    33.758,
+    44.75141,
+    33.758
+],
+  "geometry": {"coordinates":[44.75141,33.758],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226441751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.77001,36.24147,44.77001,36.24147",
+    "geom:latitude":36.24147,
+    "geom:longitude":44.77001,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92051.0",
+    "gn:asciiname":"Kifredole",
+    "gn:country_code":"IQ",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447430,
+    "gn:latitude":36.24147,
+    "gn:longitude":44.77001,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Kifredo\u0142e",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Kifredo\u0142e"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0641\u0631\u06d5\u062f\u06c6\u06b5\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Kifradawl",
+        "Kifrad\u014dl",
+        "Kfradol",
+        "Kifradola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447430
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a159074e894a4848e0dc8c1cb9e18b89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562755,
+            "locality_id":1226441751,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1226441751,
+    "wof:lastmodified":1537639041,
+    "wof:name":"Kifredole",
+    "wof:parent_id":1108562755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.77001,
+    36.24147,
+    44.77001,
+    36.24147
+],
+  "geometry": {"coordinates":[44.77001,36.24147],"type":"Point"}
+}

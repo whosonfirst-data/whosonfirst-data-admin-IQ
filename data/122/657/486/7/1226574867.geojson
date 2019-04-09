@@ -1,0 +1,68 @@
+{
+  "id": 1226574867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.22041,36.21851,45.22041,36.21851",
+    "geom:latitude":36.21851,
+    "geom:longitude":45.22041,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Asterokan",
+    "gn:country_code":"IQ",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8430857,
+    "gn:latitude":36.21851,
+    "gn:longitude":45.22041,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Asterokan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430857
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"dd0185b2efc0166ed627108a8bd67c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1226574867,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1226574867,
+    "wof:lastmodified":1536957329,
+    "wof:name":"Asterokan",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.22041,
+    36.21851,
+    45.22041,
+    36.21851
+],
+  "geometry": {"coordinates":[45.22041,36.21851],"type":"Point"}
+}

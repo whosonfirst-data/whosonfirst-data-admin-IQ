@@ -1,0 +1,67 @@
+{
+  "id": 1209499563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.26667,31.34,46.26667,31.34",
+    "geom:latitude":31.34,
+    "geom:longitude":46.26667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98623.0",
+    "gn:asciiname":"Shalishaf",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91131,
+    "gn:latitude":31.34,
+    "gn:longitude":46.26667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shal\u012bsh\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u0101l\u012bsh\u0101t",
+        "Shal\u012bsh\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91131
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"31a66a0608ded6a53b2115a6ad7ac376",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209499563
+        }
+    ],
+    "wof:id":1209499563,
+    "wof:lastmodified":1537637935,
+    "wof:name":"Shalishaf",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.26667,
+    31.34,
+    46.26667,
+    31.34
+],
+  "geometry": {"coordinates":[46.26667,31.34],"type":"Point"}
+}

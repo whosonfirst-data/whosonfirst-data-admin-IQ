@@ -1,0 +1,76 @@
+{
+  "id": 1209009173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42797,35.53447,45.42797,35.53447",
+    "geom:latitude":35.53447,
+    "geom:longitude":45.42797,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Qaryat Wulubah",
+    "gn:country_code":"IQ",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89664,
+    "gn:latitude":35.53447,
+    "gn:longitude":45.42797,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Wul\u016bbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0648\u0644\u0648\u0628\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "W\u0142ube"
+    ],
+    "name:kur_x_variant":[
+        "\u0648\u06b5\u0648\u0628\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Wul\u016bbah",
+        "Wul\u016bba",
+        "Wloba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89664
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"48272aeb9e15c3fabf6ca39962120523",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209009173
+        }
+    ],
+    "wof:id":1209009173,
+    "wof:lastmodified":1537637802,
+    "wof:name":"Qaryat Wulubah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42797,
+    35.53447,
+    45.42797,
+    35.53447
+],
+  "geometry": {"coordinates":[45.42797,35.53447],"type":"Point"}
+}

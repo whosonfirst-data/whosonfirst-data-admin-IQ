@@ -1,0 +1,71 @@
+{
+  "id": 1209207103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23786,32.58587,44.23786,32.58587",
+    "geom:latitude":32.58587,
+    "geom:longitude":44.23786,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"Hatif 'Abud",
+    "gn:country_code":"IQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387221,
+    "gn:latitude":32.58587,
+    "gn:longitude":44.23786,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"H\u0101tif \u2018Ab\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u062a\u0641 \u0639\u0628\u0648\u062f"
+    ],
+    "name:ara_x_variant":[
+        "H\u0101tif \u2018Ab\u016bd"
+    ],
+    "name:und_x_variant":[
+        "H\u0101tif \u2018Abb\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387221
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e592ad7f5078f85d5146e383c99ca3b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209207103
+        }
+    ],
+    "wof:id":1209207103,
+    "wof:lastmodified":1537638797,
+    "wof:name":"Hatif 'Abud",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23786,
+    32.58587,
+    44.23786,
+    32.58587
+],
+  "geometry": {"coordinates":[44.23786,32.58587],"type":"Point"}
+}

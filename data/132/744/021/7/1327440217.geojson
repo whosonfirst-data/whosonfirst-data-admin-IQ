@@ -1,0 +1,72 @@
+{
+  "id": 1327440217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.98333,30.5,47.98333,30.5",
+    "geom:latitude":30.5,
+    "geom:longitude":47.98333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Du`ayji",
+    "gn:country_code":"IQ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96922,
+    "gn:latitude":30.5,
+    "gn:longitude":47.98333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Du\u2018ayj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duwayj\u012b",
+        "Du\u2018aiji",
+        "Du\u2018ayj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96922
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"00bb987b8ad4d2074753175be49b0b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562729,
+            "locality_id":1327440217,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1327440217,
+    "wof:lastmodified":1537638439,
+    "wof:name":"Du`ayji",
+    "wof:parent_id":1108562729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.98333,
+    30.5,
+    47.98333,
+    30.5
+],
+  "geometry": {"coordinates":[47.98333,30.5],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259690127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.02111,31.6686,45.02111,31.6686",
+    "geom:latitude":31.6686,
+    "geom:longitude":45.02111,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sayyid Muhsin Abu Tabikh",
+    "gn:country_code":"IQ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91304,
+    "gn:latitude":31.6686,
+    "gn:longitude":45.02111,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Sayyid Mu\u1e29sin Ab\u016b \u0162ab\u012bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f \u0645\u062d\u0633\u0646 \u0627\u0628\u0648 \u0637\u0628\u064a\u062e"
+    ],
+    "name:und_x_variant":[
+        "Sayyid Mushin Abu Tab\u012bkh",
+        "As Sayyid Mu\u1e29sim Ab\u016b \u0162ab\u012bkh",
+        "Saiyid Muhsin Abu Tab\u012bkh",
+        "Ab\u016b \u0162ab\u012bkh",
+        "Sayyid Mu\u1e29sin Ab\u016b \u0162ab\u012bkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91304
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7bce23c773aa6fcdfa12c43bec2f1c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562705,
+            "locality_id":1259690127,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1259690127,
+    "wof:lastmodified":1537637952,
+    "wof:name":"Sayyid Muhsin Abu Tabikh",
+    "wof:parent_id":1108562705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.02111,
+    31.6686,
+    45.02111,
+    31.6686
+],
+  "geometry": {"coordinates":[45.02111,31.6686],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243360581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22344,33.124,44.22344,33.124",
+    "geom:latitude":33.124,
+    "geom:longitude":44.22344,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Manarat Kuraytimah",
+    "gn:country_code":"IQ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9998357,
+    "gn:latitude":33.124,
+    "gn:longitude":44.22344,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Man\u0101rat Kuray\u0163imah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0627\u0631\u0629 \u0643\u0631\u064a\u0637\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Man\u0101rat Kuray\u0163imah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9998357
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"99e025cf5a44d7a12000431ae418829f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1243360581,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1243360581,
+    "wof:lastmodified":1537640113,
+    "wof:name":"Manarat Kuraytimah",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22344,
+    33.124,
+    44.22344,
+    33.124
+],
+  "geometry": {"coordinates":[44.22344,33.124],"type":"Point"}
+}

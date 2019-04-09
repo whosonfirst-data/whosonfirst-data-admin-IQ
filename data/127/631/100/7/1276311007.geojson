@@ -1,0 +1,86 @@
+{
+  "id": 1276311007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03497,35.89616,44.03497,35.89616",
+    "geom:latitude":35.89616,
+    "geom:longitude":44.03497,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Dulat Sarah",
+    "gn:country_code":"IQ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6768309,
+    "gn:latitude":35.89616,
+    "gn:longitude":44.03497,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u016blat Sarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0644\u0629 \u0633\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0648\u0644\u0629 \u0633\u0631\u0629 \u0627\u0644\u0639\u0644\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Do\u0142eze"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u06c6\u06b5\u06d5\u0632\u06d5"
+    ],
+    "name:und_x_variant":[
+        "D\u016blah Sarat al \u2018Al\u012b",
+        "\u062f\u0648\u0644\u0629 \u0633\u0631\u0629 \u0627\u0644\u0639\u0644\u064a",
+        "Dolaza",
+        "D\u016blat Sarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6768309
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"50d9a479b388344fb21e07c19c2c1c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":1276311007,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1276311007,
+    "wof:lastmodified":1537639239,
+    "wof:name":"Dulat Sarah",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03497,
+    35.89615999999999,
+    44.03497,
+    35.89615999999999
+],
+  "geometry": {"coordinates":[44.03497,35.89615999999999],"type":"Point"}
+}

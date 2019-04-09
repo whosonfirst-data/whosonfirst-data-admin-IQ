@@ -1,0 +1,71 @@
+{
+  "id": 1360256563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48665,31.85668,44.48665,31.85668",
+    "geom:latitude":31.85668,
+    "geom:longitude":44.48665,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166552.0",
+    "gn:asciiname":"Al Fatlah",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6779418,
+    "gn:latitude":31.85668,
+    "gn:longitude":44.48665,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Fatlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u062a\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6779418
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2de7f5a82f13e85452b93b9a58bbb6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562693,
+            "locality_id":1360256563,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1360256563,
+    "wof:lastmodified":1537639290,
+    "wof:name":"Al Fatlah",
+    "wof:parent_id":1108562693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48665,
+    31.85668,
+    44.48665,
+    31.85668
+],
+  "geometry": {"coordinates":[44.48665,31.85668],"type":"Point"}
+}

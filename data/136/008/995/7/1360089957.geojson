@@ -1,0 +1,82 @@
+{
+  "id": 1360089957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.43004,34.69513,45.43004,34.69513",
+    "geom:latitude":34.69513,
+    "geom:longitude":45.43004,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Tazah Dayy",
+    "gn:country_code":"IQ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90205,
+    "gn:latitude":34.69513,
+    "gn:longitude":45.43004,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"T\u0101zah Dayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0632\u0629 \u062f\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Taze D\u00ea"
+    ],
+    "name:kur_x_variant":[
+        "\u062a\u0627\u0632\u06d5 \u062f\u06ce"
+    ],
+    "name:und_x_variant":[
+        "T\u0101zah Dayy",
+        "Tazad\u0113",
+        "Tazade"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90205
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"75cb545f0c6991252045e7a29951c52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1360089957,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1360089957,
+    "wof:lastmodified":1537637842,
+    "wof:name":"Tazah Dayy",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.43004000000001,
+    34.69513,
+    45.43004000000001,
+    34.69513
+],
+  "geometry": {"coordinates":[45.43004000000001,34.69513],"type":"Point"}
+}

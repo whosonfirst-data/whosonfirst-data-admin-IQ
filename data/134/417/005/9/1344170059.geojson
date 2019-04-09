@@ -1,0 +1,76 @@
+{
+  "id": 1344170059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.04459,30.43994,48.04459,30.43994",
+    "geom:latitude":30.43994,
+    "geom:longitude":48.04459,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"100049.0",
+    "gn:asciiname":"Qaryat al Fayyadi",
+    "gn:country_code":"IQ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412770,
+    "gn:latitude":30.43994,
+    "gn:longitude":48.04459,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat al Fayy\u0101\u1e11\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0641\u064a\u0627\u0636\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al Fayy\u0101\u1e11\u012b",
+        "Al Fayy\u0101\u1e11\u012b",
+        "\u0627\u0644\u0641\u064a\u0627\u0636\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412770
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b11f853c3c6f895b493eea09bcde870c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562735,
+            "locality_id":1344170059,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1344170059,
+    "wof:lastmodified":1537638852,
+    "wof:name":"Qaryat al Fayyadi",
+    "wof:parent_id":1108562735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.04459,
+    30.43994,
+    48.04459,
+    30.43994
+],
+  "geometry": {"coordinates":[48.04459,30.43994],"type":"Point"}
+}

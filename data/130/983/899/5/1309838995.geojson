@@ -1,0 +1,74 @@
+{
+  "id": 1309838995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.67176,32.00708,44.67176,32.00708",
+    "geom:latitude":32.00708,
+    "geom:longitude":44.67176,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"'Abd as Sadah Majid",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789734,
+    "gn:latitude":32.00708,
+    "gn:longitude":44.67176,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abd as S\u0101dah M\u0101jid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f \u0627\u0644\u0633\u0627\u062f\u0629 \u0645\u0627\u062c\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abd as S\u0101dah M\u0101jid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789734
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8bf32797eee98cdf4e3d037fb41fe403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1309838995,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1309838995,
+    "wof:lastmodified":1537639498,
+    "wof:name":"'Abd as Sadah Majid",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.67176,
+    32.00708,
+    44.67176,
+    32.00708
+],
+  "geometry": {"coordinates":[44.67176,32.00708],"type":"Point"}
+}

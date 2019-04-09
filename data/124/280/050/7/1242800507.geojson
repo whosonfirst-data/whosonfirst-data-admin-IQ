@@ -1,0 +1,77 @@
+{
+  "id": 1242800507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.06679,35.57335,45.06679,35.57335",
+    "geom:latitude":35.57335,
+    "geom:longitude":45.06679,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Murtikah",
+    "gn:country_code":"IQ",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93171,
+    "gn:latitude":35.57335,
+    "gn:longitude":45.06679,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"M\u016brtikah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u062a\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "M\u016brt\u012bkah",
+        "Morteka",
+        "M\u014drtka",
+        "M\u016brtikah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93171
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"82a002f94f572dedc270ee670bd362b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1242800507,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1242800507,
+    "wof:lastmodified":1537638115,
+    "wof:name":"Murtikah",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.06679000000001,
+    35.57335,
+    45.06679000000001,
+    35.57335
+],
+  "geometry": {"coordinates":[45.06679000000001,35.57335],"type":"Point"}
+}

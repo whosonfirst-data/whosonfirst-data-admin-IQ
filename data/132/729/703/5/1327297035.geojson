@@ -1,0 +1,74 @@
+{
+  "id": 1327297035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20379,33.88492,44.20379,33.88492",
+    "geom:latitude":33.88492,
+    "geom:longitude":44.20379,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"9166616.0",
+    "gn:asciiname":"Fanar Shadhan",
+    "gn:country_code":"IQ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805402,
+    "gn:latitude":33.88492,
+    "gn:longitude":44.20379,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fanar Shadh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0646\u0631 \u0634\u062f\u0647\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Fanar Shadh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805402
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9094c5f4fefb07821409d8fd119ebb0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562809,
+            "locality_id":1327297035,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1327297035,
+    "wof:lastmodified":1537639569,
+    "wof:name":"Fanar Shadhan",
+    "wof:parent_id":1108562809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20379000000001,
+    33.88492,
+    44.20379000000001,
+    33.88492
+],
+  "geometry": {"coordinates":[44.20379000000001,33.88492],"type":"Point"}
+}

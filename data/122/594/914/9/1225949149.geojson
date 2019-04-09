@@ -1,0 +1,81 @@
+{
+  "id": 1225949149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.07732,36.1664,45.07732,36.1664",
+    "geom:latitude":36.1664,
+    "geom:longitude":45.07732,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Cham-i-Khaniyan",
+    "gn:country_code":"IQ",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":97323,
+    "gn:latitude":36.1664,
+    "gn:longitude":45.07732,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Cham-i-Khaniyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Chom\u00ee Kanyan"
+    ],
+    "name:kur_x_variant":[
+        "Chem Kanyan",
+        "\u0686\u06c6\u0645\u0649 \u0643\u0627\u0646\u064a\u0627\u0646",
+        "\u0686\u06d5\u0645 \u0643\u0627\u0646\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014dmikaniy\u0101n",
+        "Chomkanian",
+        "Cham Kanian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97323
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2b16f472b680d42114d65f2a25b5c87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1225949149,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1225949149,
+    "wof:lastmodified":1537638483,
+    "wof:name":"Cham-i-Khaniyan",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.07732,
+    36.1664,
+    45.07732,
+    36.1664
+],
+  "geometry": {"coordinates":[45.07732,36.1664],"type":"Point"}
+}

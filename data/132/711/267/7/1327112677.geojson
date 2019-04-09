@@ -1,0 +1,84 @@
+{
+  "id": 1327112677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70194,35.59373,43.70194,35.59373",
+    "geom:latitude":35.59373,
+    "geom:longitude":43.70194,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"93817.0",
+    "gn:asciiname":"Lasur",
+    "gn:country_code":"IQ",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":94010,
+    "gn:latitude":35.59373,
+    "gn:longitude":43.70194,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"L\u0101s\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0633\u0648\u0631"
+    ],
+    "name:ara_x_variant":[
+        "L\u0101s\u016br"
+    ],
+    "name:kur_x_preferred":[
+        "\u1e5eisur"
+    ],
+    "name:kur_x_variant":[
+        "Resoor",
+        "\u0695\u0633\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Resoor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94010
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f6dff4950ff7d8b0273fdb656782ca9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562779,
+            "locality_id":1327112677,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1327112677,
+    "wof:lastmodified":1537638183,
+    "wof:name":"Lasur",
+    "wof:parent_id":1108562779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70194,
+    35.59373,
+    43.70194,
+    35.59373
+],
+  "geometry": {"coordinates":[43.70194,35.59373],"type":"Point"}
+}

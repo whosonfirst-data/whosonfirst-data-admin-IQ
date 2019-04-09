@@ -1,0 +1,68 @@
+{
+  "id": 1209391127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45684,31.76391,44.45684,31.76391",
+    "geom:latitude":31.76391,
+    "geom:longitude":44.45684,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166552.0",
+    "gn:asciiname":"Al Ibrahim",
+    "gn:country_code":"IQ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":449256,
+    "gn:latitude":31.76391,
+    "gn:longitude":44.45684,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l Ibr\u0101h\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0644 \u0627\u0628\u0631\u0627\u0647\u064a\u0645"
+    ],
+    "name:ara_x_variant":[
+        "\u0100l Ibr\u0101h\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449256
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"130ab835c87ab482355bf82c793d73ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209391127
+        }
+    ],
+    "wof:id":1209391127,
+    "wof:lastmodified":1537639091,
+    "wof:name":"Al Ibrahim",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45684,
+    31.76391,
+    44.45684,
+    31.76391
+],
+  "geometry": {"coordinates":[44.45684,31.76391],"type":"Point"}
+}

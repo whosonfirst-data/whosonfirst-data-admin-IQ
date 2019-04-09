@@ -1,0 +1,74 @@
+{
+  "id": 1309906373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65174,32.07859,44.65174,32.07859",
+    "geom:latitude":32.07859,
+    "geom:longitude":44.65174,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"Habib Kazim",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789588,
+    "gn:latitude":32.07859,
+    "gn:longitude":44.65174,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28ab\u012bb K\u0101z\u0327im",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0628\u064a\u0628 \u0643\u0627\u0638\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ab\u012bb K\u0101z\u0327im"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789588
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ce89cb8b93e712aaccf38259913c53c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1309906373,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1309906373,
+    "wof:lastmodified":1537639491,
+    "wof:name":"Habib Kazim",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65174,
+    32.07859000000001,
+    44.65174,
+    32.07859000000001
+],
+  "geometry": {"coordinates":[44.65174,32.07859000000001],"type":"Point"}
+}

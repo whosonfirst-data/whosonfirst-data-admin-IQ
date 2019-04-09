@@ -1,0 +1,86 @@
+{
+  "id": 1259683125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42107,35.13831,45.42107,35.13831",
+    "geom:latitude":35.13831,
+    "geom:longitude":45.42107,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Tahppah Karus",
+    "gn:country_code":"IQ",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90192,
+    "gn:latitude":35.13831,
+    "gn:longitude":45.42107,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tahppah Kar\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0647 \u067e\u0629 \u0643\u0631\u0648\u0633"
+    ],
+    "name:kur_x_preferred":[
+        "Tepekaros"
+    ],
+    "name:kur_x_variant":[
+        "Tepe Ge\u1e5f\u00fbs",
+        "\u062a\u06d5\u067e\u06d5 \u0643\u0627\u0631\u06c6\u0633",
+        "\u062a\u06d5\u067e\u06d5 \u06af\u06d5\u0695\u0648\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Tahppah Kar\u016bs",
+        "Tepe Gar\u016bs",
+        "Tapa Garroos",
+        "Tahbbah Kar\u016bs",
+        "\u062a\u0647 \u0628\u0629 \u0643\u0631\u0648\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90192
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d7ed4283a3654ea57c18da1fa0cfad5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1259683125,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1259683125,
+    "wof:lastmodified":1537637840,
+    "wof:name":"Tahppah Karus",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42107,
+    35.13831,
+    45.42107,
+    35.13831
+],
+  "geometry": {"coordinates":[45.42107,35.13831],"type":"Point"}
+}

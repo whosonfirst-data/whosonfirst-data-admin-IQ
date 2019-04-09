@@ -1,0 +1,74 @@
+{
+  "id": 1343431843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.94232,31.73886,46.94232,31.73886",
+    "geom:latitude":31.73886,
+    "geom:longitude":46.94232,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"99610.0",
+    "gn:asciiname":"Tall Mukaytir",
+    "gn:country_code":"IQ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386687,
+    "gn:latitude":31.73886,
+    "gn:longitude":46.94232,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tall Mukay\u0163\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0645\u0643\u064a\u0637\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tall Mukay\u0163\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386687
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"304cd307d03b6679c5e87faee3c20d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562681,
+            "locality_id":1343431843,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1343431843,
+    "wof:lastmodified":1537638785,
+    "wof:name":"Tall Mukaytir",
+    "wof:parent_id":1108562681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.94232,
+    31.73886,
+    46.94232,
+    31.73886
+],
+  "geometry": {"coordinates":[46.94232,31.73886],"type":"Point"}
+}

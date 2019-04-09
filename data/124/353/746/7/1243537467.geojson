@@ -1,0 +1,86 @@
+{
+  "id": 1243537467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84638,37.00011,43.84638,37.00011",
+    "geom:latitude":37.00011,
+    "geom:longitude":43.84638,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Hilawrah",
+    "gn:country_code":"IQ",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96026,
+    "gn:latitude":37.00011,
+    "gn:longitude":43.84638,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Hilawrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0644\u0648\u0631\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Hewre"
+    ],
+    "name:kur_x_variant":[
+        "\u0647\u06d5\u0648\u0631\u06d5",
+        "Flora",
+        "Hilura",
+        "\u0641\u0644\u06c6\u0631\u0627",
+        "\u0647\u0644\u0648\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "H\u0101r\u016bnah",
+        "Hawra",
+        "Hilawrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96026
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c28ecd7fa638610673eb4166dfb1ef7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1243537467,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1243537467,
+    "wof:lastmodified":1537638354,
+    "wof:name":"Hilawrah",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84638,
+    37.00011,
+    43.84638,
+    37.00011
+],
+  "geometry": {"coordinates":[43.84638,37.00011],"type":"Point"}
+}

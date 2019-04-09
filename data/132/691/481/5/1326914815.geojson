@@ -1,0 +1,74 @@
+{
+  "id": 1326914815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.61179,30.88728,46.61179,30.88728",
+    "geom:latitude":30.88728,
+    "geom:longitude":46.61179,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"90509.0",
+    "gn:asciiname":"Al Karimat",
+    "gn:country_code":"IQ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7056383,
+    "gn:latitude":30.88728,
+    "gn:longitude":46.61179,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Kar\u012bm\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0631\u064a\u0645\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Al Kar\u012bm\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7056383
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7e799782ed5c4597bed32b97e8225ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562723,
+            "locality_id":1326914815,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1326914815,
+    "wof:lastmodified":1537639976,
+    "wof:name":"Al Karimat",
+    "wof:parent_id":1108562723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.61179,
+    30.88728,
+    46.61179,
+    30.88728
+],
+  "geometry": {"coordinates":[46.61179,30.88728],"type":"Point"}
+}

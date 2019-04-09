@@ -1,0 +1,68 @@
+{
+  "id": 1326724215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.33833,33.33417,45.33833,33.33417",
+    "geom:latitude":33.33417,
+    "geom:longitude":45.33833,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Shandrukh",
+    "gn:country_code":"IQ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91089,
+    "gn:latitude":33.33417,
+    "gn:longitude":45.33833,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shandr\u016bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91089
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"057d81567f0a709b73138e3643488fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1326724215,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1326724215,
+    "wof:lastmodified":1536707671,
+    "wof:name":"Shandrukh",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.33833,
+    33.33417,
+    45.33833,
+    33.33417
+],
+  "geometry": {"coordinates":[45.33833,33.33417],"type":"Point"}
+}

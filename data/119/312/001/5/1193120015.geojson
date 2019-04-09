@@ -1,0 +1,85 @@
+{
+  "id": 1193120015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4075,36.64778,43.4075,36.64778",
+    "geom:latitude":36.64778,
+    "geom:longitude":43.4075,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98612.0",
+    "gn:asciiname":"Mihad",
+    "gn:country_code":"IQ",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93911,
+    "gn:latitude":36.64778,
+    "gn:longitude":43.4075,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Mihad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Muh\u0101d"
+    ],
+    "name:kur_x_preferred":[
+        "Mihad"
+    ],
+    "name:kur_x_variant":[
+        "\u0645\u0647\u0627\u062f",
+        "Kumelgeha Mehet\u00ea",
+        "Mihd",
+        "\u0643\u0648\u0645\u06d5\u0644\u06af\u06d5\u06be\u0627 \u0645\u06d5\u06be\u06d5\u062a\u06ce",
+        "\u0645\u0647\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mah\u0101d",
+        "Muhad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421172365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93911
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8a645de5c022b23da607296061cb38de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172365,
+            "locality_id":1193120015,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1193120015,
+    "wof:lastmodified":1537638176,
+    "wof:name":"Mihad",
+    "wof:parent_id":421172365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4075,
+    36.64778,
+    43.4075,
+    36.64778
+],
+  "geometry": {"coordinates":[43.4075,36.64778],"type":"Point"}
+}

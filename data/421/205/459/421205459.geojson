@@ -1,0 +1,117 @@
+{
+  "id": 421205459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.90849,34.47935,41.90849,34.47935",
+    "geom:latitude":34.47935,
+    "geom:longitude":41.90849,
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0648\u0629"
+    ],
+    "name:arm_x_preferred":[
+        "\u054c\u0561\u057e\u0561"
+    ],
+    "name:arz_x_preferred":[
+        "\u0631\u0627\u0648\u0647"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u74e6"
+    ],
+    "name:dut_x_preferred":[
+        "Rawa"
+    ],
+    "name:eng_x_preferred":[
+        "Rawa"
+    ],
+    "name:fre_x_preferred":[
+        "Rawa"
+    ],
+    "name:ita_x_preferred":[
+        "Rawa"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0627\u0648\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "R\u0101wah"
+    ],
+    "name:unk_x_variant":[
+        "Rawa"
+    ],
+    "qs:gn_country":"IQ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":92004,
+    "qs:gn_pop":20580,
+    "qs:name":"Rawah",
+    "qs:name_adm0":"Iraq",
+    "qs:name_adm1":"Al Anbar",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":263254,
+    "qs:woe_adm0":23424855,
+    "qs:woe_id":1979542,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        1108562803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92004,
+        "gp:id":1979542,
+        "qs:id":263254,
+        "wd:id":"Q2354244",
+        "wk:page":"Rawa (Iraq)"
+    },
+    "wof:country":"IQ",
+    "wof:created":1459010225,
+    "wof:geomhash":"8f399d15dd2e29b0844241b2b6954610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562803,
+            "locality_id":421205459,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":421205459,
+    "wof:lastmodified":1553816391,
+    "wof:name":"Rawah",
+    "wof:parent_id":1108562803,
+    "wof:placetype":"locality",
+    "wof:population":20580,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.90849,
+    34.47935,
+    41.90849,
+    34.47935
+],
+  "geometry": {"coordinates":[41.90849,34.47935],"type":"Point"}
+}

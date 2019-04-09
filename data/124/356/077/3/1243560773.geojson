@@ -1,0 +1,74 @@
+{
+  "id": 1243560773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76551,31.89111,44.76551,31.89111",
+    "geom:latitude":31.89111,
+    "geom:longitude":44.76551,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"Jawad Kazim",
+    "gn:country_code":"IQ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6850248,
+    "gn:latitude":31.89111,
+    "gn:longitude":44.76551,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jaw\u0101d K\u0101z\u0327im",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0627\u062f \u0643\u0627\u0638\u0645"
+    ],
+    "name:und_x_variant":[
+        "Jaw\u0101d K\u0101z\u0327im"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6850248
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"82db8e04c4945ae8d3f93030db667315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1243560773,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1243560773,
+    "wof:lastmodified":1537639743,
+    "wof:name":"Jawad Kazim",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76551,
+    31.89111,
+    44.76551,
+    31.89111
+],
+  "geometry": {"coordinates":[44.76551,31.89111],"type":"Point"}
+}

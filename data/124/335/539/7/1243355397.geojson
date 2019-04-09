@@ -1,0 +1,71 @@
+{
+  "id": 1243355397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4,33.63333,44.4,33.63333",
+    "geom:latitude":33.63333,
+    "geom:longitude":44.4,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166569.0",
+    "gn:asciiname":"Ahmad al Mahmud",
+    "gn:country_code":"IQ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99707,
+    "gn:latitude":33.63333,
+    "gn:longitude":44.4,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u1e29mad al Ma\u1e29m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u1e29mad al Ma\u1e29m\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99707
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"834ba366e4054544c0e27655d85d721c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562665,
+            "locality_id":1243355397,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1243355397,
+    "wof:lastmodified":1537638694,
+    "wof:name":"Ahmad al Mahmud",
+    "wof:parent_id":1108562665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4,
+    33.63333,
+    44.4,
+    33.63333
+],
+  "geometry": {"coordinates":[44.4,33.63333],"type":"Point"}
+}

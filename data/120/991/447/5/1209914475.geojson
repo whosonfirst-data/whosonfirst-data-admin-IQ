@@ -1,0 +1,74 @@
+{
+  "id": 1209914475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.89177,31.46186,44.89177,31.46186",
+    "geom:latitude":31.46186,
+    "geom:longitude":44.89177,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"6850588.0",
+    "gn:asciiname":"Sawadi al Hilw",
+    "gn:country_code":"IQ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026924,
+    "gn:latitude":31.46186,
+    "gn:longitude":44.89177,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Saw\u0101d\u012b al \u1e28ilw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0627\u062f\u064a \u0627\u0644\u062d\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Saw\u0101d\u012b al \u1e28ilw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026924
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5287cef68d29832b38edc03dc991be94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562701,
+            "locality_id":1209914475,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1209914475,
+    "wof:lastmodified":1537639946,
+    "wof:name":"Sawadi al Hilw",
+    "wof:parent_id":1108562701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.89177,
+    31.46186,
+    44.89177,
+    31.46186
+],
+  "geometry": {"coordinates":[44.89177,31.46186],"type":"Point"}
+}

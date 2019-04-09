@@ -1,0 +1,75 @@
+{
+  "id": 1225910481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.87311,34.46614,43.87311,34.46614",
+    "geom:latitude":34.46614,
+    "geom:longitude":43.87311,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"Khalaf Taha al Khidr",
+    "gn:country_code":"IQ",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783071,
+    "gn:latitude":34.46614,
+    "gn:longitude":43.87311,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khalaf \u0162\u0101h\u0101 al Khi\u1e11r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0641 \u0637\u0647 \u0627\u0644\u062e\u0636\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u0644\u0641 \u0637\u0629 \u0627\u0644\u062e\u0636\u0631",
+        "Khalaf \u0162\u0101h\u0101 al Khi\u1e11r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783071
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5874b5efcb7dec7cc416e756aa019570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562773,
+            "locality_id":1225910481,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1225910481,
+    "wof:lastmodified":1537639355,
+    "wof:name":"Khalaf Taha al Khidr",
+    "wof:parent_id":1108562773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.87311,
+    34.46614,
+    43.87311,
+    34.46614
+],
+  "geometry": {"coordinates":[43.87311,34.46614],"type":"Point"}
+}

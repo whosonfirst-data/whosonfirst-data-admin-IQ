@@ -1,0 +1,74 @@
+{
+  "id": 1327432021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70799,32.07365,44.70799,32.07365",
+    "geom:latitude":32.07365,
+    "geom:longitude":44.70799,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"Jabr Hassan",
+    "gn:country_code":"IQ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789703,
+    "gn:latitude":32.07365,
+    "gn:longitude":44.70799,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jabr \u1e28ass\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0631 \u062d\u0633\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jabr \u1e28ass\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789703
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"668260db6cab9de5084588fc5792a970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1327432021,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1327432021,
+    "wof:lastmodified":1537639496,
+    "wof:name":"Jabr Hassan",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70799,
+    32.07365,
+    44.70799,
+    32.07365
+],
+  "geometry": {"coordinates":[44.70799,32.07365],"type":"Point"}
+}

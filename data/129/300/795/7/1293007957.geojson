@@ -1,0 +1,75 @@
+{
+  "id": 1293007957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.53348,31.24521,45.53348,31.24521",
+    "geom:latitude":31.24521,
+    "geom:longitude":45.53348,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9166626.0",
+    "gn:asciiname":"Al Harbi",
+    "gn:country_code":"IQ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89532,
+    "gn:latitude":31.24521,
+    "gn:longitude":45.53348,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28arb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Zanif al Harbi",
+        "Al \u1e28arb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89532
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fad01dcdf49b8b0c2a9dfc43141f8e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562721,
+            "locality_id":1293007957,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1293007957,
+    "wof:lastmodified":1537637788,
+    "wof:name":"Al Harbi",
+    "wof:parent_id":1108562721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.53348,
+    31.24521,
+    45.53348,
+    31.24521
+],
+  "geometry": {"coordinates":[45.53348,31.24521],"type":"Point"}
+}

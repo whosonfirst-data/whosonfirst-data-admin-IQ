@@ -1,0 +1,76 @@
+{
+  "id": 1310502003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.87114,31.47336,44.87114,31.47336",
+    "geom:latitude":31.47336,
+    "geom:longitude":44.87114,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"6850588.0",
+    "gn:asciiname":"Muhsin Na'man",
+    "gn:country_code":"IQ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93262,
+    "gn:latitude":31.47336,
+    "gn:longitude":44.87114,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29sin Na\u2018m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0633\u0646 \u0646\u0639\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Muhsin \u0101l Nom\u0101n",
+        "Mu\u1e29sin \u0100l Nu\u2018m\u0101n",
+        "Mu\u1e29sin Na\u2018m\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93262
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c10b1706b85d3d32c10adc126c7fb352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562701,
+            "locality_id":1310502003,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1310502003,
+    "wof:lastmodified":1537638121,
+    "wof:name":"Muhsin Na'man",
+    "wof:parent_id":1108562701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.87114,
+    31.47336,
+    44.87114,
+    31.47336
+],
+  "geometry": {"coordinates":[44.87114,31.47336],"type":"Point"}
+}

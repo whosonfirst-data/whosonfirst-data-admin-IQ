@@ -1,0 +1,85 @@
+{
+  "id": 1344052549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.10961,37.19683,43.10961,37.19683",
+    "geom:latitude":37.19683,
+    "geom:longitude":43.10961,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"89569.0",
+    "gn:asciiname":"Kaniya Tuya",
+    "gn:country_code":"IQ",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447844,
+    "gn:latitude":37.19683,
+    "gn:longitude":43.10961,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Kaniya Tuya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0646\u064a \u062a\u0648\u06d5"
+    ],
+    "name:kur_x_preferred":[
+        "Kan\u00ee T\u00fb"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0627\u0646\u0649 \u062a\u0648\u0648",
+        "Kaniya Tuya",
+        "\u0643\u0627\u0646\u064a\u0627 \u062a\u0648\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "K\u0101n\u012b T\u016bw\u0101n",
+        "Kani Too",
+        "K\u0101n\u012b T\u016bwah",
+        "Kahnatiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        890445289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447844
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"cffe4ae3f2cdf8e1135c1be6f97f2a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445289,
+            "locality_id":1344052549,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1344052549,
+    "wof:lastmodified":1537639053,
+    "wof:name":"Kaniya Tuya",
+    "wof:parent_id":890445289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.10961,
+    37.19683,
+    43.10961,
+    37.19683
+],
+  "geometry": {"coordinates":[43.10961,37.19683],"type":"Point"}
+}

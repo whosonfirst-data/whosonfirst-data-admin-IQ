@@ -1,0 +1,74 @@
+{
+  "id": 1360064685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.82563,35.28563,43.82563,35.28563",
+    "geom:latitude":35.28563,
+    "geom:longitude":43.82563,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"6770659.0",
+    "gn:asciiname":"Qaryat `Abbush",
+    "gn:country_code":"IQ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6770542,
+    "gn:latitude":35.28563,
+    "gn:longitude":43.82563,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Qaryat \u2018Abb\u016bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0639\u0628\u0648\u0634"
+    ],
+    "name:und_x_variant":[
+        "Qaryat \u2018Abb\u016bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6770542
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"73f49c76d39cd11a68da09ccc0aa8e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562743,
+            "locality_id":1360064685,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1360064685,
+    "wof:lastmodified":1537639263,
+    "wof:name":"Qaryat `Abbush",
+    "wof:parent_id":1108562743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.82563,
+    35.28563,
+    43.82563,
+    35.28563
+],
+  "geometry": {"coordinates":[43.82563,35.28563],"type":"Point"}
+}

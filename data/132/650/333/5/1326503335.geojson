@@ -1,0 +1,74 @@
+{
+  "id": 1326503335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.32153,35.95863,42.32153,35.95863",
+    "geom:latitude":35.95863,
+    "geom:longitude":42.32153,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166608.0",
+    "gn:asciiname":"Sibayat Marzuk",
+    "gn:country_code":"IQ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6778410,
+    "gn:latitude":35.95863,
+    "gn:longitude":42.32153,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"S\u012bb\u0101yat Marz\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0628\u0627\u064a\u0629 \u0645\u0631\u0632\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "S\u012bb\u0101yat Marz\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6778410
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bcb223390f99676b78142af9ed217eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562639,
+            "locality_id":1326503335,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1326503335,
+    "wof:lastmodified":1537639286,
+    "wof:name":"Sibayat Marzuk",
+    "wof:parent_id":1108562639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.32153,
+    35.95863,
+    42.32153,
+    35.95863
+],
+  "geometry": {"coordinates":[42.32153,35.95863],"type":"Point"}
+}

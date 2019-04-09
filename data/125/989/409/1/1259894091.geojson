@@ -1,0 +1,74 @@
+{
+  "id": 1259894091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79947,33.26121,43.79947,33.26121",
+    "geom:latitude":33.26121,
+    "geom:longitude":43.79947,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"'Arab ash Shamiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6782263,
+    "gn:latitude":33.26121,
+    "gn:longitude":43.79947,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab ash Sham\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0627\u0644\u0634\u0627\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab ash Sham\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6782263
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"894959c8ddfb6854f994f96ffb79ce44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1259894091,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1259894091,
+    "wof:lastmodified":1537639316,
+    "wof:name":"'Arab ash Shamiyah",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79947,
+    33.26121,
+    43.79947,
+    33.26121
+],
+  "geometry": {"coordinates":[43.79947,33.26121],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309906603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55457,32.00322,44.55457,32.00322",
+    "geom:latitude":32.00322,
+    "geom:longitude":44.55457,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"Kazim Hamadi",
+    "gn:country_code":"IQ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789782,
+    "gn:latitude":32.00322,
+    "gn:longitude":44.55457,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u0101z\u0327im \u1e28am\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0638\u0645 \u062d\u0645\u0627\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "K\u0101z\u0327im \u1e28am\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789782
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6de3e1510fd9b4afc270cfa8726a71a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1309906603,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1309906603,
+    "wof:lastmodified":1537639500,
+    "wof:name":"Kazim Hamadi",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55457,
+    32.00322,
+    44.55457,
+    32.00322
+],
+  "geometry": {"coordinates":[44.55457,32.00322],"type":"Point"}
+}

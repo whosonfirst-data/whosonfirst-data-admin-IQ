@@ -1,0 +1,88 @@
+{
+  "id": 1226165577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.93693,35.29454,45.93693,35.29454",
+    "geom:latitude":35.29454,
+    "geom:longitude":45.93693,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Tabbah Kal",
+    "gn:country_code":"IQ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90190,
+    "gn:latitude":35.29454,
+    "gn:longitude":45.93693,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tabbah Kal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0628\u0647 \u0643\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u067e\u0651\u0647 \u06a9\u0644"
+    ],
+    "name:kur_x_preferred":[
+        "Tepe Kel"
+    ],
+    "name:kur_x_variant":[
+        "Tepe Ko\u0142e",
+        "\u062a\u06d5\u067e\u06d5 \u0643\u06d5\u0644",
+        "\u062a\u06d5\u067e\u06d5 \u0643\u06c6\u06b5\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Tepe Kul",
+        "Tabbah Kal",
+        "Tappeh Kol",
+        "Tapa Kola",
+        "\u062a\u0628\u0629 \u0643\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90190
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"eb2d39ae5875c61d21273708480b0ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1226165577,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1226165577,
+    "wof:lastmodified":1537637840,
+    "wof:name":"Tabbah Kal",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.93693,
+    35.29454000000001,
+    45.93693,
+    35.29454000000001
+],
+  "geometry": {"coordinates":[45.93693,35.29454000000001],"type":"Point"}
+}

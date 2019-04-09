@@ -1,0 +1,76 @@
+{
+  "id": 1209197221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.2645,36.73343,42.2645,36.73343",
+    "geom:latitude":36.73343,
+    "geom:longitude":42.2645,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Baydar Fawqani",
+    "gn:country_code":"IQ",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97800,
+    "gn:latitude":36.73343,
+    "gn:longitude":42.2645,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Baydar Fawq\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062f\u0631 \u0641\u0648\u0642\u0627\u0646\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Beyder"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06d5\u064a\u062f\u06d5\u0631"
+    ],
+    "name:und_x_variant":[
+        "Bay\u0101dir Fawq\u0101n\u012b",
+        "Baidar",
+        "Baydar Fawq\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97800
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"26adbe53bbe0971a994b8dfd9f7679cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209197221
+        }
+    ],
+    "wof:id":1209197221,
+    "wof:lastmodified":1537638541,
+    "wof:name":"Baydar Fawqani",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.2645,
+    36.73343,
+    42.2645,
+    36.73343
+],
+  "geometry": {"coordinates":[42.2645,36.73343],"type":"Point"}
+}

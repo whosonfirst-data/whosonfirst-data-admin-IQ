@@ -1,0 +1,75 @@
+{
+  "id": 1242979501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.86338,30.47053,47.86338,30.47053",
+    "geom:latitude":30.47053,
+    "geom:longitude":47.86338,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"100049.0",
+    "gn:asciiname":"Huraybid",
+    "gn:country_code":"IQ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388283,
+    "gn:latitude":30.47053,
+    "gn:longitude":47.86338,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"\u1e28uraybid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u064a\u0628\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khuraybi\u0163",
+        "\u1e28uraybid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388283
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"505a5c07d6ae9152b294424de95f3204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562735,
+            "locality_id":1242979501,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1242979501,
+    "wof:lastmodified":1537638815,
+    "wof:name":"Huraybid",
+    "wof:parent_id":1108562735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.86338,
+    30.47053,
+    47.86338,
+    30.47053
+],
+  "geometry": {"coordinates":[47.86338,30.47053],"type":"Point"}
+}

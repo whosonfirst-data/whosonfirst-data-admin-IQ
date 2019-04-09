@@ -1,0 +1,86 @@
+{
+  "id": 1243362779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.71262,35.4312,45.71262,35.4312",
+    "geom:latitude":35.4312,
+    "geom:longitude":45.71262,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Khirbat Shari Kawi",
+    "gn:country_code":"IQ",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91076,
+    "gn:latitude":35.4312,
+    "gn:longitude":45.71262,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khirbat Sh\u0101r\u012b Kaw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0634\u0627\u0631\u064a \u0643\u0648\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Share Kon"
+    ],
+    "name:kur_x_variant":[
+        "\u0634\u0627\u0631\u06d5 \u0643\u06c6\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101bat Sh\u0101w\u012b K\u0101n",
+        "Khirbat Sh\u0101r\u012b Kaw\u012b",
+        "Shara Kun",
+        "Khirbat Sh\u0101r\u012b Kaw\u00e1",
+        "\u1e28irbat Sh\u0101r\u012b Kawn",
+        "\u062e\u0631\u0628\u0629 \u0634\u0627\u0631\u064a \u0643\u0648\u0649",
+        "\u062d\u0631\u0628\u0629 \u0634\u0627\u0631\u064a \u0643\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91076
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"044db991b0aa4c127b3f91cd15341d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1243362779,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1243362779,
+    "wof:lastmodified":1537637931,
+    "wof:name":"Khirbat Shari Kawi",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.71262,
+    35.4312,
+    45.71262,
+    35.4312
+],
+  "geometry": {"coordinates":[45.71262,35.4312],"type":"Point"}
+}

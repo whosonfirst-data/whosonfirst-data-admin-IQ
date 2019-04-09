@@ -1,0 +1,74 @@
+{
+  "id": 1242956957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78076,33.63034,44.78076,33.63034",
+    "geom:latitude":33.63034,
+    "geom:longitude":44.78076,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"'Amir al Wajihi",
+    "gn:country_code":"IQ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6784388,
+    "gn:latitude":33.63034,
+    "gn:longitude":44.78076,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018\u0100mir al Waj\u012bh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0627\u0645\u0631 \u0627\u0644\u0648\u062c\u064a\u0647\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018\u0100mir al Waj\u012bh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6784388
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a86bc0611eed01de5e85e0c594471140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1242956957,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1242956957,
+    "wof:lastmodified":1537639379,
+    "wof:name":"'Amir al Wajihi",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78076,
+    33.63034,
+    44.78076,
+    33.63034
+],
+  "geometry": {"coordinates":[44.78076,33.63034],"type":"Point"}
+}

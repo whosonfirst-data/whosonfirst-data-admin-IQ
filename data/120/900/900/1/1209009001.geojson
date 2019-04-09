@@ -1,0 +1,77 @@
+{
+  "id": 1209009001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.22499,35.118,45.22499,35.118",
+    "geom:latitude":35.118,
+    "geom:longitude":45.22499,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Masawi Rahim Agha",
+    "gn:country_code":"IQ",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330142,
+    "gn:latitude":35.118,
+    "gn:longitude":45.22499,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Masaw\u012b Ra\u1e29\u012bm \u0100gh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u0648\u0649 \u0631\u062d\u064a\u0645 \u0627\u063a\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Mesoyy"
+    ],
+    "name:kur_x_variant":[
+        "Mesoy \u1e5ee\u1e27\u00eem",
+        "\u0645\u06d5\u0633\u06c6\u064a\u0649",
+        "\u0645\u06d5\u0633\u06c6\u0649 \u0695\u06d5\u062d\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Masaw\u012b Ra\u1e29\u012bm \u0100gh\u0101",
+        "Masoyi Sarcham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330142
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"669e09c3a67eb4a88e56c4597af9b64e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209009001
+        }
+    ],
+    "wof:id":1209009001,
+    "wof:lastmodified":1537640001,
+    "wof:name":"Masawi Rahim Agha",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.22499000000001,
+    35.118,
+    45.22499000000001,
+    35.118
+],
+  "geometry": {"coordinates":[45.22499000000001,35.118],"type":"Point"}
+}

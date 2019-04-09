@@ -1,0 +1,71 @@
+{
+  "id": 1259697849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.08429,33.23429,41.08429,33.23429",
+    "geom:latitude":33.23429,
+    "geom:longitude":41.08429,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"98678.0",
+    "gn:asciiname":"Dahdahah",
+    "gn:country_code":"IQ",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750892,
+    "gn:latitude":33.23429,
+    "gn:longitude":41.08429,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dahdahah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0647\u062f\u0647\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        1108562667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750892
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7cabfd4357d3545fd37b0b4f165e4ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562667,
+            "locality_id":1259697849,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1259697849,
+    "wof:lastmodified":1537639157,
+    "wof:name":"Dahdahah",
+    "wof:parent_id":1108562667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.08429,
+    33.23429,
+    41.08429,
+    33.23429
+],
+  "geometry": {"coordinates":[41.08429,33.23429],"type":"Point"}
+}

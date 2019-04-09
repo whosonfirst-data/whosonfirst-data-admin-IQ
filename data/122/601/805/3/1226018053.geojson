@@ -1,0 +1,81 @@
+{
+  "id": 1226018053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.30931,36.88953,42.30931,36.88953",
+    "geom:latitude":36.88953,
+    "geom:longitude":42.30931,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Jadriyah",
+    "gn:country_code":"IQ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7103723,
+    "gn:latitude":36.88953,
+    "gn:longitude":42.30931,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jadr\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u0631\u064a\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Cadriye"
+    ],
+    "name:kur_x_variant":[
+        "\u062c\u0627\u062f\u0631\u064a\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Jadria",
+        "Jadr\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7103723
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2338e9b3057896a29e75f01d966c69c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1226018053,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1226018053,
+    "wof:lastmodified":1537639987,
+    "wof:name":"Jadriyah",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.30931,
+    36.88953,
+    42.30931,
+    36.88953
+],
+  "geometry": {"coordinates":[42.30931,36.88953],"type":"Point"}
+}

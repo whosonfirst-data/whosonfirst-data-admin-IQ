@@ -1,0 +1,74 @@
+{
+  "id": 1242761541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.82331,34.4533,44.82331,34.4533",
+    "geom:latitude":34.4533,
+    "geom:longitude":44.82331,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94296.0",
+    "gn:asciiname":"Nizam",
+    "gn:country_code":"IQ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759307,
+    "gn:latitude":34.4533,
+    "gn:longitude":44.82331,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Niz\u0327\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0638\u0627\u0645"
+    ],
+    "name:ara_x_variant":[
+        "Niz\u0327\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759307
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"95a2085cd9cdfea17bbb0e6e2e4e698f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562653,
+            "locality_id":1242761541,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1242761541,
+    "wof:lastmodified":1537639212,
+    "wof:name":"Nizam",
+    "wof:parent_id":1108562653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.82331,
+    34.4533,
+    44.82331,
+    34.4533
+],
+  "geometry": {"coordinates":[44.82331,34.4533],"type":"Point"}
+}

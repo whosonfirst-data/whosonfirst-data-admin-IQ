@@ -1,0 +1,74 @@
+{
+  "id": 1192990803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18413,32.78497,45.18413,32.78497",
+    "geom:latitude":32.78497,
+    "geom:longitude":45.18413,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"9166961.0",
+    "gn:asciiname":"Ad Dalabihah",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6733608,
+    "gn:latitude":32.78497,
+    "gn:longitude":45.18413,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ad Dal\u0101bihah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0644\u0627\u0628\u0647\u0647"
+    ],
+    "name:und_x_variant":[
+        "Ad Dal\u0101bihah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6733608
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5424f79f725af95d96b8e730d2073423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562781,
+            "locality_id":1192990803,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1192990803,
+    "wof:lastmodified":1537639138,
+    "wof:name":"Ad Dalabihah",
+    "wof:parent_id":1108562781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18413,
+    32.78497,
+    45.18413,
+    32.78497
+],
+  "geometry": {"coordinates":[45.18413,32.78497],"type":"Point"}
+}

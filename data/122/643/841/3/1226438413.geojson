@@ -1,0 +1,74 @@
+{
+  "id": 1226438413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.33562,31.65988,46.33562,31.65988",
+    "geom:latitude":31.65988,
+    "geom:longitude":46.33562,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98700.0",
+    "gn:asciiname":"Tall ash Shahiniyah",
+    "gn:country_code":"IQ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7025796,
+    "gn:latitude":31.65988,
+    "gn:longitude":46.33562,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tall ash Sh\u0101hin\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0634\u0627\u0647\u064a\u0646\u064a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Tall ash Sh\u0101hin\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7025796
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d3c7157dfd8b7c379f518951bfbd6508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562683,
+            "locality_id":1226438413,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1226438413,
+    "wof:lastmodified":1537639941,
+    "wof:name":"Tall ash Shahiniyah",
+    "wof:parent_id":1108562683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.33562,
+    31.65988,
+    46.33562,
+    31.65988
+],
+  "geometry": {"coordinates":[46.33562,31.65988],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343958521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.065,32.13333,45.065,32.13333",
+    "geom:latitude":32.13333,
+    "geom:longitude":45.065,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"Muhammad ad Damin",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93356,
+    "gn:latitude":32.13333,
+    "gn:longitude":45.065,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29ammad a\u1e11 \u1e10\u0101min",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muhammad adh Dh\u0101min",
+        "Mohammad al Dh\u0101min",
+        "Mu\u1e29ammad a\u1e11 \u1e10\u0101min"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93356
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"408b6e8280f446bc2173d587c5e500f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1343958521,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1343958521,
+    "wof:lastmodified":1537638127,
+    "wof:name":"Muhammad ad Damin",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.065,
+    32.13333,
+    45.065,
+    32.13333
+],
+  "geometry": {"coordinates":[45.065,32.13333],"type":"Point"}
+}

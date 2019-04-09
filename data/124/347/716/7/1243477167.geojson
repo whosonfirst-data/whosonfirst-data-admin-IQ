@@ -1,0 +1,82 @@
+{
+  "id": 1243477167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.67912,35.3028,45.67912,35.3028",
+    "geom:latitude":35.3028,
+    "geom:longitude":45.67912,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166594.0",
+    "gn:asciiname":"Zarayan al Qadimah",
+    "gn:country_code":"IQ",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89521,
+    "gn:latitude":35.3028,
+    "gn:longitude":45.67912,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zar\u0101yan al Qad\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0631\u0627\u064a\u0646 \u0627\u0644\u0642\u062f\u064a\u0645\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Ze\u1e5fayen"
+    ],
+    "name:kur_x_variant":[
+        "\u0632\u06d5\u0695\u0627\u064a\u06d5\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tarar\u0101yiz",
+        "Zar\u0101yan al Qad\u012bmah",
+        "Zar\u0101yin",
+        "Zarayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        1108562767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89521
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"04a3038e5512df4196453c856fd3b22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":1108562767,
+            "locality_id":1243477167,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1243477167,
+    "wof:lastmodified":1537637786,
+    "wof:name":"Zarayan al Qadimah",
+    "wof:parent_id":1108562767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.67912000000001,
+    35.3028,
+    45.67912000000001,
+    35.3028
+],
+  "geometry": {"coordinates":[45.67912000000001,35.3028],"type":"Point"}
+}

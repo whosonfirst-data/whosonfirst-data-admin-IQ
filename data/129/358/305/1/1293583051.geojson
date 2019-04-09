@@ -1,0 +1,83 @@
+{
+  "id": 1293583051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.06477,34.74311,45.06477,34.74311",
+    "geom:latitude":34.74311,
+    "geom:longitude":45.06477,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94296.0",
+    "gn:asciiname":"Sarqala",
+    "gn:country_code":"IQ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91476,
+    "gn:latitude":34.74311,
+    "gn:longitude":45.06477,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sarqal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0642\u0644\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Serqe\u0142a"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u06d5\u0631\u0642\u06d5\u06b5\u0627"
+    ],
+    "name:und_x_variant":[
+        "Sirqal\u2018ah",
+        "Sar Qal\u2018ah",
+        "Sarqal\u0101",
+        "Sarqala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91476
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"17ebd3d268b68c253387eead86de220c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562653,
+            "locality_id":1293583051,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1293583051,
+    "wof:lastmodified":1537637967,
+    "wof:name":"Sarqala",
+    "wof:parent_id":1108562653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.06477,
+    34.74310999999999,
+    45.06477,
+    34.74310999999999
+],
+  "geometry": {"coordinates":[45.06477,34.74310999999999],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209788357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.26408,32.51199,46.26408,32.51199",
+    "geom:latitude":32.51199,
+    "geom:longitude":46.26408,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"99132.0",
+    "gn:asciiname":"Husayn 'Abd as Sahib",
+    "gn:country_code":"IQ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7374999,
+    "gn:latitude":32.51199,
+    "gn:longitude":46.26408,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28usayn \u2018Abd a\u015f \u015e\u0101\u1e29ib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u064a\u0646 \u0639\u0628\u062f \u0627\u0644\u0635\u0627\u062d\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u1e28usayn \u2018Abd a\u015f \u015e\u0101\u1e29ib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        421186459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7374999
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8f9b7c3e4c9d9bc0819303b5caea34fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186459,
+            "locality_id":1209788357,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1209788357,
+    "wof:lastmodified":1537640022,
+    "wof:name":"Husayn 'Abd as Sahib",
+    "wof:parent_id":421186459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.26408,
+    32.51199,
+    46.26408,
+    32.51199
+],
+  "geometry": {"coordinates":[46.26408,32.51199],"type":"Point"}
+}

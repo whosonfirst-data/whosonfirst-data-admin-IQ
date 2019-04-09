@@ -1,0 +1,79 @@
+{
+  "id": 1209079285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9629,36.57865,43.9629,36.57865",
+    "geom:latitude":36.57865,
+    "geom:longitude":43.9629,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Jawlarah",
+    "gn:country_code":"IQ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445638,
+    "gn:latitude":36.57865,
+    "gn:longitude":43.9629,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Jawlarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0644\u0631\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Cubire"
+    ],
+    "name:kur_x_variant":[
+        "\u062c\u0648\u0628\u0631\u06d5",
+        "Col\u00eare",
+        "\u062c\u0648\u0644\u06ce\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Jolera",
+        "Jobira",
+        "Jawlarah",
+        "Jubra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445638
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"30d3713925623ee74006affc622de4e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209079285
+        }
+    ],
+    "wof:id":1209079285,
+    "wof:lastmodified":1537638911,
+    "wof:name":"Jawlarah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9629,
+    36.57865,
+    43.9629,
+    36.57865
+],
+  "geometry": {"coordinates":[43.9629,36.57865],"type":"Point"}
+}

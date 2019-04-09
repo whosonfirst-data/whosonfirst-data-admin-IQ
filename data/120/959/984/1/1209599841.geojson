@@ -1,0 +1,70 @@
+{
+  "id": 1209599841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.87083,31.12598,45.87083,31.12598",
+    "geom:latitude":31.12598,
+    "geom:longitude":45.87083,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98855.0",
+    "gn:asciiname":"Al Bathah",
+    "gn:country_code":"IQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99529,
+    "gn:latitude":31.12598,
+    "gn:longitude":45.87083,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Ba\u0163\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bat-ha",
+        "Al Ba\u0163\u1e29\u0101\u2019",
+        "Al Ba\u0163\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99529
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7284059d4f6476895b1da7b3cbba2fc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209599841
+        }
+    ],
+    "wof:id":1209599841,
+    "wof:lastmodified":1537638682,
+    "wof:name":"Al Bathah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.87083,
+    31.12598,
+    45.87083,
+    31.12598
+],
+  "geometry": {"coordinates":[45.87083,31.12598],"type":"Point"}
+}

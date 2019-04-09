@@ -1,0 +1,87 @@
+{
+  "id": 1344161725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.49975,35.70624,45.49975,35.70624",
+    "geom:latitude":35.70624,
+    "geom:longitude":45.49975,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Gankawah",
+    "gn:country_code":"IQ",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446656,
+    "gn:latitude":35.70624,
+    "gn:longitude":45.49975,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gank\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0646\u0643\u0627\u0648\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u06af\u0646\u0643\u0627\u0648\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Genkaw"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u06d5\u0646\u0643\u0627\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kank\u0101wah",
+        "Gank\u0101wah",
+        "Gankaw",
+        "Gank\u0113wa",
+        "\u0643\u0646\u0643\u0627\u0648\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446656
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"29bbb4836ab8b2f182fc1713c41be51b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1344161725,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1344161725,
+    "wof:lastmodified":1537638997,
+    "wof:name":"Gankawah",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.49975,
+    35.70624,
+    45.49975,
+    35.70624
+],
+  "geometry": {"coordinates":[45.49975,35.70624],"type":"Point"}
+}

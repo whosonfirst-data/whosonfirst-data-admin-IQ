@@ -1,0 +1,74 @@
+{
+  "id": 1243369617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.89702,31.38282,44.89702,31.38282",
+    "geom:latitude":31.38282,
+    "geom:longitude":44.89702,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"6850588.0",
+    "gn:asciiname":"Jarat ar Ramad",
+    "gn:country_code":"IQ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026931,
+    "gn:latitude":31.38282,
+    "gn:longitude":44.89702,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"J\u0101rat ar Ramad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0631\u0629 \u0627\u0644\u0631\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "J\u0101rat ar Ramad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026931
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bdc6cfbf1384f32bafba847f2be06940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562701,
+            "locality_id":1243369617,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1243369617,
+    "wof:lastmodified":1537639946,
+    "wof:name":"Jarat ar Ramad",
+    "wof:parent_id":1108562701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.89702,
+    31.38282,
+    44.89702,
+    31.38282
+],
+  "geometry": {"coordinates":[44.89702,31.38282],"type":"Point"}
+}

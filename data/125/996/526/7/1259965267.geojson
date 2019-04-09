@@ -1,0 +1,85 @@
+{
+  "id": 1259965267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3657,37.21249,43.3657,37.21249",
+    "geom:latitude":37.21249,
+    "geom:longitude":43.3657,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Rawinah",
+    "gn:country_code":"IQ",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92005,
+    "gn:latitude":37.21249,
+    "gn:longitude":43.3657,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Raw\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u064a\u0646\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "\u1e5eev\u00eene"
+    ],
+    "name:kur_x_variant":[
+        "\u0695\u06d5\u06a4\u064a\u0646\u06d5",
+        "\u1e5eav\u00eena",
+        "\u0695\u0627\u06a4\u064a\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Rav\u012bnah",
+        "Rav\u012bna",
+        "Ravina",
+        "Raw\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92005
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2248dfa09a17e4d79fe2ad17d48d8b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1259965267,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1259965267,
+    "wof:lastmodified":1537638006,
+    "wof:name":"Rawinah",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3657,
+    37.21249,
+    43.3657,
+    37.21249
+],
+  "geometry": {"coordinates":[43.3657,37.21249],"type":"Point"}
+}

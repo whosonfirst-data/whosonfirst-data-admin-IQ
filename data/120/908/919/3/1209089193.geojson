@@ -1,0 +1,75 @@
+{
+  "id": 1209089193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2686,36.51257,43.2686,36.51257",
+    "geom:latitude":36.51257,
+    "geom:longitude":43.2686,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166541.0",
+    "gn:asciiname":"Fasiliyah",
+    "gn:country_code":"IQ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999691,
+    "gn:latitude":36.51257,
+    "gn:longitude":43.2686,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fa\u015f\u012bl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0635\u064a\u0644\u064a\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Fez\u00eele"
+    ],
+    "name:kur_x_variant":[
+        "\u0641\u06d5\u0632\u064a\u0644\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Fadhila",
+        "Fa\u015f\u012bl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999691
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3ad1e1f3b13132b6d7cebe59a041e3b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209089193
+        }
+    ],
+    "wof:id":1209089193,
+    "wof:lastmodified":1537639894,
+    "wof:name":"Fasiliyah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2686,
+    36.51257,
+    43.2686,
+    36.51257
+],
+  "geometry": {"coordinates":[43.2686,36.51257],"type":"Point"}
+}

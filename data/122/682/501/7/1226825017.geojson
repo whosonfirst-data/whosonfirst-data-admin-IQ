@@ -1,0 +1,74 @@
+{
+  "id": 1226825017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93506,34.67279,43.93506,34.67279",
+    "geom:latitude":34.67279,
+    "geom:longitude":43.93506,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"Darih Hadir",
+    "gn:country_code":"IQ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6871913,
+    "gn:latitude":34.67279,
+    "gn:longitude":43.93506,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dar\u012b\u1e29 \u1e28a\u1e11\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u064a\u062d \u062d\u0636\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Dar\u012b\u1e29 \u1e28a\u1e11\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6871913
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1a95e008b8d12015709021c5e74cecf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562773,
+            "locality_id":1226825017,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1226825017,
+    "wof:lastmodified":1537639795,
+    "wof:name":"Darih Hadir",
+    "wof:parent_id":1108562773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93506,
+    34.67279,
+    43.93506,
+    34.67279
+],
+  "geometry": {"coordinates":[43.93506,34.67279],"type":"Point"}
+}

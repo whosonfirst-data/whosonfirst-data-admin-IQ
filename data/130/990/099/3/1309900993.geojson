@@ -1,0 +1,73 @@
+{
+  "id": 1309900993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.06861,33.74444,45.06861,33.74444",
+    "geom:latitude":33.74444,
+    "geom:longitude":45.06861,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Husayn ash Sharrad",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95685,
+    "gn:latitude":33.74444,
+    "gn:longitude":45.06861,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28usayn ash Sharr\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hasan as Sharrad",
+        "\u1e28usayn ash Sharr\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95685
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fe3219c0cd4d87f6c3f3330b65d331f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1309900993,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1309900993,
+    "wof:lastmodified":1537638326,
+    "wof:name":"Husayn ash Sharrad",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.06861,
+    33.74444,
+    45.06861,
+    33.74444
+],
+  "geometry": {"coordinates":[45.06861,33.74444],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1310183241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81037,35.75952,43.81037,35.75952",
+    "geom:latitude":35.75952,
+    "geom:longitude":43.81037,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"93817.0",
+    "gn:asciiname":"`Awla Kawjilan",
+    "gn:country_code":"IQ",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98837,
+    "gn:latitude":35.75952,
+    "gn:longitude":43.81037,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"\u2018Awl\u0101 Kawj\u012bl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u0644\u0627 \u0643\u0648\u062c\u064a\u0644\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0628\u062f\u0627\u0644\u0644\u06d5 \u0643\u0648\u062c\u064a\u0644\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "\u2018Ebde\u0142\u0142e Goc\u00eelan"
+    ],
+    "name:kur_x_variant":[
+        "A_Gojilan",
+        "\u0639\u0628\u062f\u0627\u0644\u0644\u06d5 \u06af\u06c6\u062c\u064a\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Awlah K\u016bj\u012bl\u0101n",
+        "Aola Gujil\u0101n",
+        "\u2018Awl\u0101 Kawj\u012bl\u0101n",
+        "A_Gojilan",
+        "\u2018Abd Allah Kawj\u012bl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98837
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4778e1e992b5723b9f7411b216c912af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562779,
+            "locality_id":1310183241,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1310183241,
+    "wof:lastmodified":1537638636,
+    "wof:name":"`Awla Kawjilan",
+    "wof:parent_id":1108562779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81037,
+    35.75952,
+    43.81037,
+    35.75952
+],
+  "geometry": {"coordinates":[43.81037,35.75952],"type":"Point"}
+}

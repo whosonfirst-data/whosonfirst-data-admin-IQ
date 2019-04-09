@@ -1,0 +1,74 @@
+{
+  "id": 1293560497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73216,35.27781,43.73216,35.27781",
+    "geom:latitude":35.27781,
+    "geom:longitude":43.73216,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"6770659.0",
+    "gn:asciiname":"Majid Khurshid al Jaban",
+    "gn:country_code":"IQ",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6770481,
+    "gn:latitude":35.27781,
+    "gn:longitude":43.73216,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Maj\u012bd Kh\u016brsh\u012bd al Jab\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u064a\u062f \u062e\u0648\u0631\u0634\u064a\u062f \u0627\u0644\u062c\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Maj\u012bd Kh\u016brsh\u012bd al Jab\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6770481
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"35de9b1e13de0da2326819c07c402a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562743,
+            "locality_id":1293560497,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1293560497,
+    "wof:lastmodified":1537639259,
+    "wof:name":"Majid Khurshid al Jaban",
+    "wof:parent_id":1108562743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73216,
+    35.27780999999999,
+    43.73216,
+    35.27780999999999
+],
+  "geometry": {"coordinates":[43.73216,35.27780999999999],"type":"Point"}
+}

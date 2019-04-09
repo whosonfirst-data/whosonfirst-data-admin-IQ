@@ -1,0 +1,83 @@
+{
+  "id": 1259364101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92103,36.12035,43.92103,36.12035",
+    "geom:latitude":36.12035,
+    "geom:longitude":43.92103,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"'Azzah",
+    "gn:country_code":"IQ",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95829,
+    "gn:latitude":36.12035,
+    "gn:longitude":43.92103,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"\u2018Azzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "H\u00eeze"
+    ],
+    "name:kur_x_variant":[
+        "\u0647\u064a\u0632\u06d5"
+    ],
+    "name:und_x_variant":[
+        "\u1e28azzah",
+        "Haza",
+        "Hazza",
+        "\u2018Azzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95829
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e2958a738419887047bc65532385c4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":1259364101,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1259364101,
+    "wof:lastmodified":1537638337,
+    "wof:name":"'Azzah",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92103,
+    36.12035,
+    43.92103,
+    36.12035
+],
+  "geometry": {"coordinates":[43.92103,36.12035],"type":"Point"}
+}

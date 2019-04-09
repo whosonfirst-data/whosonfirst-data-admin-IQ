@@ -1,0 +1,181 @@
+{
+  "id": 1125919983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.91951,30.0362,47.91951,30.0362",
+    "geom:latitude":30.0362,
+    "geom:longitude":47.91951,
+    "gn:gn_country":"IQ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":107620,
+    "gn:population":107620,
+    "iso:country":"IQ",
+    "lbl:latitude":30.0362,
+    "lbl:longitude":47.91951,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0642\u0635\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645 \u0642\u0635\u0631"
+    ],
+    "name:baq_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u043c \u041a\u0430\u0441\u044a\u0440"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e4c\u59c6\u76d6\u8428\u5c14"
+    ],
+    "name:dan_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:dut_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:epo_x_preferred":[
+        "Um-Kasr"
+    ],
+    "name:est_x_preferred":[
+        "Umm Qa\u015fr"
+    ],
+    "name:fin_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:fre_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:ger_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:ice_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:ind_x_preferred":[
+        "Umm Qashr"
+    ],
+    "name:ita_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30f3\u30e0\u30fb\u30ab\u30b9\u30eb"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0423\u043c\u043c-\u041a\u0430\u0441\u0440"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6c0\uce74\uc2a4\ub974"
+    ],
+    "name:lit_x_preferred":[
+        "Um Kasras"
+    ],
+    "name:may_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0645 \u0642\u0635\u0631"
+    ],
+    "name:nob_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645 \u0642\u0635\u0631"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0645 \u0642\u0635\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Umm Kasr"
+    ],
+    "name:por_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:rum_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043c\u043c-\u041a\u0430\u0441\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Um Kasar"
+    ],
+    "name:swe_x_preferred":[
+        "Umm Qasr"
+    ],
+    "name:tur_x_preferred":[
+        "Um Kasr"
+    ],
+    "name:unk_x_variant":[
+        "Omolgasr"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645 \u0642\u0635\u0631"
+    ],
+    "qs_pg:aaroncc":"IQ",
+    "qs_pg:gn_country":"IQ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":89824,
+    "qs_pg:gn_pop":107620,
+    "qs_pg:name":"Umm Qa\u015fr",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":62028,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89824,
+        "qs_pg:id":62028,
+        "wd:id":"Q842407"
+    },
+    "wof:country":"IQ",
+    "wof:created":1497296448,
+    "wof:geomhash":"27bb6dee2680f32ce47aaa5f74eda93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562727,
+            "locality_id":1125919983,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1125919983,
+    "wof:lastmodified":1514454998,
+    "wof:name":"Umm Qa\u015fr",
+    "wof:parent_id":1108562727,
+    "wof:placetype":"locality",
+    "wof:population":107620,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.91951,
+    30.0362,
+    47.91951,
+    30.0362
+],
+  "geometry": {"coordinates":[47.91951,30.0362],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259880409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.95,31.98333,44.95,31.98333",
+    "geom:latitude":31.98333,
+    "geom:longitude":44.95,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"Hajji Husayn",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96242,
+    "gn:latitude":31.98333,
+    "gn:longitude":44.95,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28\u0101jj\u012b \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0101ji Husain",
+        "\u1e28\u0101jj\u012b \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96242
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4956ff174f92dd9ec1d63d6adfd1db2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1259880409,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1259880409,
+    "wof:lastmodified":1537638374,
+    "wof:name":"Hajji Husayn",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.95,
+    31.98333,
+    44.95,
+    31.98333
+],
+  "geometry": {"coordinates":[44.95,31.98333],"type":"Point"}
+}

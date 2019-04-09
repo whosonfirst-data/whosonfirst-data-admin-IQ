@@ -1,0 +1,82 @@
+{
+  "id": 1293572011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.53193,36.53719,41.53193,36.53719",
+    "geom:latitude":36.53719,
+    "geom:longitude":41.53193,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Tall Musharraf",
+    "gn:country_code":"IQ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":383714,
+    "gn:latitude":36.53719,
+    "gn:longitude":41.53193,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tall Musharraf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0645\u0634\u0631\u0641"
+    ],
+    "name:kur_x_preferred":[
+        "Tel Musher\u00eef"
+    ],
+    "name:kur_x_variant":[
+        "\u062a\u06d5\u0644 \u0645\u0648\u0634\u06d5\u0631\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Tel Musharif",
+        "Tl Musharif",
+        "Tall Musharraf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383714
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7a719d40ed6897c8e18ec77e5b15eb22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1293572011,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1293572011,
+    "wof:lastmodified":1537638736,
+    "wof:name":"Tall Musharraf",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.53193,
+    36.53719,
+    41.53193,
+    36.53719
+],
+  "geometry": {"coordinates":[41.53193,36.53719],"type":"Point"}
+}

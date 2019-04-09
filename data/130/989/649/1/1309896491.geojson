@@ -1,0 +1,87 @@
+{
+  "id": 1309896491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.72533,37.00673,42.72533,37.00673",
+    "geom:latitude":37.00673,
+    "geom:longitude":42.72533,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9166607.0",
+    "gn:asciiname":"Balquz",
+    "gn:country_code":"IQ",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98079,
+    "gn:latitude":37.00673,
+    "gn:longitude":42.72533,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"B\u0101lq\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u0642\u0648\u0632"
+    ],
+    "name:ara_x_variant":[
+        "B\u0101lq\u016bz"
+    ],
+    "name:kur_x_preferred":[
+        "Berqwez"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06d5\u0631\u0642\u0648\u06d5\u0632",
+        "Balqus J\u00fbr\u00ee",
+        "\u0628\u0627\u0644\u0642\u0648\u0633 \u0698\u0648\u0648\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "B\u0101lq\u014dz",
+        "Barquaz",
+        "Balqus Upper"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        1108562637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98079
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5637782ec829ec2b3c665ff8133be3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562637,
+            "locality_id":1309896491,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1309896491,
+    "wof:lastmodified":1537638573,
+    "wof:name":"Balquz",
+    "wof:parent_id":1108562637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.72533,
+    37.00673,
+    42.72533,
+    37.00673
+],
+  "geometry": {"coordinates":[42.72533,37.00673],"type":"Point"}
+}

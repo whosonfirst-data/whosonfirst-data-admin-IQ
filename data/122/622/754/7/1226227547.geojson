@@ -1,0 +1,83 @@
+{
+  "id": 1226227547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27211,37.17789,43.27211,37.17789",
+    "geom:latitude":37.17789,
+    "geom:longitude":43.27211,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Zekeriya",
+    "gn:country_code":"IQ",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7033867,
+    "gn:latitude":37.17789,
+    "gn:longitude":43.27211,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zekeriya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0643\u0631\u064a\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Zekerye"
+    ],
+    "name:kur_x_variant":[
+        "\u0632\u06d5\u0643\u06d5\u0631\u064a\u06d5",
+        "Zekeriya",
+        "\u0632\u06d5\u0643\u06d5\u0631\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Zakaria",
+        "Zakar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033867
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0eeeea1ad491c88cc930f85f5f9c9dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1226227547,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1226227547,
+    "wof:lastmodified":1537639954,
+    "wof:name":"Zekeriya",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27211,
+    37.17789000000001,
+    43.27211,
+    37.17789000000001
+],
+  "geometry": {"coordinates":[43.27211,37.17789000000001],"type":"Point"}
+}

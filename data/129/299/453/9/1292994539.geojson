@@ -1,0 +1,78 @@
+{
+  "id": 1292994539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42762,34.52918,45.42762,34.52918",
+    "geom:latitude":34.52918,
+    "geom:longitude":45.42762,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Jahanjir",
+    "gn:country_code":"IQ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95326,
+    "gn:latitude":34.52918,
+    "gn:longitude":45.42762,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Jah\u0101nj\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "C\u00eehang\u00eer"
+    ],
+    "name:kur_x_variant":[
+        "\u062c\u064a\u0647\u0627\u0646\u06af\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Jeh\u0101ngir",
+        "Jah\u0101nj\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95326
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"99192964fd05f2dd715c744c9286e634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1292994539,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1292994539,
+    "wof:lastmodified":1537638307,
+    "wof:name":"Jahanjir",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42762000000001,
+    34.52918,
+    45.42762000000001,
+    34.52918
+],
+  "geometry": {"coordinates":[45.42762000000001,34.52918],"type":"Point"}
+}

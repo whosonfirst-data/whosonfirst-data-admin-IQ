@@ -1,0 +1,83 @@
+{
+  "id": 1343537801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25809,35.65133,44.25809,35.65133",
+    "geom:latitude":35.65133,
+    "geom:longitude":44.25809,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9171727.0",
+    "gn:asciiname":"Ghazanfar",
+    "gn:country_code":"IQ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":92247,
+    "gn:latitude":35.65133,
+    "gn:longitude":44.25809,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ghazanfar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u063a\u0632\u0646\u0641\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "\u2018Eznefer"
+    ],
+    "name:kur_x_variant":[
+        "\u0639\u06d5\u0632\u0646\u06d5\u0641\u06d5\u0631"
+    ],
+    "name:und_x_variant":[
+        "Gha\u1e11anfar",
+        "Qaz\u0101nf\u0101r",
+        "Aznafar",
+        "Ghazanfar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92247
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"62cfa26a058d29ea410fec94d3b29446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562807,
+            "locality_id":1343537801,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1343537801,
+    "wof:lastmodified":1537638027,
+    "wof:name":"Ghazanfar",
+    "wof:parent_id":1108562807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25809,
+    35.65133,
+    44.25809,
+    35.65133
+],
+  "geometry": {"coordinates":[44.25809,35.65133],"type":"Point"}
+}

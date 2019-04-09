@@ -1,0 +1,84 @@
+{
+  "id": 1210000045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.52898,31.37698,47.52898,31.37698",
+    "geom:latitude":31.37698,
+    "geom:longitude":47.52898,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"92536.0",
+    "gn:asciiname":"Al Baydah",
+    "gn:country_code":"IQ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99525,
+    "gn:latitude":31.37698,
+    "gn:longitude":47.52898,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Bay\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0636\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u06cc\u062f\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Al Baya\u1e95ah",
+        "\u0627\u0644\u0628\u06cc\u0636\u0647"
+    ],
+    "name:und_x_variant":[
+        "Al Baidhah",
+        "Al-Baidhah",
+        "Al Baydan",
+        "Al Bay\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99525
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"81752c65c1f9a2dd7602daed20ca5d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562713,
+            "locality_id":1210000045,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1210000045,
+    "wof:lastmodified":1537638682,
+    "wof:name":"Al Baydah",
+    "wof:parent_id":1108562713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.52898,
+    31.37698,
+    47.52898,
+    31.37698
+],
+  "geometry": {"coordinates":[47.52898,31.37698],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326652221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37395,32.63097,44.37395,32.63097",
+    "geom:latitude":32.63097,
+    "geom:longitude":44.37395,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"Qaryat Niyah Mira",
+    "gn:country_code":"IQ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6818073,
+    "gn:latitude":32.63097,
+    "gn:longitude":44.37395,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat N\u012byah M\u012br\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0646\u064a\u0629 \u0645\u064a\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "Qaryat N\u012byah M\u012br\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421172849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818073
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7fd3f79e1958f19808095daf3b88f7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172849,
+            "locality_id":1326652221,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1326652221,
+    "wof:lastmodified":1537639648,
+    "wof:name":"Qaryat Niyah Mira",
+    "wof:parent_id":421172849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37395,
+    32.63097,
+    44.37395,
+    32.63097
+],
+  "geometry": {"coordinates":[44.37395,32.63097],"type":"Point"}
+}

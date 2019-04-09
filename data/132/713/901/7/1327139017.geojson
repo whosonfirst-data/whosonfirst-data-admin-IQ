@@ -1,0 +1,84 @@
+{
+  "id": 1327139017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78964,35.12647,44.78964,35.12647",
+    "geom:latitude":35.12647,
+    "geom:longitude":44.78964,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Kawrah Mud",
+    "gn:country_code":"IQ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94088,
+    "gn:latitude":35.12647,
+    "gn:longitude":44.78964,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Kawrah M\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0631\u0647 \u0645\u0648\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0644\u064a \u062e\u0627\u0646 \u0628\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ali Khan Beg",
+        "\u2018Al\u012b Kh\u0101n Bak",
+        "Kur\u016bm\u016br",
+        "\u2019Al\u012b Kh\u0101n Bag",
+        "Kawrah M\u016bd \u2018Al\u012b Kh\u0101n Bak",
+        "\u0639\u0644\u064a \u062e\u0627\u0646 \u0628\u06af",
+        "\u0643\u0648\u0631\u0647 \u0645\u0648\u062f \u0639\u0644\u064a \u062e\u0627\u0646 \u0628\u0643",
+        "Kawrah M\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94088
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"eac1e27caa1e61ddd68ab110177d9002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1327139017,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1327139017,
+    "wof:lastmodified":1537638190,
+    "wof:name":"Kawrah Mud",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78964000000001,
+    35.12647,
+    44.78964000000001,
+    35.12647
+],
+  "geometry": {"coordinates":[44.78964000000001,35.12647],"type":"Point"}
+}

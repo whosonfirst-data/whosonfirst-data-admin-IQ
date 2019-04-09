@@ -1,0 +1,68 @@
+{
+  "id": 1276840417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.53333,36.81667,42.53333,36.81667",
+    "geom:latitude":36.81667,
+    "geom:longitude":42.53333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Khirbat al Jirjiriyah",
+    "gn:country_code":"IQ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94390,
+    "gn:latitude":36.81667,
+    "gn:longitude":42.53333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khirbat al Jirjir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94390
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f9fcb47514590d83bc6ea0debf0bea34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1276840417,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1276840417,
+    "wof:lastmodified":1537090831,
+    "wof:name":"Khirbat al Jirjiriyah",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.53333,
+    36.81667,
+    42.53333,
+    36.81667
+],
+  "geometry": {"coordinates":[42.53333,36.81667],"type":"Point"}
+}

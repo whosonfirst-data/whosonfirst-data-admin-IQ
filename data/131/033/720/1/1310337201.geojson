@@ -1,0 +1,83 @@
+{
+  "id": 1310337201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25932,34.83227,45.25932,34.83227",
+    "geom:latitude":34.83227,
+    "geom:longitude":45.25932,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Bashk Rashid",
+    "gn:country_code":"IQ",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98152,
+    "gn:latitude":34.83227,
+    "gn:longitude":45.25932,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Bashk Rash\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u0643 \u0631\u0634\u064a\u062f"
+    ],
+    "name:kur_x_preferred":[
+        "Beshik \u1e5eesh\u00eed"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06d5\u0634\u0643 \u0695\u06d5\u0634\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bahk-i Rashid",
+        "Bashk Rash\u012bd",
+        "B\u0101shk\u012b Rash\u012bd",
+        "\u0628\u0627\u0634\u0643\u064a \u0631\u0634\u064a\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98152
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a37d902be9d9f92115afd2c6489b0362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1310337201,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1310337201,
+    "wof:lastmodified":1537638583,
+    "wof:name":"Bashk Rashid",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25932,
+    34.83227,
+    45.25932,
+    34.83227
+],
+  "geometry": {"coordinates":[45.25932,34.83227],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344136305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.94615,35.22761,43.94615,35.22761",
+    "geom:latitude":35.22761,
+    "geom:longitude":43.94615,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"6770659.0",
+    "gn:asciiname":"Qaryat Tuwayli`ah",
+    "gn:country_code":"IQ",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6770585,
+    "gn:latitude":35.22761,
+    "gn:longitude":43.94615,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Qaryat \u0162uwayli\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0637\u0648\u064a\u0644\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Wash\u0101\u1e29\u0101t",
+        "\u0627\u0644\u0648\u0634\u0627\u062d\u0627\u062a",
+        "Qaryat \u0162uwayli\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6770585
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ff8e8d8d79d828f6b5f0c125f3abf434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562743,
+            "locality_id":1344136305,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1344136305,
+    "wof:lastmodified":1537639265,
+    "wof:name":"Qaryat Tuwayli`ah",
+    "wof:parent_id":1108562743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.94615,
+    35.22761,
+    43.94615,
+    35.22761
+],
+  "geometry": {"coordinates":[43.94615,35.22761],"type":"Point"}
+}

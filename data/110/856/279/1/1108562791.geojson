@@ -1,0 +1,73 @@
+{
+  "id": 1108562791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002001,
+    "geom:area_square_m":20653126.579435,
+    "geom:bbox":"44.4109810811,33.3644636662,44.5049092788,33.439052",
+    "geom:latitude":33.402404,
+    "geom:longitude":44.455908,
+    "iso:country":"IQ",
+    "lbl:latitude":33.402661,
+    "lbl:longitude":44.455305,
+    "meso:admin1_en":"Baghdad",
+    "meso:admin1_loc":"\u0628\u063a\u062f\u0627\u062f",
+    "meso:gadm_admin":"Adhamiya",
+    "meso:gaul_admin":"Thawra 2",
+    "meso:mps_x":44.455305,
+    "meso:mps_y":33.402661,
+    "meso:name_alt":"Thawra2",
+    "meso:name_en":"Thawra2",
+    "meso:name_local":"\u0627\u0644\u062b\u0648\u0631\u0629 2",
+    "meso:source":"ESOC",
+    "mps:latitude":33.402661,
+    "mps:longitude":44.455305,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Thawra 2",
+        "Adhamiya"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0644\u062b\u0648\u0631\u0629 2"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"IQ",
+    "wof:created":1474052348,
+    "wof:geomhash":"434b5aa8a50a7a4f7b2465c74d796f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562791,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1108562791,
+    "wof:lastmodified":1512516785,
+    "wof:name":"Thawra2",
+    "wof:parent_id":85672447,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41098108108669,
+    33.3644636661617,
+    44.5049092787601,
+    33.439052
+],
+  "geometry": {"coordinates":[[[44.5049092787601,33.43320622065074],[44.4849524500157,33.41484593820589],[44.42884478475273,33.36486768175316],[44.4284645347843,33.3644636661617],[44.41098108108669,33.37701588932922],[44.41149902300003,33.37750244100005],[44.41412353500004,33.37988281200006],[44.41632080100004,33.38189697300004],[44.41773412100008,33.38310839000007],[44.418781,33.384037],[44.42017806700005,33.38530365000003],[44.42169189500004,33.38671875000006],[44.43057187300008,33.39464656300004],[44.447731,33.410049],[44.45323739100007,33.41499505100006],[44.45709228500004,33.41851806600005],[44.45923461500007,33.42066039600007],[44.45924041100005,33.42062679200006],[44.459249,33.420577],[44.45926225000005,33.42058462100004],[44.491371,33.439052],[44.5049092787601,33.43320622065074]]],"type":"Polygon"}
+}

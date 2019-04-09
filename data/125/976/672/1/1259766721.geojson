@@ -1,0 +1,74 @@
+{
+  "id": 1259766721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.23333,31.26667,47.23333,31.26667",
+    "geom:latitude":31.26667,
+    "geom:longitude":47.23333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"99097.0",
+    "gn:asciiname":"Al Qubur",
+    "gn:country_code":"IQ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98995,
+    "gn:latitude":31.26667,
+    "gn:longitude":47.23333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Qub\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qub\u016br"
+    ],
+    "name:und_x_variant":[
+        "Al Gubur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98995
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"dcca70cb9869ef2b46287011f97df0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562707,
+            "locality_id":1259766721,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1259766721,
+    "wof:lastmodified":1537638645,
+    "wof:name":"Al Qubur",
+    "wof:parent_id":1108562707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.23333,
+    31.26667,
+    47.23333,
+    31.26667
+],
+  "geometry": {"coordinates":[47.23333,31.26667],"type":"Point"}
+}

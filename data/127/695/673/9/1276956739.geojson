@@ -1,0 +1,75 @@
+{
+  "id": 1276956739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.86804,36.30643,43.86804,36.30643",
+    "geom:latitude":36.30643,
+    "geom:longitude":43.86804,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Kharabah Daraw",
+    "gn:country_code":"IQ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94551,
+    "gn:latitude":36.30643,
+    "gn:longitude":43.86804,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Khar\u0101bah Dar\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628\u0629 \u062f\u0631\u0627\u0648"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101ba Darao",
+        "Khar\u0101bah Dar\u0101w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94551
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a424d3df3c8684616b13d8e692076631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":1276956739,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1276956739,
+    "wof:lastmodified":1537638233,
+    "wof:name":"Kharabah Daraw",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.86804,
+    36.30643,
+    43.86804,
+    36.30643
+],
+  "geometry": {"coordinates":[43.86804,36.30643],"type":"Point"}
+}

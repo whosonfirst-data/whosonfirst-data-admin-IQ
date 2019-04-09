@@ -1,0 +1,74 @@
+{
+  "id": 1310663819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.764,34.76301,43.764,34.76301",
+    "geom:latitude":34.76301,
+    "geom:longitude":43.764,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"90148.0",
+    "gn:asciiname":"Qaryat Abu Jawan",
+    "gn:country_code":"IQ",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6871961,
+    "gn:latitude":34.76301,
+    "gn:longitude":43.764,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Ab\u016b J\u0101w\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0628\u0648 \u062c\u0627\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Ab\u016b J\u0101w\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        421186243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6871961
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6543b6336ad85f50595ee791b3996624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186243,
+            "locality_id":1310663819,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1310663819,
+    "wof:lastmodified":1537639798,
+    "wof:name":"Qaryat Abu Jawan",
+    "wof:parent_id":421186243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.764,
+    34.76300999999999,
+    43.764,
+    34.76300999999999
+],
+  "geometry": {"coordinates":[43.764,34.76300999999999],"type":"Point"}
+}

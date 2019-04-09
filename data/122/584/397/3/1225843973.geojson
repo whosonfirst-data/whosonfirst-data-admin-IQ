@@ -1,0 +1,86 @@
+{
+  "id": 1225843973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.71445,35.76459,45.71445,35.76459",
+    "geom:latitude":35.76459,
+    "geom:longitude":45.71445,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Zakhah",
+    "gn:country_code":"IQ",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89571,
+    "gn:latitude":35.76459,
+    "gn:longitude":45.71445,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Z\u0101khah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u062e\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Zaxe"
+    ],
+    "name:kur_x_variant":[
+        "\u0632\u0627\u062e\u06d5"
+    ],
+    "name:und_x_variant":[
+        "K\u016bkh Z\u0101khah",
+        "Nirkh\u012b Z\u0101kh\u012b",
+        "\u0646\u0631\u062e\u064a \u0632\u0627\u062e\u064a",
+        "Z\u0101khe",
+        "Z\u0101khah",
+        "\u0632\u0627\u062e\u0629",
+        "Zakha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89571
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0d27e98d9f1e56c81f0be70230272b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1225843973,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1225843973,
+    "wof:lastmodified":1537637793,
+    "wof:name":"Zakhah",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.71445,
+    35.76459000000001,
+    45.71445,
+    35.76459000000001
+],
+  "geometry": {"coordinates":[45.71445,35.76459000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276884933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.43285,31.39783,45.43285,31.39783",
+    "geom:latitude":31.39783,
+    "geom:longitude":45.43285,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9166568.0",
+    "gn:asciiname":"Jabir al Bijay",
+    "gn:country_code":"IQ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89658,
+    "gn:latitude":31.39783,
+    "gn:longitude":45.43285,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"J\u0101bir al Bij\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0628\u0631 \u0627\u0644\u0628\u062c\u0627\u064a"
+    ],
+    "name:und_x_variant":[
+        "Yabir",
+        "J\u0101bir al Bij\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89658
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ae9276b26a2d758fadb9b4b0b52d7e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562705,
+            "locality_id":1276884933,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1276884933,
+    "wof:lastmodified":1537637801,
+    "wof:name":"Jabir al Bijay",
+    "wof:parent_id":1108562705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.43285,
+    31.39783,
+    45.43285,
+    31.39783
+],
+  "geometry": {"coordinates":[45.43285,31.39783],"type":"Point"}
+}

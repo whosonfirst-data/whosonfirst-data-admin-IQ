@@ -1,0 +1,88 @@
+{
+  "id": 1310290549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.00348,37.11331,43.00348,37.11331",
+    "geom:latitude":37.11331,
+    "geom:longitude":43.00348,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"89569.0",
+    "gn:asciiname":"Berzurk",
+    "gn:country_code":"IQ",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447865,
+    "gn:latitude":37.11331,
+    "gn:longitude":43.00348,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Berzurk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631\u0632\u0648\u0631\u0643\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Berzork\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06d5\u0631\u0632\u06c6\u0631\u0643\u0649",
+        "Berzurk",
+        "\u0628\u06d5\u0631\u0632\u0648\u0631\u0643",
+        "Berzuyrk\u00ea",
+        "\u0628\u06d5\u0631\u0632\u0648\u064a\u0631\u0643\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Barz\u014drk",
+        "Barz\u014drk\u012b",
+        "Barzorky",
+        "B\u0101rz\u016brkay",
+        "Barzurke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        890445289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447865
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"71c929ce84d9776f7412aa0ff7d1a79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445289,
+            "locality_id":1310290549,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1310290549,
+    "wof:lastmodified":1537639056,
+    "wof:name":"Berzurk",
+    "wof:parent_id":890445289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.00348,
+    37.11331,
+    43.00348,
+    37.11331
+],
+  "geometry": {"coordinates":[43.00348,37.11331],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1260065901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.09574,37.0361,43.09574,37.0361",
+    "geom:latitude":37.0361,
+    "geom:longitude":43.09574,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"97269.0",
+    "gn:asciiname":"Mangesh",
+    "gn:country_code":"IQ",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93706,
+    "gn:latitude":37.0361,
+    "gn:longitude":43.09574,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mang\u00eash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0646\u06af\u064a\u0634"
+    ],
+    "name:ara_x_variant":[
+        "M\u0101ng\u012bsh"
+    ],
+    "name:kur_x_preferred":[
+        "Mang\u00eash"
+    ],
+    "name:kur_x_variant":[
+        "\u0645\u0627\u0646\u06af\u06ce\u0634"
+    ],
+    "name:und_x_variant":[
+        "Mank\u016bsh",
+        "M\u0101nkiz",
+        "M\u0101ng\u0113sh",
+        "Mangesh",
+        "M\u0101ngaysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421204025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93706,
+        "wk:page":"Mangesh%2C_Iraq"
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7289ac07d241ea3f057e8ff0bde1b5f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421204025,
+            "locality_id":1260065901,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1260065901,
+    "wof:lastmodified":1537638158,
+    "wof:name":"Mangesh",
+    "wof:parent_id":421204025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.09574,
+    37.0361,
+    43.09574,
+    37.0361
+],
+  "geometry": {"coordinates":[43.09574,37.0361],"type":"Point"}
+}

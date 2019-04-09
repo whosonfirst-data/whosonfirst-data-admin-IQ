@@ -1,0 +1,73 @@
+{
+  "id": 1243160305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88806,36.07361,43.88806,36.07361",
+    "geom:latitude":36.07361,
+    "geom:longitude":43.88806,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Quritan Mulla Mahmud",
+    "gn:country_code":"IQ",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92196,
+    "gn:latitude":36.07361,
+    "gn:longitude":43.88806,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Q\u016brit\u0101n Mull\u0101 Ma\u1e29m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Q\u016brit\u0101n Mull\u0101 Ma\u1e29m\u016bd",
+        "Q\u016br\u012b Mull\u0101 Ma\u1e29m\u016bd",
+        "Qoritan Mull\u0101 Ma\u1e29m\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92196
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"91a66f0c027a122b8d3dc39cd61662fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":1243160305,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1243160305,
+    "wof:lastmodified":1537638020,
+    "wof:name":"Quritan Mulla Mahmud",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88806,
+    36.07361,
+    43.88806,
+    36.07361
+],
+  "geometry": {"coordinates":[43.88806,36.07361],"type":"Point"}
+}

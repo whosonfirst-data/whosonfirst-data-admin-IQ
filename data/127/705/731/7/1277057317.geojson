@@ -1,0 +1,87 @@
+{
+  "id": 1277057317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65703,36.84579,44.65703,36.84579",
+    "geom:latitude":36.84579,
+    "geom:longitude":44.65703,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166592.0",
+    "gn:asciiname":"Jiliya",
+    "gn:country_code":"IQ",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89425,
+    "gn:latitude":36.84579,
+    "gn:longitude":44.65703,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"J\u012bliy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "J\u012bliy\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u064a\u0644\u064a\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "J\u00eeliya"
+    ],
+    "name:kur_x_variant":[
+        "\u0698\u064a\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Zhilia",
+        "Zhilla",
+        "Zillah",
+        "Zhillah",
+        "Zhilya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89425
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"396a836f230fd4ece5e6a312e40c82eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445495,
+            "locality_id":1277057317,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1277057317,
+    "wof:lastmodified":1537637775,
+    "wof:name":"Jiliya",
+    "wof:parent_id":890445495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65703,
+    36.84579,
+    44.65703,
+    36.84579
+],
+  "geometry": {"coordinates":[44.65703,36.84579],"type":"Point"}
+}

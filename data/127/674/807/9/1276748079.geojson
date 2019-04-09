@@ -1,0 +1,74 @@
+{
+  "id": 1276748079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.16013,31.59163,46.16013,31.59163",
+    "geom:latitude":31.59163,
+    "geom:longitude":46.16013,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98700.0",
+    "gn:asciiname":"Fulayh al Sayyid 'Abd al Mahdi",
+    "gn:country_code":"IQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7025689,
+    "gn:latitude":31.59163,
+    "gn:longitude":46.16013,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fulay\u1e29 al Sayyid \u2018Abd al Mahd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u064a\u062d \u0627\u0644\u0633\u064a\u062f \u0639\u0628\u062f \u0627\u0644\u0645\u0647\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Fulay\u1e29 al Sayyid \u2018Abd al Mahd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7025689
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"64a020bd3ae3f8c98a8fd4be8a11a5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562683,
+            "locality_id":1276748079,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1276748079,
+    "wof:lastmodified":1537639937,
+    "wof:name":"Fulayh al Sayyid 'Abd al Mahdi",
+    "wof:parent_id":1108562683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.16013,
+    31.59163,
+    46.16013,
+    31.59163
+],
+  "geometry": {"coordinates":[46.16013,31.59163],"type":"Point"}
+}

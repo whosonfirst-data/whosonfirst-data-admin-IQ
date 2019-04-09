@@ -1,0 +1,74 @@
+{
+  "id": 1225818571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.70056,36.19819,41.70056,36.19819",
+    "geom:latitude":36.19819,
+    "geom:longitude":41.70056,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Qawalah",
+    "gn:country_code":"IQ",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7046852,
+    "gn:latitude":36.19819,
+    "gn:longitude":41.70056,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Qaw\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaw\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7046852
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8e8b512f98c15b82832f2b9b4f870453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1225818571,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1225818571,
+    "wof:lastmodified":1537639965,
+    "wof:name":"Qawalah",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.70056,
+    36.19819,
+    41.70056,
+    36.19819
+],
+  "geometry": {"coordinates":[41.70056,36.19819],"type":"Point"}
+}

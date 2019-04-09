@@ -1,0 +1,71 @@
+{
+  "id": 1276956703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16814,36.86947,44.16814,36.86947",
+    "geom:latitude":36.86947,
+    "geom:longitude":44.16814,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166534.0",
+    "gn:asciiname":"Shirawiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":90844,
+    "gn:latitude":36.86947,
+    "gn:longitude":44.16814,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Sh\u012br\u0101wiyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u012br\u0101wiyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90844
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c0d5c0fd894e9b833869bbd2e8ba06de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562747,
+            "locality_id":1276956703,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1276956703,
+    "wof:lastmodified":1537637908,
+    "wof:name":"Shirawiyah",
+    "wof:parent_id":1108562747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16814,
+    36.86947,
+    44.16814,
+    36.86947
+],
+  "geometry": {"coordinates":[44.16814,36.86947],"type":"Point"}
+}

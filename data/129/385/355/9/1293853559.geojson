@@ -1,0 +1,74 @@
+{
+  "id": 1293853559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.13469,32.53686,46.13469,32.53686",
+    "geom:latitude":32.53686,
+    "geom:longitude":46.13469,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"99132.0",
+    "gn:asciiname":"'Amran Dalfi",
+    "gn:country_code":"IQ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7375072,
+    "gn:latitude":32.53686,
+    "gn:longitude":46.13469,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Amr\u0101n Dalf\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u0631\u0627\u0646 \u062f\u0644\u0641\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Amr\u0101n Dalf\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        421186459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7375072
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7e4f183c6dd2d3667575a2e34296bcea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186459,
+            "locality_id":1293853559,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1293853559,
+    "wof:lastmodified":1537640025,
+    "wof:name":"'Amran Dalfi",
+    "wof:parent_id":421186459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.13469,
+    32.53686,
+    46.13469,
+    32.53686
+],
+  "geometry": {"coordinates":[46.13469,32.53686],"type":"Point"}
+}

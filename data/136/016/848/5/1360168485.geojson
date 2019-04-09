@@ -1,0 +1,73 @@
+{
+  "id": 1360168485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.66583,33.60611,44.66583,33.60611",
+    "geom:latitude":33.60611,
+    "geom:longitude":44.66583,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"99063.0",
+    "gn:asciiname":"Imam Abu Khamis",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95573,
+    "gn:latitude":33.60611,
+    "gn:longitude":44.66583,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Im\u0101m Ab\u016b Kham\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qariya Im\u0101m Abu Kh\u0101mis",
+        "Im\u0101m Ab\u016b Kham\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        421184253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95573
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9f23016db32421e1e56b852671faa73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184253,
+            "locality_id":1360168485,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1360168485,
+    "wof:lastmodified":1537638320,
+    "wof:name":"Imam Abu Khamis",
+    "wof:parent_id":421184253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.66583,
+    33.60611,
+    44.66583,
+    33.60611
+],
+  "geometry": {"coordinates":[44.66583,33.60611],"type":"Point"}
+}

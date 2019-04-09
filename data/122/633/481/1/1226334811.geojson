@@ -1,0 +1,74 @@
+{
+  "id": 1226334811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.80035,32.25572,44.80035,32.25572",
+    "geom:latitude":32.25572,
+    "geom:longitude":44.80035,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99358.0",
+    "gn:asciiname":"Kunn 'Ali",
+    "gn:country_code":"IQ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6788666,
+    "gn:latitude":32.25572,
+    "gn:longitude":44.80035,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kunn \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0646 \u0639\u0644\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Kunn \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6788666
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"acbf3bbba4d23cf9e7ec7e3569c4148f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562689,
+            "locality_id":1226334811,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1226334811,
+    "wof:lastmodified":1537639448,
+    "wof:name":"Kunn 'Ali",
+    "wof:parent_id":1108562689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.80035,
+    32.25572,
+    44.80035,
+    32.25572
+],
+  "geometry": {"coordinates":[44.80035,32.25572],"type":"Point"}
+}

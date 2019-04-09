@@ -1,0 +1,82 @@
+{
+  "id": 1309837829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.69392,35.7393,45.69392,35.7393",
+    "geom:latitude":35.7393,
+    "geom:longitude":45.69392,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Kawan Dawl",
+    "gn:country_code":"IQ",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96637,
+    "gn:latitude":35.7393,
+    "gn:longitude":45.69392,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kaw\u0101n Dawl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0627\u0646 \u062f\u0648\u0644"
+    ],
+    "name:kur_x_preferred":[
+        "Kewane Do\u0142"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u06d5\u0648\u0627\u0646\u06d5 \u062f\u06c6\u06b5"
+    ],
+    "name:und_x_variant":[
+        "Kaw\u0101n Dawl",
+        "Gaw\u0101nadol",
+        "Kawana Dol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96637
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7a3ac5848f97f7d69b49b3c92304e18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1309837829,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1309837829,
+    "wof:lastmodified":1537638413,
+    "wof:name":"Kawan Dawl",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.69392,
+    35.7393,
+    45.69392,
+    35.7393
+],
+  "geometry": {"coordinates":[45.69392,35.7393],"type":"Point"}
+}

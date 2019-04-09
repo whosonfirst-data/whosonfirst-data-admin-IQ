@@ -1,0 +1,86 @@
+{
+  "id": 1276546227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86648,36.27385,44.86648,36.27385",
+    "geom:latitude":36.27385,
+    "geom:longitude":44.86648,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92051.0",
+    "gn:asciiname":"Titawkah",
+    "gn:country_code":"IQ",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90122,
+    "gn:latitude":36.27385,
+    "gn:longitude":44.86648,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"T\u012btawkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u062a\u0648\u0643\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "T\u00eetoke"
+    ],
+    "name:kur_x_variant":[
+        "\u062a\u064a\u062a\u06c6\u0643\u06d5",
+        "B\u00eatoke",
+        "\u0628\u06ce\u062a\u06c6\u0643\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Titoka",
+        "T\u012bt\u014dkah",
+        "T\u012btawkah",
+        "\u062a\u064a\u062a\u0648\u0643\u0629",
+        "Betoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90122
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3eab968a448647e56a85a4d25187f1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562755,
+            "locality_id":1276546227,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1276546227,
+    "wof:lastmodified":1537637833,
+    "wof:name":"Titawkah",
+    "wof:parent_id":1108562755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86648,
+    36.27385,
+    44.86648,
+    36.27385
+],
+  "geometry": {"coordinates":[44.86648,36.27385],"type":"Point"}
+}

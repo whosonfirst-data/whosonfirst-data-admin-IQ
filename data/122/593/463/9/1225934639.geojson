@@ -1,0 +1,86 @@
+{
+  "id": 1225934639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68849,36.86702,43.68849,36.86702",
+    "geom:latitude":36.86702,
+    "geom:longitude":43.68849,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Hayzanah al `Ulya",
+    "gn:country_code":"IQ",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445840,
+    "gn:latitude":36.86702,
+    "gn:longitude":43.68849,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Hayz\u0101nah al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u064a\u0632\u0627\u0646\u0647 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "H\u00eezane"
+    ],
+    "name:kur_x_variant":[
+        "\u0647\u064a\u0632\u0627\u0646\u06d5",
+        "H\u00eazank\u00ea J\u00fbr\u00ee",
+        "\u06be\u06ce\u0632\u0627\u0646\u0643\u06ce \u0698\u0648\u0648\u0631\u0649",
+        "H\u00eazank\u00ea J\u00fbr\u00ea",
+        "\u06be\u06ce\u0632\u0627\u0646\u0643\u06ce \u0698\u0648\u0648\u0631\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Hizana",
+        "H\u0113z\u0101nk\u0113 Zh\u014dr\u012b",
+        "Hayz\u0101nah al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445840
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4e6f775b822aa06727f958bdb9b21512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1225934639,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1225934639,
+    "wof:lastmodified":1537638937,
+    "wof:name":"Hayzanah al `Ulya",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68849,
+    36.86702,
+    43.68849,
+    36.86702
+],
+  "geometry": {"coordinates":[43.68849,36.86702],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1260373385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37192,36.84007,43.37192,36.84007",
+    "geom:latitude":36.84007,
+    "geom:longitude":43.37192,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98612.0",
+    "gn:asciiname":"Azakh",
+    "gn:country_code":"IQ",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98279,
+    "gn:latitude":36.84007,
+    "gn:longitude":43.37192,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Azakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0632\u062e"
+    ],
+    "name:kur_x_preferred":[
+        "Ezix"
+    ],
+    "name:kur_x_variant":[
+        "\u0626\u06d5\u0632\u062e",
+        "Azax",
+        "\u0626\u0627\u0632\u0627\u062e"
+    ],
+    "name:und_x_variant":[
+        "Azkh",
+        "Azikh",
+        "Azakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421172365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98279
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7e7aba8c253718abe90283cccfab7f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172365,
+            "locality_id":1260373385,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1260373385,
+    "wof:lastmodified":1537638594,
+    "wof:name":"Azakh",
+    "wof:parent_id":421172365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37192,
+    36.84007,
+    43.37192,
+    36.84007
+],
+  "geometry": {"coordinates":[43.37192,36.84007],"type":"Point"}
+}

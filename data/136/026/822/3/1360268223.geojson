@@ -1,0 +1,81 @@
+{
+  "id": 1360268223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.73711,36.63387,42.73711,36.63387",
+    "geom:latitude":36.63387,
+    "geom:longitude":42.73711,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Al Mashraj",
+    "gn:country_code":"IQ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7046741,
+    "gn:latitude":36.63387,
+    "gn:longitude":42.73711,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Mashraj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u064e\u0631\u0650\u062c"
+    ],
+    "name:kur_x_preferred":[
+        "Meshrec"
+    ],
+    "name:kur_x_variant":[
+        "\u0645\u06d5\u0634\u0631\u06d5\u062c"
+    ],
+    "name:und_x_variant":[
+        "Mashraj",
+        "Al Masharij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7046741
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7939675be46824db386e39e62d4a5a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1360268223,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1360268223,
+    "wof:lastmodified":1537639963,
+    "wof:name":"Al Mashraj",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.73711,
+    36.63387,
+    42.73711,
+    36.63387
+],
+  "geometry": {"coordinates":[42.73711,36.63387],"type":"Point"}
+}

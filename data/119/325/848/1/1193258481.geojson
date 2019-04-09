@@ -1,0 +1,74 @@
+{
+  "id": 1193258481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.14942,32.52518,44.14942,32.52518",
+    "geom:latitude":32.52518,
+    "geom:longitude":44.14942,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"99345.0",
+    "gn:asciiname":"'Abd ar Rida Muzhir",
+    "gn:country_code":"IQ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387180,
+    "gn:latitude":32.52518,
+    "gn:longitude":44.14942,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abd ar Ri\u1e11\u0101 Muzhir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f \u0627\u0644\u0631\u0636\u0627 \u0645\u0632\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abd ar Ri\u1e11\u0101 Muzhir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672443,
+        1108562777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387180
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"180c21e91b37ef634caeaec4b48a5039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562777,
+            "locality_id":1193258481,
+            "region_id":85672443
+        }
+    ],
+    "wof:id":1193258481,
+    "wof:lastmodified":1537638794,
+    "wof:name":"'Abd ar Rida Muzhir",
+    "wof:parent_id":1108562777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.14942,
+    32.52518,
+    44.14942,
+    32.52518
+],
+  "geometry": {"coordinates":[44.14942,32.52518],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276746259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8036,36.61354,43.8036,36.61354",
+    "geom:latitude":36.61354,
+    "geom:longitude":43.8036,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Diresh",
+    "gn:country_code":"IQ",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8664791,
+    "gn:latitude":36.61354,
+    "gn:longitude":43.8036,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Diresh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Di\u1e5fesh"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u0695\u06d5\u0634",
+        "Diresh",
+        "\u062f\u0631\u06d5\u0634"
+    ],
+    "name:und_x_variant":[
+        "Dirash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8664791
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e0c5225ced1d4e5dbb0d10c9869b5bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1276746259,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1276746259,
+    "wof:lastmodified":1537640096,
+    "wof:name":"Diresh",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8036,
+    36.61354,
+    43.8036,
+    36.61354
+],
+  "geometry": {"coordinates":[43.8036,36.61354],"type":"Point"}
+}

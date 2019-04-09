@@ -1,0 +1,73 @@
+{
+  "id": 1343241093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4,31.45,47.4,31.45",
+    "geom:latitude":31.45,
+    "geom:longitude":47.4,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"92536.0",
+    "gn:asciiname":"Husayniyah",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95672,
+    "gn:latitude":31.45,
+    "gn:longitude":47.4,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28usayn\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Husain\u012byah",
+        "\u1e28usayn\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95672
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"cd0351c96bd4ee465f37e874d6a07eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562713,
+            "locality_id":1343241093,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1343241093,
+    "wof:lastmodified":1537638325,
+    "wof:name":"Husayniyah",
+    "wof:parent_id":1108562713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4,
+    31.45,
+    47.4,
+    31.45
+],
+  "geometry": {"coordinates":[47.4,31.45],"type":"Point"}
+}

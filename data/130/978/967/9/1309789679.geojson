@@ -1,0 +1,78 @@
+{
+  "id": 1309789679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.87693,33.9942,44.87693,33.9942",
+    "geom:latitude":33.9942,
+    "geom:longitude":44.87693,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"99063.0",
+    "gn:asciiname":"Qaryat Sunsul",
+    "gn:country_code":"IQ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783954,
+    "gn:latitude":33.9942,
+    "gn:longitude":44.87693,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Sunsul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0633\u0646\u0633\u0644"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Shunshul",
+        "Al \u2018Ukayd\u0101t",
+        "\u0627\u0644\u0639\u0643\u064a\u062f\u0627\u062a",
+        "\u0642\u0631\u064a\u0629 \u0634\u0646\u0634\u0644",
+        "Qaryat Sunsul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        421184253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783954
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"efe96f556460d880b58c255e2470dabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184253,
+            "locality_id":1309789679,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1309789679,
+    "wof:lastmodified":1537639357,
+    "wof:name":"Qaryat Sunsul",
+    "wof:parent_id":421184253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.87693,
+    33.9942,
+    44.87693,
+    33.9942
+],
+  "geometry": {"coordinates":[44.87693,33.9942],"type":"Point"}
+}

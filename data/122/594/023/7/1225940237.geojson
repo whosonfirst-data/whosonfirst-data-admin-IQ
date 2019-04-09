@@ -1,0 +1,81 @@
+{
+  "id": 1225940237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.37346,34.52092,45.37346,34.52092",
+    "geom:latitude":34.52092,
+    "geom:longitude":45.37346,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Khalifah Murad",
+    "gn:country_code":"IQ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":94633,
+    "gn:latitude":34.52092,
+    "gn:longitude":45.37346,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Khal\u012bfah Mur\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u0641\u0629 \u0645\u0631\u0627\u062f"
+    ],
+    "name:kur_x_preferred":[
+        "Xel\u00eefe Murad"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u06d5\u0644\u064a\u0641\u06d5 \u0645\u0648\u0631\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khal\u012bfa Mur\u0101d",
+        "Khal\u012bfah Mur\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94633
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"87738c4f76c4c4e7059164c3cb771656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1225940237,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1225940237,
+    "wof:lastmodified":1537638241,
+    "wof:name":"Khalifah Murad",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.37346,
+    34.52092,
+    45.37346,
+    34.52092
+],
+  "geometry": {"coordinates":[45.37346,34.52092],"type":"Point"}
+}

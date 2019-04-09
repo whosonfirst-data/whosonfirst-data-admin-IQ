@@ -1,0 +1,81 @@
+{
+  "id": 1276853893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.50818,36.67478,42.50818,36.67478",
+    "geom:latitude":36.67478,
+    "geom:longitude":42.50818,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Gir Kafir ash Sharqiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7046748,
+    "gn:latitude":36.67478,
+    "gn:longitude":42.50818,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gir K\u0101fir ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u06af\u0631 \u0643\u0627\u0641\u0631 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Ger Kafr"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u06d5\u0631 \u0643\u0627\u0641\u0631"
+    ],
+    "name:und_x_variant":[
+        "Gr Kafr",
+        "Gir K\u0101fir ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7046748
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"29f59c252697545217da52fc518a7383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1276853893,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1276853893,
+    "wof:lastmodified":1537639964,
+    "wof:name":"Gir Kafir ash Sharqiyah",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.50818,
+    36.67478,
+    42.50818,
+    36.67478
+],
+  "geometry": {"coordinates":[42.50818,36.67478],"type":"Point"}
+}

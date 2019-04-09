@@ -1,0 +1,74 @@
+{
+  "id": 1293471975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.89955,32.93335,44.89955,32.93335",
+    "geom:latitude":32.93335,
+    "geom:longitude":44.89955,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"9166961.0",
+    "gn:asciiname":"Qaryat at Takatuf",
+    "gn:country_code":"IQ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6754173,
+    "gn:latitude":32.93335,
+    "gn:longitude":44.89955,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat at Tak\u0101tuf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u062a\u0643\u0627\u062a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Qaryat at Tak\u0101tuf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754173
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d375c31a1a87368c4bb68fae3b7f1029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562781,
+            "locality_id":1293471975,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1293471975,
+    "wof:lastmodified":1537639180,
+    "wof:name":"Qaryat at Takatuf",
+    "wof:parent_id":1108562781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.89955,
+    32.93335,
+    44.89955,
+    32.93335
+],
+  "geometry": {"coordinates":[44.89955,32.93335],"type":"Point"}
+}

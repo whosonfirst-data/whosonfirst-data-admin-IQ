@@ -1,0 +1,84 @@
+{
+  "id": 1243559395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.34749,35.41545,45.34749,35.41545",
+    "geom:latitude":35.41545,
+    "geom:longitude":45.34749,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Kani Rushnawi",
+    "gn:country_code":"IQ",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94887,
+    "gn:latitude":35.41545,
+    "gn:longitude":45.34749,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u0101n\u012b R\u016bshn\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "K\u0101n\u012b R\u016bshn\u0101w\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0646\u064a \u0631\u0648\u0634\u0646\u0627\u0648\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Kan\u00ee \u1e5eoshnayy"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0627\u0646\u0649 \u0695\u06c6\u0634\u0646\u0627\u064a\u0649"
+    ],
+    "name:und_x_variant":[
+        "K\u0101n\u012b R\u014dshn\u0101w\u012b",
+        "Kani Roshnaee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94887
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3b9f9422f9c06b67bcb4f43911f51e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1243559395,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1243559395,
+    "wof:lastmodified":1537638268,
+    "wof:name":"Kani Rushnawi",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.34749,
+    35.41545,
+    45.34749,
+    35.41545
+],
+  "geometry": {"coordinates":[45.34749,35.41545],"type":"Point"}
+}

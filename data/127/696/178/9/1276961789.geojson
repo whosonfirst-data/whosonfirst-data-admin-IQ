@@ -1,0 +1,74 @@
+{
+  "id": 1276961789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.00357,35.09337,43.00357,35.09337",
+    "geom:latitude":35.09337,
+    "geom:longitude":43.00357,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"99414.0",
+    "gn:asciiname":"Qaryat al Ghazlaniyat",
+    "gn:country_code":"IQ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837518,
+    "gn:latitude":35.09337,
+    "gn:longitude":43.00357,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat al Ghazl\u0101n\u012by\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u063a\u0632\u0644\u0627\u0646\u064a\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al Ghazl\u0101n\u012by\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837518
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f6dccffb85977bba62cbb9e34ec75482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562641,
+            "locality_id":1276961789,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1276961789,
+    "wof:lastmodified":1537639709,
+    "wof:name":"Qaryat al Ghazlaniyat",
+    "wof:parent_id":1108562641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.00357,
+    35.09337,
+    43.00357,
+    35.09337
+],
+  "geometry": {"coordinates":[43.00357,35.09337],"type":"Point"}
+}

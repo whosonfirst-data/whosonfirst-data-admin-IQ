@@ -1,0 +1,71 @@
+{
+  "id": 1327303649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.22972,32.70306,45.22972,32.70306",
+    "geom:latitude":32.70306,
+    "geom:longitude":45.22972,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98460.0",
+    "gn:asciiname":"Umm Salim",
+    "gn:country_code":"IQ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89815,
+    "gn:latitude":32.70306,
+    "gn:longitude":45.22972,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Umm Sal\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Sal\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89815
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"63d33ad786bfee728bf35ac392cb7921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562783,
+            "locality_id":1327303649,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1327303649,
+    "wof:lastmodified":1537637813,
+    "wof:name":"Umm Salim",
+    "wof:parent_id":1108562783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.22972,
+    32.70306,
+    45.22972,
+    32.70306
+],
+  "geometry": {"coordinates":[45.22972,32.70306],"type":"Point"}
+}

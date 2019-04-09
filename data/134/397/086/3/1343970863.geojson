@@ -1,0 +1,74 @@
+{
+  "id": 1343970863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.74419,30.66955,47.74419,30.66955",
+    "geom:latitude":30.66955,
+    "geom:longitude":47.74419,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"99534.0",
+    "gn:asciiname":"Qaryat at Tuwayrish",
+    "gn:country_code":"IQ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386805,
+    "gn:latitude":30.66955,
+    "gn:longitude":47.74419,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat a\u0163 \u0162uwayrish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0637\u0648\u064a\u0631\u0634"
+    ],
+    "name:und_x_variant":[
+        "Qaryat a\u0163 \u0162uwayrish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386805
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e07f76caef22949892e816b5b6a451ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562731,
+            "locality_id":1343970863,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1343970863,
+    "wof:lastmodified":1537638789,
+    "wof:name":"Qaryat at Tuwayrish",
+    "wof:parent_id":1108562731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.74419,
+    30.66955,
+    47.74419,
+    30.66955
+],
+  "geometry": {"coordinates":[47.74419,30.66955],"type":"Point"}
+}

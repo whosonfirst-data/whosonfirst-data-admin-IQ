@@ -1,0 +1,82 @@
+{
+  "id": 1226428091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.75495,37.20771,42.75495,37.20771",
+    "geom:latitude":37.20771,
+    "geom:longitude":42.75495,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"89569.0",
+    "gn:asciiname":"Gundik Celal",
+    "gn:country_code":"IQ",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":446124,
+    "gn:latitude":37.20771,
+    "gn:longitude":42.75495,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Gundik Celal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u06af\u0648\u0646\u062f\u0643"
+    ],
+    "name:ara_x_variant":[
+        "G\u016bndik"
+    ],
+    "name:kur_x_preferred":[
+        "Gundik Celal"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u0648\u0646\u062f\u0643 \u062c\u06d5\u0644\u0627\u0644",
+        "Gund Mela",
+        "\u06af\u0648\u0646\u062f \u0645\u06d5\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        890445289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446124
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5810f8e3a7095732fe1a0ae87be10bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445289,
+            "locality_id":1226428091,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1226428091,
+    "wof:lastmodified":1537638964,
+    "wof:name":"Gundik Celal",
+    "wof:parent_id":890445289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.75495,
+    37.20771,
+    42.75495,
+    37.20771
+],
+  "geometry": {"coordinates":[42.75495,37.20771],"type":"Point"}
+}

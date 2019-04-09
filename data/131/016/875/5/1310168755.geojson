@@ -1,0 +1,74 @@
+{
+  "id": 1310168755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23251,33.98956,44.23251,33.98956",
+    "geom:latitude":33.98956,
+    "geom:longitude":44.23251,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6805736.0",
+    "gn:asciiname":"Husayn al Khalaf",
+    "gn:country_code":"IQ",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805226,
+    "gn:latitude":33.98956,
+    "gn:longitude":44.23251,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28usayn al Khalaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u064a\u0646 \u0627\u0644\u062e\u0644\u0641"
+    ],
+    "name:und_x_variant":[
+        "\u1e28usayn al Khalaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        421180939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805226
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"828f9ebcd246292745353c5650929cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421180939,
+            "locality_id":1310168755,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1310168755,
+    "wof:lastmodified":1537639557,
+    "wof:name":"Husayn al Khalaf",
+    "wof:parent_id":421180939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23251,
+    33.98956,
+    44.23251,
+    33.98956
+],
+  "geometry": {"coordinates":[44.23251,33.98956],"type":"Point"}
+}

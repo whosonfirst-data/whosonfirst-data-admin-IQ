@@ -1,0 +1,74 @@
+{
+  "id": 1259377103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.60772,33.62332,44.60772,33.62332",
+    "geom:latitude":33.62332,
+    "geom:longitude":44.60772,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"97988.0",
+    "gn:asciiname":"Qaryat Hasan",
+    "gn:country_code":"IQ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387387,
+    "gn:latitude":33.62332,
+    "gn:longitude":44.60772,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qaryat \u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387387
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"26611bf050ae4c8ff202a60cd8a62536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562663,
+            "locality_id":1259377103,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1259377103,
+    "wof:lastmodified":1537638805,
+    "wof:name":"Qaryat Hasan",
+    "wof:parent_id":1108562663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.60772,
+    33.62332,
+    44.60772,
+    33.62332
+],
+  "geometry": {"coordinates":[44.60772,33.62332],"type":"Point"}
+}

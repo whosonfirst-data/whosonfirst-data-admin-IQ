@@ -1,0 +1,74 @@
+{
+  "id": 1309824133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.49744,34.33322,45.49744,34.33322",
+    "geom:latitude":34.33322,
+    "geom:longitude":45.49744,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Kulli Yahudi",
+    "gn:country_code":"IQ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6928362,
+    "gn:latitude":34.33322,
+    "gn:longitude":45.49744,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kull\u012b Yah\u016bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0644\u064a \u064a\u0647\u0648\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kull\u012b Yah\u016bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6928362
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1fd2e762b6f3502e1dd329b15791fe46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1309824133,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1309824133,
+    "wof:lastmodified":1537639873,
+    "wof:name":"Kulli Yahudi",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.49744000000001,
+    34.33322,
+    45.49744000000001,
+    34.33322
+],
+  "geometry": {"coordinates":[45.49744000000001,34.33322],"type":"Point"}
+}

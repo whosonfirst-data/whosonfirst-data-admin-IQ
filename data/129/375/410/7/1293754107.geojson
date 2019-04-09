@@ -1,0 +1,82 @@
+{
+  "id": 1293754107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.79528,36.59629,42.79528,36.59629",
+    "geom:latitude":36.59629,
+    "geom:longitude":42.79528,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Sahlij",
+    "gn:country_code":"IQ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91747,
+    "gn:latitude":36.59629,
+    "gn:longitude":42.79528,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sahl\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0647\u0644\u064a\u062c"
+    ],
+    "name:kur_x_preferred":[
+        "Mehl\u00eec"
+    ],
+    "name:kur_x_variant":[
+        "\u0645\u06d5\u0647\u0644\u064a\u062c"
+    ],
+    "name:und_x_variant":[
+        "Sa\u1e29laj",
+        "Mahlij",
+        "Sahl\u012bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91747
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ca43832578bf496d5e8e47ff2d079008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1293754107,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1293754107,
+    "wof:lastmodified":1537637990,
+    "wof:name":"Sahlij",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.79528,
+    36.59629,
+    42.79528,
+    36.59629
+],
+  "geometry": {"coordinates":[42.79528,36.59629],"type":"Point"}
+}

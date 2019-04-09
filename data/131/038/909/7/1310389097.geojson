@@ -1,0 +1,74 @@
+{
+  "id": 1310389097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.07375,33.84818,45.07375,33.84818",
+    "geom:latitude":33.84818,
+    "geom:longitude":45.07375,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Isma'il 'Abd al 'Abbas",
+    "gn:country_code":"IQ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6835480,
+    "gn:latitude":33.84818,
+    "gn:longitude":45.07375,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ism\u0101\u2018\u012bl \u2018Abd al \u2018Abb\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u0645\u0627\u0639\u064a\u0644 \u0639\u0628\u062f \u0627\u0644\u0639\u0628\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "Ism\u0101\u2018\u012bl \u2018Abd al \u2018Abb\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6835480
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"84b5e4e9b59770d9c08500f10138bb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1310389097,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1310389097,
+    "wof:lastmodified":1537639680,
+    "wof:name":"Isma'il 'Abd al 'Abbas",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.07375,
+    33.84818,
+    45.07375,
+    33.84818
+],
+  "geometry": {"coordinates":[45.07375,33.84818],"type":"Point"}
+}

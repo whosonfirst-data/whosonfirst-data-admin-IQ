@@ -1,0 +1,75 @@
+{
+  "id": 1292984725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54722,33.73609,44.54722,33.73609",
+    "geom:latitude":33.73609,
+    "geom:longitude":44.54722,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"99063.0",
+    "gn:asciiname":"Az Zabitiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89595,
+    "gn:latitude":33.73609,
+    "gn:longitude":44.54722,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Az\u0327 Z\u0327\u0101bi\u0163\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0638\u0627\u0628\u0637\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zabt\u012bya",
+        "Az\u0327 Z\u0327\u0101bi\u0163\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        421184253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89595
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d2d3b60bef9e54366c2201d4b72b4932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184253,
+            "locality_id":1292984725,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1292984725,
+    "wof:lastmodified":1537637794,
+    "wof:name":"Az Zabitiyah",
+    "wof:parent_id":421184253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54722,
+    33.73609,
+    44.54722,
+    33.73609
+],
+  "geometry": {"coordinates":[44.54722,33.73609],"type":"Point"}
+}

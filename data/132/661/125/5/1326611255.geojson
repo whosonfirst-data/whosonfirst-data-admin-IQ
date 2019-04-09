@@ -1,0 +1,81 @@
+{
+  "id": 1326611255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7035,36.77593,44.7035,36.77593",
+    "geom:latitude":36.77593,
+    "geom:longitude":44.7035,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166592.0",
+    "gn:asciiname":"Bayrtah",
+    "gn:country_code":"IQ",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":447101,
+    "gn:latitude":36.77593,
+    "gn:longitude":44.7035,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bayrtah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u062a\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "B\u00eart\u00ea"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06ce\u0631\u062a\u06ce"
+    ],
+    "name:und_x_variant":[
+        "B\u012brta",
+        "Berte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447101
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0eabcc3e94b2c786b6255c71e91cc6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445495,
+            "locality_id":1326611255,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1326611255,
+    "wof:lastmodified":1537639025,
+    "wof:name":"Bayrtah",
+    "wof:parent_id":890445495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7035,
+    36.77593,
+    44.7035,
+    36.77593
+],
+  "geometry": {"coordinates":[44.7035,36.77593],"type":"Point"}
+}

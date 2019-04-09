@@ -1,0 +1,73 @@
+{
+  "id": 1277079233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7976,35.3493,44.7976,35.3493",
+    "geom:latitude":35.3493,
+    "geom:longitude":44.7976,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Surki",
+    "gn:country_code":"IQ",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7331604,
+    "gn:latitude":35.3493,
+    "gn:longitude":44.7976,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Surk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Surk\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0631\u0643\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7331604
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ad376293623b1e3aeffb811bb7b6515a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562775,
+            "locality_id":1277079233,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1277079233,
+    "wof:lastmodified":1537640007,
+    "wof:name":"Surki",
+    "wof:parent_id":1108562775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7976,
+    35.3493,
+    44.7976,
+    35.3493
+],
+  "geometry": {"coordinates":[44.7976,35.3493],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293193165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2915,32.68503,44.2915,32.68503",
+    "geom:latitude":32.68503,
+    "geom:longitude":44.2915,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"'Arab Shaykh Kazim",
+    "gn:country_code":"IQ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817983,
+    "gn:latitude":32.68503,
+    "gn:longitude":44.2915,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab Shaykh K\u0101z\u0327im",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0634\u064a\u062e \u0643\u0627\u0638\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab Shaykh K\u0101z\u0327im"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421172849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817983
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8815b34bff9b8ca70b5890b4127452a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172849,
+            "locality_id":1293193165,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1293193165,
+    "wof:lastmodified":1537639643,
+    "wof:name":"'Arab Shaykh Kazim",
+    "wof:parent_id":421172849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2915,
+    32.68503,
+    44.2915,
+    32.68503
+],
+  "geometry": {"coordinates":[44.2915,32.68503],"type":"Point"}
+}

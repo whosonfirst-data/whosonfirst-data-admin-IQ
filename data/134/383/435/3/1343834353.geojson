@@ -1,0 +1,74 @@
+{
+  "id": 1343834353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55168,32.14268,44.55168,32.14268",
+    "geom:latitude":32.14268,
+    "geom:longitude":44.55168,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166629.0",
+    "gn:asciiname":"Tahir Hawdi",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789309,
+    "gn:latitude":32.14268,
+    "gn:longitude":44.55168,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0162\u0101hir Hawd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0627\u0647\u0631 \u0647\u0648\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u0162\u0101hir Hawd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789309
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7b36d93367a21992cd519169b6dcdd27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562691,
+            "locality_id":1343834353,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1343834353,
+    "wof:lastmodified":1537639477,
+    "wof:name":"Tahir Hawdi",
+    "wof:parent_id":1108562691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55168,
+    32.14268,
+    44.55168,
+    32.14268
+],
+  "geometry": {"coordinates":[44.55168,32.14268],"type":"Point"}
+}

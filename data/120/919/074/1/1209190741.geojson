@@ -1,0 +1,69 @@
+{
+  "id": 1209190741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41016,35.15331,44.41016,35.15331",
+    "geom:latitude":35.15331,
+    "geom:longitude":44.41016,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9166581.0",
+    "gn:asciiname":"Yatgijah",
+    "gn:country_code":"IQ",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89634,
+    "gn:latitude":35.15331,
+    "gn:longitude":44.41016,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yatgijah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u062a\u06af\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Yank\u012bjah",
+        "Yatgijah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89634
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"23ddb02f6eb1d9adf1997b258a6da835",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209190741
+        }
+    ],
+    "wof:id":1209190741,
+    "wof:lastmodified":1537637797,
+    "wof:name":"Yatgijah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41016,
+    35.15331,
+    44.41016,
+    35.15331
+],
+  "geometry": {"coordinates":[44.41016,35.15331],"type":"Point"}
+}

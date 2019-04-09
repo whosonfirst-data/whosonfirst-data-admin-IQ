@@ -1,0 +1,74 @@
+{
+  "id": 1343671333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.1072,33.53481,43.1072,33.53481",
+    "geom:latitude":33.53481,
+    "geom:longitude":43.1072,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"98718.0",
+    "gn:asciiname":"Tall Sindayj",
+    "gn:country_code":"IQ",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6734227,
+    "gn:latitude":33.53481,
+    "gn:longitude":43.1072,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tall S\u012bndayj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0633\u064a\u0646\u062f\u064a\u062c"
+    ],
+    "name:und_x_variant":[
+        "Tall S\u012bndayj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421178933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6734227
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3a09402508d912eb89dcf5b9bd7fa842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421178933,
+            "locality_id":1343671333,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1343671333,
+    "wof:lastmodified":1537639145,
+    "wof:name":"Tall Sindayj",
+    "wof:parent_id":421178933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.1072,
+    33.53481,
+    43.1072,
+    33.53481
+],
+  "geometry": {"coordinates":[43.1072,33.53481],"type":"Point"}
+}

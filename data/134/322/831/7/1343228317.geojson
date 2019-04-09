@@ -1,0 +1,78 @@
+{
+  "id": 1343228317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44058,34.73748,44.44058,34.73748",
+    "geom:latitude":34.73748,
+    "geom:longitude":44.44058,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"9166598.0",
+    "gn:asciiname":"Qaryat az Zanjilah",
+    "gn:country_code":"IQ",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89531,
+    "gn:latitude":34.73748,
+    "gn:longitude":44.44058,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat az Zanj\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0632\u0646\u062c\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zanjal\u012byah",
+        "J\u0101njal\u012b",
+        "Zanj\u0101l\u012bya",
+        "Zanjalia",
+        "Qaryat az Zanj\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89531
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"240a93d3f815d415b6ad5ea0b44f627a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562657,
+            "locality_id":1343228317,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1343228317,
+    "wof:lastmodified":1537637787,
+    "wof:name":"Qaryat az Zanjilah",
+    "wof:parent_id":1108562657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44058,
+    34.73748,
+    44.44058,
+    34.73748
+],
+  "geometry": {"coordinates":[44.44058,34.73748],"type":"Point"}
+}

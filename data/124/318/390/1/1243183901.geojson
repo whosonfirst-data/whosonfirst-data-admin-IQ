@@ -1,0 +1,76 @@
+{
+  "id": 1243183901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.28827,31.38854,45.28827,31.38854",
+    "geom:latitude":31.38854,
+    "geom:longitude":45.28827,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9166568.0",
+    "gn:asciiname":"Mazhar Al Charkhi",
+    "gn:country_code":"IQ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93943,
+    "gn:latitude":31.38854,
+    "gn:longitude":45.28827,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maz\u0327har \u0100l Charkh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0638\u0647\u0631 \u0622\u0644 \u0686\u0631\u062e\u064a"
+    ],
+    "name:und_x_variant":[
+        "Maz\u0327har \u0100l Char\u016bkh\u012b",
+        "Madhar al Char\u016bkhi",
+        "Maz\u0327har \u0100l Charkh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93943
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"844d2a921514eafdc34666cf3c980a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562705,
+            "locality_id":1243183901,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1243183901,
+    "wof:lastmodified":1537638178,
+    "wof:name":"Mazhar Al Charkhi",
+    "wof:parent_id":1108562705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.28827,
+    31.38854000000001,
+    45.28827,
+    31.38854000000001
+],
+  "geometry": {"coordinates":[45.28827,31.38854000000001],"type":"Point"}
+}

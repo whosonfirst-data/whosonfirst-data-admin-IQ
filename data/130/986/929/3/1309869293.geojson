@@ -1,0 +1,74 @@
+{
+  "id": 1309869293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35129,32.16514,44.35129,32.16514",
+    "geom:latitude":32.16514,
+    "geom:longitude":44.35129,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"98861.0",
+    "gn:asciiname":"Al Bu 'Ujayl",
+    "gn:country_code":"IQ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6781209,
+    "gn:latitude":32.16514,
+    "gn:longitude":44.35129,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l B\u016b \u2018Ujayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644 \u0628\u0648 \u0639\u062c\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u0100l B\u016b \u2018Ujayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        421184255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6781209
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7951a48fa809dccf7084a4c45f64f6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184255,
+            "locality_id":1309869293,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1309869293,
+    "wof:lastmodified":1537639312,
+    "wof:name":"Al Bu 'Ujayl",
+    "wof:parent_id":421184255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35129000000001,
+    32.16514,
+    44.35129000000001,
+    32.16514
+],
+  "geometry": {"coordinates":[44.35129000000001,32.16514],"type":"Point"}
+}

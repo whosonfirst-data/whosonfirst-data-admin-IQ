@@ -1,0 +1,89 @@
+{
+  "id": 1276122963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.9354,35.1952,45.9354,35.1952",
+    "geom:latitude":35.1952,
+    "geom:longitude":45.9354,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Piris Khwaru",
+    "gn:country_code":"IQ",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92754,
+    "gn:latitude":35.1952,
+    "gn:longitude":45.9354,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Piris Khw\u0101ru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Piris Khw\u0101ru"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0633 \u062e\u0648\u0627\u0631\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Per\u012bs Khv\u0101r\u016b"
+    ],
+    "name:kur_x_preferred":[
+        "Pr\u00eas\u00ee Xwar\u00fb"
+    ],
+    "name:kur_x_variant":[
+        "Pr\u00ees\u00ee Xwaru",
+        "\u067e\u0631\u06ce\u0633\u0649 \u062e\u0648\u0627\u0631\u0648\u0648",
+        "\u067e\u0631\u064a\u0633\u0649 \u062e\u0648\u0627\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Bir\u012bs Khuw\u0101r\u016b",
+        "Pr\u012bs-e Khw\u0101r\u016b",
+        "Pirs Khwar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92754
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a64a88178f33a3badb88f9d63b46da47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1276122963,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1276122963,
+    "wof:lastmodified":1537638079,
+    "wof:name":"Piris Khwaru",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.9354,
+    35.1952,
+    45.9354,
+    35.1952
+],
+  "geometry": {"coordinates":[45.9354,35.1952],"type":"Point"}
+}

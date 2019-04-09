@@ -1,0 +1,74 @@
+{
+  "id": 1260173207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24958,33.36588,44.24958,33.36588",
+    "geom:latitude":33.36588,
+    "geom:longitude":44.24958,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99173.0",
+    "gn:asciiname":"'Ali al Kuwaz",
+    "gn:country_code":"IQ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647838,
+    "gn:latitude":33.36588,
+    "gn:longitude":44.24958,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Al\u012b al Kuw\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u0627\u0644\u0643\u0648\u0627\u0632"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b al Kuw\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647838
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e00f6f686c5ca833b25c4e540352fa0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562795,
+            "locality_id":1260173207,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1260173207,
+    "wof:lastmodified":1537639099,
+    "wof:name":"'Ali al Kuwaz",
+    "wof:parent_id":1108562795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24958,
+    33.36588,
+    44.24958,
+    33.36588
+],
+  "geometry": {"coordinates":[44.24958,33.36588],"type":"Point"}
+}

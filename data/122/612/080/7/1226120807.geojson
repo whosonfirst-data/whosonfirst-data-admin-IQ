@@ -1,0 +1,90 @@
+{
+  "id": 1226120807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33246,36.57493,44.33246,36.57493",
+    "geom:latitude":36.57493,
+    "geom:longitude":44.33246,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166591.0",
+    "gn:asciiname":"Hanaran al 'Ulya",
+    "gn:country_code":"IQ",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446714,
+    "gn:latitude":36.57493,
+    "gn:longitude":44.33246,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Han\u0101r\u0101n al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0646\u0627\u0631\u0627\u0646 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Henarey Ser\u00fb"
+    ],
+    "name:kur_x_variant":[
+        "\u06be\u06d5\u0646\u0627\u0631\u06d5\u0649 \u0633\u06d5\u0631\u0648\u0648",
+        "Henare",
+        "\u06be\u06d5\u0646\u0627\u0631\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Han\u0101r\u0101n-i Zh\u016br\u016b",
+        "Han\u0101r\u0101n al \u2018Uly\u0101",
+        "\u0647\u0646\u0627\u0631\u0627\u0646 \u0627\u0644\u0639\u0644\u064a\u0627",
+        "Han\u0101rah",
+        "Han\u0101r\u0101n \u2018Uly\u0101",
+        "\u0647\u0646\u0627\u0631\u0627\u0646 \u0639\u0644\u064a\u0627",
+        "\u0647\u0646\u0627\u0631\u0647",
+        "Hanara",
+        "Hanara Upper"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446714
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7b6de567c147296bc0e72e016dd15044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562757,
+            "locality_id":1226120807,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1226120807,
+    "wof:lastmodified":1537639005,
+    "wof:name":"Hanaran al 'Ulya",
+    "wof:parent_id":1108562757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33246,
+    36.57493,
+    44.33246,
+    36.57493
+],
+  "geometry": {"coordinates":[44.33246,36.57493],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326524505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37957,33.5325,44.37957,33.5325",
+    "geom:latitude":33.5325,
+    "geom:longitude":44.37957,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9167085.0",
+    "gn:asciiname":"Qaryat 'Abbas 'Anad",
+    "gn:country_code":"IQ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805702,
+    "gn:latitude":33.5325,
+    "gn:longitude":44.37957,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat \u2018Abb\u0101s \u2018An\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0639\u0628\u0627\u0633 \u0639\u0646\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Qaryat \u2018Abb\u0101s \u2018An\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        1108562771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805702
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a88659b70248ba908021452726ec155c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562771,
+            "locality_id":1326524505,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1326524505,
+    "wof:lastmodified":1537639588,
+    "wof:name":"Qaryat 'Abbas 'Anad",
+    "wof:parent_id":1108562771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37957,
+    33.5325,
+    44.37957,
+    33.5325
+],
+  "geometry": {"coordinates":[44.37957,33.5325],"type":"Point"}
+}

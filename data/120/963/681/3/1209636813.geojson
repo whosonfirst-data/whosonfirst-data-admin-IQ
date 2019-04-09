@@ -1,0 +1,68 @@
+{
+  "id": 1209636813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31169,32.96485,44.31169,32.96485",
+    "geom:latitude":32.96485,
+    "geom:longitude":44.31169,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Qarayt Bazayiz Kilu Ithnayn",
+    "gn:country_code":"IQ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817645,
+    "gn:latitude":32.96485,
+    "gn:longitude":44.31169,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qarayt Baz\u0101yiz K\u012bl\u016b Ithnayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0628\u0632\u0627\u064a\u0632 \u0643\u064a\u0644\u0648 \u0662"
+    ],
+    "name:und_x_variant":[
+        "Qarayt Baz\u0101yiz K\u012bl\u016b Ithnayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817645
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"22c81f1a8a5f6a0456dba1a43c2659e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209636813
+        }
+    ],
+    "wof:id":1209636813,
+    "wof:lastmodified":1537639629,
+    "wof:name":"Qarayt Bazayiz Kilu Ithnayn",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31169000000001,
+    32.96485,
+    44.31169000000001,
+    32.96485
+],
+  "geometry": {"coordinates":[44.31169000000001,32.96485],"type":"Point"}
+}

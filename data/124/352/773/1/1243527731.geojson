@@ -1,0 +1,68 @@
+{
+  "id": 1243527731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.93806,36.69028,42.93806,36.69028",
+    "geom:latitude":36.69028,
+    "geom:longitude":42.93806,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166618.0",
+    "gn:asciiname":"Tero",
+    "gn:country_code":"IQ",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":384907,
+    "gn:latitude":36.69028,
+    "gn:longitude":42.93806,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"T\u0113r\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384907
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8778d9014187fa7c166a6c94f78bf9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562629,
+            "locality_id":1243527731,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1243527731,
+    "wof:lastmodified":1536688536,
+    "wof:name":"Tero",
+    "wof:parent_id":1108562629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.93806,
+    36.69028,
+    42.93806,
+    36.69028
+],
+  "geometry": {"coordinates":[42.93806,36.69028],"type":"Point"}
+}

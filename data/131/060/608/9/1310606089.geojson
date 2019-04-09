@@ -1,0 +1,83 @@
+{
+  "id": 1310606089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.41035,35.27201,45.41035,35.27201",
+    "geom:latitude":35.27201,
+    "geom:longitude":45.41035,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Jami Simur",
+    "gn:country_code":"IQ",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330162,
+    "gn:latitude":35.27201,
+    "gn:longitude":45.41035,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jam\u012b S\u012bm\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u064a \u0633\u064a\u0645\u0648\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Cham\u00ee Smor"
+    ],
+    "name:kur_x_variant":[
+        "Chem\u00ee Smor",
+        "\u0686\u0627\u0645\u0649 \u0633\u0645\u06c6\u0631",
+        "\u0686\u06d5\u0645\u0649 \u0633\u0645\u06c6\u0631"
+    ],
+    "name:und_x_variant":[
+        "Jam\u012b S\u012bm\u016br",
+        "Chami Smor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330162
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"83f7828b5b2a1c35ba620f8519d1d0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1310606089,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1310606089,
+    "wof:lastmodified":1537640002,
+    "wof:name":"Jami Simur",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.41035,
+    35.27200999999999,
+    45.41035,
+    35.27200999999999
+],
+  "geometry": {"coordinates":[45.41035,35.27200999999999],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226147141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62833,33.37722,43.62833,33.37722",
+    "geom:latitude":33.37722,
+    "geom:longitude":43.62833,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"Ahwaiwi",
+    "gn:country_code":"IQ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99687,
+    "gn:latitude":33.37722,
+    "gn:longitude":43.62833,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ahwaiwi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99687
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e5c598cf4b573f90ec95bf8ec08ff1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1226147141,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1226147141,
+    "wof:lastmodified":1537072574,
+    "wof:name":"Ahwaiwi",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62833,
+    33.37722,
+    43.62833,
+    33.37722
+],
+  "geometry": {"coordinates":[43.62833,33.37722],"type":"Point"}
+}

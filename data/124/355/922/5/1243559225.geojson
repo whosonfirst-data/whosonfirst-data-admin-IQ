@@ -1,0 +1,87 @@
+{
+  "id": 1243559225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.69386,35.19116,45.69386,35.19116",
+    "geom:latitude":35.19116,
+    "geom:longitude":45.69386,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166594.0",
+    "gn:asciiname":"Say Darah",
+    "gn:country_code":"IQ",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91422,
+    "gn:latitude":35.19116,
+    "gn:longitude":45.69386,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Say D\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a \u062f\u0627\u0631\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "S\u00ea Dare"
+    ],
+    "name:kur_x_variant":[
+        "Syare",
+        "\u0633\u06ce \u062f\u0627\u0631\u06d5",
+        "\u0633\u064a\u0627\u0631\u06d5"
+    ],
+    "name:und_x_variant":[
+        "S\u012brah",
+        "Say\u0101rah",
+        "Saidara",
+        "Say D\u0101rah",
+        "Saydarah",
+        "Seyara",
+        "\u0633\u064a \u062f\u0627\u0631\u06d5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        1108562767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91422
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5e27e42508d53a3ae1e5711ec38f833e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":1108562767,
+            "locality_id":1243559225,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1243559225,
+    "wof:lastmodified":1537637964,
+    "wof:name":"Say Darah",
+    "wof:parent_id":1108562767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.69386,
+    35.19116,
+    45.69386,
+    35.19116
+],
+  "geometry": {"coordinates":[45.69386,35.19116],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209399135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.40183,31.4001,46.40183,31.4001",
+    "geom:latitude":31.4001,
+    "geom:longitude":46.40183,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98623.0",
+    "gn:asciiname":"Harran as Sajit",
+    "gn:country_code":"IQ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7024981,
+    "gn:latitude":31.4001,
+    "gn:longitude":46.40183,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Harr\u0101n as S\u0101jit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u0627\u0646 \u0627\u0644\u0633\u0627\u062c\u062a"
+    ],
+    "name:und_x_variant":[
+        "Harr\u0101n as S\u0101jit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024981
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"aed106e7414345c1a658374cf1b0e746",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209399135
+        }
+    ],
+    "wof:id":1209399135,
+    "wof:lastmodified":1537639917,
+    "wof:name":"Harran as Sajit",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.40183,
+    31.4001,
+    46.40183,
+    31.4001
+],
+  "geometry": {"coordinates":[46.40183,31.4001],"type":"Point"}
+}

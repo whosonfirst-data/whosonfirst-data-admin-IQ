@@ -1,0 +1,74 @@
+{
+  "id": 1310095139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.11667,30.98333,47.11667,30.98333",
+    "geom:latitude":30.98333,
+    "geom:longitude":47.11667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"99185.0",
+    "gn:asciiname":"Hasakah",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96021,
+    "gn:latitude":30.98333,
+    "gn:longitude":47.11667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28asakah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28asachah",
+        "Hascha",
+        "\u1e28asakah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96021
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0d7eed5edc3b1596245d06c4e2b7aff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562725,
+            "locality_id":1310095139,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1310095139,
+    "wof:lastmodified":1537638353,
+    "wof:name":"Hasakah",
+    "wof:parent_id":1108562725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.11667,
+    30.98333,
+    47.11667,
+    30.98333
+],
+  "geometry": {"coordinates":[47.11667,30.98333],"type":"Point"}
+}

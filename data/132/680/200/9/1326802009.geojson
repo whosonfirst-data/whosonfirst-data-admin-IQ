@@ -1,0 +1,76 @@
+{
+  "id": 1326802009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51509,31.74478,44.51509,31.74478",
+    "geom:latitude":31.74478,
+    "geom:longitude":44.51509,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166552.0",
+    "gn:asciiname":"As Sulayhat",
+    "gn:country_code":"IQ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449119,
+    "gn:latitude":31.74478,
+    "gn:longitude":44.51509,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u015f \u015eulay\u1e29\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0644\u064a\u062d\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Al Ibr\u0101h\u012bm",
+        "\u0627\u0644 \u0627\u0628\u0631\u0627\u0647\u064a\u0645",
+        "A\u015f \u015eulay\u1e29\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449119
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"32108f3abb32aaddcfea6fc8d5e9d2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562693,
+            "locality_id":1326802009,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1326802009,
+    "wof:lastmodified":1537639086,
+    "wof:name":"As Sulayhat",
+    "wof:parent_id":1108562693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51509,
+    31.74478,
+    44.51509,
+    31.74478
+],
+  "geometry": {"coordinates":[44.51509,31.74478],"type":"Point"}
+}

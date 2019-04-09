@@ -1,0 +1,75 @@
+{
+  "id": 1326634207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.97453,33.38832,43.97453,33.38832",
+    "geom:latitude":33.38832,
+    "geom:longitude":43.97453,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"Qaryat al Lahib",
+    "gn:country_code":"IQ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93973,
+    "gn:latitude":33.38832,
+    "gn:longitude":43.97453,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat al Lah\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0644\u0647\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Luhib",
+        "Qaryat al Lah\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93973
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ba713120d9c8da9f5ca4554acb38652e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1326634207,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1326634207,
+    "wof:lastmodified":1537638179,
+    "wof:name":"Qaryat al Lahib",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.97453,
+    33.38832,
+    43.97453,
+    33.38832
+],
+  "geometry": {"coordinates":[43.97453,33.38832],"type":"Point"}
+}

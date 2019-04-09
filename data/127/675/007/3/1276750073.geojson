@@ -1,0 +1,85 @@
+{
+  "id": 1276750073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.98385,35.75953,43.98385,35.75953",
+    "geom:latitude":35.75953,
+    "geom:longitude":43.98385,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Surbat Shakh",
+    "gn:country_code":"IQ",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91537,
+    "gn:latitude":35.75953,
+    "gn:longitude":43.98385,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Surbat Sh\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0628\u0629 \u0634\u0627\u062e"
+    ],
+    "name:kur_x_preferred":[
+        "Shax"
+    ],
+    "name:kur_x_variant":[
+        "\u0634\u0627\u062e"
+    ],
+    "name:und_x_variant":[
+        "Sirbashakh",
+        "Serbashakh",
+        "Sarbash\u0101kh",
+        "Surbat Sh\u0101kh",
+        "Jurgi Serbashakh",
+        "Jurgi Sarbashakh",
+        "Shakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91537
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"008dcbefaab86d6abc52b3d687212277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562779,
+            "locality_id":1276750073,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1276750073,
+    "wof:lastmodified":1537637976,
+    "wof:name":"Surbat Shakh",
+    "wof:parent_id":1108562779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.98385,
+    35.75953,
+    43.98385,
+    35.75953
+],
+  "geometry": {"coordinates":[43.98385,35.75953],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1276897173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.8546,35.42136,45.8546,35.42136",
+    "geom:latitude":35.42136,
+    "geom:longitude":45.8546,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Kajali",
+    "gn:country_code":"IQ",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95052,
+    "gn:latitude":35.42136,
+    "gn:longitude":45.8546,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kajal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u062c\u0644\u064a"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0686\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Kachal\u012b"
+    ],
+    "name:kur_x_preferred":[
+        "Keche\u0142\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u06d5\u0686\u06d5\u06b5\u0649"
+    ],
+    "name:und_x_variant":[
+        "Kach\u0101l\u012b",
+        "Kajal\u012b",
+        "Kachali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95052
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7ec1168d550abb08e39dc431745a9a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1276897173,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1276897173,
+    "wof:lastmodified":1537638292,
+    "wof:name":"Kajali",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.8546,
+    35.42136,
+    45.8546,
+    35.42136
+],
+  "geometry": {"coordinates":[45.8546,35.42136],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276430739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.51516,30.84058,46.51516,30.84058",
+    "geom:latitude":30.84058,
+    "geom:longitude":46.51516,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"90509.0",
+    "gn:asciiname":"Abu Hamadi ash Shamaliyah",
+    "gn:country_code":"IQ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386779,
+    "gn:latitude":30.84058,
+    "gn:longitude":46.51516,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ab\u016b \u1e28amad\u012b ash Sham\u0101l\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u062d\u0645\u062f\u064a \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b \u1e28amad\u012b ash Sham\u0101l\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386779
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"102f68348b42581ec013d191020f5718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562723,
+            "locality_id":1276430739,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1276430739,
+    "wof:lastmodified":1537638787,
+    "wof:name":"Abu Hamadi ash Shamaliyah",
+    "wof:parent_id":1108562723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.51516,
+    30.84058,
+    46.51516,
+    30.84058
+],
+  "geometry": {"coordinates":[46.51516,30.84058],"type":"Point"}
+}

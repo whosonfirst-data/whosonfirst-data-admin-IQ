@@ -1,0 +1,72 @@
+{
+  "id": 1259971213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.40492,33.16375,44.40492,33.16375",
+    "geom:latitude":33.16375,
+    "geom:longitude":44.40492,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"99101.0",
+    "gn:asciiname":"Bi'r Muhammad",
+    "gn:country_code":"IQ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97606,
+    "gn:latitude":33.16375,
+    "gn:longitude":44.40492,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u0131\u2019r Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0131\u2019r Mu\u1e29ammad",
+        "Bi\u2019r Musammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421189307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97606
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9cb815dc8a8b7982878361acc278b81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421189307,
+            "locality_id":1259971213,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1259971213,
+    "wof:lastmodified":1537638516,
+    "wof:name":"Bi'r Muhammad",
+    "wof:parent_id":421189307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.40492,
+    33.16375,
+    44.40492,
+    33.16375
+],
+  "geometry": {"coordinates":[44.40492,33.16375],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1310584097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.8691,36.49569,41.8691,36.49569",
+    "geom:latitude":36.49569,
+    "geom:longitude":41.8691,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166620.0",
+    "gn:asciiname":"Burk",
+    "gn:country_code":"IQ",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7046999,
+    "gn:latitude":36.49569,
+    "gn:longitude":41.8691,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Burk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0637\u064a\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Burk"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u0648\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u1e28i\u0163\u0163\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7046999
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"cc13c48f768860ab31daf908963c3453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186449,
+            "locality_id":1310584097,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1310584097,
+    "wof:lastmodified":1537639970,
+    "wof:name":"Burk",
+    "wof:parent_id":421186449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.8691,
+    36.49569,
+    41.8691,
+    36.49569
+],
+  "geometry": {"coordinates":[41.8691,36.49569],"type":"Point"}
+}

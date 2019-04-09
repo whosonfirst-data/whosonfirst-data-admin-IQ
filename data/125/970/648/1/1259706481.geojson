@@ -1,0 +1,85 @@
+{
+  "id": 1259706481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18662,36.15616,45.18662,36.15616",
+    "geom:latitude":36.15616,
+    "geom:longitude":45.18662,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Bimush",
+    "gn:country_code":"IQ",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97706,
+    "gn:latitude":36.15616,
+    "gn:longitude":45.18662,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Bim\u016bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bim\u016bsh"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0645\u0648\u0634"
+    ],
+    "name:kur_x_preferred":[
+        "B\u00eamush"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06ce\u0645\u0648\u0634"
+    ],
+    "name:und_x_variant":[
+        "Bimosh",
+        "B\u0113m\u016bsh",
+        "Bemush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97706
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7459d6679af87934a65d1d9d0d25f186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1259706481,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1259706481,
+    "wof:lastmodified":1537638530,
+    "wof:name":"Bimush",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18662,
+    36.15616,
+    45.18662,
+    36.15616
+],
+  "geometry": {"coordinates":[45.18662,36.15616],"type":"Point"}
+}

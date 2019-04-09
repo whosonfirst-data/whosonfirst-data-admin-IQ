@@ -1,0 +1,79 @@
+{
+  "id": 1242757189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.72118,35.33319,44.72118,35.33319",
+    "geom:latitude":35.33319,
+    "geom:longitude":44.72118,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9166581.0",
+    "gn:asciiname":"Haftah Jashniyah",
+    "gn:country_code":"IQ",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96290,
+    "gn:latitude":35.33319,
+    "gn:longitude":44.72118,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"\u1e28aftah Jashn\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0641\u062a\u0629 \u062c\u0634\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hafta Chashmeh",
+        "\u1e28aftah Chashn\u012byah",
+        "Hafta Chashma",
+        "Haftah Chashmah",
+        "\u1e28aftah Jashn\u012byah",
+        "\u062d\u0641\u062a\u0629 \u0686\u0634\u0646\u064a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96290
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"70f105e49dc4897fe688df830c201135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562775,
+            "locality_id":1242757189,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1242757189,
+    "wof:lastmodified":1537638377,
+    "wof:name":"Haftah Jashniyah",
+    "wof:parent_id":1108562775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.72118,
+    35.33319,
+    44.72118,
+    35.33319
+],
+  "geometry": {"coordinates":[44.72118,35.33319],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209084369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.06003,35.95514,44.06003,35.95514",
+    "geom:latitude":35.95514,
+    "geom:longitude":44.06003,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Kardamla",
+    "gn:country_code":"IQ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6768306,
+    "gn:latitude":35.95514,
+    "gn:longitude":44.06003,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kardaml\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062f\u0645\u0644\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Grde Mele"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u0631\u062f\u06d5 \u0645\u06d5\u0644\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Girda Mila",
+        "Kardaml\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6768306
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0968f88a532ee12170f75c2c7576dfe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209084369
+        }
+    ],
+    "wof:id":1209084369,
+    "wof:lastmodified":1537639238,
+    "wof:name":"Kardamla",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.06003,
+    35.95514,
+    44.06003,
+    35.95514
+],
+  "geometry": {"coordinates":[44.06003,35.95514],"type":"Point"}
+}

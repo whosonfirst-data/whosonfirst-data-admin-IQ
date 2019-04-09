@@ -1,0 +1,96 @@
+{
+  "id": 1242655823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51064,36.43394,44.51064,36.43394",
+    "geom:latitude":36.43394,
+    "geom:longitude":44.51064,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166591.0",
+    "gn:asciiname":"Bay Ruway",
+    "gn:country_code":"IQ",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97699,
+    "gn:latitude":36.43394,
+    "gn:longitude":44.51064,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Bay R\u016bway",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a \u0631\u0648\u0648\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "\u0628\u06ce \u0631\u0648\u0649"
+    ],
+    "name:kur_x_variant":[
+        "Berwy",
+        "B\u00ea Rw\u00ee",
+        "B\u00earw\u00ea",
+        "\u0628\u06ce\u0631\u0648\u06ce",
+        "B\u00eerawe",
+        "B\u00earewa",
+        "\u0628\u06ce\u0631\u06d5\u0648\u0627",
+        "\u0628\u064a\u0631\u0627\u0648\u06d5"
+    ],
+    "name:und_x_variant":[
+        "B\u012br\u016b",
+        "B\u0113r\u014d",
+        "Bay R\u016bway",
+        "\u0628\u064a \u0631\u0648\u0648\u064a",
+        "Berwy",
+        "Beru",
+        "B\u012bl\u0101wah",
+        "Bel\u0101wah",
+        "Berawa",
+        "B\u0113l\u0101wa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97699
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3cddae59fad64ee80e51b4006ce63733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562757,
+            "locality_id":1242655823,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1242655823,
+    "wof:lastmodified":1537638529,
+    "wof:name":"Bay Ruway",
+    "wof:parent_id":1108562757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51064,
+    36.43394,
+    44.51064,
+    36.43394
+],
+  "geometry": {"coordinates":[44.51064,36.43394],"type":"Point"}
+}

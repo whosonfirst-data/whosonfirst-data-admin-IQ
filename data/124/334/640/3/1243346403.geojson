@@ -1,0 +1,82 @@
+{
+  "id": 1243346403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.62378,36.60292,42.62378,36.60292",
+    "geom:latitude":36.60292,
+    "geom:longitude":42.62378,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Al Jahashiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":383422,
+    "gn:latitude":36.60292,
+    "gn:longitude":42.62378,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Jah\u0101sh\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0647\u0627\u0634\u064a\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Cehashye"
+    ],
+    "name:kur_x_variant":[
+        "\u062c\u06d5\u06be\u0627\u0634\u064a\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Jahashia",
+        "Al Ja\u1e29sh\u012byah",
+        "Al Jah\u0101sh\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383422
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5afea7f94183f7a86447618adb35e5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1243346403,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1243346403,
+    "wof:lastmodified":1537638725,
+    "wof:name":"Al Jahashiyah",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.62378,
+    36.60292000000001,
+    42.62378,
+    36.60292000000001
+],
+  "geometry": {"coordinates":[42.62378,36.60292000000001],"type":"Point"}
+}

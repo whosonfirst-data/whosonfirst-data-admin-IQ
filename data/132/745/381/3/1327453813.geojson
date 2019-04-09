@@ -1,0 +1,84 @@
+{
+  "id": 1327453813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03912,36.99064,43.03912,36.99064",
+    "geom:latitude":36.99064,
+    "geom:longitude":43.03912,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"97269.0",
+    "gn:asciiname":"Karbil",
+    "gn:country_code":"IQ",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445804,
+    "gn:latitude":36.99064,
+    "gn:longitude":43.03912,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Karbil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0628\u0644"
+    ],
+    "name:kur_x_preferred":[
+        "Kirebit"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0631\u06d5\u0628\u062a",
+        "Kerbil\u00ea",
+        "\u0643\u06d5\u0631\u0628\u0644\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Karbile",
+        "Krabt",
+        "Kerbili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421204025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445804
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d0c6bee2f2a8bc12c46565ff6505fd8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421204025,
+            "locality_id":1327453813,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1327453813,
+    "wof:lastmodified":1537638931,
+    "wof:name":"Karbil",
+    "wof:parent_id":421204025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03912,
+    36.99064,
+    43.03912,
+    36.99064
+],
+  "geometry": {"coordinates":[43.03912,36.99064],"type":"Point"}
+}

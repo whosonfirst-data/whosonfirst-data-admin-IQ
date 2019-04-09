@@ -1,0 +1,72 @@
+{
+  "id": 1193126953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.31667,31.5,46.31667,31.5",
+    "geom:latitude":31.5,
+    "geom:longitude":46.31667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98623.0",
+    "gn:asciiname":"Jama'at al 'Alyan",
+    "gn:country_code":"IQ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95293,
+    "gn:latitude":31.5,
+    "gn:longitude":46.31667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jam\u0101\u2018at al \u2018Aly\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jam\u0101\u2018at al Aliy\u0101n",
+        "Jam\u0101\u2018at al \u2018Aly\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95293
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d9db7fe2d925e454cfc4495c7e1cb6e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562741,
+            "locality_id":1193126953,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1193126953,
+    "wof:lastmodified":1537638306,
+    "wof:name":"Jama'at al 'Alyan",
+    "wof:parent_id":1108562741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.31667,
+    31.5,
+    46.31667,
+    31.5
+],
+  "geometry": {"coordinates":[46.31667,31.5],"type":"Point"}
+}

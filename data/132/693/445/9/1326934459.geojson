@@ -1,0 +1,74 @@
+{
+  "id": 1326934459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.41204,34.04143,42.41204,34.04143",
+    "geom:latitude":34.04143,
+    "geom:longitude":42.41204,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6765480.0",
+    "gn:asciiname":"Qaryat Sadr Zaghdan",
+    "gn:country_code":"IQ",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6765419,
+    "gn:latitude":34.04143,
+    "gn:longitude":42.41204,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat \u015eadr Zaghd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0635\u062f\u0631 \u0632\u063a\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qaryat \u015eadr Zaghd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        1108562649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6765419
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"142b96f18dd7db930d986d2bc54c1535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562649,
+            "locality_id":1326934459,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1326934459,
+    "wof:lastmodified":1537639236,
+    "wof:name":"Qaryat Sadr Zaghdan",
+    "wof:parent_id":1108562649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.41204000000001,
+    34.04143,
+    42.41204000000001,
+    34.04143
+],
+  "geometry": {"coordinates":[42.41204000000001,34.04143],"type":"Point"}
+}

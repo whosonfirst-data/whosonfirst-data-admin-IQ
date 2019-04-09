@@ -1,0 +1,78 @@
+{
+  "id": 1344143245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31187,35.35632,44.31187,35.35632",
+    "geom:latitude":35.35632,
+    "geom:longitude":44.31187,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"94786.0",
+    "gn:asciiname":"Chardaghli",
+    "gn:country_code":"IQ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97382,
+    "gn:latitude":35.35632,
+    "gn:longitude":44.31187,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chard\u0101ghl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0686\u0631\u062f\u0627\u063a\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Jard\u0101ghl\u016b Kuy",
+        "Chard\u0101gh",
+        "Chard\u0101ghl\u016b K\u016by",
+        "Chard\u0101ghl\u016b",
+        "Chard\u0101ghl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        421199293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97382
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"03a7f8128dd310ad5827ece87aa02f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421199293,
+            "locality_id":1344143245,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1344143245,
+    "wof:lastmodified":1537638491,
+    "wof:name":"Chardaghli",
+    "wof:parent_id":421199293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31187,
+    35.35632000000001,
+    44.31187,
+    35.35632000000001
+],
+  "geometry": {"coordinates":[44.31187,35.35632000000001],"type":"Point"}
+}

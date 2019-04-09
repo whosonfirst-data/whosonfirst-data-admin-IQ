@@ -1,0 +1,82 @@
+{
+  "id": 1327156559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.59522,37.17178,42.59522,37.17178",
+    "geom:latitude":37.17178,
+    "geom:longitude":42.59522,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"89569.0",
+    "gn:asciiname":"Xishtana",
+    "gn:country_code":"IQ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":94379,
+    "gn:latitude":37.17178,
+    "gn:longitude":42.59522,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Xishtana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u064a\u0634\u0637\u0627\u064a\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Xishtana"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u0634\u062a\u0627\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Khisht\u0101nah",
+        "Khisht\u0101na",
+        "Q\u012bsh\u0163\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        890445289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94379
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"101376b03adb533176334658f9b8f593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445289,
+            "locality_id":1327156559,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1327156559,
+    "wof:lastmodified":1537638219,
+    "wof:name":"Xishtana",
+    "wof:parent_id":890445289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.59522,
+    37.17178,
+    42.59522,
+    37.17178
+],
+  "geometry": {"coordinates":[42.59522,37.17178],"type":"Point"}
+}

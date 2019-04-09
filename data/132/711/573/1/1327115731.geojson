@@ -1,0 +1,76 @@
+{
+  "id": 1327115731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77236,37.03267,43.77236,37.03267",
+    "geom:latitude":37.03267,
+    "geom:longitude":43.77236,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kumelgeha Shiladze",
+    "gn:country_code":"IQ",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8664143,
+    "gn:latitude":37.03267,
+    "gn:longitude":43.77236,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Kumelgeha Sh\u00eeladz\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Kumelgeha Sh\u00eeladz\u00ea"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0648\u0645\u06d5\u0644\u06af\u06d5\u06be\u0627 \u0634\u064a\u0644\u0627\u062f\u0632\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Sheladize Collective"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8664143
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ee3c1b3c97b578431bc4105459726d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1327115731,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1327115731,
+    "wof:lastmodified":1537640094,
+    "wof:name":"Kumelgeha Shiladze",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77236,
+    37.03267,
+    43.77236,
+    37.03267
+],
+  "geometry": {"coordinates":[43.77236,37.03267],"type":"Point"}
+}

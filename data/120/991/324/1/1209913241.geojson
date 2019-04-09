@@ -1,0 +1,86 @@
+{
+  "id": 1209913241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.90053,36.04885,44.90053,36.04885",
+    "geom:latitude":36.04885,
+    "geom:longitude":44.90053,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Tuwarashah",
+    "gn:country_code":"IQ",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447505,
+    "gn:latitude":36.04885,
+    "gn:longitude":44.90053,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Tuwarashah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0631\u0634\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "\u062a\u0648 \u0695\u06d5\u0634\u06d5"
+    ],
+    "name:kur_x_variant":[
+        "Tu \u1e5eeshe",
+        "Tuwe \u1e5eeshe",
+        "\u062a\u0648\u0648\u06d5 \u0695\u06d5\u0634\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Turshah",
+        "Tuwarashah",
+        "\u062a\u0648\u0631\u0634\u0629",
+        "Tursha",
+        "Twa Rash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447505
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a80df80b53699ed85294e85120d9b42d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1209913241,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1209913241,
+    "wof:lastmodified":1537639043,
+    "wof:name":"Tuwarashah",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.90053,
+    36.04885,
+    44.90053,
+    36.04885
+],
+  "geometry": {"coordinates":[44.90053,36.04885],"type":"Point"}
+}

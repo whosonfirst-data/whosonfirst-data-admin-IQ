@@ -1,0 +1,76 @@
+{
+  "id": 1259369197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.64922,35.21508,44.64922,35.21508",
+    "geom:latitude":35.21508,
+    "geom:longitude":44.64922,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9166581.0",
+    "gn:asciiname":"Mam `Ashshah",
+    "gn:country_code":"IQ",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93734,
+    "gn:latitude":35.21508,
+    "gn:longitude":44.64922,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"M\u0101m \u2018Ashshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0645 \u0639\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "M\u0101m \u2018Ashshah",
+        "M\u0101m \u2018Ashah",
+        "M\u0101ma Rasn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108804831,
+        1108562775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93734
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a47e3d652f6adfe160d647f274870750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562775,
+            "locality_id":1259369197,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1259369197,
+    "wof:lastmodified":1537638160,
+    "wof:name":"Mam `Ashshah",
+    "wof:parent_id":1108562775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.64922,
+    35.21508,
+    44.64922,
+    35.21508
+],
+  "geometry": {"coordinates":[44.64922,35.21508],"type":"Point"}
+}

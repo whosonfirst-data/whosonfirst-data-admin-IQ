@@ -1,0 +1,71 @@
+{
+  "id": 1259766669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.32389,31.65028,47.32389,31.65028",
+    "geom:latitude":31.65028,
+    "geom:longitude":47.32389,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9166557.0",
+    "gn:asciiname":"Madrasiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388208,
+    "gn:latitude":31.65028,
+    "gn:longitude":47.32389,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Madras\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madras\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388208
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ea17ca05024c9b816397365a7c7fde3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562711,
+            "locality_id":1259766669,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1259766669,
+    "wof:lastmodified":1537638812,
+    "wof:name":"Madrasiyah",
+    "wof:parent_id":1108562711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.32389000000001,
+    31.65028,
+    47.32389000000001,
+    31.65028
+],
+  "geometry": {"coordinates":[47.32389000000001,31.65028],"type":"Point"}
+}

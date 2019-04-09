@@ -1,0 +1,75 @@
+{
+  "id": 1209911819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36583,32.15889,44.36583,32.15889",
+    "geom:latitude":32.15889,
+    "geom:longitude":44.36583,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99348.0",
+    "gn:asciiname":"Al 'Abbas",
+    "gn:country_code":"IQ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100237,
+    "gn:latitude":32.15889,
+    "gn:longitude":44.36583,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100l \u2018Abb\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0100l \u2018Abb\u0101s"
+    ],
+    "name:und_x_variant":[
+        "Jisr al \u2018Abb\u0101s",
+        "\u2018Abb\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100237
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8728480402b36041b8eec7915fb71ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562695,
+            "locality_id":1209911819,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1209911819,
+    "wof:lastmodified":1537638718,
+    "wof:name":"Al 'Abbas",
+    "wof:parent_id":1108562695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36583,
+    32.15889,
+    44.36583,
+    32.15889
+],
+  "geometry": {"coordinates":[44.36583,32.15889],"type":"Point"}
+}

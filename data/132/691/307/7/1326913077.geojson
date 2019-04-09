@@ -1,0 +1,74 @@
+{
+  "id": 1326913077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.95999,35.94397,42.95999,35.94397",
+    "geom:latitude":35.94397,
+    "geom:longitude":42.95999,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166649.0",
+    "gn:asciiname":"Al Farisiyah al Athariyah",
+    "gn:country_code":"IQ",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110794,
+    "gn:latitude":35.94397,
+    "gn:longitude":42.95999,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al F\u0101ris\u012byah al Athar\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0627\u0631\u0633\u064a\u0629 \u0627\u0644\u0623\u062b\u0631\u064a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Al F\u0101ris\u012byah al Athar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110794
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9b8d0b8c516ad3c3fa73b496113d8575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562633,
+            "locality_id":1326913077,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1326913077,
+    "wof:lastmodified":1537639990,
+    "wof:name":"Al Farisiyah al Athariyah",
+    "wof:parent_id":1108562633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.95999000000001,
+    35.94397,
+    42.95999000000001,
+    35.94397
+],
+  "geometry": {"coordinates":[42.95999000000001,35.94397],"type":"Point"}
+}

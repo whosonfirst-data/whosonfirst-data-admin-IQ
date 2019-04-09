@@ -1,0 +1,83 @@
+{
+  "id": 1327017785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38554,36.15385,44.38554,36.15385",
+    "geom:latitude":36.15385,
+    "geom:longitude":44.38554,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166588.0",
+    "gn:asciiname":"Summaqah Shirin al Kabir",
+    "gn:country_code":"IQ",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446580,
+    "gn:latitude":36.15385,
+    "gn:longitude":44.38554,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Summ\u0101qah Sh\u012br\u012bn al Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0645\u0627\u0642\u0629 \u0634\u064a\u0631\u064a\u0646 \u0627\u0644\u0643\u0628\u064a\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Smaqe Sh\u00eer\u00een"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u0645\u0627\u0642\u06d5 \u0634\u064a\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sim\u0101qsh\u012br\u012bn-i Gawra",
+        "Smaq Shirin",
+        "Sumaq Shirin",
+        "Summ\u0101qah Sh\u012br\u012bn al Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446580
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"65b08aa21fee806b0c817464f098c364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445493,
+            "locality_id":1327017785,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1327017785,
+    "wof:lastmodified":1537638988,
+    "wof:name":"Summaqah Shirin al Kabir",
+    "wof:parent_id":890445493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38554,
+    36.15385,
+    44.38554,
+    36.15385
+],
+  "geometry": {"coordinates":[44.38554,36.15385],"type":"Point"}
+}

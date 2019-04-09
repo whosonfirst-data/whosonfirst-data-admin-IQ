@@ -1,0 +1,82 @@
+{
+  "id": 1344161649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.22207,34.82678,45.22207,34.82678",
+    "geom:latitude":34.82678,
+    "geom:longitude":45.22207,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Zard Qadir",
+    "gn:country_code":"IQ",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405890,
+    "gn:latitude":34.82678,
+    "gn:longitude":45.22207,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zard Q\u0101dir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0631\u062f \u0642\u0627\u062f\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Zerd\u00ee Qadr"
+    ],
+    "name:kur_x_variant":[
+        "\u0632\u06d5\u0631\u062f\u0649 \u0642\u0627\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Zard Q\u0101dir",
+        "Zard Q\u0101dir Ma\u1e29m\u016bd",
+        "\u0632\u0631\u062f \u0642\u0627\u062f\u0631 \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405890
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"40ad5ec81e2849c13a378f234d520dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1344161649,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1344161649,
+    "wof:lastmodified":1537640041,
+    "wof:name":"Zard Qadir",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.22207,
+    34.82678,
+    45.22207,
+    34.82678
+],
+  "geometry": {"coordinates":[45.22207,34.82678],"type":"Point"}
+}

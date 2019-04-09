@@ -1,0 +1,84 @@
+{
+  "id": 1292982009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91946,36.74251,44.91946,36.74251",
+    "geom:latitude":36.74251,
+    "geom:longitude":44.91946,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166586.0",
+    "gn:asciiname":"Kawjaran",
+    "gn:country_code":"IQ",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447614,
+    "gn:latitude":36.74251,
+    "gn:longitude":44.91946,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kawjar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u062c\u0631\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Kocher"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u06c6\u0686\u06d5\u0631",
+        "Koch\u00ear",
+        "\u0643\u06c6\u0686\u06ce\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kawjar\u0101n",
+        "K\u014dchar\u0101n",
+        "Kochar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447614
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"34cf88e2699290f73942e9d0ccb9b572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562749,
+            "locality_id":1292982009,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1292982009,
+    "wof:lastmodified":1537639044,
+    "wof:name":"Kawjaran",
+    "wof:parent_id":1108562749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91946,
+    36.74251,
+    44.91946,
+    36.74251
+],
+  "geometry": {"coordinates":[44.91946,36.74251],"type":"Point"}
+}

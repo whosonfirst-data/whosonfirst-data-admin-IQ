@@ -1,0 +1,76 @@
+{
+  "id": 1276738621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.04337,35.23004,43.04337,35.23004",
+    "geom:latitude":35.23004,
+    "geom:longitude":43.04337,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6872046.0",
+    "gn:asciiname":"Qaryat Sarjimah",
+    "gn:country_code":"IQ",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837430,
+    "gn:latitude":35.23004,
+    "gn:longitude":43.04337,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Sarj\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0633\u0631\u062c\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162arjam Ghad\u012br",
+        "\u0637\u0631\u062c\u0645 \u063a\u062f\u064a\u0631",
+        "Qaryat Sarj\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837430
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"add04a0e94359f81bab33902d36901cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562647,
+            "locality_id":1276738621,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1276738621,
+    "wof:lastmodified":1537639704,
+    "wof:name":"Qaryat Sarjimah",
+    "wof:parent_id":1108562647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.04337,
+    35.23004,
+    43.04337,
+    35.23004
+],
+  "geometry": {"coordinates":[43.04337,35.23004],"type":"Point"}
+}

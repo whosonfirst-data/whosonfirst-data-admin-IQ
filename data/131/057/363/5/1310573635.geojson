@@ -1,0 +1,74 @@
+{
+  "id": 1310573635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.22043,32.37691,46.22043,32.37691",
+    "geom:latitude":32.37691,
+    "geom:longitude":46.22043,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"99132.0",
+    "gn:asciiname":"Hajj Ghadib as Salamah",
+    "gn:country_code":"IQ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6764011,
+    "gn:latitude":32.37691,
+    "gn:longitude":46.22043,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28ajj Gha\u1e11ib as Sal\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u062c \u063a\u0636\u0628 \u0627\u0644\u0633\u0644\u0627\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ajj Gha\u1e11ib as Sal\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        421186459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6764011
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"290ee44b1ee3634c82c487e838d10794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186459,
+            "locality_id":1310573635,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1310573635,
+    "wof:lastmodified":1537639234,
+    "wof:name":"Hajj Ghadib as Salamah",
+    "wof:parent_id":421186459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.22043,
+    32.37691,
+    46.22043,
+    32.37691
+],
+  "geometry": {"coordinates":[46.22043,32.37691],"type":"Point"}
+}

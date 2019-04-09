@@ -1,0 +1,71 @@
+{
+  "id": 1327044119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.94306,33.375,43.94306,33.375",
+    "geom:latitude":33.375,
+    "geom:longitude":43.94306,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"Rumaylat",
+    "gn:country_code":"IQ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91909,
+    "gn:latitude":33.375,
+    "gn:longitude":43.94306,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rumayl\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rumayl\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91909
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"79dc598be61b534467236ab9e94a972a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1327044119,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1327044119,
+    "wof:lastmodified":1537637998,
+    "wof:name":"Rumaylat",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.94306,
+    33.375,
+    43.94306,
+    33.375
+],
+  "geometry": {"coordinates":[43.94306,33.375],"type":"Point"}
+}

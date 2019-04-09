@@ -1,0 +1,77 @@
+{
+  "id": 1260061303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.53278,36.80761,44.53278,36.80761",
+    "geom:latitude":36.80761,
+    "geom:longitude":44.53278,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166592.0",
+    "gn:asciiname":"Dole Merge",
+    "gn:country_code":"IQ",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8469393,
+    "gn:latitude":36.80761,
+    "gn:longitude":44.53278,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Do\u0142e Merge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Do\u0142e Merge"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u06c6\u06b5\u06d5 \u0645\u06d5\u0631\u06af\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Dola Marg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8469393
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4d2e8d6b34c8d603c6dab9935e3ca922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445495,
+            "locality_id":1260061303,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1260061303,
+    "wof:lastmodified":1537640086,
+    "wof:name":"Dole Merge",
+    "wof:parent_id":890445495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.53278,
+    36.80761,
+    44.53278,
+    36.80761
+],
+  "geometry": {"coordinates":[44.53278,36.80761],"type":"Point"}
+}

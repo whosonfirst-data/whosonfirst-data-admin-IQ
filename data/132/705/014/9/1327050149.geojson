@@ -1,0 +1,85 @@
+{
+  "id": 1327050149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.94385,37.09173,42.94385,37.09173",
+    "geom:latitude":37.09173,
+    "geom:longitude":42.94385,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"97269.0",
+    "gn:asciiname":"Gund Kuse",
+    "gn:country_code":"IQ",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446094,
+    "gn:latitude":37.09173,
+    "gn:longitude":42.94385,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Gund Kuse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0646\u062f \u0643\u0648\u0633\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Kose"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u06c6\u0633\u06d5",
+        "Gund Kuse",
+        "\u06af\u0648\u0646\u062f \u0643\u0648\u0633\u0647"
+    ],
+    "name:und_x_variant":[
+        "Gundk\u014dsa",
+        "Kosa",
+        "K\u016bnd K\u016bsah",
+        "Gundkusa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421204025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446094
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ad83dedaaab8938ab1abffa936083fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421204025,
+            "locality_id":1327050149,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1327050149,
+    "wof:lastmodified":1537638959,
+    "wof:name":"Gund Kuse",
+    "wof:parent_id":421204025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.94385,
+    37.09173,
+    42.94385,
+    37.09173
+],
+  "geometry": {"coordinates":[42.94385,37.09173],"type":"Point"}
+}

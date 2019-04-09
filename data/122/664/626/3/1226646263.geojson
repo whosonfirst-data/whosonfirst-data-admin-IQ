@@ -1,0 +1,74 @@
+{
+  "id": 1226646263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.62032,32.12046,44.62032,32.12046",
+    "geom:latitude":32.12046,
+    "geom:longitude":44.62032,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"Tall Abu 'Umbah",
+    "gn:country_code":"IQ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789033,
+    "gn:latitude":32.12046,
+    "gn:longitude":44.62032,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tall Ab\u016b \u2018Umbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0628\u0648 \u0639\u0645\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tall Ab\u016b \u2018Umbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789033
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d73e60a96c03fc28b9ca79a7513716e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1226646263,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1226646263,
+    "wof:lastmodified":1537639463,
+    "wof:name":"Tall Abu 'Umbah",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.62032,
+    32.12045999999999,
+    44.62032,
+    32.12045999999999
+],
+  "geometry": {"coordinates":[44.62032,32.12045999999999],"type":"Point"}
+}

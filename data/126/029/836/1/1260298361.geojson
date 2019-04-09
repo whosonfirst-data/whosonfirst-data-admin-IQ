@@ -1,0 +1,71 @@
+{
+  "id": 1260298361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2797,30.3024,48.2797,30.3024",
+    "geom:latitude":30.3024,
+    "geom:longitude":48.2797,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"100049.0",
+    "gn:asciiname":"Ziadiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687556,
+    "gn:latitude":30.3024,
+    "gn:longitude":48.2797,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Z\u012b\u0101d\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064a\u0627\u062f\u064a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687556
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9f78fae6dfd3ab018ad6e39ebe2b92dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562735,
+            "locality_id":1260298361,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1260298361,
+    "wof:lastmodified":1537639114,
+    "wof:name":"Ziadiyah",
+    "wof:parent_id":1108562735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2797,
+    30.3024,
+    48.2797,
+    30.3024
+],
+  "geometry": {"coordinates":[48.2797,30.3024],"type":"Point"}
+}

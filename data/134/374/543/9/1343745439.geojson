@@ -1,0 +1,80 @@
+{
+  "id": 1343745439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.51572,31.30243,47.51572,31.30243",
+    "geom:latitude":31.30243,
+    "geom:longitude":47.51572,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"92536.0",
+    "gn:asciiname":"'Ajardah",
+    "gn:country_code":"IQ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6721886,
+    "gn:latitude":31.30243,
+    "gn:longitude":47.51572,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Ajardah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0639\u062c\u0631\u062f\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0628\u0631\u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Abardah"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ajardah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6721886
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"cf4db4b0bc9fa2fd0ed9ad3266e104a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562713,
+            "locality_id":1343745439,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1343745439,
+    "wof:lastmodified":1537639125,
+    "wof:name":"'Ajardah",
+    "wof:parent_id":1108562713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.51572,
+    31.30243,
+    47.51572,
+    31.30243
+],
+  "geometry": {"coordinates":[47.51572,31.30243],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1309911857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.79448,31.45662,44.79448,31.45662",
+    "geom:latitude":31.45662,
+    "geom:longitude":44.79448,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"6850588.0",
+    "gn:asciiname":"Al Gharb",
+    "gn:country_code":"IQ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":92383,
+    "gn:latitude":31.45662,
+    "gn:longitude":44.79448,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Gharb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "Gharab",
+        "Qariyat al Gharab",
+        "Qaryat al Gharab",
+        "Al Gharb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":92383
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d67b99d92b6a2f51049d94d03b74a72d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562701,
+            "locality_id":1309911857,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1309911857,
+    "wof:lastmodified":1537638040,
+    "wof:name":"Al Gharb",
+    "wof:parent_id":1108562701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.79448,
+    31.45662,
+    44.79448,
+    31.45662
+],
+  "geometry": {"coordinates":[44.79448,31.45662],"type":"Point"}
+}

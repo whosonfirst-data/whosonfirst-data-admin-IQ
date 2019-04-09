@@ -1,0 +1,73 @@
+{
+  "id": 1242982429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3,31.38333,45.3,31.38333",
+    "geom:latitude":31.38333,
+    "geom:longitude":45.3,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9166568.0",
+    "gn:asciiname":"As Sayyid 'Alil",
+    "gn:country_code":"IQ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98510,
+    "gn:latitude":31.38333,
+    "gn:longitude":45.3,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"As Sayyid \u2018Al\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Sayyid Ad\u012bb",
+        "As Saiyid Al\u012bb",
+        "As Sayyid \u2018Al\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98510
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d7f22491489b10317d8266d0fd10863d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562705,
+            "locality_id":1242982429,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1242982429,
+    "wof:lastmodified":1537638612,
+    "wof:name":"As Sayyid 'Alil",
+    "wof:parent_id":1108562705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3,
+    31.38333,
+    45.3,
+    31.38333
+],
+  "geometry": {"coordinates":[45.3,31.38333],"type":"Point"}
+}

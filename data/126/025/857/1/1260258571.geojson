@@ -1,0 +1,74 @@
+{
+  "id": 1260258571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93727,34.25083,43.93727,34.25083",
+    "geom:latitude":34.25083,
+    "geom:longitude":43.93727,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"Al Hajj Muhammad Hamudi",
+    "gn:country_code":"IQ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6782800,
+    "gn:latitude":34.25083,
+    "gn:longitude":43.93727,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al \u1e28\u0101jj Mu\u1e29ammad \u1e28am\u016bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0627\u062c \u0645\u062d\u0645\u062f \u062d\u0645\u0648\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28\u0101jj Mu\u1e29ammad \u1e28am\u016bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6782800
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f45cbcf66f84d00abfa5b969de9d520b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562773,
+            "locality_id":1260258571,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1260258571,
+    "wof:lastmodified":1537639339,
+    "wof:name":"Al Hajj Muhammad Hamudi",
+    "wof:parent_id":1108562773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93727,
+    34.25083,
+    43.93727,
+    34.25083
+],
+  "geometry": {"coordinates":[43.93727,34.25083],"type":"Point"}
+}

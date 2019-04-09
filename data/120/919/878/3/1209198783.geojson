@@ -1,0 +1,67 @@
+{
+  "id": 1209198783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.17889,30.96111,46.17889,30.96111",
+    "geom:latitude":30.96111,
+    "geom:longitude":46.17889,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98855.0",
+    "gn:asciiname":"Hamzah",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":96098,
+    "gn:latitude":30.96111,
+    "gn:longitude":46.17889,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28amzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Hamza",
+        "\u1e28amzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96098
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"678a95ad0f165b41d79e484a91500bd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209198783
+        }
+    ],
+    "wof:id":1209198783,
+    "wof:lastmodified":1537638362,
+    "wof:name":"Hamzah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.17889,
+    30.96111,
+    46.17889,
+    30.96111
+],
+  "geometry": {"coordinates":[46.17889,30.96111],"type":"Point"}
+}

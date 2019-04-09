@@ -1,0 +1,82 @@
+{
+  "id": 1293862109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.32941,35.89233,44.32941,35.89233",
+    "geom:latitude":35.89233,
+    "geom:longitude":44.32941,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166588.0",
+    "gn:asciiname":"Bardah Sabi",
+    "gn:country_code":"IQ",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":97946,
+    "gn:latitude":35.89233,
+    "gn:longitude":44.32941,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bardah Sab\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062f\u0647 \u0633\u0628\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Berde Sp\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06d5\u0631\u062f\u06d5 \u0633\u067e\u0649"
+    ],
+    "name:und_x_variant":[
+        "Bardaspi",
+        "Barda Spy",
+        "Bardah Sab\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97946
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"936a393d3d8fb638611a7f4e44400e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445493,
+            "locality_id":1293862109,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1293862109,
+    "wof:lastmodified":1537638559,
+    "wof:name":"Bardah Sabi",
+    "wof:parent_id":890445493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.32941,
+    35.89233,
+    44.32941,
+    35.89233
+],
+  "geometry": {"coordinates":[44.32941,35.89233],"type":"Point"}
+}

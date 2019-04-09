@@ -1,0 +1,82 @@
+{
+  "id": 1260162121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96171,36.35738,43.96171,36.35738",
+    "geom:latitude":36.35738,
+    "geom:longitude":43.96171,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"95444.0",
+    "gn:asciiname":"Chachnikan Afandi",
+    "gn:country_code":"IQ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":95167,
+    "gn:latitude":36.35738,
+    "gn:longitude":43.96171,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Chachn\u012bk\u0101n Afand\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0686\u0686\u0646\u064a\u0643\u0627\u0646 \u0627\u0641\u0646\u062f\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Cijnikan Efend\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u062c\u0698\u0646\u0643\u0627\u0646 \u0626\u06d5\u0641\u06d5\u0646\u062f\u0649"
+    ],
+    "name:und_x_variant":[
+        "Jaznikan \u015e\u0101diq",
+        "Chizhngan Afandi",
+        "Chachn\u012bk\u0101n Afand\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":95167
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d4c17d08a563b7a124a534a7b85a9a62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":1260162121,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1260162121,
+    "wof:lastmodified":1537638299,
+    "wof:name":"Chachnikan Afandi",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96171,
+    36.35738,
+    43.96171,
+    36.35738
+],
+  "geometry": {"coordinates":[43.96171,36.35738],"type":"Point"}
+}

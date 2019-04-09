@@ -1,0 +1,87 @@
+{
+  "id": 1259688839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.20473,35.17043,45.20473,35.17043",
+    "geom:latitude":35.17043,
+    "geom:longitude":45.20473,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Kahrizah Dalu",
+    "gn:country_code":"IQ",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94791,
+    "gn:latitude":35.17043,
+    "gn:longitude":45.20473,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kahr\u012bzah Dal\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0647\u0631\u064a\u0632\u0647 \u062f\u0644\u0648"
+    ],
+    "name:kur_x_preferred":[
+        "Kar\u00eaze Delu"
+    ],
+    "name:kur_x_variant":[
+        "Kar\u00eaz\u00ee Delu",
+        "\u0643\u0627\u0631\u06ce\u0632\u06d5 \u062f\u06d5\u0644\u0648",
+        "\u0643\u0627\u0631\u06ce\u0632\u0649 \u062f\u06d5\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kar\u012bzah",
+        "K\u0101r\u012bzah Dil\u016b",
+        "K\u0101i\u0113za-i Dil\u014d",
+        "Kahr\u012bzah Dal\u016b",
+        "K\u0101r\u0113za-i Dil\u014d",
+        "Kareza Dalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94791
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"930676400e261ba254a84963ffae203f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1259688839,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1259688839,
+    "wof:lastmodified":1537638256,
+    "wof:name":"Kahrizah Dalu",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.20473,
+    35.17043,
+    45.20473,
+    35.17043
+],
+  "geometry": {"coordinates":[45.20473,35.17043],"type":"Point"}
+}

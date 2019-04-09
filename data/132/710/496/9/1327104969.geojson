@@ -1,0 +1,79 @@
+{
+  "id": 1327104969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.99835,36.51223,42.99835,36.51223",
+    "geom:latitude":36.51223,
+    "geom:longitude":42.99835,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166618.0",
+    "gn:asciiname":"Kharab Bet",
+    "gn:country_code":"IQ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384894,
+    "gn:latitude":36.51223,
+    "gn:longitude":42.99835,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Kharab Bet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Xerab b\u00eat"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u06d5\u0631\u0627\u0628 \u0628\u06ce\u062a"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101b",
+        "Khar\u0101b Bayt",
+        "Kharab Bet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384894
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"04f15d4760e63892590d70b82c7d8ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562629,
+            "locality_id":1327104969,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1327104969,
+    "wof:lastmodified":1537638762,
+    "wof:name":"Kharab Bet",
+    "wof:parent_id":1108562629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.99835,
+    36.51223,
+    42.99835,
+    36.51223
+],
+  "geometry": {"coordinates":[42.99835,36.51223],"type":"Point"}
+}

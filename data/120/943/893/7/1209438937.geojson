@@ -1,0 +1,68 @@
+{
+  "id": 1209438937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.64345,31.81046,44.64345,31.81046",
+    "geom:latitude":31.81046,
+    "geom:longitude":44.64345,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"98634.0",
+    "gn:asciiname":"Ar Radad ar Ra'isi",
+    "gn:country_code":"IQ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6850492,
+    "gn:latitude":31.81046,
+    "gn:longitude":44.64345,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ar Rad\u0101d ar Ra\u2019\u012bs\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062f\u0627\u062f \u0627\u0644\u0631\u0626\u064a\u0633\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ar Rad\u0101d ar Ra\u2019\u012bs\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6850492
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"69f721853fed36389f17dcf7713d075f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209438937
+        }
+    ],
+    "wof:id":1209438937,
+    "wof:lastmodified":1537639751,
+    "wof:name":"Ar Radad ar Ra'isi",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.64345,
+    31.81046,
+    44.64345,
+    31.81046
+],
+  "geometry": {"coordinates":[44.64345,31.81046],"type":"Point"}
+}

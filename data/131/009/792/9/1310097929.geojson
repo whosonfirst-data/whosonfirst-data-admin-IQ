@@ -1,0 +1,74 @@
+{
+  "id": 1310097929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.56842,32.21683,44.56842,32.21683",
+    "geom:latitude":32.21683,
+    "geom:longitude":44.56842,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99358.0",
+    "gn:asciiname":"Sayyid Jasim Jabr",
+    "gn:country_code":"IQ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789395,
+    "gn:latitude":32.21683,
+    "gn:longitude":44.56842,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sayyid J\u0101sim Jabr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f \u062c\u0627\u0633\u0645 \u062c\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sayyid J\u0101sim Jabr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789395
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0392e9c88d037c3b7a08a86af5173fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562689,
+            "locality_id":1310097929,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1310097929,
+    "wof:lastmodified":1537639481,
+    "wof:name":"Sayyid Jasim Jabr",
+    "wof:parent_id":1108562689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.56842,
+    32.21683,
+    44.56842,
+    32.21683
+],
+  "geometry": {"coordinates":[44.56842,32.21683],"type":"Point"}
+}

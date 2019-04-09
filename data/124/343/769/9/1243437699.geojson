@@ -1,0 +1,74 @@
+{
+  "id": 1243437699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.59837,32.02764,47.59837,32.02764",
+    "geom:latitude":32.02764,
+    "geom:longitude":47.59837,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"99610.0",
+    "gn:asciiname":"Salaf 'Awdah",
+    "gn:country_code":"IQ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7326127,
+    "gn:latitude":32.02764,
+    "gn:longitude":47.59837,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Salaf \u2018Awdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0641 \u0639\u0648\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "Salaf \u2018Awdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7326127
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"167b8c7fa36afae96a05a3a7dc1a83cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562681,
+            "locality_id":1243437699,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1243437699,
+    "wof:lastmodified":1537639998,
+    "wof:name":"Salaf 'Awdah",
+    "wof:parent_id":1108562681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.59837,
+    32.02764000000001,
+    47.59837,
+    32.02764000000001
+],
+  "geometry": {"coordinates":[47.59837,32.02764000000001],"type":"Point"}
+}

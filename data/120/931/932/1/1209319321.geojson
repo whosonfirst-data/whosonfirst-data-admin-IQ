@@ -1,0 +1,78 @@
+{
+  "id": 1209319321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.70866,35.73809,45.70866,35.73809",
+    "geom:latitude":35.73809,
+    "geom:longitude":45.70866,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Day Kalah",
+    "gn:country_code":"IQ",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97263,
+    "gn:latitude":35.73809,
+    "gn:longitude":45.70866,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Day Kalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a \u0643\u0644\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "D\u00ea Ge\u0142e"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u06ce \u06af\u06d5\u06b5\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Dahkalah",
+        "Daigala",
+        "Day Kalah",
+        "De Gala",
+        "\u062f\u064a \u0643\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97263
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0fc91246d507440547de90d0bed42e86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209319321
+        }
+    ],
+    "wof:id":1209319321,
+    "wof:lastmodified":1537638479,
+    "wof:name":"Day Kalah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.70866,
+    35.73809,
+    45.70866,
+    35.73809
+],
+  "geometry": {"coordinates":[45.70866,35.73809],"type":"Point"}
+}

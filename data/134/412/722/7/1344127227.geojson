@@ -1,0 +1,84 @@
+{
+  "id": 1344127227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7946,36.87945,43.7946,36.87945",
+    "geom:latitude":36.87945,
+    "geom:longitude":43.7946,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Barznir",
+    "gn:country_code":"IQ",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445554,
+    "gn:latitude":36.87945,
+    "gn:longitude":43.7946,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Barznir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0632\u0646\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Berzner"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06d5\u0631\u0632\u0646\u06d5\u0631",
+        "Berznar",
+        "\u0628\u06d5\u0631\u0632\u0646\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Brziner",
+        "Barzin\u0101i",
+        "Barznir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445554
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"10c308248ed61e14ed04e815e0302c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1344127227,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1344127227,
+    "wof:lastmodified":1537638902,
+    "wof:name":"Barznir",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7946,
+    36.87945,
+    43.7946,
+    36.87945
+],
+  "geometry": {"coordinates":[43.7946,36.87945],"type":"Point"}
+}

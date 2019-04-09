@@ -1,0 +1,76 @@
+{
+  "id": 1209892363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.50984,32.10589,44.50984,32.10589",
+    "geom:latitude":32.10589,
+    "geom:longitude":44.50984,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9166629.0",
+    "gn:asciiname":"Nazl Albu 'Arid",
+    "gn:country_code":"IQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6788966,
+    "gn:latitude":32.10589,
+    "gn:longitude":44.50984,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nazl \u0100lb\u016b \u2018\u0100ri\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0632\u0644 \u0627\u0644\u0628\u0648 \u0639\u0627\u0631\u0636"
+    ],
+    "name:und_x_variant":[
+        "Ban\u012b \u1e28asan",
+        "\u0628\u0646\u064a \u062d\u0633\u0646",
+        "Nazl \u0100lb\u016b \u2018\u0100ri\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672439,
+        1108562691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6788966
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4e3aa85f43fe4da4fa88857ca5a85815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562691,
+            "locality_id":1209892363,
+            "region_id":85672439
+        }
+    ],
+    "wof:id":1209892363,
+    "wof:lastmodified":1537639460,
+    "wof:name":"Nazl Albu 'Arid",
+    "wof:parent_id":1108562691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.50984,
+    32.10589,
+    44.50984,
+    32.10589
+],
+  "geometry": {"coordinates":[44.50984,32.10589],"type":"Point"}
+}

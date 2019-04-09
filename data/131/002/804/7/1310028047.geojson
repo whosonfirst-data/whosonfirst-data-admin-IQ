@@ -1,0 +1,85 @@
+{
+  "id": 1310028047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.52448,36.88281,42.52448,36.88281",
+    "geom:latitude":36.88281,
+    "geom:longitude":42.52448,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9166607.0",
+    "gn:asciiname":"Kumbat",
+    "gn:country_code":"IQ",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":94165,
+    "gn:latitude":36.88281,
+    "gn:longitude":42.52448,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kumbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0643\u0645\u0628\u062a"
+    ],
+    "name:kur_x_preferred":[
+        "Kum\u00eat"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0648\u0645\u06ce\u062a",
+        "Kumbel",
+        "\u0643\u0648\u0645\u0628\u06d5\u0644"
+    ],
+    "name:und_x_variant":[
+        "Kumil",
+        "Kumet",
+        "Kumbat",
+        "Kombl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        1108562637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94165
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"5e37f77134a7361db9a06247ce5c3fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562637,
+            "locality_id":1310028047,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1310028047,
+    "wof:lastmodified":1537638197,
+    "wof:name":"Kumbat",
+    "wof:parent_id":1108562637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.52448,
+    36.88281,
+    42.52448,
+    36.88281
+],
+  "geometry": {"coordinates":[42.52448,36.88281],"type":"Point"}
+}

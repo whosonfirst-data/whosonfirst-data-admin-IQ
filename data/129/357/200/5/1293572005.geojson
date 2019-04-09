@@ -1,0 +1,86 @@
+{
+  "id": 1293572005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7482,36.94874,43.7482,36.94874",
+    "geom:latitude":36.94874,
+    "geom:longitude":43.7482,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Bir Shuri",
+    "gn:country_code":"IQ",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445885,
+    "gn:latitude":36.94874,
+    "gn:longitude":43.7482,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"B\u012br Sh\u016br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0634\u0648\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u0631\u0639\u0648\u0631\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "B\u00eerkor\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u064a\u0631\u0643\u06c6\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "B\u012br \u2018\u016ar\u012b",
+        "Birkuri",
+        "B\u012br K\u016br\u012b",
+        "B\u012br Sh\u016br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445885
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4035d829bd870b1d0196a2028cc87e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1293572005,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1293572005,
+    "wof:lastmodified":1537638939,
+    "wof:name":"Bir Shuri",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7482,
+    36.94874,
+    43.7482,
+    36.94874
+],
+  "geometry": {"coordinates":[43.7482,36.94874],"type":"Point"}
+}

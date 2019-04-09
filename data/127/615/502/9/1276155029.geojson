@@ -1,0 +1,84 @@
+{
+  "id": 1276155029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.30781,36.0471,45.30781,36.0471",
+    "geom:latitude":36.0471,
+    "geom:longitude":45.30781,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Kune Genaw",
+    "gn:country_code":"IQ",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":94234,
+    "gn:latitude":36.0471,
+    "gn:longitude":45.30781,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kune Genaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0646\u0629 \u0643\u0646\u0627\u0648"
+    ],
+    "name:kur_x_preferred":[
+        "Kune Genaw"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0648\u0646\u06d5 \u06af\u06d5\u0646\u0627\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kona-Genow",
+        "K\u016bnah Kan\u0101w",
+        "K\u014dnagan\u0101w",
+        "Gan\u0101w",
+        "Kuna Ganaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94234
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"93839cf8fb445f800d5ad016ffec7214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1276155029,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1276155029,
+    "wof:lastmodified":1537638206,
+    "wof:name":"Kune Genaw",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.30781,
+    36.0471,
+    45.30781,
+    36.0471
+],
+  "geometry": {"coordinates":[45.30781,36.0471],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1209838379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26402,36.1579,45.26402,36.1579",
+    "geom:latitude":36.1579,
+    "geom:longitude":45.26402,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Bayk Law",
+    "gn:country_code":"IQ",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7377827,
+    "gn:latitude":36.1579,
+    "gn:longitude":45.26402,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Bayk Law",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0643 \u0644\u0648"
+    ],
+    "name:kur_x_preferred":[
+        "B\u00ea Klo"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u06ce \u0643\u0644\u06c6"
+    ],
+    "name:und_x_variant":[
+        "Be Clo",
+        "Beklo Lower"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7377827
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"aa77f43284eb96a4c6e1a8ade4d24f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1209838379,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1209838379,
+    "wof:lastmodified":1537640029,
+    "wof:name":"Bayk Law",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26402,
+    36.1579,
+    45.26402,
+    36.1579
+],
+  "geometry": {"coordinates":[45.26402,36.1579],"type":"Point"}
+}

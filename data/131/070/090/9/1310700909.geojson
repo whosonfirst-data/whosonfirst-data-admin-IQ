@@ -1,0 +1,74 @@
+{
+  "id": 1310700909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4183,35.94586,45.4183,35.94586",
+    "geom:latitude":35.94586,
+    "geom:longitude":45.4183,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Kulkah",
+    "gn:country_code":"IQ",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7426107,
+    "gn:latitude":35.94586,
+    "gn:longitude":45.4183,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u016blkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0644\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "K\u016blkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7426107
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"94a95cf2db606545fbbaa3b38e5ee522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1310700909,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1310700909,
+    "wof:lastmodified":1537640045,
+    "wof:name":"Kulkah",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4183,
+    35.94586,
+    45.4183,
+    35.94586
+],
+  "geometry": {"coordinates":[45.4183,35.94586],"type":"Point"}
+}

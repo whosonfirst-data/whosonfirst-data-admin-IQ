@@ -1,0 +1,83 @@
+{
+  "id": 1343843431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.92763,37.06743,42.92763,37.06743",
+    "geom:latitude":37.06743,
+    "geom:longitude":42.92763,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"97269.0",
+    "gn:asciiname":"Saravkay",
+    "gn:country_code":"IQ",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446066,
+    "gn:latitude":37.06743,
+    "gn:longitude":42.92763,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Sar\u0101vkay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0627\ufb6c\u0643\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Serevk\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u06d5\u0631\u06d5\u06a4\u0643\u0649",
+        "Ser\u2019avk\u00ea",
+        "\u0633\u06d5\u0631\u0626\u0627\u06a4\u0643\u06ce"
+    ],
+    "name:und_x_variant":[
+        "Saravky",
+        "Sar\u0101vkay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421204025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446066
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"cded2d44dd4e8a3ea6cb25f35d667f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421204025,
+            "locality_id":1343843431,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1343843431,
+    "wof:lastmodified":1537638954,
+    "wof:name":"Saravkay",
+    "wof:parent_id":421204025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.92763,
+    37.06743,
+    42.92763,
+    37.06743
+],
+  "geometry": {"coordinates":[42.92763,37.06743],"type":"Point"}
+}

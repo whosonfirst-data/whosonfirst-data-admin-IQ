@@ -1,0 +1,75 @@
+{
+  "id": 1343233075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.19566,31.47804,47.19566,31.47804",
+    "geom:latitude":31.47804,
+    "geom:longitude":47.19566,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"99097.0",
+    "gn:asciiname":"Bani Malik",
+    "gn:country_code":"IQ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388180,
+    "gn:latitude":31.47804,
+    "gn:longitude":47.19566,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ban\u012b M\u0101lik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0645\u0627\u0644\u0643"
+    ],
+    "name:und_x_variant":[
+        "M\u0101lik",
+        "Ban\u012b M\u0101lik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672469,
+        1108562707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388180
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"917b5763f0a8ea6f48a92e4f87c6fb21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562707,
+            "locality_id":1343233075,
+            "region_id":85672469
+        }
+    ],
+    "wof:id":1343233075,
+    "wof:lastmodified":1537638812,
+    "wof:name":"Bani Malik",
+    "wof:parent_id":1108562707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.19566,
+    31.47804,
+    47.19566,
+    31.47804
+],
+  "geometry": {"coordinates":[47.19566,31.47804],"type":"Point"}
+}

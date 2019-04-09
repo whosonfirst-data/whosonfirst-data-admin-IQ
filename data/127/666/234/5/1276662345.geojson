@@ -1,0 +1,82 @@
+{
+  "id": 1276662345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1,35.01667,45.1,35.01667",
+    "geom:latitude":35.01667,
+    "geom:longitude":45.1,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Khan Zur",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94560,
+    "gn:latitude":35.01667,
+    "gn:longitude":45.1,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kh\u0101n Z\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kh\u0101n Z\u016br"
+    ],
+    "name:kur_x_preferred":[
+        "Xan S\u00fbr"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u0627\u0646 \u0633\u0648\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ibr\u0101h\u012bm Kh\u0101nji",
+        "Khan Suir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94560
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"81744752fa09042edb883888597b3e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1276662345,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1276662345,
+    "wof:lastmodified":1537638234,
+    "wof:name":"Khan Zur",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1,
+    35.01667,
+    45.1,
+    35.01667
+],
+  "geometry": {"coordinates":[45.1,35.01667],"type":"Point"}
+}

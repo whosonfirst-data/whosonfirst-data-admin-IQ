@@ -1,0 +1,75 @@
+{
+  "id": 1309713081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.57007,31.64134,44.57007,31.64134",
+    "geom:latitude":31.64134,
+    "geom:longitude":44.57007,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"98634.0",
+    "gn:asciiname":"Diwan Al Hutayn",
+    "gn:country_code":"IQ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449022,
+    "gn:latitude":31.64134,
+    "gn:longitude":44.57007,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u012bw\u0101n \u0100l Hutayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0648\u0627\u0646 \u0627\u0644 \u0647\u062a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "D\u012bw\u0101n \u0100l Hunayn",
+        "D\u012bw\u0101n \u0100l Hutayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449022
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4f3cd4879b0fc143526ea9475c5e845d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562699,
+            "locality_id":1309713081,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1309713081,
+    "wof:lastmodified":1537639082,
+    "wof:name":"Diwan Al Hutayn",
+    "wof:parent_id":1108562699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.57007,
+    31.64134,
+    44.57007,
+    31.64134
+],
+  "geometry": {"coordinates":[44.57007,31.64134],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343880461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.72929,32.34677,44.72929,32.34677",
+    "geom:latitude":32.34677,
+    "geom:longitude":44.72929,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99358.0",
+    "gn:asciiname":"'Isa al Majdi",
+    "gn:country_code":"IQ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6790012,
+    "gn:latitude":32.34677,
+    "gn:longitude":44.72929,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018\u012as\u00e1 al Majd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0633\u0649 \u0627\u0644\u0645\u062c\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018\u012as\u00e1 al Majd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6790012
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b8bab325a3dfe41eb92a7176b5a1aa8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562689,
+            "locality_id":1343880461,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1343880461,
+    "wof:lastmodified":1537639509,
+    "wof:name":"'Isa al Majdi",
+    "wof:parent_id":1108562689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.72929,
+    32.34677,
+    44.72929,
+    32.34677
+],
+  "geometry": {"coordinates":[44.72929,32.34677],"type":"Point"}
+}

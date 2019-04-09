@@ -1,0 +1,75 @@
+{
+  "id": 1310214003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.09361,30.44139,48.09361,30.44139",
+    "geom:latitude":30.44139,
+    "geom:longitude":48.09361,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"100049.0",
+    "gn:asciiname":"Al Baljaniyah",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99540,
+    "gn:latitude":30.44139,
+    "gn:longitude":48.09361,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Al Balj\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Industry Island",
+        "Buljaniyah",
+        "Qaryat al Balj\u0101n\u012byah",
+        "Al Balj\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99540
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"24bc57f951787f83fb12958ab0f2e479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562735,
+            "locality_id":1310214003,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1310214003,
+    "wof:lastmodified":1537638683,
+    "wof:name":"Al Baljaniyah",
+    "wof:parent_id":1108562735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.09361,
+    30.44139,
+    48.09361,
+    30.44139
+],
+  "geometry": {"coordinates":[48.09361,30.44139],"type":"Point"}
+}

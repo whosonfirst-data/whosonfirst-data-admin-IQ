@@ -1,0 +1,74 @@
+{
+  "id": 1242858239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.14353,34.18412,45.14353,34.18412",
+    "geom:latitude":34.18412,
+    "geom:longitude":45.14353,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Qazal Rabat",
+    "gn:country_code":"IQ",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6928396,
+    "gn:latitude":34.18412,
+    "gn:longitude":45.14353,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Qazal Rab\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0642\u0632\u0644 \u0631\u0628\u0627\u0637"
+    ],
+    "name:und_x_variant":[
+        "Qazal Rab\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6928396
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9a779f9ac8a71ed353ac17ccf8862c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1242858239,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1242858239,
+    "wof:lastmodified":1537639874,
+    "wof:name":"Qazal Rabat",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.14353,
+    34.18412,
+    45.14353,
+    34.18412
+],
+  "geometry": {"coordinates":[45.14353,34.18412],"type":"Point"}
+}

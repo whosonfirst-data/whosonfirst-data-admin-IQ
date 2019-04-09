@@ -1,0 +1,77 @@
+{
+  "id": 1292999687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.88637,35.87928,44.88637,35.87928",
+    "geom:latitude":35.87928,
+    "geom:longitude":44.88637,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"97416.0",
+    "gn:asciiname":"Buqamish",
+    "gn:country_code":"IQ",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97544,
+    "gn:latitude":35.87928,
+    "gn:longitude":44.88637,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u016bq\u0101m\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u016bq\u0101m\u012bsh"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0648\u0642\u0627\u0645\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "B\u016bl Q\u0101mish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97544
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2ba2f733aaee153bd7d1343e20589911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562745,
+            "locality_id":1292999687,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1292999687,
+    "wof:lastmodified":1537638508,
+    "wof:name":"Buqamish",
+    "wof:parent_id":1108562745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.88637,
+    35.87928,
+    44.88637,
+    35.87928
+],
+  "geometry": {"coordinates":[44.88637,35.87928],"type":"Point"}
+}

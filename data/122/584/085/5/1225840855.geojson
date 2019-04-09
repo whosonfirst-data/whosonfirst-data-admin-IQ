@@ -1,0 +1,73 @@
+{
+  "id": 1225840855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11667,31.18333,46.11667,31.18333",
+    "geom:latitude":31.18333,
+    "geom:longitude":46.11667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98623.0",
+    "gn:asciiname":"Zubayr",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":89369,
+    "gn:latitude":31.18333,
+    "gn:longitude":46.11667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zubayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zubaiyir",
+        "Zubayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":89369
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d0df8fc2c709c1511f8f485589410538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562741,
+            "locality_id":1225840855,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1225840855,
+    "wof:lastmodified":1537637768,
+    "wof:name":"Zubayr",
+    "wof:parent_id":1108562741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11667,
+    31.18333,
+    46.11667,
+    31.18333
+],
+  "geometry": {"coordinates":[46.11667,31.18333],"type":"Point"}
+}

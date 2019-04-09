@@ -1,0 +1,74 @@
+{
+  "id": 1226454107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.22343,31.41742,45.22343,31.41742",
+    "geom:latitude":31.41742,
+    "geom:longitude":45.22343,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9166568.0",
+    "gn:asciiname":"Shuwayt",
+    "gn:country_code":"IQ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90747,
+    "gn:latitude":31.41742,
+    "gn:longitude":45.22343,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shuway\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u064a\u0637"
+    ],
+    "name:und_x_variant":[
+        "Shuway\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90747
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3a05ab5b6debdab97f4f1fccde80e4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562705,
+            "locality_id":1226454107,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1226454107,
+    "wof:lastmodified":1537637898,
+    "wof:name":"Shuwayt",
+    "wof:parent_id":1108562705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.22343,
+    31.41742,
+    45.22343,
+    31.41742
+],
+  "geometry": {"coordinates":[45.22343,31.41742],"type":"Point"}
+}

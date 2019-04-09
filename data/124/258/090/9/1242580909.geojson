@@ -1,0 +1,73 @@
+{
+  "id": 1242580909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.92296,30.48946,47.92296,30.48946",
+    "geom:latitude":30.48946,
+    "geom:longitude":47.92296,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al Akwat",
+    "gn:country_code":"IQ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":388285,
+    "gn:latitude":30.48946,
+    "gn:longitude":47.92296,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al Akw\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u06a9\u0648\u0627\u062a"
+    ],
+    "name:ara_x_variant":[
+        "Al Akw\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388285
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7852308b47b6c617cce835cde8f98b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562729,
+            "locality_id":1242580909,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1242580909,
+    "wof:lastmodified":1537638815,
+    "wof:name":"Al Akwat",
+    "wof:parent_id":1108562729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.92296,
+    30.48946,
+    47.92296,
+    30.48946
+],
+  "geometry": {"coordinates":[47.92296,30.48946],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 421191591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48333,33.33333,44.48333,33.33333",
+    "geom:latitude":33.33333,
+    "geom:longitude":44.48333,
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Al Ju\u2018ayfar"
+    ],
+    "qs:gn_country":"IQ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":99194,
+    "qs:gn_pop":0,
+    "qs:name":"Al Ju\u2019ayfar",
+    "qs:name_adm0":"Iraq",
+    "qs:name_adm1":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":59162,
+    "qs:woe_adm0":23424855,
+    "qs:woe_id":1970966,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        1108562785,
+        85672447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99194,
+        "gp:id":1970966,
+        "qs:id":59162
+    },
+    "wof:country":"IQ",
+    "wof:created":1459009698,
+    "wof:geomhash":"7a1c5df04ef6adc050e3994819e205f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562785,
+            "locality_id":-1,
+            "neighbourhood_id":421191591,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":421191591,
+    "wof:lastmodified":1531858666,
+    "wof:name":"Al Ju\u2019ayfar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48333,
+    33.33333,
+    44.48333,
+    33.33333
+],
+  "geometry": {"coordinates":[44.48333,33.33333],"type":"Point"}
+}

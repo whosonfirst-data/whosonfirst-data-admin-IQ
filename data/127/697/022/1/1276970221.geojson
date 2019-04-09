@@ -1,0 +1,85 @@
+{
+  "id": 1276970221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.70433,37.01606,42.70433,37.01606",
+    "geom:latitude":37.01606,
+    "geom:longitude":42.70433,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9166607.0",
+    "gn:asciiname":"Asy",
+    "gn:country_code":"IQ",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99574,
+    "gn:latitude":37.01606,
+    "gn:longitude":42.70433,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Asy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0635\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Al \u2018\u0100\u015f\u012b"
+    ],
+    "name:kur_x_preferred":[
+        "\u2018As\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0639\u0627\u0633\u0649",
+        "As\u00eeh\u00ea",
+        "\u0626\u0627\u0633\u064a\u0647\u06ce"
+    ],
+    "name:und_x_variant":[
+        "\u2018As\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        1108562637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99574
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"600b3aa7ee430afda780cd16c2a9e4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562637,
+            "locality_id":1276970221,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1276970221,
+    "wof:lastmodified":1537638686,
+    "wof:name":"Asy",
+    "wof:parent_id":1108562637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.70433,
+    37.01606,
+    42.70433,
+    37.01606
+],
+  "geometry": {"coordinates":[42.70433,37.01606],"type":"Point"}
+}

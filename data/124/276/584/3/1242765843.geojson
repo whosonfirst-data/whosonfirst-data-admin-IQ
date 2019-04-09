@@ -1,0 +1,77 @@
+{
+  "id": 1242765843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.67208,36.79677,44.67208,36.79677",
+    "geom:latitude":36.79677,
+    "geom:longitude":44.67208,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166592.0",
+    "gn:asciiname":"Sidakan",
+    "gn:country_code":"IQ",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90727,
+    "gn:latitude":36.79677,
+    "gn:longitude":44.67208,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"S\u012bdak\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u0643\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sidaka",
+        "S\u012bdah K\u0101n",
+        "S\u012bdak\u0101n",
+        "Sidikan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90727
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"36b3e3b21cebdb47e8ceb3339ac5c28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445495,
+            "locality_id":1242765843,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1242765843,
+    "wof:lastmodified":1537637897,
+    "wof:name":"Sidakan",
+    "wof:parent_id":890445495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.67208,
+    36.79677,
+    44.67208,
+    36.79677
+],
+  "geometry": {"coordinates":[44.67208,36.79677],"type":"Point"}
+}

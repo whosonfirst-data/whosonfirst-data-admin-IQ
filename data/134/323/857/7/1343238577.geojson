@@ -1,0 +1,83 @@
+{
+  "id": 1343238577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84524,35.69221,43.84524,35.69221",
+    "geom:latitude":35.69221,
+    "geom:longitude":43.84524,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sulayman Bakhshayan",
+    "gn:country_code":"IQ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90556,
+    "gn:latitude":35.69221,
+    "gn:longitude":43.84524,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Sulaym\u0101n Bakhshay\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u064a\u0645\u0627\u0646 \u0628\u062e\u0634\u064a\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Sliman"
+    ],
+    "name:kur_x_variant":[
+        "Sl\u00eaman",
+        "\u0633\u0644\u06ce\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sulaiman Bakhshan",
+        "Sulaym\u0101n B\u0101khsh\u0101n",
+        "Sulaym\u0101n Bakhshay\u0101n",
+        "Sliman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90556
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"83f3592620fa69ddda9f67e6fdb00718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562779,
+            "locality_id":1343238577,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1343238577,
+    "wof:lastmodified":1537637877,
+    "wof:name":"Sulayman Bakhshayan",
+    "wof:parent_id":1108562779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84524,
+    35.69221,
+    43.84524,
+    35.69221
+],
+  "geometry": {"coordinates":[43.84524,35.69221],"type":"Point"}
+}

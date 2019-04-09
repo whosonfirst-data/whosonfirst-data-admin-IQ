@@ -1,0 +1,74 @@
+{
+  "id": 1343550291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.93906,33.66525,44.93906,33.66525",
+    "geom:latitude":33.66525,
+    "geom:longitude":44.93906,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"9166680.0",
+    "gn:asciiname":"Qaryat Hamid Da'dha'",
+    "gn:country_code":"IQ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6784354,
+    "gn:latitude":33.66525,
+    "gn:longitude":44.93906,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat \u1e28am\u012bd Da\u2018dh\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u062d\u0645\u064a\u062f \u062f\u0639\u0630\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "Qaryat \u1e28am\u012bd Da\u2018dh\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6784354
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b98c5d701bc586817ffdfd1cb11c9d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562655,
+            "locality_id":1343550291,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1343550291,
+    "wof:lastmodified":1537639377,
+    "wof:name":"Qaryat Hamid Da'dha'",
+    "wof:parent_id":1108562655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.93906,
+    33.66525,
+    44.93906,
+    33.66525
+],
+  "geometry": {"coordinates":[44.93906,33.66525],"type":"Point"}
+}

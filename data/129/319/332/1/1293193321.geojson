@@ -1,0 +1,74 @@
+{
+  "id": 1293193321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27166,32.80236,44.27166,32.80236",
+    "geom:latitude":32.80236,
+    "geom:longitude":44.27166,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"Qaryat Hasan 'Ali az Zayd",
+    "gn:country_code":"IQ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387384,
+    "gn:latitude":32.80236,
+    "gn:longitude":44.27166,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat \u1e28asan \u2018Al\u012b az Zayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u062d\u0633\u0646 \u0639\u0644\u064a \u0632\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Qaryat \u1e28asan \u2018Al\u012b az Zayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421172849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387384
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6122c1e70d89d970f7e1d78d96ec320e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172849,
+            "locality_id":1293193321,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1293193321,
+    "wof:lastmodified":1537638805,
+    "wof:name":"Qaryat Hasan 'Ali az Zayd",
+    "wof:parent_id":421172849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27166,
+    32.80236,
+    44.27166,
+    32.80236
+],
+  "geometry": {"coordinates":[44.27166,32.80236],"type":"Point"}
+}

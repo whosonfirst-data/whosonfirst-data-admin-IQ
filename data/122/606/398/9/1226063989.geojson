@@ -1,0 +1,77 @@
+{
+  "id": 1226063989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.16988,31.5373,46.16988,31.5373",
+    "geom:latitude":31.5373,
+    "geom:longitude":46.16988,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98700.0",
+    "gn:asciiname":"Husayn al Khanuri",
+    "gn:country_code":"IQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96019,
+    "gn:latitude":31.5373,
+    "gn:longitude":46.16988,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28usayn al Khan\u016br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u064a\u0646 \u0627\u0644\u062e\u0646\u0648\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Husain al Khadsuri",
+        "\u1e28usayn al Kha\u1e11\u016br\u012b",
+        "\u1e28asan",
+        "\u1e28usayn al Khan\u016br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96019
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d7fbbe78579927f3d7dcdc80ab61af0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562683,
+            "locality_id":1226063989,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1226063989,
+    "wof:lastmodified":1537638352,
+    "wof:name":"Husayn al Khanuri",
+    "wof:parent_id":1108562683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.16988,
+    31.5373,
+    46.16988,
+    31.5373
+],
+  "geometry": {"coordinates":[46.16988,31.5373],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1276961673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.57829,36.55598,42.57829,36.55598",
+    "geom:latitude":36.55598,
+    "geom:longitude":42.57829,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Kahris",
+    "gn:country_code":"IQ",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94521,
+    "gn:latitude":36.55598,
+    "gn:longitude":42.57829,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kahr\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0647\u0631\u064a\u0633"
+    ],
+    "name:kur_x_preferred":[
+        "Kehr\u00ees"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u06d5\u06be\u0631\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Khar\u012bz",
+        "Kahris",
+        "Kahr\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94521
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"613a8f81302c07e189c8e25a65a76702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1276961673,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1276961673,
+    "wof:lastmodified":1537638230,
+    "wof:name":"Kahris",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.57829,
+    36.55598,
+    42.57829,
+    36.55598
+],
+  "geometry": {"coordinates":[42.57829,36.55598],"type":"Point"}
+}

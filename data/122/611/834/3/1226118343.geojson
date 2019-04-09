@@ -1,0 +1,74 @@
+{
+  "id": 1226118343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23063,33.98169,44.23063,33.98169",
+    "geom:latitude":33.98169,
+    "geom:longitude":44.23063,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6805736.0",
+    "gn:asciiname":"Ibrahim Taha",
+    "gn:country_code":"IQ",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805252,
+    "gn:latitude":33.98169,
+    "gn:longitude":44.23063,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ibr\u0101h\u012bm \u0162\u0101h\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u0637\u0647"
+    ],
+    "name:ara_x_variant":[
+        "Ibr\u0101h\u012bm \u0162\u0101h\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        421180939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805252
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"02ad8350f0144fbe05ebb97ccce6a628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421180939,
+            "locality_id":1226118343,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1226118343,
+    "wof:lastmodified":1537639559,
+    "wof:name":"Ibrahim Taha",
+    "wof:parent_id":421180939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23063,
+    33.98169,
+    44.23063,
+    33.98169
+],
+  "geometry": {"coordinates":[44.23063,33.98169],"type":"Point"}
+}

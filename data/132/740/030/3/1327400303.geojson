@@ -1,0 +1,74 @@
+{
+  "id": 1327400303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33648,35.07234,43.33648,35.07234",
+    "geom:latitude":35.07234,
+    "geom:longitude":43.33648,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6872046.0",
+    "gn:asciiname":"Bayt Fayad Dawud",
+    "gn:country_code":"IQ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837542,
+    "gn:latitude":35.07234,
+    "gn:longitude":43.33648,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayt Fay\u0101\u1e11 D\u0101wud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0641\u064a\u0627\u0636 \u062f\u0627\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bayt Fay\u0101\u1e11 D\u0101wud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837542
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a2a661066651ec8f4fec7bd690941032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562647,
+            "locality_id":1327400303,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1327400303,
+    "wof:lastmodified":1537639710,
+    "wof:name":"Bayt Fayad Dawud",
+    "wof:parent_id":1108562647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33648,
+    35.07234,
+    43.33648,
+    35.07234
+],
+  "geometry": {"coordinates":[43.33648,35.07234],"type":"Point"}
+}

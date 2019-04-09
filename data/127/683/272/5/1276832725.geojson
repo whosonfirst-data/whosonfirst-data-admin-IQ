@@ -1,0 +1,74 @@
+{
+  "id": 1276832725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28997,34.61174,44.28997,34.61174",
+    "geom:latitude":34.61174,
+    "geom:longitude":44.28997,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"9166598.0",
+    "gn:asciiname":"Dawud Salman Hamadi",
+    "gn:country_code":"IQ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6752104,
+    "gn:latitude":34.61174,
+    "gn:longitude":44.28997,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u0101w\u016bd Salm\u0101n \u1e28am\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0648\u062f \u0633\u0644\u0645\u0627\u0646 \u062d\u0645\u0627\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "D\u0101w\u016bd Salm\u0101n \u1e28am\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6752104
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"e31176550cbdcba657903510079ca364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562657,
+            "locality_id":1276832725,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1276832725,
+    "wof:lastmodified":1537639166,
+    "wof:name":"Dawud Salman Hamadi",
+    "wof:parent_id":1108562657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28997,
+    34.61174,
+    44.28997,
+    34.61174
+],
+  "geometry": {"coordinates":[44.28997,34.61174],"type":"Point"}
+}

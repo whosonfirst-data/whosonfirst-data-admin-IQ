@@ -1,0 +1,74 @@
+{
+  "id": 1259377739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.27098,31.16541,46.27098,31.16541",
+    "geom:latitude":31.16541,
+    "geom:longitude":46.27098,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98855.0",
+    "gn:asciiname":"Hawwas",
+    "gn:country_code":"IQ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7025136,
+    "gn:latitude":31.16541,
+    "gn:longitude":46.27098,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u1e28aww\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "\u1e28aww\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        421172357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7025136
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"64a7cd6aebd6a6f45edb535605d75060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172357,
+            "locality_id":1259377739,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1259377739,
+    "wof:lastmodified":1537639921,
+    "wof:name":"Hawwas",
+    "wof:parent_id":421172357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.27098,
+    31.16541,
+    46.27098,
+    31.16541
+],
+  "geometry": {"coordinates":[46.27098,31.16541],"type":"Point"}
+}

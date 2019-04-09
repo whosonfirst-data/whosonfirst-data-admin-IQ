@@ -1,0 +1,89 @@
+{
+  "id": 1243066949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.84992,35.13613,45.84992,35.13613",
+    "geom:latitude":35.13613,
+    "geom:longitude":45.84992,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Bashan Birk",
+    "gn:country_code":"IQ",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":417239,
+    "gn:latitude":35.13613,
+    "gn:longitude":45.84992,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bashan B\u012brk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u0646 \u0628\u064a\u0631\u0643"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0634\u0647 \u067e\u06cc\u0631\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "Basheh P\u012brak"
+    ],
+    "name:kur_x_preferred":[
+        "Besh\u00ee P\u00eerek"
+    ],
+    "name:kur_x_variant":[
+        "Besh\u00ee P\u00eerik",
+        "\u0628\u06d5\u0634\u0649 \u067e\u064a\u0631\u06d5\u0643",
+        "\u0628\u06d5\u0634\u0649 \u067e\u064a\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "Bash-\u0113 P\u012brak",
+        "Bashan B\u012brk",
+        "Bash Pirak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":417239
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"91dee2d251b4502da851a9d1d826063e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1243066949,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1243066949,
+    "wof:lastmodified":1537638860,
+    "wof:name":"Bashan Birk",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.84992,
+    35.13613,
+    45.84992,
+    35.13613
+],
+  "geometry": {"coordinates":[45.84992,35.13613],"type":"Point"}
+}

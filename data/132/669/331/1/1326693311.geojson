@@ -1,0 +1,74 @@
+{
+  "id": 1326693311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.05399,34.73122,43.05399,34.73122",
+    "geom:latitude":34.73122,
+    "geom:longitude":43.05399,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6872046.0",
+    "gn:asciiname":"Albu Ga'uwd",
+    "gn:country_code":"IQ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6848972,
+    "gn:latitude":34.73122,
+    "gn:longitude":43.05399,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100lb\u016b Ga\u2018uwd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648 \u06af\u0639\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0100lb\u016b Ga\u2018uwd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848972
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9209257d363365ef4b7c9ffdbdbd2855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562647,
+            "locality_id":1326693311,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1326693311,
+    "wof:lastmodified":1537639722,
+    "wof:name":"Albu Ga'uwd",
+    "wof:parent_id":1108562647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.05399,
+    34.73122,
+    43.05399,
+    34.73122
+],
+  "geometry": {"coordinates":[43.05399,34.73122],"type":"Point"}
+}

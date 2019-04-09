@@ -1,0 +1,74 @@
+{
+  "id": 1259458603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22595,34.59188,44.22595,34.59188",
+    "geom:latitude":34.59188,
+    "geom:longitude":44.22595,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"9166598.0",
+    "gn:asciiname":"Sha'lan Satam",
+    "gn:country_code":"IQ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6752125,
+    "gn:latitude":34.59188,
+    "gn:longitude":44.22595,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sha\u2018l\u0101n Sa\u0163\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0644\u0627\u0646 \u0633\u0637\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Sha\u2018l\u0101n Sa\u0163\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6752125
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"579774aa1adf3a5b15afe1e877703f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562657,
+            "locality_id":1259458603,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1259458603,
+    "wof:lastmodified":1537639167,
+    "wof:name":"Sha'lan Satam",
+    "wof:parent_id":1108562657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22595,
+    34.59188,
+    44.22595,
+    34.59188
+],
+  "geometry": {"coordinates":[44.22595,34.59188],"type":"Point"}
+}

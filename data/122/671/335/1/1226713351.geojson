@@ -1,0 +1,73 @@
+{
+  "id": 1226713351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12075,33.52369,44.12075,33.52369",
+    "geom:latitude":33.52369,
+    "geom:longitude":44.12075,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Salman Hamadi",
+    "gn:country_code":"IQ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806072,
+    "gn:latitude":33.52369,
+    "gn:longitude":44.12075,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Salm\u0101n \u1e28am\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0645\u0627\u0646 \u062d\u0645\u0627\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Salm\u0101n \u1e28am\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806072
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1369609d1ce5aaf9510203a14173d6de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1226713351,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1226713351,
+    "wof:lastmodified":1537639612,
+    "wof:name":"Salman Hamadi",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12075,
+    33.52369,
+    44.12075,
+    33.52369
+],
+  "geometry": {"coordinates":[44.12075,33.52369],"type":"Point"}
+}

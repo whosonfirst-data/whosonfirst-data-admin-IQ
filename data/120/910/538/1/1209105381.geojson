@@ -1,0 +1,88 @@
+{
+  "id": 1209105381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.04815,34.93049,45.04815,34.93049",
+    "geom:latitude":34.93049,
+    "geom:longitude":45.04815,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Khapah Kuwayr",
+    "gn:country_code":"IQ",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94559,
+    "gn:latitude":34.93049,
+    "gn:longitude":45.04815,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Khapah Kuwayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u067e\u0647 \u0643\u0648\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0646\u0629 \u062e\u0628\u0629 \u0643\u0648 \u0628\u064a\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "Bnekey Xepe Ku\u00ear"
+    ],
+    "name:kur_x_variant":[
+        "Xepe Ku\u00ear",
+        "\u0628\u0646\u06d5\u0643\u06d5\u0649 \u062e\u06d5\u067e\u06d5 \u0643\u0648\u06ce\u0631",
+        "\u062e\u06d5\u067e\u06d5 \u0643\u0648\u06ce\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0101hzar",
+        "Khapahk\u016br",
+        "Kh\u0101p\u0101k\u016br",
+        "Khapakor",
+        "Khapah Kuwayr",
+        "Khapakuer",
+        "Banah Khabah K\u016bbayr",
+        "Sh\u0101h Nard",
+        "Bnakai Khapa Kuer",
+        "\u0634\u0627\u0647 \u0646\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94559
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"16b00f0899ed984995ea0c8d36e31ebe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209105381
+        }
+    ],
+    "wof:id":1209105381,
+    "wof:lastmodified":1537638234,
+    "wof:name":"Khapah Kuwayr",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.04815,
+    34.93049,
+    45.04815,
+    34.93049
+],
+  "geometry": {"coordinates":[45.04815,34.93049],"type":"Point"}
+}

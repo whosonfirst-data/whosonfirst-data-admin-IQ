@@ -1,0 +1,79 @@
+{
+  "id": 1209128651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.46612,35.07867,45.46612,35.07867",
+    "geom:latitude":35.07867,
+    "geom:longitude":45.46612,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Darah Wanah",
+    "gn:country_code":"IQ",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330198,
+    "gn:latitude":35.07867,
+    "gn:longitude":45.46612,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u0101rah W\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631\u0647 \u0648\u0627\u0646\u06d5"
+    ],
+    "name:kur_x_preferred":[
+        "Dare Wane"
+    ],
+    "name:kur_x_variant":[
+        "\u062f\u0627\u0631\u06d5 \u0648\u0627\u0646\u06d5"
+    ],
+    "name:und_x_variant":[
+        "D\u0101rah Wahtah",
+        "\u062f\u0627\u0631\u0647 \u0648\u06d5\u062a\u0647",
+        "Darah Wahnah",
+        "Dara Wana",
+        "\u062f\u0631\u0647 \u0648\u06d5\u0646\u0647",
+        "D\u0101rah W\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330198
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"14e536f02c897e8a732ff6e6281567d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209128651
+        }
+    ],
+    "wof:id":1209128651,
+    "wof:lastmodified":1537640004,
+    "wof:name":"Darah Wanah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.46612,
+    35.07867,
+    45.46612,
+    35.07867
+],
+  "geometry": {"coordinates":[45.46612,35.07867],"type":"Point"}
+}

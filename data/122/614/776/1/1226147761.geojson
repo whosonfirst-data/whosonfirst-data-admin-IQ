@@ -1,0 +1,73 @@
+{
+  "id": 1226147761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.50556,35.31972,45.50556,35.31972",
+    "geom:latitude":35.31972,
+    "geom:longitude":45.50556,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Mir Yasin al `Ulya",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":93440,
+    "gn:latitude":35.31972,
+    "gn:longitude":45.50556,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"M\u012br Y\u0101s\u012bn al `Uly\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "M\u012br Y\u0101s\u012bn-i Khw\u0101r\u016b",
+        "M\u012br Y\u0101s\u012bn-i Khw\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93440
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6d801d373847da87094c6446046b7282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1226147761,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1226147761,
+    "wof:lastmodified":1537638133,
+    "wof:name":"Mir Yasin al `Ulya",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.50556,
+    35.31972000000001,
+    45.50556,
+    35.31972000000001
+],
+  "geometry": {"coordinates":[45.50556,35.31972000000001],"type":"Point"}
+}

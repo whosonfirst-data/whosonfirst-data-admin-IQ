@@ -1,0 +1,74 @@
+{
+  "id": 1310212513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.39379,31.22591,45.39379,31.22591",
+    "geom:latitude":31.22591,
+    "geom:longitude":45.39379,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"98532.0",
+    "gn:asciiname":"Ritam",
+    "gn:country_code":"IQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91966,
+    "gn:latitude":31.22591,
+    "gn:longitude":45.39379,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rit\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062a\u0627\u0645"
+    ],
+    "name:ara_x_variant":[
+        "Rit\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        421205333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91966
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d378fb843c40525a245214ae42ad8a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421205333,
+            "locality_id":1310212513,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1310212513,
+    "wof:lastmodified":1537638001,
+    "wof:name":"Ritam",
+    "wof:parent_id":421205333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.39379,
+    31.22591,
+    45.39379,
+    31.22591
+],
+  "geometry": {"coordinates":[45.39379,31.22591],"type":"Point"}
+}

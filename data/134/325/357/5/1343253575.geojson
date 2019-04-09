@@ -1,0 +1,74 @@
+{
+  "id": 1343253575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92355,33.22412,43.92355,33.22412",
+    "geom:latitude":33.22412,
+    "geom:longitude":43.92355,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166542.0",
+    "gn:asciiname":"'Arab Salih",
+    "gn:country_code":"IQ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6782269,
+    "gn:latitude":33.22412,
+    "gn:longitude":43.92355,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Arab \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0635\u0627\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arab \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421184257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6782269
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d566332cdffd0cc8eea39ae1a84b3956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184257,
+            "locality_id":1343253575,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1343253575,
+    "wof:lastmodified":1537639316,
+    "wof:name":"'Arab Salih",
+    "wof:parent_id":421184257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92355,
+    33.22412,
+    43.92355,
+    33.22412
+],
+  "geometry": {"coordinates":[43.92355,33.22412],"type":"Point"}
+}

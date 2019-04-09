@@ -1,0 +1,83 @@
+{
+  "id": 1226330483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.57681,36.63157,44.57681,36.63157",
+    "geom:latitude":36.63157,
+    "geom:longitude":44.57681,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166592.0",
+    "gn:asciiname":"Bayshuk",
+    "gn:country_code":"IQ",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446950,
+    "gn:latitude":36.63157,
+    "gn:longitude":44.57681,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Baysh\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0634\u0648\u0643"
+    ],
+    "name:kur_x_preferred":[
+        "P\u00eashuk"
+    ],
+    "name:kur_x_variant":[
+        "\u067e\u06ce\u0634\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "Baysh\u016bk",
+        "B\u0113sh\u014dk",
+        "P\u0101was",
+        "P\u00eashok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446950
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"efe062143be0d929feffc23688cf8cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445495,
+            "locality_id":1226330483,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1226330483,
+    "wof:lastmodified":1537639015,
+    "wof:name":"Bayshuk",
+    "wof:parent_id":890445495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.57681,
+    36.63157,
+    44.57681,
+    36.63157
+],
+  "geometry": {"coordinates":[44.57681,36.63157],"type":"Point"}
+}

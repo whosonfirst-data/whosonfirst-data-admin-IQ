@@ -1,0 +1,74 @@
+{
+  "id": 1277149467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.83389,31.95157,45.83389,31.95157",
+    "geom:latitude":31.95157,
+    "geom:longitude":45.83389,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"99351.0",
+    "gn:asciiname":"Abu Rayat",
+    "gn:country_code":"IQ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6755778,
+    "gn:latitude":31.95157,
+    "gn:longitude":45.83389,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u0100b\u016b R\u0101y\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0631\u0627\u064a\u0627\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0100b\u016b R\u0101y\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6755778
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ddd78064d23a331b54df88ca17d375e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562685,
+            "locality_id":1277149467,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1277149467,
+    "wof:lastmodified":1537639204,
+    "wof:name":"Abu Rayat",
+    "wof:parent_id":1108562685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.83389,
+    31.95157,
+    45.83389,
+    31.95157
+],
+  "geometry": {"coordinates":[45.83389,31.95157],"type":"Point"}
+}

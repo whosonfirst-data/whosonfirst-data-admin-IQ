@@ -1,0 +1,84 @@
+{
+  "id": 1326629181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.67289,35.25259,45.67289,35.25259",
+    "geom:latitude":35.25259,
+    "geom:longitude":45.67289,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166594.0",
+    "gn:asciiname":"Kawlah Bi",
+    "gn:country_code":"IQ",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94248,
+    "gn:latitude":35.25259,
+    "gn:longitude":45.67289,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kawlah B\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0644\u0629 \u0628\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Ko\u0142e B\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u06c6\u06b5\u06d5 \u0628\u0649"
+    ],
+    "name:und_x_variant":[
+        "K\u014dlab",
+        "Kawlah B\u012b",
+        "K\u014dlab\u012b",
+        "Kawlah \u0100b\u012b",
+        "\u0643\u0648\u0644\u0629 \u0622\u0628\u064a",
+        "Kola Bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        1108562767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94248
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"605cd969427d164a6fabb07e902fe1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":1108562767,
+            "locality_id":1326629181,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1326629181,
+    "wof:lastmodified":1537638208,
+    "wof:name":"Kawlah Bi",
+    "wof:parent_id":1108562767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.67289,
+    35.25259000000001,
+    45.67289,
+    35.25259000000001
+],
+  "geometry": {"coordinates":[45.67289,35.25259000000001],"type":"Point"}
+}

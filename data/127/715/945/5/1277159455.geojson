@@ -1,0 +1,71 @@
+{
+  "id": 1277159455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.93333,33.06667,45.93333,33.06667",
+    "geom:latitude":33.06667,
+    "geom:longitude":45.93333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98197.0",
+    "gn:asciiname":"'Abbarah",
+    "gn:country_code":"IQ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100243,
+    "gn:latitude":33.06667,
+    "gn:longitude":45.93333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abb\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Abb\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100243
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7d68ce6231440a821d846264aebd5682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562673,
+            "locality_id":1277159455,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1277159455,
+    "wof:lastmodified":1537638719,
+    "wof:name":"'Abbarah",
+    "wof:parent_id":1108562673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.93333,
+    33.06667,
+    45.93333,
+    33.06667
+],
+  "geometry": {"coordinates":[45.93333,33.06667],"type":"Point"}
+}

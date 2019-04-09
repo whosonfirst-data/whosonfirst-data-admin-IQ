@@ -1,0 +1,74 @@
+{
+  "id": 1360009815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.81647,31.77884,44.81647,31.77884",
+    "geom:latitude":31.77884,
+    "geom:longitude":44.81647,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"6850588.0",
+    "gn:asciiname":"Kazim Al Muhsin",
+    "gn:country_code":"IQ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6850338,
+    "gn:latitude":31.77884,
+    "gn:longitude":44.81647,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u0101z\u0327im \u0100l Mu\u1e29sin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0638\u0645 \u0627\u0644 \u0645\u062d\u0633\u0646"
+    ],
+    "name:ara_x_variant":[
+        "K\u0101z\u0327im \u0100l Mu\u1e29sin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6850338
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2a09a4018ed3235eaa0b0a3efe08894d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562701,
+            "locality_id":1360009815,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1360009815,
+    "wof:lastmodified":1537639747,
+    "wof:name":"Kazim Al Muhsin",
+    "wof:parent_id":1108562701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.81647,
+    31.77884,
+    44.81647,
+    31.77884
+],
+  "geometry": {"coordinates":[44.81647,31.77884],"type":"Point"}
+}

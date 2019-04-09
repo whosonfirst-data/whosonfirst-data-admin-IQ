@@ -1,0 +1,74 @@
+{
+  "id": 1293106411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25919,31.35779,45.25919,31.35779",
+    "geom:latitude":31.35779,
+    "geom:longitude":45.25919,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"98532.0",
+    "gn:asciiname":"At Tayis",
+    "gn:country_code":"IQ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6776438,
+    "gn:latitude":31.35779,
+    "gn:longitude":45.25919,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u0163 \u0162\u0101yis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0627\u064a\u0633"
+    ],
+    "name:ara_x_variant":[
+        "A\u0163 \u0162\u0101yis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        421205333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6776438
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b987c02060d02e5121b7b2e00e56bd3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421205333,
+            "locality_id":1293106411,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1293106411,
+    "wof:lastmodified":1537639281,
+    "wof:name":"At Tayis",
+    "wof:parent_id":421205333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25919,
+    31.35779,
+    45.25919,
+    31.35779
+],
+  "geometry": {"coordinates":[45.25919,31.35779],"type":"Point"}
+}

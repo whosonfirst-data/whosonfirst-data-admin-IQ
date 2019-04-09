@@ -1,0 +1,83 @@
+{
+  "id": 1226212779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.37747,36.81527,42.37747,36.81527",
+    "geom:latitude":36.81527,
+    "geom:longitude":42.37747,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Tall Hamad Aghah",
+    "gn:country_code":"IQ",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449212,
+    "gn:latitude":36.81527,
+    "gn:longitude":42.37747,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tall \u1e28amad \u0100ghah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062d\u0645\u062f \u0622\u063a\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Tel E\u1e27med"
+    ],
+    "name:kur_x_variant":[
+        "\u062a\u06d5\u0644 \u0626\u06d5\u062d\u0645\u06d5\u062f"
+    ],
+    "name:und_x_variant":[
+        "Til Ahmad",
+        "Tall A\u1e29mad \u0100ghah al Kab\u012br",
+        "\u062a\u0644 \u0627\u062d\u0645\u062f \u0622\u063a\u0647 \u0627\u0644\u0643\u0628\u064a\u0631",
+        "Tall \u1e28amad \u0100ghah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449212
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"3270a0e0208a2655c50d9d9fbef1a199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1226212779,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1226212779,
+    "wof:lastmodified":1537639090,
+    "wof:name":"Tall Hamad Aghah",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.37747,
+    36.81527,
+    42.37747,
+    36.81527
+],
+  "geometry": {"coordinates":[42.37747,36.81527],"type":"Point"}
+}

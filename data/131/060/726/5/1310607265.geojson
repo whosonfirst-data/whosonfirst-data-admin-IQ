@@ -1,0 +1,74 @@
+{
+  "id": 1310607265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.59908,32.08241,44.59908,32.08241",
+    "geom:latitude":32.08241,
+    "geom:longitude":44.59908,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"Ibrahim Laftah",
+    "gn:country_code":"IQ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6789565,
+    "gn:latitude":32.08241,
+    "gn:longitude":44.59908,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ibr\u0101h\u012bm Laftah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u0644\u0641\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ibr\u0101h\u012bm Laftah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6789565
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a761f44236d4b018f48374981eedf3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1310607265,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1310607265,
+    "wof:lastmodified":1537639490,
+    "wof:name":"Ibrahim Laftah",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.59908,
+    32.08241,
+    44.59908,
+    32.08241
+],
+  "geometry": {"coordinates":[44.59908,32.08241],"type":"Point"}
+}

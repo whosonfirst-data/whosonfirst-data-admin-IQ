@@ -1,0 +1,74 @@
+{
+  "id": 1327432057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.97365,32.14081,44.97365,32.14081",
+    "geom:latitude":32.14081,
+    "geom:longitude":44.97365,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"99763.0",
+    "gn:asciiname":"Najib al Yunis",
+    "gn:country_code":"IQ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6788867,
+    "gn:latitude":32.14081,
+    "gn:longitude":44.97365,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Naj\u012bb al Y\u016bnis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u062c\u064a\u0628 \u0627\u0644\u064a\u0648\u0646\u0633"
+    ],
+    "name:und_x_variant":[
+        "Naj\u012bb al Y\u016bnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        421181959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6788867
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ef3e42691176757ce674c0b24062780e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421181959,
+            "locality_id":1327432057,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1327432057,
+    "wof:lastmodified":1537639457,
+    "wof:name":"Najib al Yunis",
+    "wof:parent_id":421181959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.97365,
+    32.14080999999999,
+    44.97365,
+    32.14080999999999
+],
+  "geometry": {"coordinates":[44.97365,32.14080999999999],"type":"Point"}
+}

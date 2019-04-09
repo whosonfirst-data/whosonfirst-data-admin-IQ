@@ -1,0 +1,83 @@
+{
+  "id": 1276744445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.73209,36.81557,44.73209,36.81557",
+    "geom:latitude":36.81557,
+    "geom:longitude":44.73209,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166592.0",
+    "gn:asciiname":"Shiwe Girmki Seru",
+    "gn:country_code":"IQ",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97690,
+    "gn:latitude":36.81557,
+    "gn:longitude":44.73209,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sh\u00eewe Girmk\u00ee Ser\u00fb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0648\u0627\u0633"
+    ],
+    "name:kur_x_preferred":[
+        "Sh\u00eewe Girmk\u00ee Ser\u00fb"
+    ],
+    "name:kur_x_variant":[
+        "\u0634\u064a\u0648\u06d5 \u06af\u0631\u0645\u0643\u0649 \u0633\u06d5\u0631\u0648\u0648"
+    ],
+    "name:und_x_variant":[
+        "Bewas",
+        "Bew\u0101s",
+        "Bewaz Upper",
+        "Bayw\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97690
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"584dd1938c3625400068ccbfd7f236b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445495,
+            "locality_id":1276744445,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1276744445,
+    "wof:lastmodified":1537638527,
+    "wof:name":"Shiwe Girmki Seru",
+    "wof:parent_id":890445495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.73209,
+    36.81557,
+    44.73209,
+    36.81557
+],
+  "geometry": {"coordinates":[44.73209,36.81557],"type":"Point"}
+}

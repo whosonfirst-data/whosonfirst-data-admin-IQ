@@ -1,0 +1,74 @@
+{
+  "id": 1293700711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04012,33.61113,44.04012,33.61113",
+    "geom:latitude":33.61113,
+    "geom:longitude":44.04012,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"99455.0",
+    "gn:asciiname":"Matar Mir'i",
+    "gn:country_code":"IQ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805987,
+    "gn:latitude":33.61113,
+    "gn:longitude":44.04012,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u0163ar Mir\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0631 \u0645\u0631\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u0163ar Mir\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672483,
+        421191407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805987
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"6e0d4b25b9466c26aefdd55224d3036b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421191407,
+            "locality_id":1293700711,
+            "region_id":85672483
+        }
+    ],
+    "wof:id":1293700711,
+    "wof:lastmodified":1537639606,
+    "wof:name":"Matar Mir'i",
+    "wof:parent_id":421191407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04012,
+    33.61113,
+    44.04012,
+    33.61113
+],
+  "geometry": {"coordinates":[44.04012,33.61113],"type":"Point"}
+}

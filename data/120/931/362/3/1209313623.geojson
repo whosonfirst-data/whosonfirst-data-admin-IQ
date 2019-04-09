@@ -1,0 +1,65 @@
+{
+  "id": 1209313623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.79528,36.40833,44.79528,36.40833",
+    "geom:latitude":36.40833,
+    "geom:longitude":44.79528,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92051.0",
+    "gn:asciiname":"Khazinah",
+    "gn:country_code":"IQ",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447407,
+    "gn:latitude":36.40833,
+    "gn:longitude":44.79528,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khaz\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khaz\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447407
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"49d9291f8b1fe6e42875dce2c189a764",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209313623
+        }
+    ],
+    "wof:id":1209313623,
+    "wof:lastmodified":1537639040,
+    "wof:name":"Khazinah",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.79528,
+    36.40833,
+    44.79528,
+    36.40833
+],
+  "geometry": {"coordinates":[44.79528,36.40833],"type":"Point"}
+}

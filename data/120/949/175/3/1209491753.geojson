@@ -1,0 +1,68 @@
+{
+  "id": 1209491753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26286,35.16528,44.26286,35.16528",
+    "geom:latitude":35.16528,
+    "geom:longitude":44.26286,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9166581.0",
+    "gn:asciiname":"Bur Ghun al 'Ulya",
+    "gn:country_code":"IQ",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6820670,
+    "gn:latitude":35.16528,
+    "gn:longitude":44.26286,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u016br Gh\u016bn al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u063a\u0648\u0646 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "B\u016br Gh\u016bn al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6820670
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"43ecac0f5cba18d110054e172289bfde",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209491753
+        }
+    ],
+    "wof:id":1209491753,
+    "wof:lastmodified":1537639671,
+    "wof:name":"Bur Ghun al 'Ulya",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26286,
+    35.16528,
+    44.26286,
+    35.16528
+],
+  "geometry": {"coordinates":[44.26286,35.16528],"type":"Point"}
+}

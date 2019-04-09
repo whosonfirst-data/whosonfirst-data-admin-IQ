@@ -1,0 +1,88 @@
+{
+  "id": 1343631675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85895,36.67855,43.85895,36.67855",
+    "geom:latitude":36.67855,
+    "geom:longitude":43.85895,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"98820.0",
+    "gn:asciiname":"Dirin",
+    "gn:country_code":"IQ",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6982979,
+    "gn:latitude":36.67855,
+    "gn:longitude":43.85895,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Dir\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "Dir\u012bn"
+    ],
+    "name:kur_x_preferred":[
+        "Xucawa"
+    ],
+    "name:kur_x_variant":[
+        "Dir\u00een Xace",
+        "Di\u1e5f\u00een Xuwace",
+        "\u062e\u0648\u062c\u0627\u0648\u0627",
+        "\u062f\u0631\u064a\u0646 \u062e\u0627\u062c\u06d5",
+        "\u062f\u0695\u064a\u0646 \u062e\u0648\u0627\u062c\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Khujawa",
+        "Drin Khuja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        421186463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6982979
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"c9b1994b8575f0787901077959e8eb07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421186463,
+            "locality_id":1343631675,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1343631675,
+    "wof:lastmodified":1537639877,
+    "wof:name":"Dirin",
+    "wof:parent_id":421186463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85895,
+    36.67855,
+    43.85895,
+    36.67855
+],
+  "geometry": {"coordinates":[43.85895,36.67855],"type":"Point"}
+}

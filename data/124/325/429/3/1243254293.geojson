@@ -1,0 +1,87 @@
+{
+  "id": 1243254293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.82531,36.88668,42.82531,36.88668",
+    "geom:latitude":36.88668,
+    "geom:longitude":42.82531,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9166607.0",
+    "gn:asciiname":"Kani Aspi",
+    "gn:country_code":"IQ",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94867,
+    "gn:latitude":36.88668,
+    "gn:longitude":42.82531,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u0101n\u012b Asp\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0646\u064a \u0623\u0633\u067e\u064a"
+    ],
+    "name:ara_x_variant":[
+        "K\u0101n\u012b Asp\u012b"
+    ],
+    "name:kur_x_preferred":[
+        "Kan\u00ee Ash\u00ea"
+    ],
+    "name:kur_x_variant":[
+        "\u0643\u0627\u0646\u0649 \u0626\u0627\u0634\u06ce",
+        "Kan\u00ee Sp\u00ee",
+        "\u0643\u0627\u0646\u0649 \u0633\u067e\u0649"
+    ],
+    "name:und_x_variant":[
+        "Kani Ashe",
+        "K\u0101n\u012b Sp\u012b",
+        "Kani Spi Lower"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        1108562637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94867
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"33586bbf38c656cba56ccd844fd858e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562637,
+            "locality_id":1243254293,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1243254293,
+    "wof:lastmodified":1537638266,
+    "wof:name":"Kani Aspi",
+    "wof:parent_id":1108562637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.82531,
+    36.88668,
+    42.82531,
+    36.88668
+],
+  "geometry": {"coordinates":[42.82531,36.88668],"type":"Point"}
+}

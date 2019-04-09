@@ -1,0 +1,74 @@
+{
+  "id": 1226464763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55169,32.26719,44.55169,32.26719",
+    "geom:latitude":32.26719,
+    "geom:longitude":44.55169,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99358.0",
+    "gn:asciiname":"Qaryat Suq Duhan",
+    "gn:country_code":"IQ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6790696,
+    "gn:latitude":32.26719,
+    "gn:longitude":44.55169,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat S\u016bq D\u016bh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0633\u0648\u0642 \u062f\u0648\u0647\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qaryat S\u016bq D\u016bh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6790696
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f14d1a4679bd38a860737ddf1271e8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562689,
+            "locality_id":1226464763,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1226464763,
+    "wof:lastmodified":1537639534,
+    "wof:name":"Qaryat Suq Duhan",
+    "wof:parent_id":1108562689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55169,
+    32.26719,
+    44.55169,
+    32.26719
+],
+  "geometry": {"coordinates":[44.55169,32.26719],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242955867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.75024,36.207,42.75024,36.207",
+    "geom:latitude":36.207,
+    "geom:longitude":42.75024,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166649.0",
+    "gn:asciiname":"'Adayah",
+    "gn:country_code":"IQ",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":99780,
+    "gn:latitude":36.207,
+    "gn:longitude":42.75024,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"\u2018Ad\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u062f\u0627\u064a\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ad\u0101yah",
+        "\u2018Adayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":99780
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f24d1f2c0e047d27ab7c3beef00a64ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562633,
+            "locality_id":1242955867,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1242955867,
+    "wof:lastmodified":1537638697,
+    "wof:name":"'Adayah",
+    "wof:parent_id":1108562633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.75024000000001,
+    36.207,
+    42.75024000000001,
+    36.207
+],
+  "geometry": {"coordinates":[42.75024000000001,36.207],"type":"Point"}
+}

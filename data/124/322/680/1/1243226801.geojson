@@ -1,0 +1,68 @@
+{
+  "id": 1243226801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18778,34.06528,44.18778,34.06528",
+    "geom:latitude":34.06528,
+    "geom:longitude":44.18778,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6783103.0",
+    "gn:asciiname":"Laftah al Filfil",
+    "gn:country_code":"IQ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":435898,
+    "gn:latitude":34.06528,
+    "gn:longitude":44.18778,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Laftah al Filfil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":435898
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"54be6b50f158ca9b23b5e10a50d9c8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562773,
+            "locality_id":1243226801,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1243226801,
+    "wof:lastmodified":1536623311,
+    "wof:name":"Laftah al Filfil",
+    "wof:parent_id":1108562773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18778,
+    34.06528,
+    44.18778,
+    34.06528
+],
+  "geometry": {"coordinates":[44.18778,34.06528],"type":"Point"}
+}

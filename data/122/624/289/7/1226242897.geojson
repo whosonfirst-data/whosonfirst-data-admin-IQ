@@ -1,0 +1,74 @@
+{
+  "id": 1226242897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.88812,31.80368,44.88812,31.80368",
+    "geom:latitude":31.80368,
+    "geom:longitude":44.88812,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"6850588.0",
+    "gn:asciiname":"Turki 'Atiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6850298,
+    "gn:latitude":31.80368,
+    "gn:longitude":44.88812,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Turk\u012b \u2018A\u0163\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u0643\u064a \u0639\u0637\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Turk\u012b \u2018A\u0163\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672459,
+        1108562701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6850298
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"63a9321e973dd0c51386ec8d8eb817dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562701,
+            "locality_id":1226242897,
+            "region_id":85672459
+        }
+    ],
+    "wof:id":1226242897,
+    "wof:lastmodified":1537639745,
+    "wof:name":"Turki 'Atiyah",
+    "wof:parent_id":1108562701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.88812,
+    31.80368,
+    44.88812,
+    31.80368
+],
+  "geometry": {"coordinates":[44.88812,31.80368],"type":"Point"}
+}

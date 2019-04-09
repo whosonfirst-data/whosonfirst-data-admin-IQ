@@ -1,0 +1,84 @@
+{
+  "id": 1242676995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.38052,35.467,45.38052,35.467",
+    "geom:latitude":35.467,
+    "geom:longitude":45.38052,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Shaykh Wasal",
+    "gn:country_code":"IQ",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90906,
+    "gn:latitude":35.467,
+    "gn:longitude":45.38052,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shaykh Wa\u015f\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0648\u0635\u0627\u0644"
+    ],
+    "name:kur_x_preferred":[
+        "Sh\u00eax Wesa\u0142"
+    ],
+    "name:kur_x_variant":[
+        "\u0634\u06ce\u062e \u0648\u06d5\u0633\u0627\u06b5"
+    ],
+    "name:und_x_variant":[
+        "Shaykh Wa\u015f\u0101l",
+        "Shaykh Wi\u015f\u0101l",
+        "Shaykh Kh\u016b\u015f\u0101l",
+        "Shekh Wassal",
+        "\u0634\u064a\u062e \u062e\u0648\u0635\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90906
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9d00c302484fab29711f95e8afe7af0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1242676995,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1242676995,
+    "wof:lastmodified":1537637915,
+    "wof:name":"Shaykh Wasal",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.38052,
+    35.467,
+    45.38052,
+    35.467
+],
+  "geometry": {"coordinates":[45.38052,35.467],"type":"Point"}
+}

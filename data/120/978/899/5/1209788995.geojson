@@ -1,0 +1,75 @@
+{
+  "id": 1209788995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28334,36.39596,43.28334,36.39596",
+    "geom:latitude":36.39596,
+    "geom:longitude":43.28334,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166541.0",
+    "gn:asciiname":"Kuri Ghariban",
+    "gn:country_code":"IQ",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":96375,
+    "gn:latitude":36.39596,
+    "gn:longitude":43.28334,
+    "gn:modification_date":"2016-11-16",
+    "gn:name":"K\u016br\u012b Ghar\u012bb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0631\u064a \u063a\u0631\u064a\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "G\u016brah Khayrab\u0101n",
+        "K\u016br\u012b Ghurayb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":96375
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7a18329dfa13c178df22192052d9de7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562631,
+            "locality_id":1209788995,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1209788995,
+    "wof:lastmodified":1537638382,
+    "wof:name":"Kuri Ghariban",
+    "wof:parent_id":1108562631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28334,
+    36.39596,
+    43.28334,
+    36.39596
+],
+  "geometry": {"coordinates":[43.28334,36.39596],"type":"Point"}
+}

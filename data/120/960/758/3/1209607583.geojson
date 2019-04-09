@@ -1,0 +1,68 @@
+{
+  "id": 1209607583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9,32.47696,44.9,32.47696",
+    "geom:latitude":32.47696,
+    "geom:longitude":44.9,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"6818313.0",
+    "gn:asciiname":"'Ali 'Isa 'Abd",
+    "gn:country_code":"IQ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6788542,
+    "gn:latitude":32.47696,
+    "gn:longitude":44.9,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Al\u012b \u2018\u012as\u00e1 \u2018Abd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u0639\u064a\u0633\u0649 \u0639\u0628\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Al\u012b \u2018\u012as\u00e1 \u2018Abd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6788542
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0776c532b789ab477bb05808bef04c49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209607583
+        }
+    ],
+    "wof:id":1209607583,
+    "wof:lastmodified":1537639442,
+    "wof:name":"'Ali 'Isa 'Abd",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9,
+    32.47696,
+    44.9,
+    32.47696
+],
+  "geometry": {"coordinates":[44.9,32.47696],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343946111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.92384,36.49587,44.92384,36.49587",
+    "geom:latitude":36.49587,
+    "geom:longitude":44.92384,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166586.0",
+    "gn:asciiname":"Zengelan",
+    "gn:country_code":"IQ",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8429296,
+    "gn:latitude":36.49587,
+    "gn:longitude":44.92384,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Zenge\u0142an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Zenge\u0142an"
+    ],
+    "name:kur_x_variant":[
+        "\u0632\u06d5\u0646\u06af\u06d5\u06b5\u0627\u0646",
+        "Zengl\u00ean",
+        "\u0632\u06d5\u0646\u06af\u0644\u06ce\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zangalin",
+        "Zanglen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        1108562749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8429296
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"525628109ae130689fb801eaaa9c15d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562749,
+            "locality_id":1343946111,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1343946111,
+    "wof:lastmodified":1537640078,
+    "wof:name":"Zengelan",
+    "wof:parent_id":1108562749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.92384000000001,
+    36.49587,
+    44.92384000000001,
+    36.49587
+],
+  "geometry": {"coordinates":[44.92384000000001,36.49587],"type":"Point"}
+}

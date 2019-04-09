@@ -1,0 +1,74 @@
+{
+  "id": 1343269285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.24328,31.38309,45.24328,31.38309",
+    "geom:latitude":31.38309,
+    "geom:longitude":45.24328,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9166568.0",
+    "gn:asciiname":"Fu'ad Al Harbi",
+    "gn:country_code":"IQ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6776379,
+    "gn:latitude":31.38309,
+    "gn:longitude":45.24328,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fu\u2019\u0101d \u0100l \u1e28arb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0641\u0624\u0627\u062f \u0622\u0644 \u062d\u0631\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Fu\u2019\u0101d \u0100l \u1e28arb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672455,
+        1108562705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6776379
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"447e724eba668e8da580fbd320126349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562705,
+            "locality_id":1343269285,
+            "region_id":85672455
+        }
+    ],
+    "wof:id":1343269285,
+    "wof:lastmodified":1537639280,
+    "wof:name":"Fu'ad Al Harbi",
+    "wof:parent_id":1108562705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.24328,
+    31.38309000000001,
+    45.24328,
+    31.38309000000001
+],
+  "geometry": {"coordinates":[45.24328,31.38309000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344031025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.24236,36.91847,42.24236,36.91847",
+    "geom:latitude":36.91847,
+    "geom:longitude":42.24236,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"90392.0",
+    "gn:asciiname":"Ibrahim Khukhi",
+    "gn:country_code":"IQ",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7103734,
+    "gn:latitude":36.91847,
+    "gn:longitude":42.24236,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ibr\u0101h\u012bm Kh\u016bkh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u062e\u0648\u062e\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Ibr\u0101h\u012bm Kh\u016bkh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7103734
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ef70097a09fb33f5fd587e2909b4d6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562635,
+            "locality_id":1344031025,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1344031025,
+    "wof:lastmodified":1537639987,
+    "wof:name":"Ibrahim Khukhi",
+    "wof:parent_id":1108562635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.24236,
+    36.91847,
+    42.24236,
+    36.91847
+],
+  "geometry": {"coordinates":[42.24236,36.91847],"type":"Point"}
+}

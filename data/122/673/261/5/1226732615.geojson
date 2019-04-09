@@ -1,0 +1,74 @@
+{
+  "id": 1226732615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.62972,35.91513,42.62972,35.91513",
+    "geom:latitude":35.91513,
+    "geom:longitude":42.62972,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166649.0",
+    "gn:asciiname":"At Turkumaniyah al Janubiyah",
+    "gn:country_code":"IQ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110800,
+    "gn:latitude":35.91513,
+    "gn:longitude":42.62972,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"At Turkum\u0101n\u012byah al Jan\u016bb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0631\u0643\u0645\u0627\u0646\u064a\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "At Turkum\u0101n\u012byah al Jan\u016bb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110800
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d0f2637cd0eb7bb2eab50e4dd2400005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562633,
+            "locality_id":1226732615,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1226732615,
+    "wof:lastmodified":1537639990,
+    "wof:name":"At Turkumaniyah al Janubiyah",
+    "wof:parent_id":1108562633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.62972,
+    35.91513,
+    42.62972,
+    35.91513
+],
+  "geometry": {"coordinates":[42.62972,35.91513],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209437767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.77361,36.12234,44.77361,36.12234",
+    "geom:latitude":36.12234,
+    "geom:longitude":44.77361,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Xazer Mamsiyan",
+    "gn:country_code":"IQ",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":447677,
+    "gn:latitude":36.12234,
+    "gn:longitude":44.77361,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Xazer Mamsiyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0645\u0630\u0631\u0645\u0627\u0645 \u0633\u064a\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "\u062e\u0627\u0632\u06d5\u0631 \u0645\u0627\u0645\u0633\u064a\u0627\u0646"
+    ],
+    "name:kur_x_variant":[
+        "Xazer Mamsiyan",
+        "Xezer Mam Siyan",
+        "\u062e\u06d5\u0632\u06d5\u0631 \u0645\u0627\u0645 \u0633\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khidr-i M\u0101m S\u0113yan",
+        "Khazar Mam Sian",
+        "Midhram\u0101m Siy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447677
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"a6db57d028a588e1f1f05ea9ec2d6033",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209437767
+        }
+    ],
+    "wof:id":1209437767,
+    "wof:lastmodified":1537639048,
+    "wof:name":"Xazer Mamsiyan",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.77361,
+    36.12234,
+    44.77361,
+    36.12234
+],
+  "geometry": {"coordinates":[44.77361,36.12234],"type":"Point"}
+}

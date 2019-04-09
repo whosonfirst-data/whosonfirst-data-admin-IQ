@@ -1,0 +1,83 @@
+{
+  "id": 1310028567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86728,35.98092,44.86728,35.98092",
+    "geom:latitude":35.98092,
+    "geom:longitude":44.86728,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166596.0",
+    "gn:asciiname":"Frizalah",
+    "gn:country_code":"IQ",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":391141,
+    "gn:latitude":35.98092,
+    "gn:longitude":44.86728,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fr\u012bzalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u064a\u0632\u0644\u06d5"
+    ],
+    "name:kur_x_preferred":[
+        "Fr\u00eeze\u0142e"
+    ],
+    "name:kur_x_variant":[
+        "\u0641\u0631\u064a\u0632\u06d5\u06b5\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Fr\u012bzalah",
+        "Fr\u012bzala",
+        "Freezala",
+        "Frizala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391141
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2e3d64016861e36b04a60ba57b6cdb73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562759,
+            "locality_id":1310028567,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1310028567,
+    "wof:lastmodified":1537638848,
+    "wof:name":"Frizalah",
+    "wof:parent_id":1108562759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86728,
+    35.98092000000001,
+    44.86728,
+    35.98092000000001
+],
+  "geometry": {"coordinates":[44.86728,35.98092000000001],"type":"Point"}
+}

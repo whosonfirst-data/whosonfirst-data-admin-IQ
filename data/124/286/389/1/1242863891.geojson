@@ -1,0 +1,74 @@
+{
+  "id": 1242863891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85907,31.04741,46.85907,31.04741",
+    "geom:latitude":31.04741,
+    "geom:longitude":46.85907,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98855.0",
+    "gn:asciiname":"As Safafir al 'Umayrah",
+    "gn:country_code":"IQ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7011937,
+    "gn:latitude":31.04741,
+    "gn:longitude":46.85907,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u015f \u015eaf\u0101f\u012br al \u2018Umayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0627\u0641\u064a\u0631 \u0627\u0644\u0639\u0645\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eaf\u0101f\u012br al \u2018Umayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        421172357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7011937
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"bef46717e7d1ae5009f2806d52c7a98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172357,
+            "locality_id":1242863891,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1242863891,
+    "wof:lastmodified":1537639900,
+    "wof:name":"As Safafir al 'Umayrah",
+    "wof:parent_id":421172357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85907,
+    31.04741,
+    46.85907,
+    31.04741
+],
+  "geometry": {"coordinates":[46.85907,31.04741],"type":"Point"}
+}

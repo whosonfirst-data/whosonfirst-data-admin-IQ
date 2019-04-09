@@ -1,0 +1,86 @@
+{
+  "id": 1309743643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.00448,36.22248,45.00448,36.22248",
+    "geom:latitude":36.22248,
+    "geom:longitude":45.00448,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"92743.0",
+    "gn:asciiname":"Kawmarah",
+    "gn:country_code":"IQ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94239,
+    "gn:latitude":36.22248,
+    "gn:longitude":45.00448,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Kawmarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645\u0631\u0629"
+    ],
+    "name:kur_x_preferred":[
+        "Kome\u0142e"
+    ],
+    "name:kur_x_variant":[
+        "Komire",
+        "\u0643\u06c6\u0645\u06d5\u06b5\u06d5",
+        "\u0643\u06c6\u0645\u0631\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Komala",
+        "K\u014dmahlah",
+        "Kawmarah",
+        "\u0643\u0648\u0645\u0631\u0629",
+        "Komra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94239
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"75849ce56f87f473bcc154283c4ba29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562753,
+            "locality_id":1309743643,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1309743643,
+    "wof:lastmodified":1537638206,
+    "wof:name":"Kawmarah",
+    "wof:parent_id":1108562753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.00448,
+    36.22248,
+    45.00448,
+    36.22248
+],
+  "geometry": {"coordinates":[45.00448,36.22248],"type":"Point"}
+}

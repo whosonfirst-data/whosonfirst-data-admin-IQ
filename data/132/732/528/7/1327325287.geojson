@@ -1,0 +1,71 @@
+{
+  "id": 1327325287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12667,33.3725,44.12667,33.3725",
+    "geom:latitude":33.3725,
+    "geom:longitude":44.12667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9166542.0",
+    "gn:asciiname":"'Abbas al Mahdi",
+    "gn:country_code":"IQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100215,
+    "gn:latitude":33.3725,
+    "gn:longitude":44.12667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abb\u0101s al Mahd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Abb\u0101s al Mahd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672447,
+        421184257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100215
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"850623f33bdd0aaf7643c9622c73b919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421184257,
+            "locality_id":1327325287,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1327325287,
+    "wof:lastmodified":1537638717,
+    "wof:name":"'Abbas al Mahdi",
+    "wof:parent_id":421184257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12667,
+    33.3725,
+    44.12667,
+    33.3725
+],
+  "geometry": {"coordinates":[44.12667,33.3725],"type":"Point"}
+}

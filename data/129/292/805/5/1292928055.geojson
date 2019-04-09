@@ -1,0 +1,74 @@
+{
+  "id": 1292928055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17722,32.9175,44.17722,32.9175",
+    "geom:latitude":32.9175,
+    "geom:longitude":44.17722,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"Muhammad Shaykh Qasim",
+    "gn:cc2":"IQ",
+    "gn:country_code":"IQ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93294,
+    "gn:latitude":32.9175,
+    "gn:longitude":44.17722,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mu\u1e29ammad Shaykh Q\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hadi Ibr\u0101h\u012bm",
+        "Muhammad Shaikh Q\u0101sim",
+        "Mu\u1e29ammad Shaykh Q\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421172849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93294
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"d959e8a1195562be2b4fccc316424cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172849,
+            "locality_id":1292928055,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1292928055,
+    "wof:lastmodified":1537638123,
+    "wof:name":"Muhammad Shaykh Qasim",
+    "wof:parent_id":421172849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17722,
+    32.9175,
+    44.17722,
+    32.9175
+],
+  "geometry": {"coordinates":[44.17722,32.9175],"type":"Point"}
+}

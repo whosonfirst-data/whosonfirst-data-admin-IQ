@@ -1,0 +1,76 @@
+{
+  "id": 1360308251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4556,35.91376,45.4556,35.91376",
+    "geom:latitude":35.91376,
+    "geom:longitude":45.4556,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Sibi Darah",
+    "gn:country_code":"IQ",
+    "gn:dem":1349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90624,
+    "gn:latitude":35.91376,
+    "gn:longitude":45.4556,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sib\u012b D\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u064a \u062f\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Spid\u0101ra",
+        "Sib\u012b D\u0101rah",
+        "Sp\u012bd\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90624
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ea6971faf5a888c4db4a4be761b9330e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1360308251,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1360308251,
+    "wof:lastmodified":1537637884,
+    "wof:name":"Sibi Darah",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4556,
+    35.91376,
+    45.4556,
+    35.91376
+],
+  "geometry": {"coordinates":[45.4556,35.91376],"type":"Point"}
+}

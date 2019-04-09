@@ -1,0 +1,79 @@
+{
+  "id": 1209319429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21965,34.76955,45.21965,34.76955",
+    "geom:latitude":34.76955,
+    "geom:longitude":45.21965,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Shorawe",
+    "gn:country_code":"IQ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90796,
+    "gn:latitude":34.76955,
+    "gn:longitude":45.21965,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Shorawe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u016br\u0101w"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0648\u0631\u0627\u0648"
+    ],
+    "name:kur_x_preferred":[
+        "Shorawe"
+    ],
+    "name:kur_x_variant":[
+        "\u0634\u06c6\u0631\u0627\u0648\u06d5"
+    ],
+    "name:und_x_variant":[
+        "Sh\u014dr\u0101w",
+        "Sh\u014dr\u0101wa",
+        "Shorawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90796
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"7f7dab4b0b9486f6c7ba9e47c584d636",
+    "wof:hierarchy":[
+        {
+            "country_id":85632191,
+            "locality_id":1209319429
+        }
+    ],
+    "wof:id":1209319429,
+    "wof:lastmodified":1537637901,
+    "wof:name":"Shorawe",
+    "wof:parent_id":85632191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21965,
+    34.76955,
+    45.21965,
+    34.76955
+],
+  "geometry": {"coordinates":[45.21965,34.76955],"type":"Point"}
+}

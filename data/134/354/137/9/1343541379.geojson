@@ -1,0 +1,74 @@
+{
+  "id": 1343541379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16437,32.6494,44.16437,32.6494",
+    "geom:latitude":32.6494,
+    "geom:longitude":44.16437,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"99345.0",
+    "gn:asciiname":"'Abd al Hussayn Muhammad",
+    "gn:country_code":"IQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6818037,
+    "gn:latitude":32.6494,
+    "gn:longitude":44.16437,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Abd al \u1e28ussayn Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f \u0627\u0644\u062d\u0633\u064a\u0646 \u0645\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abd al \u1e28ussayn Mu\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672443,
+        1108562777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818037
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"61f2599da1d64b3dc3072b309ef8afd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562777,
+            "locality_id":1343541379,
+            "region_id":85672443
+        }
+    ],
+    "wof:id":1343541379,
+    "wof:lastmodified":1537639646,
+    "wof:name":"'Abd al Hussayn Muhammad",
+    "wof:parent_id":1108562777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16437,
+    32.6494,
+    44.16437,
+    32.6494
+],
+  "geometry": {"coordinates":[44.16437,32.6494],"type":"Point"}
+}

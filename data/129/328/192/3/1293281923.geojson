@@ -1,0 +1,71 @@
+{
+  "id": 1293281923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.43111,31.15917,46.43111,31.15917",
+    "geom:latitude":31.15917,
+    "geom:longitude":46.43111,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98855.0",
+    "gn:asciiname":"'Ubayd al Muhaybis",
+    "gn:country_code":"IQ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90020,
+    "gn:latitude":31.15917,
+    "gn:longitude":46.43111,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u2018Ubayd al Mu\u1e29aybis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ubayd al Mu\u1e29aybis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        421172357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90020
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"eaebcea0b6205445906407d1bbbc049c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172357,
+            "locality_id":1293281923,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1293281923,
+    "wof:lastmodified":1537637821,
+    "wof:name":"'Ubayd al Muhaybis",
+    "wof:parent_id":421172357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.43111,
+    31.15917,
+    46.43111,
+    31.15917
+],
+  "geometry": {"coordinates":[46.43111,31.15917],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326803621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.87118,36.0251,41.87118,36.0251",
+    "geom:latitude":36.0251,
+    "geom:longitude":41.87118,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166608.0",
+    "gn:asciiname":"Al Buthah",
+    "gn:country_code":"IQ",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7046904,
+    "gn:latitude":36.0251,
+    "gn:longitude":41.87118,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Al B\u016bthah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u062b\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al B\u016bthah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7046904
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"466ef4916becf1c6d9b9ac348915af54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562639,
+            "locality_id":1326803621,
+            "region_id":85672429
+        }
+    ],
+    "wof:id":1326803621,
+    "wof:lastmodified":1537639966,
+    "wof:name":"Al Buthah",
+    "wof:parent_id":1108562639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.87118,
+    36.0251,
+    41.87118,
+    36.0251
+],
+  "geometry": {"coordinates":[41.87118,36.0251],"type":"Point"}
+}

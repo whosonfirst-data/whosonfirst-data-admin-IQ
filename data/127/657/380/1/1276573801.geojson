@@ -1,0 +1,74 @@
+{
+  "id": 1276573801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76631,32.3554,44.76631,32.3554",
+    "geom:latitude":32.3554,
+    "geom:longitude":44.76631,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99358.0",
+    "gn:asciiname":"Radi al Jasim",
+    "gn:country_code":"IQ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6787882,
+    "gn:latitude":32.3554,
+    "gn:longitude":44.76631,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"R\u0101\u1e11\u012b al J\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0636\u064a \u0627\u0644\u062c\u0627\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "R\u0101\u1e11\u012b al J\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        1108562689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6787882
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b87fea252194c3b4102be1840bd160ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562689,
+            "locality_id":1276573801,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1276573801,
+    "wof:lastmodified":1537639410,
+    "wof:name":"Radi al Jasim",
+    "wof:parent_id":1108562689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76631,
+    32.3554,
+    44.76631,
+    32.3554
+],
+  "geometry": {"coordinates":[44.76631,32.3554],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1344041249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.41969,34.64721,45.41969,34.64721",
+    "geom:latitude":34.64721,
+    "geom:longitude":45.41969,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"94590.0",
+    "gn:asciiname":"Mulla Sulayman",
+    "gn:country_code":"IQ",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":93242,
+    "gn:latitude":34.64721,
+    "gn:longitude":45.41969,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Mull\u0101 Sulaym\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0627 \u0633\u0644\u064a\u0645\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Mela Sl\u00eaman"
+    ],
+    "name:kur_x_variant":[
+        "Ban Zem\u00een\u00ee Mela Suleyman",
+        "\u0645\u06d5\u0644\u0627 \u0633\u0644\u06ce\u0645\u0627\u0646",
+        "\u0628\u0627\u0646 \u0632\u06d5\u0645\u064a\u0646\u0649 \u0645\u06d5\u0644\u0627 \u0633\u0648\u0644\u06d5\u064a\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "M\u016bl\u0101 Sulaym\u0101n",
+        "Mull\u0101 Sulaym\u0101n",
+        "Mala Sulayman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":93242
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"91e97e9ad8c19af4915b2caab3a3b638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1344041249,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1344041249,
+    "wof:lastmodified":1537638120,
+    "wof:name":"Mulla Sulayman",
+    "wof:parent_id":1108562651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.41969,
+    34.64721,
+    45.41969,
+    34.64721
+],
+  "geometry": {"coordinates":[45.41969,34.64721],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242877417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.18302,30.3437,48.18302,30.3437",
+    "geom:latitude":30.3437,
+    "geom:longitude":48.18302,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"100049.0",
+    "gn:asciiname":"Qaryat Shalhat al Qat'ah",
+    "gn:country_code":"IQ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7326093,
+    "gn:latitude":30.3437,
+    "gn:longitude":48.18302,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat Shalhat al Qa\u0163\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0634\u0644\u0647\u0629 \u0627\u0644\u0642\u0637\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Shalhat al Qa\u0163\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672453,
+        1108562735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7326093
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"f44b909a7a7e986f86ab9c4c5457ea98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562735,
+            "locality_id":1242877417,
+            "region_id":85672453
+        }
+    ],
+    "wof:id":1242877417,
+    "wof:lastmodified":1537639997,
+    "wof:name":"Qaryat Shalhat al Qat'ah",
+    "wof:parent_id":1108562735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.18302,
+    30.3437,
+    48.18302,
+    30.3437
+],
+  "geometry": {"coordinates":[48.18302,30.3437],"type":"Point"}
+}

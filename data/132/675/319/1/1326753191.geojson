@@ -1,0 +1,85 @@
+{
+  "id": 1326753191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.30416,35.79034,45.30416,35.79034",
+    "geom:latitude":35.79034,
+    "geom:longitude":45.30416,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"91176.0",
+    "gn:asciiname":"Chughmagh",
+    "gn:country_code":"IQ",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97321,
+    "gn:latitude":35.79034,
+    "gn:longitude":45.30416,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ch\u016bghm\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0686\u0648\u063a\u0645\u0627\u063a"
+    ],
+    "name:kur_x_preferred":[
+        "Choxmax"
+    ],
+    "name:kur_x_variant":[
+        "Choghmagh",
+        "\u0686\u06c6\u062e\u0645\u0627\u062e",
+        "\u0686\u06c6\u063a\u0645\u0627\u063a"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014dkhm\u0101kh",
+        "Chawghm\u0101gh",
+        "Choqm\u0101gh",
+        "Chokhmakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97321
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"52f4a1a77b6ede2f0de508f659419c35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562763,
+            "locality_id":1326753191,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1326753191,
+    "wof:lastmodified":1537638483,
+    "wof:name":"Chughmagh",
+    "wof:parent_id":1108562763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.30416,
+    35.79034,
+    45.30416,
+    35.79034
+],
+  "geometry": {"coordinates":[45.30416,35.79034],"type":"Point"}
+}

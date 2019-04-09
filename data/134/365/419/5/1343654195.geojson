@@ -1,0 +1,74 @@
+{
+  "id": 1343654195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35948,32.54783,44.35948,32.54783",
+    "geom:latitude":32.54783,
+    "geom:longitude":44.35948,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"99040.0",
+    "gn:asciiname":"Qaryat al Khawas",
+    "gn:country_code":"IQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387348,
+    "gn:latitude":32.54783,
+    "gn:longitude":44.35948,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat al Khaw\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u062e\u0648\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al Khaw\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672491,
+        421172849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387348
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ed5c288bf93d8b6c5aea1f7263c14bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172849,
+            "locality_id":1343654195,
+            "region_id":85672491
+        }
+    ],
+    "wof:id":1343654195,
+    "wof:lastmodified":1537638803,
+    "wof:name":"Qaryat al Khawas",
+    "wof:parent_id":421172849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35948,
+    32.54783,
+    44.35948,
+    32.54783
+],
+  "geometry": {"coordinates":[44.35948,32.54783],"type":"Point"}
+}

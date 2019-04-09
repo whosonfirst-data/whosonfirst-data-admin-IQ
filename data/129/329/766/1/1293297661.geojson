@@ -1,0 +1,84 @@
+{
+  "id": 1293297661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.10436,35.20293,46.10436,35.20293",
+    "geom:latitude":35.20293,
+    "geom:longitude":46.10436,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Banan",
+    "gn:country_code":"IQ",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98064,
+    "gn:latitude":35.20293,
+    "gn:longitude":46.10436,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u0101n\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101n\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0646\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Pa\u0142an\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "Pelenyan",
+        "\u067e\u0627\u06b5\u0627\u0646\u0649",
+        "\u067e\u06d5\u0644\u06d5\u0646\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Palani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98064
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"0ca90db055a09beb6807715e3e3d3d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1293297661,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1293297661,
+    "wof:lastmodified":1537638572,
+    "wof:name":"Banan",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.10436,
+    35.20293,
+    46.10436,
+    35.20293
+],
+  "geometry": {"coordinates":[46.10436,35.20293],"type":"Point"}
+}

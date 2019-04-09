@@ -1,0 +1,86 @@
+{
+  "id": 1326850457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25335,37.20358,43.25335,37.20358",
+    "geom:latitude":37.20358,
+    "geom:longitude":43.25335,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"99612.0",
+    "gn:asciiname":"Xishxasha",
+    "gn:country_code":"IQ",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94492,
+    "gn:latitude":37.20358,
+    "gn:longitude":43.25335,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Xishxasha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0634\u062e\u0627\u0634"
+    ],
+    "name:kur_x_preferred":[
+        "Xishxash"
+    ],
+    "name:kur_x_variant":[
+        "Xishxasha",
+        "\u062e\u0634\u062e\u0627\u0634\u0627",
+        "Gund\u00ea Xishxasha",
+        "\u06af\u0648\u0646\u062f\u06ce \u062e\u0634\u062e\u0627\u0634\u0627"
+    ],
+    "name:und_x_variant":[
+        "Khishkh\u0101sh",
+        "Khishkhash",
+        "Khashkh\u0101sh",
+        "Khishkhasha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        421182249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94492
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"9e32c542e1b526d096b2f192935481c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421182249,
+            "locality_id":1326850457,
+            "region_id":85672417
+        }
+    ],
+    "wof:id":1326850457,
+    "wof:lastmodified":1537638228,
+    "wof:name":"Xishxasha",
+    "wof:parent_id":421182249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25335,
+    37.20358,
+    43.25335,
+    37.20358
+],
+  "geometry": {"coordinates":[43.25335,37.20358],"type":"Point"}
+}

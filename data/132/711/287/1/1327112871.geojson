@@ -1,0 +1,75 @@
+{
+  "id": 1327112871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.63851,35.93426,44.63851,35.93426",
+    "geom:latitude":35.93426,
+    "geom:longitude":44.63851,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166588.0",
+    "gn:asciiname":"Bagh Hanjir",
+    "gn:country_code":"IQ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":98185,
+    "gn:latitude":35.93426,
+    "gn:longitude":44.63851,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u0101gh Hanj\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u063a \u0647\u0646\u062c\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "B\u0101gh Hanj\u012br",
+        "B\u0101gh Ajn\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":98185
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"07b6401ee34ba1658d4b0f0a91aa3421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445493,
+            "locality_id":1327112871,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1327112871,
+    "wof:lastmodified":1537638586,
+    "wof:name":"Bagh Hanjir",
+    "wof:parent_id":890445493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.63851,
+    35.93425999999999,
+    44.63851,
+    35.93425999999999
+],
+  "geometry": {"coordinates":[44.63851,35.93425999999999],"type":"Point"}
+}

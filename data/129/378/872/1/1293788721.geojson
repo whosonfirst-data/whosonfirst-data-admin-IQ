@@ -1,0 +1,90 @@
+{
+  "id": 1293788721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.80058,35.35196,45.80058,35.35196",
+    "geom:latitude":35.35196,
+    "geom:longitude":45.80058,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"96204.0",
+    "gn:asciiname":"Kirdi Suwaylah Maysh",
+    "gn:country_code":"IQ",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":417298,
+    "gn:latitude":35.35196,
+    "gn:longitude":45.80058,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kird\u012b Suwaylah Maysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062f\u064a \u0633\u0648\u064a\u0644\u0629 \u0645\u064a\u0634"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u062f \u0633\u0644\u0645\u0634"
+    ],
+    "name:fas_x_variant":[
+        "Gird-i S\u014dlamish"
+    ],
+    "name:kur_x_preferred":[
+        "Soyle M\u00eash"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u06c6\u064a\u0644\u06d5 \u0645\u06ce\u0634"
+    ],
+    "name:und_x_variant":[
+        "Kird\u012b Suwaylah Mibish",
+        "\u0643\u0631\u062f\u064a \u0633\u0648\u064a\u0644\u0629 \u0645\u0628\u0634",
+        "Gerd-e Solmesh",
+        "Kird\u012b Suwaylah Maysh",
+        "\u0643\u0631\u062f\u064a \u0633\u0648\u064a\u0644\u0629 \u0645\u064a\u0634",
+        "Soila Mish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108804835,
+        421183885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":417298
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"1eb0e6fbda8854ac52643187115abcdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1293788721,
+            "region_id":1108804835
+        }
+    ],
+    "wof:id":1293788721,
+    "wof:lastmodified":1537638866,
+    "wof:name":"Kirdi Suwaylah Maysh",
+    "wof:parent_id":421183885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.80058,
+    35.35196,
+    45.80058,
+    35.35196
+],
+  "geometry": {"coordinates":[45.80058,35.35196],"type":"Point"}
+}

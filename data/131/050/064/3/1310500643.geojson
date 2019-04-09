@@ -1,0 +1,84 @@
+{
+  "id": 1310500643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08094,35.01017,45.08094,35.01017",
+    "geom:latitude":35.01017,
+    "geom:longitude":45.08094,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Khan Rawuf Agha",
+    "gn:country_code":"IQ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":94576,
+    "gn:latitude":35.01017,
+    "gn:longitude":45.08094,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kh\u0101n Raw\u016bf \u0100gh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0646 \u0631\u0648\u0648\u0641 \u0622\u063a\u0627"
+    ],
+    "name:kur_x_preferred":[
+        "Xan\u00ee \u1e5ee\u00fbf Agha"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u0627\u0646\u0649 \u0695\u06d5\u0648\u0648\u0641 \u0626\u0627\u063a\u0627",
+        "\u062e\u0627\u0646 \u0695\u06d5\u0648\u0648\u0641 \u0626\u0627\u063a\u0627",
+        "Xan \u1e5ee\u00fbf Agha"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101n Raw\u016bf \u0100gh\u0101",
+        "Khan-i Ra\u2019\u016bf \u0100gh\u0101",
+        "Khan Rauf Agha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":94576
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"258ee107951a6927585aa19fe24cb4c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1310500643,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1310500643,
+    "wof:lastmodified":1537638235,
+    "wof:name":"Khan Rawuf Agha",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08094000000001,
+    35.01017,
+    45.08094000000001,
+    35.01017
+],
+  "geometry": {"coordinates":[45.08094000000001,35.01017],"type":"Point"}
+}

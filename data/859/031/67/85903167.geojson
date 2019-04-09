@@ -1,0 +1,115 @@
+{
+  "id": 85903167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":3223415.355687,
+    "geom:bbox":"44.420471,33.36953,44.420471,33.36953",
+    "geom:latitude":33.36953,
+    "geom:longitude":44.420471,
+    "gn:latitude":33.35325,
+    "gn:longitude":44.43227,
+    "iso:country":"IQ",
+    "lbl:latitude":33.36953,
+    "lbl:longitude":44.420471,
+    "mps:latitude":33.369531,
+    "mps:longitude":44.420471,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_colloquial":[
+        "Al Idrisi"
+    ],
+    "name:ara_x_preferred":[
+        "Al Idr\u012bs\u012b"
+    ],
+    "name:unk_x_variant":[
+        "Idr\u012bs",
+        "Al Idr\u012bs\u012b"
+    ],
+    "qs:gn_adm0_cc":"IQ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":98182,
+    "qs:gn_nam_loc":"\u0628\u063a\u062f\u0627\u062f, \u0628\u063a\u062f\u0627\u062f, \u0628\u063a\u062f\u0627\u062f, IQ",
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"Al Idr\u012bs\u012b",
+    "qs:local_max":603,
+    "qs:local_sum":1151,
+    "qs:localhoods":15,
+    "qs:name":"Al Idr\u012bs\u012b",
+    "qs:name_adm0":"Iraq",
+    "qs:name_adm1":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:name_adm2":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:name_local":"\u0628\u063a\u062f\u0627\u062f",
+    "qs:photo_max":3,
+    "qs:photo_sum":3,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424855,
+    "qs:woe_adm1":2345839,
+    "qs:woe_adm2":55999983,
+    "qs:woe_lau":0,
+    "qs:woe_local":1979455,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672447,
+        102191569,
+        85632191,
+        1108562785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387285,
+        "gp:id":1970920,
+        "qs:id":910625
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"336cd5e2974db254145daebf4be0e24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562785,
+            "locality_id":-1,
+            "neighbourhood_id":85903167,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":85903167,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1534379347,
+    "wof:name":"Al Idr\u012bs\u012b",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[
+        1126090285
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.420471,
+    33.36953,
+    44.420471,
+    33.36953
+],
+  "geometry": {"coordinates":[44.420471,33.36953],"type":"Point"}
+}

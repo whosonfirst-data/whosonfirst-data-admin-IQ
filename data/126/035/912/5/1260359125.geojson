@@ -1,0 +1,74 @@
+{
+  "id": 1260359125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86026,32.77149,44.86026,32.77149",
+    "geom:latitude":32.77149,
+    "geom:longitude":44.86026,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"98460.0",
+    "gn:asciiname":"Qaryat ad Dawaghinah",
+    "gn:country_code":"IQ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6754312,
+    "gn:latitude":32.77149,
+    "gn:longitude":44.86026,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat ad Daw\u0101ghinah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u062f\u0648\u0627\u063a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat ad Daw\u0101ghinah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672473,
+        1108562783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754312
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"ad645b0f83334fb95d93ac13c5f86c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562783,
+            "locality_id":1260359125,
+            "region_id":85672473
+        }
+    ],
+    "wof:id":1260359125,
+    "wof:lastmodified":1537639186,
+    "wof:name":"Qaryat ad Dawaghinah",
+    "wof:parent_id":1108562783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86026,
+    32.77149,
+    44.86026,
+    32.77149
+],
+  "geometry": {"coordinates":[44.86026,32.77149],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226430607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16172,36.32091,44.16172,36.32091",
+    "geom:latitude":36.32091,
+    "geom:longitude":44.16172,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9166591.0",
+    "gn:asciiname":"Xanzad",
+    "gn:country_code":"IQ",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446434,
+    "gn:latitude":36.32091,
+    "gn:longitude":44.16172,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Xanzad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kh\u0101nz\u0101d"
+    ],
+    "name:kur_x_preferred":[
+        "Xanzad"
+    ],
+    "name:kur_x_variant":[
+        "\u062e\u0627\u0646\u0632\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khanzad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        421200817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446434
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"982b5afe39f8ff399db42c42bd44c92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421200817,
+            "locality_id":1226430607,
+            "region_id":85672425
+        }
+    ],
+    "wof:id":1226430607,
+    "wof:lastmodified":1537638983,
+    "wof:name":"Xanzad",
+    "wof:parent_id":421200817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16172,
+    36.32091,
+    44.16172,
+    36.32091
+],
+  "geometry": {"coordinates":[44.16172,36.32091],"type":"Point"}
+}

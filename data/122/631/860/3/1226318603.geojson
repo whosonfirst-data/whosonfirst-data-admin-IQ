@@ -1,0 +1,74 @@
+{
+  "id": 1226318603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22618,35.29854,43.22618,35.29854",
+    "geom:latitude":35.29854,
+    "geom:longitude":43.22618,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"6872046.0",
+    "gn:asciiname":"Qaryat Lafi 'Awad",
+    "gn:country_code":"IQ",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837374,
+    "gn:latitude":35.29854,
+    "gn:longitude":43.22618,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qaryat L\u0101f\u012b \u2018Aw\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0644\u0627\u0641\u064a \u0639\u0648\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Qaryat L\u0101f\u012b \u2018Aw\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837374
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"2669edfc7e421b2aeb769b7400c50a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562647,
+            "locality_id":1226318603,
+            "region_id":85672435
+        }
+    ],
+    "wof:id":1226318603,
+    "wof:lastmodified":1537639701,
+    "wof:name":"Qaryat Lafi 'Awad",
+    "wof:parent_id":1108562647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22618,
+    35.29854,
+    43.22618,
+    35.29854
+],
+  "geometry": {"coordinates":[43.22618,35.29854],"type":"Point"}
+}

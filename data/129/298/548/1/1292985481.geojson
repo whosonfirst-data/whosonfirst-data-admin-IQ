@@ -1,0 +1,78 @@
+{
+  "id": 1292985481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.09114,31.62732,46.09114,31.62732",
+    "geom:latitude":31.62732,
+    "geom:longitude":46.09114,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98700.0",
+    "gn:asciiname":"Suwayj al Mudfi",
+    "gn:country_code":"IQ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90468,
+    "gn:latitude":31.62732,
+    "gn:longitude":46.09114,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Suwayj al Mu\u1e11f\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u064a\u062c \u0627\u0644\u0645\u0636\u0641\u064a"
+    ],
+    "name:und_x_variant":[
+        "Suwaij al Musain",
+        "Suwaij al Musaifi",
+        "Suwayj",
+        "Suwayj al Mu\u015fayf\u012b",
+        "Suwayj al Mu\u1e11f\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90468
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"70354cb3a79cc4fdfa31e4d8be26fb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562683,
+            "locality_id":1292985481,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1292985481,
+    "wof:lastmodified":1537637867,
+    "wof:name":"Suwayj al Mudfi",
+    "wof:parent_id":1108562683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.09114,
+    31.62732,
+    46.09114,
+    31.62732
+],
+  "geometry": {"coordinates":[46.09114,31.62732],"type":"Point"}
+}

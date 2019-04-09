@@ -1,0 +1,85 @@
+{
+  "id": 1276767659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.32111,34.70568,45.32111,34.70568",
+    "geom:latitude":34.70568,
+    "geom:longitude":45.32111,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9166600.0",
+    "gn:asciiname":"Sayyid Khalil",
+    "gn:country_code":"IQ",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":91322,
+    "gn:latitude":34.70568,
+    "gn:longitude":45.32111,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sayyid Khal\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f \u062e\u0644\u064a\u0644"
+    ],
+    "name:kur_x_preferred":[
+        "Seyd Xel\u00eel"
+    ],
+    "name:kur_x_variant":[
+        "Sey\u00eed Xel\u00eel Derw\u00eash \u1e26is\u00ean",
+        "\u0633\u06d5\u064a\u062f \u062e\u06d5\u0644\u064a\u0644",
+        "\u0633\u06d5\u064a\u064a\u062f \u062e\u06d5\u0644\u064a\u0644 \u062f\u06d5\u0631\u0648\u06ce\u0634 \u062d\u0633\u06ce\u0646"
+    ],
+    "name:und_x_variant":[
+        "Saiyid Khilil",
+        "Saiyid Khal\u012bl",
+        "Sayyid Khal\u012bl",
+        "Said Khalil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":91322
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"4bc187ee7444d1055cfffa24f5c5dd30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562659,
+            "locality_id":1276767659,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1276767659,
+    "wof:lastmodified":1537637953,
+    "wof:name":"Sayyid Khalil",
+    "wof:parent_id":1108562659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.32111,
+    34.70568,
+    45.32111,
+    34.70568
+],
+  "geometry": {"coordinates":[45.32111,34.70568],"type":"Point"}
+}

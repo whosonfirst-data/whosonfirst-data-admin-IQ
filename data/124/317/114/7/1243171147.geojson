@@ -1,0 +1,83 @@
+{
+  "id": 1243171147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3432,35.5845,45.3432,35.5845",
+    "geom:latitude":35.5845,
+    "geom:longitude":45.3432,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"98464.0",
+    "gn:asciiname":"Bawah Kildi",
+    "gn:country_code":"IQ",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":97820,
+    "gn:latitude":35.5845,
+    "gn:longitude":45.3432,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u0101wah Kild\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0648\u0629 \u0643\u0644\u062f\u064a"
+    ],
+    "name:kur_x_preferred":[
+        "Bawe G\u00ea\u0142d\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u0627\u0648\u06d5 \u06af\u06ce\u06b5\u062f\u0649"
+    ],
+    "name:und_x_variant":[
+        "B\u0101b\u0101 Gild\u012b",
+        "B\u0101wah Kild\u012b",
+        "B\u0101wagald\u012b",
+        "Bawa Geldi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":97820
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"8d6016dd5199892f51b71c02cb4064db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562761,
+            "locality_id":1243171147,
+            "region_id":85672475
+        }
+    ],
+    "wof:id":1243171147,
+    "wof:lastmodified":1537638543,
+    "wof:name":"Bawah Kildi",
+    "wof:parent_id":1108562761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3432,
+    35.5845,
+    45.3432,
+    35.5845
+],
+  "geometry": {"coordinates":[45.3432,35.5845],"type":"Point"}
+}

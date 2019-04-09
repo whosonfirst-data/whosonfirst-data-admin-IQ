@@ -1,0 +1,74 @@
+{
+  "id": 1276140865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11324,31.54529,46.11324,31.54529",
+    "geom:latitude":31.54529,
+    "geom:longitude":46.11324,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98700.0",
+    "gn:asciiname":"Suwayj Ghazi",
+    "gn:country_code":"IQ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":90465,
+    "gn:latitude":31.54529,
+    "gn:longitude":46.11324,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Suwayj Gh\u0101z\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u064a\u062c \u063a\u0627\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "Suwayj Gh\u0101z\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        1108562683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":90465
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"fbbeaa37567b1264e1edc5a4e31c6b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562683,
+            "locality_id":1276140865,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1276140865,
+    "wof:lastmodified":1537637867,
+    "wof:name":"Suwayj Ghazi",
+    "wof:parent_id":1108562683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11324000000001,
+    31.54529,
+    46.11324000000001,
+    31.54529
+],
+  "geometry": {"coordinates":[46.11324000000001,31.54529],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327024373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.59379,31.35097,46.59379,31.35097",
+    "geom:latitude":31.35097,
+    "geom:longitude":46.59379,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"98855.0",
+    "gn:asciiname":"Majalli",
+    "gn:country_code":"IQ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7011829,
+    "gn:latitude":31.35097,
+    "gn:longitude":46.59379,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Majall\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Majall\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672463,
+        421172357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7011829
+    },
+    "wof:country":"IQ",
+    "wof:geomhash":"b6a6ce1a7e8aded5cc81101f68870f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421172357,
+            "locality_id":1327024373,
+            "region_id":85672463
+        }
+    ],
+    "wof:id":1327024373,
+    "wof:lastmodified":1537639898,
+    "wof:name":"Majalli",
+    "wof:parent_id":421172357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.59379000000001,
+    31.35097,
+    46.59379000000001,
+    31.35097
+],
+  "geometry": {"coordinates":[46.59379000000001,31.35097],"type":"Point"}
+}
