@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.361188,
-    "geom:area_square_m":3641488058.090464,
+    "geom:area_square_m":3641488058.090194,
     "geom:bbox":"44.614659,34.957516,45.432061,35.896181459",
     "geom:latitude":35.37724,
     "geom:longitude":44.968606,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Chamchamal District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.246017,
     "lbl:longitude":45.042802,
     "meso:admin1_en":"Sulaymaniyah",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562745,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489208,
     "wof:name":"Chamchamal",
     "wof:parent_id":85672475,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

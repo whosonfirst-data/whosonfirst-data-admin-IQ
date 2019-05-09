@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22759,
-    "geom:area_square_m":2397150319.700743,
+    "geom:area_square_m":2397150319.700795,
     "geom:bbox":"44.406078,31.259173,45.21273033,31.88350296",
     "geom:latitude":31.591039,
     "geom:longitude":44.860351,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Hamza District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":31.546055,
     "lbl:longitude":44.866397,
     "meso:admin1_en":"Qadissiya",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562701,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489207,
     "wof:name":"Hamza",
     "wof:parent_id":85672459,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

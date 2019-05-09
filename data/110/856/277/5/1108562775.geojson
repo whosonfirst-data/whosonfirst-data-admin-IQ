@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.304549,
-    "geom:area_square_m":3078919115.066256,
+    "geom:area_square_m":3078919115.066025,
     "geom:bbox":"43.981494904,34.685507412,44.860252,35.595722642",
     "geom:latitude":35.15429,
     "geom:longitude":44.418854,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Daquq District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.190828,
     "lbl:longitude":44.412325,
     "meso:admin1_en":"Kirkuk",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562775,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489210,
     "wof:name":"Daquq",
     "wof:parent_id":1108804831,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

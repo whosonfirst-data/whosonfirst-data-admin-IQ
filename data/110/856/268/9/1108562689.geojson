@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.161119,
-    "geom:area_square_m":1683511519.232582,
+    "geom:area_square_m":1683511519.232648,
     "geom:bbox":"44.406387278,32.097968699,45.201461517,32.505058289",
     "geom:latitude":32.325345,
     "geom:longitude":44.742077,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Hashimiya District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.301528,
     "lbl:longitude":44.648699,
     "meso:admin1_en":"Babylon",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562689,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489207,
     "wof:name":"Hashimiya",
     "wof:parent_id":85672491,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

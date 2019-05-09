@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06104,
-    "geom:area_square_m":616617221.070485,
+    "geom:area_square_m":616617221.070599,
     "geom:bbox":"45.54006958,35.032091208,45.869416343,35.357069164",
     "geom:latitude":35.218278,
     "geom:longitude":45.691277,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Darbandihkan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.235964,
     "lbl:longitude":45.707523,
     "meso:admin1_en":"Sulaymaniyah",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562767,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489209,
     "wof:name":"Darbandihkan",
     "wof:parent_id":1108804835,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120976,
-    "geom:area_square_m":1243555880.963633,
+    "geom:area_square_m":1243555880.96363,
     "geom:bbox":"43.3695109028,33.621725836,44.426690974,33.9309777958",
     "geom:latitude":33.766247,
     "geom:longitude":43.972681,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Fares District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.729947,
     "lbl:longitude":43.980665,
     "meso:admin1_en":"Salah al-Din",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562809,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489210,
     "wof:name":"Fares",
     "wof:parent_id":85672435,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

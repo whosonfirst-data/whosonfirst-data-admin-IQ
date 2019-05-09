@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076482,
-    "geom:area_square_m":795642619.743565,
+    "geom:area_square_m":795642619.743407,
     "geom:bbox":"44.046361173,32.401795255,44.48630432,33.126780584",
     "geom:latitude":32.720851,
     "geom:longitude":44.279188,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Musayab District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.633542,
     "lbl:longitude":44.319091,
     "meso:admin1_en":"Babylon",
@@ -79,10 +85,11 @@
         }
     ],
     "wof:id":421172849,
-    "wof:lastmodified":1512517561,
+    "wof:lastmodified":1554488772,
     "wof:name":"Musayab",
     "wof:parent_id":85672491,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

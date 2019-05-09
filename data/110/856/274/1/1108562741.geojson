@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194901,
-    "geom:area_square_m":2057368554.837929,
+    "geom:area_square_m":2057368554.837893,
     "geom:bbox":"45.898189545,31.147994995,46.61366,31.688772081",
     "geom:latitude":31.385217,
     "geom:longitude":46.290489,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Shatra District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":31.448675,
     "lbl:longitude":46.325729,
     "meso:admin1_en":"Thi-Qar",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562741,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489208,
     "wof:name":"Shatra",
     "wof:parent_id":85672463,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

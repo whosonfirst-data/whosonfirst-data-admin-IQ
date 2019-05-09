@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054189,
-    "geom:area_square_m":558176403.93025,
+    "geom:area_square_m":558176403.930274,
     "geom:bbox":"44.378479004,33.420577,44.632973861,33.82068634",
     "geom:latitude":33.589185,
     "geom:longitude":44.489547,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Ba'quba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.589666,
     "lbl:longitude":44.540615,
     "meso:admin1_en":"Diyala",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562663,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489206,
     "wof:name":"Ba'quba",
     "wof:parent_id":85672481,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

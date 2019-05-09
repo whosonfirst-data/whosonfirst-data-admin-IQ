@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085535,
-    "geom:area_square_m":848714605.932622,
+    "geom:area_square_m":848714605.932558,
     "geom:bbox":"44.653126,36.45829044,45.071915263,36.788572659",
     "geom:latitude":36.63556,
     "geom:longitude":44.882748,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Choman District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.639258,
     "lbl:longitude":44.886705,
     "meso:admin1_en":"Erbil",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562749,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489208,
     "wof:name":"Choman",
     "wof:parent_id":85672425,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

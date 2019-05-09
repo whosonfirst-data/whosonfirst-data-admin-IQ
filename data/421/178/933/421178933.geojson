@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.699157,
-    "geom:area_square_m":7221048017.126942,
+    "geom:area_square_m":7221048017.126705,
     "geom:bbox":"42.437774658,32.909072876,43.714806985,34.065422496",
     "geom:latitude":33.355455,
     "geom:longitude":43.155434,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Ramadi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.294558,
     "lbl:longitude":43.252129,
     "meso:admin1_en":"Anbar",
@@ -79,10 +85,11 @@
         }
     ],
     "wof:id":421178933,
-    "wof:lastmodified":1512517571,
+    "wof:lastmodified":1554488783,
     "wof:name":"Ramadi",
     "wof:parent_id":85672483,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.276047,
-    "geom:area_square_m":2802829170.60702,
+    "geom:area_square_m":2802829170.60715,
     "geom:bbox":"44.157623291,34.452602386,44.956596669,35.172095727",
     "geom:latitude":34.801541,
     "geom:longitude":44.577152,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Tooz District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.795362,
     "lbl:longitude":44.570988,
     "meso:admin1_en":"Salah al-Din",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562657,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489207,
     "wof:name":"Tooz",
     "wof:parent_id":85672435,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

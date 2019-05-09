@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044644,
-    "geom:area_square_m":459455640.742322,
+    "geom:area_square_m":459455640.742308,
     "geom:bbox":"44.084844,33.558516995,44.439143,33.774751337",
     "geom:latitude":33.66338,
     "geom:longitude":44.262514,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Tarmia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.658253,
     "lbl:longitude":44.265196,
     "meso:admin1_en":"Baghdad",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562665,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489206,
     "wof:name":"Tarmia",
     "wof:parent_id":85672447,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

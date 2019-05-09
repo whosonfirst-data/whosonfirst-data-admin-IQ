@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132144,
-    "geom:area_square_m":1400141761.484138,
+    "geom:area_square_m":1400141761.48426,
     "geom:bbox":"47.084324,30.681362,47.489513815,31.280385",
     "geom:latitude":31.031261,
     "geom:longitude":47.271859,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Midaina District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":31.04173,
     "lbl:longitude":47.274819,
     "meso:admin1_en":"Basrah",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562717,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489207,
     "wof:name":"Midaina",
     "wof:parent_id":85672453,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

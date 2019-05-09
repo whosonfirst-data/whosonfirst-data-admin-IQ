@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16918,
-    "geom:area_square_m":1796099824.489974,
+    "geom:area_square_m":1796099824.48997,
     "geom:bbox":"46.208690502,30.50013,46.778835297,31.065120697",
     "geom:latitude":30.842838,
     "geom:longitude":46.506522,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Suq Al-Shoyokh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":30.842664,
     "lbl:longitude":46.534592,
     "meso:admin1_en":"Thi-Qar",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562723,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489208,
     "wof:name":"Suq Al-Shoyokh",
     "wof:parent_id":85672463,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

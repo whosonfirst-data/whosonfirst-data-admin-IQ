@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210303,
-    "geom:area_square_m":2110806277.913473,
+    "geom:area_square_m":2110806277.913428,
     "geom:bbox":"45.234335,35.408733,45.890829,36.00939593",
     "geom:latitude":35.736066,
     "geom:longitude":45.580589,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Sharbazher District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.75484,
     "lbl:longitude":45.585599,
     "meso:admin1_en":"Sulaymaniyah",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562763,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489209,
     "wof:name":"Sharbazher",
     "wof:parent_id":85672475,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

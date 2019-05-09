@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125592,
-    "geom:area_square_m":1246960118.69039,
+    "geom:area_square_m":1246960118.690363,
     "geom:bbox":"42.745488495,36.392492319,43.256256104,36.792928",
     "geom:latitude":36.586697,
     "geom:longitude":43.033425,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Tilkaif District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.598858,
     "lbl:longitude":43.054217,
     "meso:admin1_en":"Ninewa",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562629,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489205,
     "wof:name":"Tilkaif",
     "wof:parent_id":85672429,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

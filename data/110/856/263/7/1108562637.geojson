@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139007,
-    "geom:area_square_m":1374546374.990012,
+    "geom:area_square_m":1374546374.990087,
     "geom:bbox":"42.379492305,36.705001,43.143971,37.091032",
     "geom:latitude":36.899288,
     "geom:longitude":42.721372,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Sumel District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.914257,
     "lbl:longitude":42.727071,
     "meso:admin1_en":"Dahuk",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562637,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489205,
     "wof:name":"Sumel",
     "wof:parent_id":85672417,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

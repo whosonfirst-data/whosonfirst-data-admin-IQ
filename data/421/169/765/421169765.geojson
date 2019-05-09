@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12789,
-    "geom:area_square_m":1310325415.184762,
+    "geom:area_square_m":1310325415.184835,
     "geom:bbox":"44.286455458,33.749772666,44.789615631,34.292957855",
     "geom:latitude":34.045239,
     "geom:longitude":44.531915,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Khalis District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.057237,
     "lbl:longitude":44.535792,
     "meso:admin1_en":"Diyala",
@@ -102,10 +108,11 @@
         }
     ],
     "wof:id":421169765,
-    "wof:lastmodified":1527716164,
+    "wof:lastmodified":1554488750,
     "wof:name":"Khalis",
     "wof:parent_id":85672481,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

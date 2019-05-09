@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195293,
-    "geom:area_square_m":1995806185.421888,
+    "geom:area_square_m":1995806185.421955,
     "geom:bbox":"42.950010136,34.1286224612,43.8857854351,34.483680725",
     "geom:latitude":34.261315,
     "geom:longitude":43.401484,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Samarra District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.254165,
     "lbl:longitude":43.363674,
     "meso:admin1_en":"Salah al-Din",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562799,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489210,
     "wof:name":"Samarra",
     "wof:parent_id":85672435,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

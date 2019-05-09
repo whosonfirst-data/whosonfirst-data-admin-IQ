@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159382,
-    "geom:area_square_m":1573923476.064934,
+    "geom:area_square_m":1573923476.065095,
     "geom:bbox":"43.828178,36.747748,44.498340201,37.323001",
     "geom:latitude":37.000641,
     "geom:longitude":44.180775,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Mergasur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.018869,
     "lbl:longitude":44.092379,
     "meso:admin1_en":"Erbil",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562747,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489209,
     "wof:name":"Mergasur",
     "wof:parent_id":85672425,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

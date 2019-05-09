@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.385425,
-    "geom:area_square_m":46932370737.049492,
+    "geom:area_square_m":46932370737.049767,
     "geom:bbox":"43.84738061,29.061208,46.747211,31.407519",
     "geom:latitude":30.057713,
     "geom:longitude":45.376999,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Salman District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":30.005866,
     "lbl:longitude":45.349431,
     "meso:admin1_en":"Muthanna",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562703,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489208,
     "wof:name":"Salman",
     "wof:parent_id":85672455,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

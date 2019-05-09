@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.227666,
-    "geom:area_square_m":2362553266.201972,
+    "geom:area_square_m":2362553266.201964,
     "geom:bbox":"44.7190382273,32.5696882182,45.494129181,33.170387843",
     "geom:latitude":32.94048,
     "geom:longitude":45.167555,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Azezia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.953422,
     "lbl:longitude":45.22621,
     "meso:admin1_en":"Wassit",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562781,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489209,
     "wof:name":"Azezia",
     "wof:parent_id":85672473,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

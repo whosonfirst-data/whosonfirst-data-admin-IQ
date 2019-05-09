@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108976,
-    "geom:area_square_m":1149869073.180392,
+    "geom:area_square_m":1149869073.180402,
     "geom:bbox":"47.268070221,31.235961568,47.723193385,31.593444824",
     "geom:latitude":31.424773,
     "geom:longitude":47.508296,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Qal'at Saleh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":31.429577,
     "lbl:longitude":47.508296,
     "meso:admin1_en":"Missan",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562713,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489208,
     "wof:name":"Qal'at Saleh",
     "wof:parent_id":85672469,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042969,
-    "geom:area_square_m":443247506.877465,
+    "geom:area_square_m":443247506.877409,
     "geom:bbox":"44.06407917,33.3068740445,44.3849959371,33.597412971",
     "geom:latitude":33.462822,
     "geom:longitude":44.2346,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Kadhimia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.477701,
     "lbl:longitude":44.232164,
     "meso:admin1_en":"Baghdad",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562795,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489210,
     "wof:name":"Kadhimia",
     "wof:parent_id":85672447,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

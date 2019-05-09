@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036273,
-    "geom:area_square_m":375034459.926433,
+    "geom:area_square_m":375034459.926489,
     "geom:bbox":"44.186480752,33.174946231,44.505263134,33.369076656",
     "geom:latitude":33.263982,
     "geom:longitude":44.325917,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Karkh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.274567,
     "lbl:longitude":44.31263,
     "meso:admin1_en":"Baghdad",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562793,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489210,
     "wof:name":"Karkh",
     "wof:parent_id":85672447,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

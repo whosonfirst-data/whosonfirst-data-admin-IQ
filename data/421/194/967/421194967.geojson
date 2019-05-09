@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.244905,
-    "geom:area_square_m":2553604728.58248,
+    "geom:area_square_m":2553604728.582466,
     "geom:bbox":"43.616727715,32.168487,44.157623291,32.838264",
     "geom:latitude":32.513872,
     "geom:longitude":43.886826,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Kerbala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.50861,
     "lbl:longitude":43.892405,
     "meso:admin1_en":"Kerbala",
@@ -79,10 +85,11 @@
         }
     ],
     "wof:id":421194967,
-    "wof:lastmodified":1512517614,
+    "wof:lastmodified":1554489018,
     "wof:name":"Kerbala",
     "wof:parent_id":85672443,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

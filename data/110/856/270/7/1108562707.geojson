@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100445,
-    "geom:area_square_m":1059555575.554616,
+    "geom:area_square_m":1059555575.554698,
     "geom:bbox":"47.068359375,31.185625667,47.34866333,31.751184464",
     "geom:latitude":31.450133,
     "geom:longitude":47.202822,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Mejar Al-Kabi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":31.415608,
     "lbl:longitude":47.202845,
     "meso:admin1_en":"Missan",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562707,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489208,
     "wof:name":"Mejar Al-Kabi",
     "wof:parent_id":85672469,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101919,
-    "geom:area_square_m":1023410423.532472,
+    "geom:area_square_m":1023410423.532761,
     "geom:bbox":"45.76409241,35.447798623,46.347891364,35.870189392",
     "geom:latitude":35.701229,
     "geom:longitude":46.00184,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Penjwin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.720453,
     "lbl:longitude":45.924535,
     "meso:admin1_en":"Sulaymaniyah",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562765,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489209,
     "wof:name":"Penjwin",
     "wof:parent_id":85672475,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

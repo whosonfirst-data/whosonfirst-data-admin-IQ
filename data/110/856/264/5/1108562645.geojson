@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140389,
-    "geom:area_square_m":1414096652.886025,
+    "geom:area_square_m":1414096652.885917,
     "geom:bbox":"42.877974583,35.218332948,43.380263,35.724283864",
     "geom:latitude":35.45174,
     "geom:longitude":43.14459,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Shirqat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.43347,
     "lbl:longitude":43.123669,
     "meso:admin1_en":"Salah al-Din",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562645,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489206,
     "wof:name":"Shirqat",
     "wof:parent_id":85672435,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

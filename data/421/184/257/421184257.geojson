@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05321,
-    "geom:area_square_m":549902873.630789,
+    "geom:area_square_m":549902873.63067,
     "geom:bbox":"43.845425224,33.15085045,44.205286419,33.430306905",
     "geom:latitude":33.302555,
     "geom:longitude":44.027077,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Abu Ghraib District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.330227,
     "lbl:longitude":44.086857,
     "meso:admin1_en":"Baghdad",
@@ -153,10 +159,11 @@
         }
     ],
     "wof:id":421184257,
-    "wof:lastmodified":1527716445,
+    "wof:lastmodified":1554488946,
     "wof:name":"Abu Ghraib",
     "wof:parent_id":85672447,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

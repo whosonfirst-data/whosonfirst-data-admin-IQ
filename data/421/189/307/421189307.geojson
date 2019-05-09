@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140378,
-    "geom:area_square_m":1454640006.335474,
+    "geom:area_square_m":1454640006.335511,
     "geom:bbox":"44.001884589,32.834483854,44.585297175,33.280726027",
     "geom:latitude":33.068062,
     "geom:longitude":44.329587,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Mahmoudiya District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.063863,
     "lbl:longitude":44.325318,
     "meso:admin1_en":"Baghdad",
@@ -86,10 +92,11 @@
         }
     ],
     "wof:id":421189307,
-    "wof:lastmodified":1527716263,
+    "wof:lastmodified":1554488984,
     "wof:name":"Mahmoudiya",
     "wof:parent_id":85672447,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

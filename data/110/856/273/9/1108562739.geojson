@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136432,
-    "geom:area_square_m":1410766804.179969,
+    "geom:area_square_m":1410766804.179911,
     "geom:bbox":"44.480292962,32.998903036,44.969163,33.428264",
     "geom:latitude":33.253765,
     "geom:longitude":44.722205,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Mada'in District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.255552,
     "lbl:longitude":44.722206,
     "meso:admin1_en":"Baghdad",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562739,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489208,
     "wof:name":"Mada'in",
     "wof:parent_id":85672447,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

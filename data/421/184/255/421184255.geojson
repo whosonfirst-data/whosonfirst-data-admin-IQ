@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.587764,
-    "geom:area_square_m":27399891219.791847,
+    "geom:area_square_m":27399891219.793026,
     "geom:bbox":"42.808365861,29.847370222,44.726933,32.330295",
     "geom:latitude":31.092595,
     "geom:longitude":43.78865,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Najaf District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":31.132126,
     "lbl:longitude":43.773826,
     "meso:admin1_en":"Najaf",
@@ -78,10 +84,11 @@
         }
     ],
     "wof:id":421184255,
-    "wof:lastmodified":1512517584,
+    "wof:lastmodified":1554488946,
     "wof:name":"Najaf",
     "wof:parent_id":85672439,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

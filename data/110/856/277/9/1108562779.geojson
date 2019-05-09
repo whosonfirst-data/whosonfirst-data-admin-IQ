@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.365725,
-    "geom:area_square_m":3668786490.042315,
+    "geom:area_square_m":3668786490.042498,
     "geom:bbox":"43.315135848,35.420327021,44.132345,36.216737",
     "geom:latitude":35.779171,
     "geom:longitude":43.651095,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Makhmur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.743137,
     "lbl:longitude":43.623166,
     "meso:admin1_en":"Erbil",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562779,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489209,
     "wof:name":"Makhmur",
     "wof:parent_id":85672425,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

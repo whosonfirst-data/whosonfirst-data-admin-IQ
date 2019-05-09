@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128153,
-    "geom:area_square_m":1371254450.549747,
+    "geom:area_square_m":1371254450.549619,
     "geom:bbox":"47.866691589,29.879530552,48.627752027,30.257099152",
     "geom:latitude":30.078216,
     "geom:longitude":48.240985,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Fao District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":30.113422,
     "lbl:longitude":48.246738,
     "meso:admin1_en":"Basrah",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562737,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489208,
     "wof:name":"Fao",
     "wof:parent_id":85672453,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

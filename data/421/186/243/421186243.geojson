@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.328712,
-    "geom:area_square_m":3343096800.019628,
+    "geom:area_square_m":3343096800.01966,
     "geom:bbox":"42.950027174,34.307571411,44.064376831,35.053098674",
     "geom:latitude":34.664407,
     "geom:longitude":43.618443,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Tikrit District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.751037,
     "lbl:longitude":43.711327,
     "meso:admin1_en":"Salah al-Din",
@@ -78,10 +84,11 @@
         }
     ],
     "wof:id":421186243,
-    "wof:lastmodified":1512517588,
+    "wof:lastmodified":1554488959,
     "wof:name":"Tikrit",
     "wof:parent_id":85672435,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.28036,
-    "geom:area_square_m":2824529866.324541,
+    "geom:area_square_m":2824529866.324753,
     "geom:bbox":"43.84599948,34.882960741,44.779904,35.908843128",
     "geom:latitude":35.43573,
     "geom:longitude":44.300972,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Kirkuk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.398494,
     "lbl:longitude":44.178274,
     "meso:admin1_en":"Kirkuk",
@@ -259,10 +265,11 @@
         }
     ],
     "wof:id":421199293,
-    "wof:lastmodified":1527716412,
+    "wof:lastmodified":1554489026,
     "wof:name":"Kirkuk",
     "wof:parent_id":1108804831,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":850787,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-iq",

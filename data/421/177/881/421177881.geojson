@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.676463,
-    "geom:area_square_m":6954459764.3962,
+    "geom:area_square_m":6954459764.395971,
     "geom:bbox":"42.116600037,33.157691956,43.080127716,34.533789477",
     "geom:latitude":33.754304,
     "geom:longitude":42.683245,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Heet District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.728332,
     "lbl:longitude":42.763539,
     "meso:admin1_en":"Anbar",
@@ -83,10 +89,11 @@
         }
     ],
     "wof:id":421177881,
-    "wof:lastmodified":1527716478,
+    "wof:lastmodified":1554488780,
     "wof:name":"Heet",
     "wof:parent_id":85672483,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

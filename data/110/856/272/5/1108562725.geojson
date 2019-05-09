@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212895,
-    "geom:area_square_m":2261100212.71372,
+    "geom:area_square_m":2261100212.713568,
     "geom:bbox":"46.545986176,30.509373774,47.1372,31.140705",
     "geom:latitude":30.803993,
     "geom:longitude":46.904894,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Chibayish District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":30.791402,
     "lbl:longitude":46.929529,
     "meso:admin1_en":"Thi-Qar",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562725,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489208,
     "wof:name":"Chibayish",
     "wof:parent_id":85672463,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

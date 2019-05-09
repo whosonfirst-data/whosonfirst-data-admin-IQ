@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.448862,
-    "geom:area_square_m":4456839125.798938,
+    "geom:area_square_m":4456839125.79901,
     "geom:bbox":"41.808456283,35.923618317,42.882820519,37.065281343",
     "geom:latitude":36.582237,
     "geom:longitude":42.408168,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Telafar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.618637,
     "lbl:longitude":42.40806,
     "meso:admin1_en":"Ninewa",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562635,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489205,
     "wof:name":"Telafar",
     "wof:parent_id":85672429,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

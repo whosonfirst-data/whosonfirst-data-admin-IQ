@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229755,
-    "geom:area_square_m":2392016776.359809,
+    "geom:area_square_m":2392016776.359649,
     "geom:bbox":"44.177900186,32.411827087,45.177947838,32.983957171",
     "geom:latitude":32.650738,
     "geom:longitude":44.650907,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Mahawil District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.621582,
     "lbl:longitude":44.692579,
     "meso:admin1_en":"Babylon",
@@ -88,10 +94,11 @@
         }
     ],
     "wof:id":421188909,
-    "wof:lastmodified":1512517599,
+    "wof:lastmodified":1554488981,
     "wof:name":"Mahawil",
     "wof:parent_id":85672491,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

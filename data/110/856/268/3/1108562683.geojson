@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.325394,
-    "geom:area_square_m":3422848369.119141,
+    "geom:area_square_m":3422848369.119021,
     "geom:bbox":"45.7005,31.335862,46.433847644,32.010103",
     "geom:latitude":31.711692,
     "geom:longitude":46.056862,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Rifa'i District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":31.746535,
     "lbl:longitude":46.050021,
     "meso:admin1_en":"Thi-Qar",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562683,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489206,
     "wof:name":"Rifa'i",
     "wof:parent_id":85672463,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

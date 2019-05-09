@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002001,
-    "geom:area_square_m":20653126.579435,
+    "geom:area_square_m":20653126.579439,
     "geom:bbox":"44.4109810811,33.3644636662,44.5049092788,33.439052",
     "geom:latitude":33.402404,
     "geom:longitude":44.455908,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Thawra2 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.402661,
     "lbl:longitude":44.455305,
     "meso:admin1_en":"Baghdad",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562791,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489210,
     "wof:name":"Thawra2",
     "wof:parent_id":85672447,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147254,
-    "geom:area_square_m":1450388506.68293,
+    "geom:area_square_m":1450388506.682915,
     "geom:bbox":"42.349621816,37.015039,43.182542,37.381555734",
     "geom:latitude":37.197394,
     "geom:longitude":42.835191,
     "gn:country":"IQ",
     "gp:adm0":23424855,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Zakho District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.219301,
     "lbl:longitude":42.841496,
     "meso:admin1_en":"Dahuk",
@@ -78,10 +84,11 @@
         }
     ],
     "wof:id":890445289,
-    "wof:lastmodified":1527792868,
+    "wof:lastmodified":1554489062,
     "wof:name":"Zakho",
     "wof:parent_id":85672417,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

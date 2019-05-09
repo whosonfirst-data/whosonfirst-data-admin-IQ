@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.372528,
-    "geom:area_square_m":3889530617.387744,
+    "geom:area_square_m":3889530617.388315,
     "geom:bbox":"46.400312143,31.979782335,47.151447,32.851699504",
     "geom:latitude":32.394182,
     "geom:longitude":46.74799,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Ali Al-Gharbi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.400932,
     "lbl:longitude":46.753503,
     "meso:admin1_en":"Missan",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562677,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489205,
     "wof:name":"Ali Al-Gharbi",
     "wof:parent_id":85672469,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

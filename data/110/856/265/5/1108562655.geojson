@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.737261,
-    "geom:area_square_m":7599598791.23746,
+    "geom:area_square_m":7599598791.237594,
     "geom:bbox":"44.560342066,33.071397309,45.96133,34.079669952",
     "geom:latitude":33.526905,
     "geom:longitude":45.286698,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Baladrooz District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.501855,
     "lbl:longitude":45.334569,
     "meso:admin1_en":"Diyala",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562655,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489207,
     "wof:name":"Baladrooz",
     "wof:parent_id":85672481,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

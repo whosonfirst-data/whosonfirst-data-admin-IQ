@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.433704,
-    "geom:area_square_m":4334807449.230515,
+    "geom:area_square_m":4334807449.230375,
     "geom:bbox":"42.531021118,35.556893341,43.403501,36.540127153",
     "geom:latitude":36.068696,
     "geom:longitude":42.967643,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Mosul District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.137371,
     "lbl:longitude":42.961075,
     "meso:admin1_en":"Ninewa",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562633,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489205,
     "wof:name":"Mosul",
     "wof:parent_id":85672429,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

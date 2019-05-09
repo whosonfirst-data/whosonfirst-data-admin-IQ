@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131621,
-    "geom:area_square_m":1304557184.21274,
+    "geom:area_square_m":1304557184.212799,
     "geom:bbox":"43.166586982,36.512996621,43.658199732,36.932521487",
     "geom:latitude":36.720563,
     "geom:longitude":43.403462,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Shikhan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.706171,
     "lbl:longitude":43.408167,
     "meso:admin1_en":"Ninewa",
@@ -79,10 +85,11 @@
         }
     ],
     "wof:id":421172365,
-    "wof:lastmodified":1512517560,
+    "wof:lastmodified":1554488767,
     "wof:name":"Shikhan",
     "wof:parent_id":85672429,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

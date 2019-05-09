@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.884115,
-    "geom:area_square_m":8906890174.564648,
+    "geom:area_square_m":8906890174.564764,
     "geom:bbox":"41.85018152,34.945451,43.121570587,35.975414276",
     "geom:latitude":35.438068,
     "geom:longitude":42.463516,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Hatra District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.445734,
     "lbl:longitude":42.451313,
     "meso:admin1_en":"Ninewa",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562641,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489205,
     "wof:name":"Hatra",
     "wof:parent_id":85672429,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

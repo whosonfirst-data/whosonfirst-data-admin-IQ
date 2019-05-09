@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.862404,
-    "geom:area_square_m":8815466612.70475,
+    "geom:area_square_m":8815466612.704872,
     "geom:bbox":"39.880110283,33.768890381,41.598571777,35.063967915",
     "geom:latitude":34.240259,
     "geom:longitude":41.021121,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Ka'im District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.105249,
     "lbl:longitude":41.092644,
     "meso:admin1_en":"Anbar",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562669,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489206,
     "wof:name":"Ka'im",
     "wof:parent_id":85672483,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

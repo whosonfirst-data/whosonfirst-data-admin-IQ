@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045566,
-    "geom:area_square_m":476042416.458742,
+    "geom:area_square_m":476042416.458719,
     "geom:bbox":"44.22470632,32.145039,44.502487841,32.548678207",
     "geom:latitude":32.339414,
     "geom:longitude":44.367165,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Hilla District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.338653,
     "lbl:longitude":44.376607,
     "meso:admin1_en":"Babylon",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562695,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489207,
     "wof:name":"Hilla",
     "wof:parent_id":85672491,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

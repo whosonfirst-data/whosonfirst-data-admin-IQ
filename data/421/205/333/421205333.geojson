@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086336,
-    "geom:area_square_m":912788801.725472,
+    "geom:area_square_m":912788801.725455,
     "geom:bbox":"45.027908325,31.029777527,45.483768463,31.41733551",
     "geom:latitude":31.23738,
     "geom:longitude":45.259039,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Samawa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":31.231797,
     "lbl:longitude":45.262492,
     "meso:admin1_en":"Muthanna",
@@ -246,10 +252,11 @@
         }
     ],
     "wof:id":421205333,
-    "wof:lastmodified":1527716219,
+    "wof:lastmodified":1554489053,
     "wof:name":"Samawa",
     "wof:parent_id":85672455,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":348700,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-iq",

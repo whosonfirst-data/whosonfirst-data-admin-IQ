@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136376,
-    "geom:area_square_m":1400748732.143595,
+    "geom:area_square_m":1400748732.143581,
     "geom:bbox":"44.458076477,33.582424164,45.152233124,34.038230896",
     "geom:latitude":33.833824,
     "geom:longitude":44.761838,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Muqdadiya District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.868724,
     "lbl:longitude":44.761802,
     "meso:admin1_en":"Diyala",
@@ -79,10 +85,11 @@
         }
     ],
     "wof:id":421184253,
-    "wof:lastmodified":1512517584,
+    "wof:lastmodified":1554488946,
     "wof:name":"Muqdadiya",
     "wof:parent_id":85672481,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

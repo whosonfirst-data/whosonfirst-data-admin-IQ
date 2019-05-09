@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178276,
-    "geom:area_square_m":1784155903.334661,
+    "geom:area_square_m":1784155903.334723,
     "geom:bbox":"44.664687462,35.658351,45.33156928,36.215973075",
     "geom:latitude":35.966954,
     "geom:longitude":45.039781,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Dokan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.988397,
     "lbl:longitude":45.067661,
     "meso:admin1_en":"Sulaymaniyah",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562759,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489209,
     "wof:name":"Dokan",
     "wof:parent_id":85672475,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

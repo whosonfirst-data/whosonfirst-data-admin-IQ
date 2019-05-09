@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.479944,
-    "geom:area_square_m":4925891875.711003,
+    "geom:area_square_m":4925891875.711144,
     "geom:bbox":"41.184150696,33.458110809,42.251285553,34.383665806",
     "geom:latitude":33.897679,
     "geom:longitude":41.782745,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Ana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.865473,
     "lbl:longitude":41.701835,
     "meso:admin1_en":"Anbar",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562801,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489210,
     "wof:name":"Ana",
     "wof:parent_id":85672483,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06045,
-    "geom:area_square_m":635233853.766854,
+    "geom:area_square_m":635233853.766897,
     "geom:bbox":"44.250865936,31.602451,44.546183,31.956018448",
     "geom:latitude":31.805725,
     "geom:longitude":44.42777,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Manathera District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":31.825333,
     "lbl:longitude":44.442312,
     "meso:admin1_en":"Najaf",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562693,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489208,
     "wof:name":"Manathera",
     "wof:parent_id":85672439,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

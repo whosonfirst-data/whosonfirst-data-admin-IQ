@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183966,
-    "geom:area_square_m":1885342160.327341,
+    "geom:area_square_m":1885342160.327317,
     "geom:bbox":"43.0240935851,33.862125397,43.882044451,34.1500912876",
     "geom:latitude":34.02433,
     "geom:longitude":43.469653,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Thethar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.008773,
     "lbl:longitude":43.469791,
     "meso:admin1_en":"Salah al-Din",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562797,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489210,
     "wof:name":"Thethar",
     "wof:parent_id":85672435,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

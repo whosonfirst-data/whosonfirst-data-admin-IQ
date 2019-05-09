@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.504602,
-    "geom:area_square_m":5260869206.772964,
+    "geom:area_square_m":5260869206.773378,
     "geom:bbox":"45.45268631,31.978390019,46.610235999,32.970012",
     "geom:latitude":32.524565,
     "geom:longitude":46.128982,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Kut District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.489198,
     "lbl:longitude":46.264637,
     "meso:admin1_en":"Wassit",
@@ -79,10 +85,11 @@
         }
     ],
     "wof:id":421186459,
-    "wof:lastmodified":1512517589,
+    "wof:lastmodified":1554488962,
     "wof:name":"Kut",
     "wof:parent_id":85672473,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

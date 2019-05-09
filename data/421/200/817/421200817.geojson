@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.289846,
-    "geom:area_square_m":2895549021.443264,
+    "geom:area_square_m":2895549021.443299,
     "geom:bbox":"43.590232584,35.730368,44.312459537,36.430186",
     "geom:latitude":36.10751,
     "geom:longitude":44.006512,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Erbil District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.124157,
     "lbl:longitude":44.042158,
     "meso:admin1_en":"Erbil",
@@ -306,10 +312,11 @@
         }
     ],
     "wof:id":421200817,
-    "wof:lastmodified":1527716422,
+    "wof:lastmodified":1554489030,
     "wof:name":"Erbil",
     "wof:parent_id":85672425,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":1500000,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-iq",

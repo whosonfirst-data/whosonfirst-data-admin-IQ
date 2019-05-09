@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191232,
-    "geom:area_square_m":1912027631.155439,
+    "geom:area_square_m":1912027631.155639,
     "geom:bbox":"44.254869,35.826287043,44.957434355,36.278883",
     "geom:latitude":36.040838,
     "geom:longitude":44.524522,
     "gn:country":"IQ",
     "gp:adm0":23424855,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Koisnjaq District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.035858,
     "lbl:longitude":44.460948,
     "meso:admin1_en":"Erbil",
@@ -72,10 +78,11 @@
         }
     ],
     "wof:id":890445493,
-    "wof:lastmodified":1512517875,
+    "wof:lastmodified":1554489062,
     "wof:name":"Koisnjaq",
     "wof:parent_id":85672425,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019978,
-    "geom:area_square_m":206415953.949151,
+    "geom:area_square_m":206415953.949148,
     "geom:bbox":"44.367406271,33.218867434,44.570391773,33.4346689511",
     "geom:latitude":33.322851,
     "geom:longitude":44.480607,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Resafa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.319297,
     "lbl:longitude":44.482153,
     "meso:admin1_en":"Baghdad",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562785,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489210,
     "wof:name":"Resafa",
     "wof:parent_id":85672447,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

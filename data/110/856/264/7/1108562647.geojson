@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.666784,
-    "geom:area_square_m":6766956891.299101,
+    "geom:area_square_m":6766956891.299021,
     "geom:bbox":"42.499910864,34.409942214,43.558182884,35.322780609",
     "geom:latitude":34.840284,
     "geom:longitude":43.018182,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Baiji District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.822453,
     "lbl:longitude":43.018211,
     "meso:admin1_en":"Salah al-Din",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562647,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489206,
     "wof:name":"Baiji",
     "wof:parent_id":85672435,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

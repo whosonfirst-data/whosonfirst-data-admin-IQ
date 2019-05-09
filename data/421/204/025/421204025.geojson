@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100009,
-    "geom:area_square_m":988144096.793025,
+    "geom:area_square_m":988144096.792999,
     "geom:bbox":"42.808514,36.786587004,43.302459,37.119331",
     "geom:latitude":36.959606,
     "geom:longitude":43.05416,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Dahuk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.960336,
     "lbl:longitude":43.054273,
     "meso:admin1_en":"Dahuk",
@@ -84,10 +90,11 @@
         }
     ],
     "wof:id":421204025,
-    "wof:lastmodified":1512517629,
+    "wof:lastmodified":1554489047,
     "wof:name":"Dahuk",
     "wof:parent_id":85672417,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

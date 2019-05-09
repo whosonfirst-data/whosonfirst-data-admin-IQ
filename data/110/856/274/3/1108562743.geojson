@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.268234,
-    "geom:area_square_m":2708422174.251466,
+    "geom:area_square_m":2708422174.251252,
     "geom:bbox":"43.262947908,34.938681585,44.126541138,35.540234855",
     "geom:latitude":35.255441,
     "geom:longitude":43.705279,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Hawiga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.248083,
     "lbl:longitude":43.705361,
     "meso:admin1_en":"Kirkuk",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562743,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489208,
     "wof:name":"Hawiga",
     "wof:parent_id":1108804831,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

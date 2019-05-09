@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174425,
-    "geom:area_square_m":1734997556.983205,
+    "geom:area_square_m":1734997556.983263,
     "geom:bbox":"43.801304115,36.24134,44.635925222,36.669527158",
     "geom:latitude":36.444477,
     "geom:longitude":44.236392,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Shaqlawa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.458727,
     "lbl:longitude":44.242557,
     "meso:admin1_en":"Erbil",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562757,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489209,
     "wof:name":"Shaqlawa",
     "wof:parent_id":85672425,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

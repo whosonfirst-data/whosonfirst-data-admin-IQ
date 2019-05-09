@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166606,
-    "geom:area_square_m":1709512947.622967,
+    "geom:area_square_m":1709512947.622925,
     "geom:bbox":"43.29140437,33.7963215289,44.459960931,34.1370985853",
     "geom:latitude":33.920569,
     "geom:longitude":43.957996,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Balad District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.936274,
     "lbl:longitude":43.997835,
     "meso:admin1_en":"Salah al-Din",
@@ -103,10 +109,11 @@
         }
     ],
     "wof:id":421180939,
-    "wof:lastmodified":1527716233,
+    "wof:lastmodified":1554488794,
     "wof:name":"Balad",
     "wof:parent_id":85672435,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.493548,
-    "geom:area_square_m":4919053327.759875,
+    "geom:area_square_m":4919053327.759837,
     "geom:bbox":"41.279106225,35.923618317,42.479217529,36.596969604",
     "geom:latitude":36.289894,
     "geom:longitude":41.883908,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Sinjar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.319607,
     "lbl:longitude":41.763951,
     "meso:admin1_en":"Ninewa",
@@ -78,10 +84,11 @@
         }
     ],
     "wof:id":421186449,
-    "wof:lastmodified":1512517589,
+    "wof:lastmodified":1554488962,
     "wof:name":"Sinjar",
     "wof:parent_id":85672429,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

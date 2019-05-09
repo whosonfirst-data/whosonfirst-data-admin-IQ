@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.763686,
-    "geom:area_square_m":7673931083.683321,
+    "geom:area_square_m":7673931083.683383,
     "geom:bbox":"41.211229,35.007556758,42.354892731,36.244754791",
     "geom:latitude":35.643593,
     "geom:longitude":41.684177,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Ba'aj District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":35.64388,
     "lbl:longitude":41.67565,
     "meso:admin1_en":"Ninewa",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562639,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489206,
     "wof:name":"Ba'aj",
     "wof:parent_id":85672429,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

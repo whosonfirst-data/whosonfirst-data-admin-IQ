@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.280342,
-    "geom:area_square_m":2764458632.029567,
+    "geom:area_square_m":2764458632.029114,
     "geom:bbox":"43.067087,36.819387087,44.100864855,37.35942",
     "geom:latitude":37.109468,
     "geom:longitude":43.535308,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Amedi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.063914,
     "lbl:longitude":43.457148,
     "meso:admin1_en":"Dahuk",
@@ -91,10 +97,11 @@
         }
     ],
     "wof:id":421182249,
-    "wof:lastmodified":1512517577,
+    "wof:lastmodified":1554488812,
     "wof:name":"Amedi",
     "wof:parent_id":85672417,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

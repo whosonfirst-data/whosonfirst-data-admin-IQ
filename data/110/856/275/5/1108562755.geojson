@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080376,
-    "geom:area_square_m":801063052.733364,
+    "geom:area_square_m":801063052.733463,
     "geom:bbox":"44.52270555,36.103313099,44.993900998,36.477739573",
     "geom:latitude":36.291977,
     "geom:longitude":44.741427,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Rania District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.293978,
     "lbl:longitude":44.745027,
     "meso:admin1_en":"Sulaymaniyah",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562755,
-    "wof:lastmodified":1512516785,
+    "wof:lastmodified":1554489208,
     "wof:name":"Rania",
     "wof:parent_id":85672475,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

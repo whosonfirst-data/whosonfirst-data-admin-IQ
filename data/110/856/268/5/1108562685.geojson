@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22246,
-    "geom:area_square_m":2328728535.201997,
+    "geom:area_square_m":2328728535.202038,
     "geom:bbox":"45.612324461,31.933702,46.333332062,32.411827087",
     "geom:latitude":32.158752,
     "geom:longitude":45.950063,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Hai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.172503,
     "lbl:longitude":45.914014,
     "meso:admin1_en":"Wassit",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562685,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489208,
     "wof:name":"Hai",
     "wof:parent_id":85672473,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060185,
-    "geom:area_square_m":632631773.534028,
+    "geom:area_square_m":632631773.534069,
     "geom:bbox":"44.499715,31.593444824,44.74817276,32.025116",
     "geom:latitude":31.779074,
     "geom:longitude":44.608612,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Shamiya District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":31.734888,
     "lbl:longitude":44.620853,
     "meso:admin1_en":"Qadissiya",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562699,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489207,
     "wof:name":"Shamiya",
     "wof:parent_id":85672459,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

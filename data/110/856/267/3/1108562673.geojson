@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.42514,
-    "geom:area_square_m":4407571684.84885,
+    "geom:area_square_m":4407571684.848613,
     "geom:bbox":"45.411915,32.629371643,46.281528473,33.511912303",
     "geom:latitude":33.024915,
     "geom:longitude":45.859497,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Badra District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.992962,
     "lbl:longitude":45.816585,
     "meso:admin1_en":"Wassit",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562673,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489206,
     "wof:name":"Badra",
     "wof:parent_id":85672473,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

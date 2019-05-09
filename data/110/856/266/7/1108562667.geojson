@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.978157,
-    "geom:area_square_m":93596478498.218765,
+    "geom:area_square_m":93596478498.218292,
     "geom:bbox":"38.7936030009,30.599919248,43.834073837,33.944999695",
     "geom:latitude":32.525691,
     "geom:longitude":41.306599,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Rutba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.567776,
     "lbl:longitude":41.345313,
     "meso:admin1_en":"Anbar",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562667,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489207,
     "wof:name":"Rutba",
     "wof:parent_id":85672483,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

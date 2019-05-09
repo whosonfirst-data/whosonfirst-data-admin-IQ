@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.605448,
-    "geom:area_square_m":6348754175.198973,
+    "geom:area_square_m":6348754175.198791,
     "geom:bbox":"46.28870833,31.676317215,47.865817,32.497593",
     "geom:latitude":32.001582,
     "geom:longitude":47.161844,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Amara District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.033136,
     "lbl:longitude":47.227468,
     "meso:admin1_en":"Missan",
@@ -54,10 +60,11 @@
         }
     ],
     "wof:id":1108562681,
-    "wof:lastmodified":1512516784,
+    "wof:lastmodified":1554489206,
     "wof:name":"Amara",
     "wof:parent_id":85672469,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],

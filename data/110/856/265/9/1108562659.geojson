@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.230463,
-    "geom:area_square_m":2337376096.709843,
+    "geom:area_square_m":2337376096.70989,
     "geom:bbox":"44.930024847,34.51081184,45.641651423,35.170279",
     "geom:latitude":34.893664,
     "geom:longitude":45.313409,
     "iso:country":"IQ",
+    "label:eng_x_preferred_longname":[
+        "Kalar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":34.912649,
     "lbl:longitude":45.337618,
     "meso:admin1_en":"Sulaymaniyah",
@@ -53,10 +59,11 @@
         }
     ],
     "wof:id":1108562659,
-    "wof:lastmodified":1512516783,
+    "wof:lastmodified":1554489205,
     "wof:name":"Kalar",
     "wof:parent_id":85672475,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
     "wof:supersedes":[],
