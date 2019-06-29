@@ -162,9 +162,6 @@
     "name:cym_x_preferred":[
         "Irac"
     ],
-    "name:cze_x_preferred":[
-        "Ir\u00e1k"
-    ],
     "name:dan_x_preferred":[
         "Irak"
     ],
@@ -627,9 +624,6 @@
     "name:rue_x_preferred":[
         "\u0406\u0440\u0430\u043a"
     ],
-    "name:rum_x_preferred":[
-        "Irak"
-    ],
     "name:run_x_preferred":[
         "Iraki"
     ],
@@ -849,9 +843,6 @@
     "name:zho_x_preferred":[
         "\u4f0a\u62c9\u514b"
     ],
-    "name:zho_x_variant":[
-        "\u4f0a\u62c9\u514b"
-    ],
     "name:zho_yue_x_preferred":[
         "\u4f0a\u62c9\u514b"
     ],
@@ -1010,7 +1001,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1544059311,
+    "wof:lastmodified":1561767076,
     "wof:name":"Iraq",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -25,17 +25,11 @@
     "name:arc_x_preferred":[
         "\u071f\u072a\u071f \u0723\u0720\u0718\u071f"
     ],
-    "name:arm_x_preferred":[
-        "\u0554\u056b\u0580\u0584\u0578\u0582\u0584"
-    ],
     "name:azb_x_preferred":[
         "\u06a9\u0631\u06a9\u0648\u06a9"
     ],
     "name:aze_x_preferred":[
         "K\u0259rk\u00fck"
-    ],
-    "name:baq_x_preferred":[
-        "Kirkuk"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0456\u0440\u043a\u0443\u043a"
@@ -52,14 +46,8 @@
     "name:ces_x_preferred":[
         "Kirk\u00fak"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u723e\u5eab\u514b"
-    ],
     "name:ckb_x_preferred":[
         "\u06a9\u06d5\u0631\u06a9\u0648\u0648\u06a9"
-    ],
-    "name:cze_x_preferred":[
-        "Kirk\u00fak"
     ],
     "name:dan_x_preferred":[
         "Kirkuk"
@@ -69,9 +57,6 @@
     ],
     "name:diq_x_preferred":[
         "Kerk\u00fbk"
-    ],
-    "name:dut_x_preferred":[
-        "Kirkoek"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03c1\u03ba\u03bf\u03cd\u03ba"
@@ -85,6 +70,9 @@
     "name:est_x_preferred":[
         "Kirk\u016bk"
     ],
+    "name:eus_x_preferred":[
+        "Kirkuk"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0631\u06a9\u0648\u06a9"
     ],
@@ -93,18 +81,6 @@
     ],
     "name:fra_x_preferred":[
         "Kirkouk"
-    ],
-    "name:fre_x_preferred":[
-        "Kirkouk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10e0\u10d9\u10e3\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kirkuk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03c1\u03ba\u03bf\u03cd\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab0\u0acd\u0a95\u0ac1\u0a95"
@@ -178,13 +154,13 @@
     "name:mal_x_preferred":[
         "\u0d15\u0d3f\u0d7c\u0d15\u0d41\u0d15\u0d4d\u0d15\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Kirkuk"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093f\u0930\u094d\u0915\u0941\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:mri_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:msa_x_preferred":[
         "Kirkuk"
     ],
     "name:mzn_x_preferred":[
@@ -211,9 +187,6 @@
     "name:oci_x_preferred":[
         "Kirkuk"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u06a9\u0648\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0631\u06a9\u0648\u06a9"
     ],
@@ -223,7 +196,7 @@
     "name:por_x_preferred":[
         "Kirkuk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kirkuk"
     ],
     "name:rus_x_preferred":[
@@ -239,9 +212,6 @@
         "\u0d9a\u0dbb\u0dca\u0d9a\u0dd4\u0d9a\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Kark\u00fak"
-    ],
-    "name:slo_x_preferred":[
         "Kark\u00fak"
     ],
     "name:spa_x_preferred":[
@@ -421,7 +391,7 @@
         }
     ],
     "wof:id":890449811,
-    "wof:lastmodified":1527727155,
+    "wof:lastmodified":1561767188,
     "wof:name":"Kirkuk",
     "wof:parent_id":421199293,
     "wof:placetype":"locality",

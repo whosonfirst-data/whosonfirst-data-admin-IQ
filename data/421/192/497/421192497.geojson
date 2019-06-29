@@ -25,32 +25,26 @@
     "name:cat_x_preferred":[
         "Amadiya"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u99ac\u8fea\u8036"
+    "name:ces_x_preferred":[
+        "Am\u00e1d\u00edja"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u0645\u06ce\u062f\u06cc"
     ],
-    "name:cze_x_preferred":[
-        "Am\u00e1d\u00edja"
-    ],
     "name:dan_x_preferred":[
         "Amediye"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Amediye"
     ],
     "name:eng_x_preferred":[
         "Amadiya"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0639\u0645\u0627\u062f\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Amedi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10d0\u10db\u10d0\u10d3\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Amediye"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05de\u05d9\u05d3\u05d9\u05d9\u05d4"
@@ -61,6 +55,9 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30de\u30c7\u30a3\u30e4"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d0\u10db\u10d0\u10d3\u10d8\u10d0"
+    ],
     "name:kur_x_preferred":[
         "Am\u00ead\u00ee"
     ],
@@ -69,11 +66,11 @@
         "Am\u00eed\u00ee",
         "\u0626\u0627\u0645\u064a\u062f\u0649"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Amediye"
     ],
-    "name:per_x_preferred":[
-        "\u0639\u0645\u0627\u062f\u06cc\u0647"
+    "name:nob_x_preferred":[
+        "Amediye"
     ],
     "name:pol_x_preferred":[
         "Al-Amadijja"
@@ -92,6 +89,9 @@
     ],
     "name:unk_x_variant":[
         "\u2018Am\u0101d\u012bya"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u99ac\u8fea\u8036"
     ],
     "qs:gn_country":"IQ",
     "qs:gn_fcode":"PPL",
@@ -143,7 +143,7 @@
         }
     ],
     "wof:id":421192497,
-    "wof:lastmodified":1527716110,
+    "wof:lastmodified":1561767185,
     "wof:name":"Amadiyah",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

@@ -25,17 +25,11 @@
     "name:arc_x_preferred":[
         "\u0712\u0728\u072a\u0710"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u057d\u0580\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0628\u0635\u0631\u0647"
     ],
     "name:aze_x_preferred":[
         "B\u0259sr\u0259"
-    ],
-    "name:baq_x_preferred":[
-        "Basora"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0441\u0440\u0430"
@@ -58,13 +52,10 @@
     "name:che_x_preferred":[
         "\u0411\u0430\u0441\u0440\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u58eb\u62c9"
-    ],
     "name:ckb_x_preferred":[
         "\u0628\u06d5\u0633\u0631\u06d5"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Basra"
     ],
     "name:dan_x_preferred":[
@@ -73,8 +64,8 @@
     "name:deu_x_preferred":[
         "Basra"
     ],
-    "name:dut_x_preferred":[
-        "Basra"
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c3\u03cc\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Basra"
@@ -88,6 +79,9 @@
     "name:est_x_preferred":[
         "Al-Ba\u015frah"
     ],
+    "name:eus_x_preferred":[
+        "Basora"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0635\u0631\u0647"
     ],
@@ -97,23 +91,14 @@
     "name:fra_x_preferred":[
         "Bassorah"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Bassora"
     ],
     "name:fry_x_preferred":[
         "Basra"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e1\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Basra"
-    ],
     "name:gle_x_preferred":[
         "Basra"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1\u03c3\u03cc\u03c1\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Basra"
@@ -129,6 +114,9 @@
     ],
     "name:hun_x_preferred":[
         "Baszra"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u057d\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Basra"
@@ -147,6 +135,9 @@
     ],
     "name:kal_x_preferred":[
         "Basra"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e1\u10e0\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0441\u0440\u0430"
@@ -169,23 +160,23 @@
     "name:lit_x_preferred":[
         "Basra"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u0441\u0440\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d38\u0d31"
-    ],
-    "name:mao_x_preferred":[
-        "Basra"
     ],
     "name:mar_x_preferred":[
         "\u092c\u0938\u0930\u093e"
     ],
-    "name:may_x_preferred":[
-        "Basra"
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0441\u0440\u0430"
     ],
     "name:mlg_x_preferred":[
         "Bassora"
+    ],
+    "name:mri_x_preferred":[
+        "Basra"
+    ],
+    "name:msa_x_preferred":[
+        "Basra"
     ],
     "name:nau_x_preferred":[
         "Basra"
@@ -205,9 +196,6 @@
     "name:pan_x_preferred":[
         "\u0a2c\u0a38\u0a30\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0635\u0631\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0644\u0628\u0635\u0631\u06c1"
     ],
@@ -220,7 +208,7 @@
     "name:por_x_variant":[
         "Bassora"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Basra"
     ],
     "name:rus_x_preferred":[
@@ -229,7 +217,7 @@
     "name:sco_x_preferred":[
         "Basra"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Basra"
     ],
     "name:slv_x_preferred":[
@@ -281,9 +269,6 @@
         "Basra"
     ],
     "name:war_x_preferred":[
-        "Basra"
-    ],
-    "name:wel_x_preferred":[
         "Basra"
     ],
     "name:wln_x_preferred":[
@@ -345,7 +330,7 @@
         }
     ],
     "wof:id":421202467,
-    "wof:lastmodified":1514454999,
+    "wof:lastmodified":1561767185,
     "wof:name":"\u0627\u0644\u0628\u0635\u0631\u0629",
     "wof:parent_id":1108562731,
     "wof:placetype":"locality",

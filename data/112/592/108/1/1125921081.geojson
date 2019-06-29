@@ -28,9 +28,6 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0646\u0627\u0635\u0631\u064a\u0647"
     ],
-    "name:baq_x_preferred":[
-        "Nasiriya"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0430\u0441\u0456\u0440\u044b\u044f"
     ],
@@ -43,10 +40,7 @@
     "name:cat_x_preferred":[
         "Nasiriyah"
     ],
-    "name:chi_x_preferred":[
-        "\u7eb3\u897f\u91cc\u8036"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "N\u00e1sir\u00edja"
     ],
     "name:dan_x_preferred":[
@@ -55,8 +49,11 @@
     "name:deu_x_preferred":[
         "Nasiriyya"
     ],
-    "name:dut_x_preferred":[
-        "Nasiriyah"
+    "name:deu_x_variant":[
+        "Nasiriya"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03c3\u03b9\u03c1\u03af\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nasiriyah"
@@ -67,20 +64,17 @@
     "name:est_x_preferred":[
         "An-N\u0101\u015fir\u012byah"
     ],
+    "name:eus_x_preferred":[
+        "Nasiriya"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0635\u0631\u06cc\u0647"
+    ],
     "name:fin_x_preferred":[
         "Nasiriyya"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nassiriya"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10e1\u10d8\u10e0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Nasiriya"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03c3\u03b9\u03c1\u03af\u03b3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0ab8\u0abf\u0ab0\u0abf\u0aaf\u0abe\u0ab9"
@@ -103,6 +97,9 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0cbe\u0cb8\u0cbf\u0cb0\u0cbf\u0caf\u0cbe\u0cb9\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10e1\u10d8\u10e0\u10d8\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u041d\u0430\u0441\u0438\u0440\u0438\u044f"
     ],
@@ -118,7 +115,7 @@
     "name:mar_x_preferred":[
         "\u0928\u0936\u0940\u0930\u0940\u092f\u093e\u0939"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "An-Nashiriyah"
     ],
     "name:mzn_x_preferred":[
@@ -130,9 +127,6 @@
     "name:nob_x_preferred":[
         "Nasiriyah"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u0635\u0631\u06cc\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0646\u0627\u0635\u0631\u06c1"
     ],
@@ -142,7 +136,7 @@
     "name:por_x_preferred":[
         "Nass\u00edria"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nassiriya"
     ],
     "name:rus_x_preferred":[
@@ -193,6 +187,9 @@
     "name:war_x_preferred":[
         "Nasariya"
     ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u897f\u91cc\u8036"
+    ],
     "qs_pg:aaroncc":"IQ",
     "qs_pg:gn_country":"IQ",
     "qs_pg:gn_fcode":"PPLA",
@@ -232,7 +229,7 @@
         }
     ],
     "wof:id":1125921081,
-    "wof:lastmodified":1514454982,
+    "wof:lastmodified":1561767189,
     "wof:name":"An N\u0101\u015fir\u012byah",
     "wof:parent_id":421172357,
     "wof:placetype":"locality",

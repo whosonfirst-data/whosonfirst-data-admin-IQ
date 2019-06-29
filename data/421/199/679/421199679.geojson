@@ -23,11 +23,11 @@
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09af\u09bc \u09b8\u09be\u099e\u09cd\u099c\u09be\u0995"
     ],
+    "name:ces_x_preferred":[
+        "Koy Sanjaq"
+    ],
     "name:ckb_x_preferred":[
         "\u06a9\u06c6\u06cc\u06d5"
-    ],
-    "name:cze_x_preferred":[
-        "Koy Sanjaq"
     ],
     "name:dan_x_preferred":[
         "Koy Sanjaq"
@@ -35,8 +35,8 @@
     "name:deu_x_preferred":[
         "Koya"
     ],
-    "name:dut_x_preferred":[
-        "Koy Sanjaq"
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Koy Sanjaq"
@@ -49,15 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Koy Sanjaq"
-    ],
-    "name:fre_x_preferred":[
-        "Koy Sanjaq"
-    ],
-    "name:ger_x_preferred":[
-        "Koya"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03b3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aaf \u0ab8\u0a82\u0a9c\u0ac7\u0a95"
@@ -101,7 +92,10 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u092f\u093c \u0938\u0928\u091c\u093e\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Koy Sanjaq"
+    ],
+    "name:nld_x_preferred":[
         "Koy Sanjaq"
     ],
     "name:nob_x_preferred":[
@@ -109,9 +103,6 @@
     ],
     "name:nor_x_preferred":[
         "Koy Sanjaq"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u06cc\u200c\u0633\u0646\u062c\u0642"
     ],
     "name:pol_x_preferred":[
         "Koy Sanjaq"
@@ -206,7 +197,7 @@
         }
     ],
     "wof:id":421199679,
-    "wof:lastmodified":1527716417,
+    "wof:lastmodified":1561767186,
     "wof:name":"Koi Sanjaq",
     "wof:parent_id":890445493,
     "wof:placetype":"locality",

@@ -25,25 +25,22 @@
     "name:ara_x_variant":[
         "\u0631\u0648\u0627\u0646\u062f\u0632"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u0561\u057e\u0561\u0576\u0564\u0578\u0582\u0566"
-    ],
     "name:cat_x_preferred":[
         "Rawandiz"
     ],
     "name:ckb_x_preferred":[
         "\u0695\u06d5\u0648\u0627\u0646\u062f\u0632"
     ],
-    "name:dut_x_preferred":[
-        "Rowanduz"
+    "name:deu_x_preferred":[
+        "Rawanduz"
     ],
     "name:eng_x_preferred":[
         "Rowanduz"
     ],
-    "name:fre_x_preferred":[
-        "Rawanduz"
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0627\u0646\u062f\u0632"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rawanduz"
     ],
     "name:heb_x_preferred":[
@@ -51,6 +48,9 @@
     ],
     "name:hun_x_preferred":[
         "Ravend\u00faz"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u057e\u0561\u0576\u0564\u0578\u0582\u0566"
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30ef\u30f3\u30c9\u30a5\u30ba"
@@ -64,8 +64,8 @@
         "\u0695\u06d5\u0648\u0627\u0646\u062f\u0648\u0632",
         "Rewandiz"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0627\u0646\u062f\u0632"
+    "name:nld_x_preferred":[
+        "Rowanduz"
     ],
     "name:pol_x_preferred":[
         "Rawanduz"
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1125920321,
-    "wof:lastmodified":1514454994,
+    "wof:lastmodified":1561767189,
     "wof:name":"R\u0101wand\u016bz",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",

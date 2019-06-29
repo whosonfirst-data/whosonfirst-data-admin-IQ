@@ -16,14 +16,8 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u062c\u064a\u0644"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u8d3e\u5c14"
-    ],
     "name:deu_x_preferred":[
         "Dudschail"
-    ],
-    "name:dut_x_preferred":[
-        "Dujail"
     ],
     "name:eng_x_preferred":[
         "Dujail"
@@ -31,14 +25,11 @@
     "name:epo_x_preferred":[
         "Dujail"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u062c\u064a\u0644"
+    ],
     "name:fra_x_preferred":[
         "Douja\u00efl"
-    ],
-    "name:fre_x_preferred":[
-        "Douja\u00efl"
-    ],
-    "name:ger_x_preferred":[
-        "Dudschail"
     ],
     "name:ind_x_preferred":[
         "Dujail"
@@ -54,9 +45,6 @@
     ],
     "name:nld_x_preferred":[
         "Dujail"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u062c\u064a\u0644"
     ],
     "name:pol_x_preferred":[
         "Dud\u017cail"
@@ -81,6 +69,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u062c\u06cc\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u8d3e\u5c14"
     ],
     "qs:gn_country":"IQ",
     "qs:gn_fcode":"PPL",
@@ -129,7 +120,7 @@
         }
     ],
     "wof:id":421179965,
-    "wof:lastmodified":1514454976,
+    "wof:lastmodified":1561767187,
     "wof:name":"Ad Dujayl",
     "wof:parent_id":1108562809,
     "wof:placetype":"locality",

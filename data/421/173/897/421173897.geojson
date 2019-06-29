@@ -26,9 +26,6 @@
     "name:aze_x_preferred":[
         "F\u0259lluc\u0259"
     ],
-    "name:baq_x_preferred":[
-        "Falluja"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u043b\u044c-\u0424\u0430\u043b\u0443\u0434\u0436\u0430"
     ],
@@ -41,14 +38,14 @@
     "name:cat_x_preferred":[
         "Falluja"
     ],
-    "name:chi_x_preferred":[
-        "\u8d39\u5362\u6770"
+    "name:ces_x_preferred":[
+        "Fall\u00fad\u017ea"
     ],
     "name:ckb_x_preferred":[
         "\u0641\u06d5\u0644\u0648\u0648\u062c\u06d5"
     ],
-    "name:cze_x_preferred":[
-        "Fall\u00fad\u017ea"
+    "name:cym_x_preferred":[
+        "Fallujah"
     ],
     "name:dan_x_preferred":[
         "Fallujah"
@@ -56,8 +53,8 @@
     "name:deu_x_preferred":[
         "Falludscha"
     ],
-    "name:dut_x_preferred":[
-        "Fallujah"
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03bb\u03bf\u03cd\u03c4\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Fallujah"
@@ -68,26 +65,20 @@
     "name:est_x_preferred":[
         "Al-Fall\u016bjah"
     ],
+    "name:eus_x_preferred":[
+        "Falluja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0644\u0648\u062c\u0647"
+    ],
     "name:fin_x_preferred":[
         "Falluja"
     ],
     "name:fra_x_preferred":[
         "Falloujah"
     ],
-    "name:fre_x_preferred":[
-        "Falloujah"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d0\u10da\u10e3\u10ef\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Falludscha"
-    ],
     "name:glg_x_preferred":[
         "Faluxa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b1\u03bb\u03bf\u03cd\u03c4\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ab2\u0ac2\u0a9c\u0ab9"
@@ -113,6 +104,9 @@
     "name:kan_x_preferred":[
         "\u0cab\u0cbe\u0cb2\u0cc1\u0c9c\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10da\u10e3\u10ef\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u042d\u043b\u044c-\u0424\u0430\u043b\u043b\u0443\u0434\u0436\u0430"
     ],
@@ -131,7 +125,7 @@
     "name:mar_x_preferred":[
         "\u092b\u0941\u0932\u0941\u091c\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Fallujah"
     ],
     "name:mzn_x_preferred":[
@@ -149,9 +143,6 @@
     "name:pan_x_preferred":[
         "\u0a2b\u0a3c\u0a32\u0a42\u0a1c\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0644\u0648\u062c\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0641\u0644\u0648\u062c\u06c1"
     ],
@@ -164,7 +155,7 @@
     "name:por_x_variant":[
         "Falluja"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fallujah"
     ],
     "name:rus_x_preferred":[
@@ -212,8 +203,8 @@
     "name:vie_x_preferred":[
         "Fallujah"
     ],
-    "name:wel_x_preferred":[
-        "Fallujah"
+    "name:zho_x_preferred":[
+        "\u8d39\u5362\u6770"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Iraq",
@@ -354,7 +345,7 @@
         }
     ],
     "wof:id":421173897,
-    "wof:lastmodified":1514455000,
+    "wof:lastmodified":1561767185,
     "wof:name":"\u0627\u0644\u0641\u0644\u0648\u062c\u0629",
     "wof:parent_id":421191407,
     "wof:placetype":"locality",

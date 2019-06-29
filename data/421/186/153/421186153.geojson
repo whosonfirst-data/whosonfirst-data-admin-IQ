@@ -26,9 +26,6 @@
     "name:arc_x_preferred":[
         "\u0721\u0718\u0728\u0720"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u057d\u0578\u0582\u056c"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0645\u0648\u0635\u0644"
     ],
@@ -36,9 +33,6 @@
         "\u0645\u0648\u0635\u0648\u0644"
     ],
     "name:aze_x_preferred":[
-        "Mosul"
-    ],
-    "name:baq_x_preferred":[
         "Mosul"
     ],
     "name:bel_x_preferred":[
@@ -65,13 +59,10 @@
     "name:che_x_preferred":[
         "\u041c\u043e\u0441\u0443\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u6469\u82cf\u5c14"
-    ],
     "name:ckb_x_preferred":[
         "\u0645\u0648\u0648\u0633\u06b5"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Mosul"
     ],
     "name:dan_x_preferred":[
@@ -82,9 +73,6 @@
     ],
     "name:diq_x_preferred":[
         "Mus\u0131l"
-    ],
-    "name:dut_x_preferred":[
-        "Mosoel"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c3\u03bf\u03cd\u03bb\u03b7"
@@ -98,6 +86,9 @@
     "name:est_x_preferred":[
         "Mosul"
     ],
+    "name:eus_x_preferred":[
+        "Mosul"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0635\u0644"
     ],
@@ -107,20 +98,8 @@
     "name:fra_x_preferred":[
         "Mossoul"
     ],
-    "name:fre_x_preferred":[
-        "Mossoul"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10e1\u10e3\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Mossul"
-    ],
     "name:gle_x_preferred":[
         "Mosul"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c3\u03bf\u03cd\u03bb\u03b7"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab8\u0ac1\u0ab2"
@@ -140,14 +119,14 @@
     "name:hye_x_preferred":[
         "\u0544\u0578\u057d\u0578\u0582\u056c"
     ],
-    "name:ice_x_preferred":[
-        "M\u00f3s\u00fal"
-    ],
     "name:ile_x_preferred":[
         "Mosul"
     ],
     "name:ind_x_preferred":[
         "Mosul"
+    ],
+    "name:isl_x_preferred":[
+        "M\u00f3s\u00fal"
     ],
     "name:ita_x_preferred":[
         "Mossul"
@@ -201,20 +180,20 @@
     "name:mal_x_preferred":[
         "\u0d2e\u0d4a\u0d38\u0d42\u0d7e"
     ],
-    "name:mao_x_preferred":[
-        "Mosul"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u0938\u0941\u0932"
-    ],
-    "name:may_x_preferred":[
-        "Mosul"
     ],
     "name:mhr_x_preferred":[
         "\u041c\u043e\u0441\u0443\u043b"
     ],
     "name:mon_x_preferred":[
         "\u041c\u043e\u0441\u0443\u043b \u0445\u043e\u0442"
+    ],
+    "name:mri_x_preferred":[
+        "Mosul"
+    ],
+    "name:msa_x_preferred":[
+        "Mosul"
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u0635\u0644"
@@ -243,9 +222,6 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a4b\u0a38\u0a32"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0635\u0644"
-    ],
     "name:pnb_x_preferred":[
         "\u0645\u0648\u0635\u0644"
     ],
@@ -255,7 +231,7 @@
     "name:por_x_preferred":[
         "Mossul"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mosul"
     ],
     "name:rus_x_preferred":[
@@ -270,7 +246,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0dc3\u0dd4\u0dbd\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mosul"
     ],
     "name:slv_x_preferred":[
@@ -319,9 +295,6 @@
         "Mosul"
     ],
     "name:war_x_preferred":[
-        "Mosul"
-    ],
-    "name:wel_x_preferred":[
         "Mosul"
     ],
     "name:yid_x_preferred":[
@@ -476,7 +449,7 @@
         }
     ],
     "wof:id":421186153,
-    "wof:lastmodified":1514455007,
+    "wof:lastmodified":1561767186,
     "wof:name":"\u0645\u0648\u0635\u0644",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",

@@ -16,17 +16,14 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062c\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u62dc\u4f0a\u5409"
+    "name:ces_x_preferred":[
+        "Bajd\u017e\u00ed"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u06ce\u062c\u06cc"
     ],
-    "name:cze_x_preferred":[
-        "Bajd\u017e\u00ed"
-    ],
-    "name:dut_x_preferred":[
-        "Baiji"
+    "name:deu_x_preferred":[
+        "Baidschi"
     ],
     "name:eng_x_preferred":[
         "Baiji"
@@ -34,14 +31,14 @@
     "name:est_x_preferred":[
         "Bayj\u012b"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062c\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Baiji"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ba\u00efji"
-    ],
-    "name:ger_x_preferred":[
-        "Baidschi"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05d9\u05d2'\u05d9"
@@ -55,11 +52,11 @@
     "name:mzn_x_preferred":[
         "\u0628\u06cc\u062c\u06cc\u060c \u0639\u0631\u0627\u0642"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Baiji"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u062c\u06cc"
+    "name:nob_x_preferred":[
+        "Baiji"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u062c\u06cc"
@@ -70,7 +67,7 @@
     "name:por_x_preferred":[
         "Baiji"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Baiji"
     ],
     "name:rus_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u062c\u06cc\u060c \u0639\u0631\u0627\u0642"
+    ],
+    "name:zho_x_preferred":[
+        "\u62dc\u4f0a\u5409"
     ],
     "qs:gn_country":"IQ",
     "qs:gn_fcode":"PPL",
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":421176057,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1561767187,
     "wof:name":"\u0628\u064a\u062c\u064a",
     "wof:parent_id":1108562647,
     "wof:placetype":"locality",
