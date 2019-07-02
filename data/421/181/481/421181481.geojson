@@ -23,9 +23,6 @@
     "name:aze_x_preferred":[
         "Ramadi"
     ],
-    "name:baq_x_preferred":[
-        "Ramadi"
-    ],
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09ae\u09be\u09a8\u09cd\u09a1\u09bf"
     ],
@@ -38,19 +35,10 @@
     "name:ces_x_preferred":[
         "Ram\u00e1d\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u99ac\u8fea"
-    ],
-    "name:cze_x_preferred":[
-        "Ram\u00e1d\u00ed"
-    ],
     "name:dan_x_preferred":[
         "Al-Rumadi"
     ],
     "name:deu_x_preferred":[
-        "Ramadi"
-    ],
-    "name:dut_x_preferred":[
         "Ramadi"
     ],
     "name:ell_x_preferred":[
@@ -65,6 +53,9 @@
     "name:est_x_preferred":[
         "Ar-Ram\u0101d\u012b"
     ],
+    "name:eus_x_preferred":[
+        "Ramadi"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0645\u0627\u062f\u06cc"
     ],
@@ -73,18 +64,6 @@
     ],
     "name:fra_x_preferred":[
         "Ramadi"
-    ],
-    "name:fre_x_preferred":[
-        "Ramadi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10db\u10d0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ramadi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b1\u03bc\u03ac\u03bd\u03c4\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abe\u0aae\u0aa6\u0ac0"
@@ -131,7 +110,7 @@
     "name:mar_x_preferred":[
         "\u0930\u093e\u092e\u0926\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ramadi"
     ],
     "name:mzn_x_preferred":[
@@ -149,9 +128,6 @@
     "name:pan_x_preferred":[
         "\u0a30\u0a2e\u0a3e\u0a26\u0a40"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0645\u0627\u062f\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0631\u0627\u0645\u0627\u062f\u06cc"
     ],
@@ -164,9 +140,6 @@
     "name:ron_x_preferred":[
         "Ar Ramadi"
     ],
-    "name:rum_x_preferred":[
-        "Ar Ramadi"
-    ],
     "name:rus_x_preferred":[
         "\u042d\u0440-\u0420\u0430\u043c\u0430\u0434\u0438"
     ],
@@ -177,9 +150,6 @@
         "\u0dbb\u0db8\u0daf\u0dd3"
     ],
     "name:slk_x_preferred":[
-        "Ram\u00e1d\u00ed"
-    ],
-    "name:slo_x_preferred":[
         "Ram\u00e1d\u00ed"
     ],
     "name:spa_x_preferred":[
@@ -367,7 +337,7 @@
         }
     ],
     "wof:id":421181481,
-    "wof:lastmodified":1527716328,
+    "wof:lastmodified":1561767186,
     "wof:name":"Ramadie",
     "wof:parent_id":421178933,
     "wof:placetype":"locality",

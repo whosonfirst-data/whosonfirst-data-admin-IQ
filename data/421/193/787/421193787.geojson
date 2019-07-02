@@ -38,9 +38,6 @@
     "name:bul_x_preferred":[
         "\u0414\u0430\u0445\u0443\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u9054\u970d\u514b"
-    ],
     "name:ckb_x_preferred":[
         "\u062f\u06be\u06c6\u06a9"
     ],
@@ -50,8 +47,8 @@
     "name:deu_x_preferred":[
         "Dohuk"
     ],
-    "name:dut_x_preferred":[
-        "Duhok"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03c7\u03bf\u03cd\u03ba"
     ],
     "name:eng_x_preferred":[
         "Dahuk"
@@ -71,17 +68,8 @@
     "name:fra_x_preferred":[
         "Duhok"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Dahuk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10f0\u10e3\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dohuk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b1\u03c7\u03bf\u03cd\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0acb\u0ab9\u0ac1\u0a95"
@@ -103,6 +91,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca6\u0ccb\u0cb9\u0cc1\u0c95\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10f0\u10e3\u10d9\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub2e4\ud6c4\ud06c"
@@ -136,7 +127,7 @@
     "name:mar_x_preferred":[
         "\u0926\u094b\u0939\u0941\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dahuk"
     ],
     "name:mzn_x_preferred":[
@@ -151,9 +142,6 @@
     "name:nor_x_preferred":[
         "Dahuk"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0647\u0648\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u062f\u0647\u0648\u0643"
     ],
@@ -163,7 +151,7 @@
     "name:por_x_preferred":[
         "Dohuk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dahuk"
     ],
     "name:rus_x_preferred":[
@@ -204,6 +192,9 @@
     ],
     "name:vie_x_preferred":[
         "Dohuk"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u970d\u514b"
     ],
     "qs:gn_country":"IQ",
     "qs:gn_fcode":"PPLA",
@@ -251,7 +242,7 @@
         }
     ],
     "wof:id":421193787,
-    "wof:lastmodified":1514455004,
+    "wof:lastmodified":1561767185,
     "wof:name":"\u062f\u0647\u0648\u0643",
     "wof:parent_id":421204025,
     "wof:placetype":"locality",

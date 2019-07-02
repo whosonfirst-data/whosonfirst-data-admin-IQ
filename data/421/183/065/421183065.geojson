@@ -19,9 +19,6 @@
     "name:ara_x_variant":[
         "\u0633\u0646\u062c\u0627\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u0576\u057b\u0561\u0580"
-    ],
     "name:arz_x_preferred":[
         "\u0633\u0646\u062c\u0627\u0631"
     ],
@@ -31,44 +28,44 @@
     "name:cat_x_preferred":[
         "Sinjar"
     ],
-    "name:chi_x_preferred":[
-        "\u8f9b\u8cc8\u723e"
+    "name:ces_x_preferred":[
+        "Sind\u017e\u00e1r"
     ],
     "name:ckb_x_preferred":[
         "\u0634\u06d5\u0646\u06af\u0627\u0644"
     ],
-    "name:cze_x_preferred":[
-        "Sind\u017e\u00e1r"
-    ],
     "name:dan_x_preferred":[
         "Sinjar"
+    ],
+    "name:deu_x_preferred":[
+        "Sindschar"
     ],
     "name:diq_x_preferred":[
         "\u015eengal"
     ],
-    "name:dut_x_preferred":[
-        "Sinjar"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bd\u03c4\u03b6\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Sinjar"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062c\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Sind\u017ear"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sinj\u00e2r"
-    ],
-    "name:ger_x_preferred":[
-        "Sindschar"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03bd\u03c4\u03b6\u03ac\u03c1"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05e0\u05d2'\u05d0\u05e8"
     ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u0902\u091c\u093e\u0930"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0576\u057b\u0561\u0580"
     ],
     "name:ind_x_preferred":[
         "Sinjar"
@@ -86,14 +83,14 @@
         "\u0634\u06d5\u0646\u06af\u0627\u0644",
         "\u015eingal"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0438\u043d\u045f\u0430\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Sinjar"
     ],
     "name:nob_x_preferred":[
         "Sinjar"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u062c\u0627\u0631"
     ],
     "name:pol_x_preferred":[
         "Sind\u017car"
@@ -124,6 +121,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0646\u062c\u0627\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f9b\u8cc8\u723e"
     ],
     "qs:gn_country":"IQ",
     "qs:gn_fcode":"PPL",
@@ -172,7 +172,7 @@
         }
     ],
     "wof:id":421183065,
-    "wof:lastmodified":1514455005,
+    "wof:lastmodified":1561767187,
     "wof:name":"\u0633\u0646\u062c\u0627\u0631",
     "wof:parent_id":421186449,
     "wof:placetype":"locality",

@@ -13,47 +13,47 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "El-Shamije"
-    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0627\u0645\u064a\u0629"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0634\u0627\u0645\u064a\u0647"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u7c73\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Shamia"
-    ],
     "name:eng_x_preferred":[
         "Shamia"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0645\u06cc\u0647\u060c \u0639\u0631\u0627\u0642"
+    ],
+    "name:fra_x_preferred":[
         "Shamia"
     ],
     "name:mzn_x_preferred":[
         "\u0634\u0627\u0645\u06cc\u0647"
     ],
+    "name:nld_x_preferred":[
+        "Shamia"
+    ],
     "name:nno_x_preferred":[
         "Ash Shamiyah"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u0645\u06cc\u0647\u060c \u0639\u0631\u0627\u0642"
     ],
     "name:pnb_x_preferred":[
         "\u0634\u0627\u0645\u06cc\u0627"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Shamia"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0448-\u0428\u0430\u043c\u0438\u044f"
     ],
+    "name:sqi_x_preferred":[
+        "El-Shamije"
+    ],
     "name:unk_x_variant":[
         "Shamiya"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u7c73\u4e9e"
     ],
     "qs:gn_country":"IQ",
     "qs:gn_fcode":"PPL",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":421166945,
-    "wof:lastmodified":1527716107,
+    "wof:lastmodified":1561767185,
     "wof:name":"Ash Shamiyah",
     "wof:parent_id":1108562699,
     "wof:placetype":"locality",

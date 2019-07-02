@@ -18,28 +18,22 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62c9\u5fb7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bal\u00e1d"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Balad"
     ],
     "name:eng_x_preferred":[
         "Balad"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u062f\u060c \u0639\u0631\u0627\u0642"
+    ],
     "name:fin_x_preferred":[
         "Balad"
     ],
-    "name:fre_x_preferred":[
-        "Balad"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10da\u10d0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Balad"
     ],
     "name:ita_x_preferred":[
@@ -48,11 +42,14 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30e9\u30fc\u30c9"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d0\u10d3\u10d8"
+    ],
     "name:mzn_x_preferred":[
         "\u0628\u0644\u062f\u060c \u0639\u0631\u0627\u0642"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u062f\u060c \u0639\u0631\u0627\u0642"
+    "name:nld_x_preferred":[
+        "Balad"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0644\u062f"
@@ -68,6 +65,9 @@
     ],
     "name:unk_x_variant":[
         "Beled"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u5fb7"
     ],
     "qs:name":"Balad",
     "qs:photos_9r":0,
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":890449815,
-    "wof:lastmodified":1553816401,
+    "wof:lastmodified":1561767188,
     "wof:name":"Balad",
     "wof:parent_id":421180939,
     "wof:placetype":"locality",

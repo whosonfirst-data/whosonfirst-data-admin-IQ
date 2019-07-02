@@ -28,9 +28,6 @@
     "name:aze_x_preferred":[
         "Hill\u0259"
     ],
-    "name:baq_x_preferred":[
-        "Al-Hillah"
-    ],
     "name:bel_x_preferred":[
         "\u0425\u0456\u043b\u0430"
     ],
@@ -43,8 +40,8 @@
     "name:cat_x_preferred":[
         "Hilla"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u62c9"
+    "name:cym_x_preferred":[
+        "Al Hillah"
     ],
     "name:dan_x_preferred":[
         "Hilla"
@@ -52,8 +49,8 @@
     "name:deu_x_preferred":[
         "Hilla"
     ],
-    "name:dut_x_preferred":[
-        "Hilla"
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03bb\u03ac"
     ],
     "name:eng_x_preferred":[
         "Al Hillah"
@@ -64,23 +61,17 @@
     "name:est_x_preferred":[
         "Al-\u1e28illah"
     ],
+    "name:eus_x_preferred":[
+        "Al-Hillah"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0644\u0647"
+    ],
     "name:fin_x_preferred":[
         "Hilla"
     ],
     "name:fra_x_preferred":[
         "Hilla"
-    ],
-    "name:fre_x_preferred":[
-        "Hilla"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d8\u10da\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Hilla"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b9\u03bb\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abf\u0ab2\u0acd\u0ab2\u0abe\u0ab9"
@@ -106,6 +97,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0cbf\u0cb2\u0ccd\u0cb2\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d8\u10da\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud790\ub77c"
     ],
@@ -118,7 +112,7 @@
     "name:mar_x_preferred":[
         "\u0939\u093f\u0932\u094d\u0932\u093e\u0939"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Al-Hillah"
     ],
     "name:mzn_x_preferred":[
@@ -130,9 +124,6 @@
     "name:nob_x_preferred":[
         "Al-Hilla"
     ],
-    "name:per_x_preferred":[
-        "\u062d\u0644\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u062d\u0644\u06c1"
     ],
@@ -142,7 +133,7 @@
     "name:por_x_preferred":[
         "Al-Hillah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Al Hillah"
     ],
     "name:rus_x_preferred":[
@@ -187,8 +178,8 @@
     "name:war_x_preferred":[
         "Hilla"
     ],
-    "name:wel_x_preferred":[
-        "Al Hillah"
+    "name:zho_x_preferred":[
+        "\u5e0c\u62c9"
     ],
     "qs_pg:aaroncc":"IQ",
     "qs_pg:gn_country":"IQ",
@@ -229,7 +220,7 @@
         }
     ],
     "wof:id":1125922643,
-    "wof:lastmodified":1553816632,
+    "wof:lastmodified":1561767189,
     "wof:name":"Al \u1e28illah",
     "wof:parent_id":421172849,
     "wof:placetype":"locality",
