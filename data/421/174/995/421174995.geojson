@@ -36,11 +36,17 @@
     "name:cat_x_preferred":[
         "Zakho"
     ],
+    "name:ceb_x_preferred":[
+        "Zaxo"
+    ],
     "name:ckb_x_preferred":[
         "\u0632\u0627\u062e\u06c6"
     ],
     "name:deu_x_preferred":[
         "Zaxo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03ac\u03c7\u03bf"
     ],
     "name:eng_x_preferred":[
         "Zakho"
@@ -269,7 +275,7 @@
         }
     ],
     "wof:id":421174995,
-    "wof:lastmodified":1561767185,
+    "wof:lastmodified":1563334222,
     "wof:name":"\u0632\u0627\u062e\u0648",
     "wof:parent_id":890445289,
     "wof:placetype":"locality",

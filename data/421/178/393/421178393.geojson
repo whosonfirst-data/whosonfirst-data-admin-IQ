@@ -47,6 +47,9 @@
     "name:ast_x_preferred":[
         "Bagdad"
     ],
+    "name:ast_x_variant":[
+        "Bagdag"
+    ],
     "name:ava_x_preferred":[
         "\u0411\u0430\u0433\u044a\u0434\u0430\u0434"
     ],
@@ -92,6 +95,9 @@
     "name:cdo_x_preferred":[
         "Baghdad"
     ],
+    "name:ceb_x_preferred":[
+        "Baghdad"
+    ],
     "name:ces_x_preferred":[
         "Bagd\u00e1d"
     ],
@@ -110,6 +116,9 @@
     "name:cos_x_preferred":[
         "Baghdad"
     ],
+    "name:crh_x_preferred":[
+        "Ba\u011fdad"
+    ],
     "name:cym_x_preferred":[
         "Baghdad"
     ],
@@ -124,6 +133,9 @@
     ],
     "name:div_x_preferred":[
         "\u0784\u07a6\u07a3\u07aa\u078b\u07a7\u078b\u07aa"
+    ],
+    "name:dty_x_preferred":[
+        "\u092c\u0917\u0926\u093e\u0926"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03b1\u03b3\u03b4\u03ac\u03c4\u03b7"
@@ -158,6 +170,9 @@
     "name:frp_x_preferred":[
         "Bagdad"
     ],
+    "name:frr_x_preferred":[
+        "Bagdad"
+    ],
     "name:fry_x_preferred":[
         "Bagdad"
     ],
@@ -170,14 +185,23 @@
     "name:glg_x_preferred":[
         "Bagdad"
     ],
+    "name:glk_x_preferred":[
+        "\u0628\u063a\u062f\u0627\u062f"
+    ],
     "name:gsw_x_preferred":[
         "Bagdad"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0a97\u0aa6\u0abe\u0aa6"
     ],
+    "name:hak_x_preferred":[
+        "Baghdad"
+    ],
     "name:hat_x_preferred":[
         "Bagdad"
+    ],
+    "name:hau_x_preferred":[
+        "Bagdaza"
     ],
     "name:hbs_x_preferred":[
         "Bagdad"
@@ -203,6 +227,9 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u0572\u0564\u0561\u0564"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0561\u0572\u057f\u0561\u057f"
+    ],
     "name:ido_x_preferred":[
         "Bagdad"
     ],
@@ -217,6 +244,9 @@
     ],
     "name:ind_x_preferred":[
         "Bagdad"
+    ],
+    "name:inh_x_preferred":[
+        "\u0411\u0430\u0433I\u0434\u0430\u0434"
     ],
     "name:isl_x_preferred":[
         "Bagdad"
@@ -251,6 +281,12 @@
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0493\u0434\u0430\u0442"
     ],
+    "name:kbd_x_preferred":[
+        "\u0411\u0430\u0433\u0434\u0430\u0434"
+    ],
+    "name:kbp_x_preferred":[
+        "Pagidaad\u0269"
+    ],
     "name:kik_x_preferred":[
         "Baghdad"
     ],
@@ -279,6 +315,9 @@
     "name:lez_x_preferred":[
         "\u0411\u0430\u0433\u044a\u0434\u0430\u0434"
     ],
+    "name:lfn_x_preferred":[
+        "Baghdad"
+    ],
     "name:lim_x_preferred":[
         "Bagdad"
     ],
@@ -293,6 +332,12 @@
     ],
     "name:ltz_x_preferred":[
         "Bagdad"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5df4\u683c\u9054"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0917\u0926\u093e\u0926"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d3e\u0d17\u0d4d\u0d26\u0d3e\u0d26\u0d4d"
@@ -363,6 +408,9 @@
     "name:oci_x_preferred":[
         "Bagdad"
     ],
+    "name:olo_x_preferred":[
+        "Bagdad"
+    ],
     "name:ori_x_preferred":[
         "\u0b2c\u0b3e\u0b17\u0b26\u0b3e\u0b26"
     ],
@@ -373,6 +421,9 @@
         "\u0a2c\u0a17\u0a26\u0a3e\u0a26"
     ],
     "name:pap_x_preferred":[
+        "Bagdad"
+    ],
+    "name:pcd_x_preferred":[
         "Bagdad"
     ],
     "name:pih_x_preferred":[
@@ -389,6 +440,9 @@
     ],
     "name:por_x_preferred":[
         "Bagd\u00e1"
+    ],
+    "name:por_x_variant":[
+        "Bagdade"
     ],
     "name:pus_x_preferred":[
         "\u0628\u063a\u062f\u0627\u062f"
@@ -411,6 +465,9 @@
     "name:sah_x_preferred":[
         "\u0411\u0430\u0433\u0434\u0430\u0434"
     ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c5f\u1c5c\u1c7d\u1c6b\u1c5f\u1c6b\u1c7d"
+    ],
     "name:scn_x_preferred":[
         "Baghdad"
     ],
@@ -431,6 +488,9 @@
     ],
     "name:sna_x_preferred":[
         "Baghdad"
+    ],
+    "name:snd_x_preferred":[
+        "\u0628\u063a\u062f\u0627\u062f"
     ],
     "name:som_x_preferred":[
         "Baqdaad"
@@ -461,6 +521,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0b95\u0bcd\u0ba4\u0bbe\u0ba4\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0baa\u0b95\u0bc1\u0ba4\u0bbe\u0ba4\u0bc1"
     ],
     "name:tat_x_preferred":[
         "\u0411\u0430\u0433\u0434\u0430\u0434"
@@ -516,6 +579,9 @@
     "name:vie_x_preferred":[
         "Baghdad"
     ],
+    "name:vie_x_variant":[
+        "Bagdad"
+    ],
     "name:vol_x_preferred":[
         "Bagdad"
     ],
@@ -530,6 +596,9 @@
     ],
     "name:wol_x_preferred":[
         "Bagdad"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u683c\u8fbe"
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d0\u10e6\u10d3\u10d0\u10d3\u10d8"
@@ -692,7 +761,7 @@
         }
     ],
     "wof:id":421178393,
-    "wof:lastmodified":1561767187,
+    "wof:lastmodified":1563334254,
     "wof:name":"\u0628\u063a\u062f\u0627\u062f",
     "wof:parent_id":1108562785,
     "wof:placetype":"locality",

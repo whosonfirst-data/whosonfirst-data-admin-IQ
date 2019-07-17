@@ -32,10 +32,92 @@
         "As Sulaymaniyah"
     ],
     "name:ara_x_variant":[
-        "Sulaymaniyah"
+        "Sulaymaniyah",
+        "\u0627\u0644\u0633\u0644\u064a\u0645\u0627\u0646\u064a\u0629"
+    ],
+    "name:arc_x_preferred":[
+        "\u0723\u0718\u0720\u071d\u0721\u0710\u0722\u071d\u0710"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u064a\u0645\u0627\u0646\u064a\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0644\u06cc\u0645\u0627\u0646\u06cc\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "S\u00fcleymaniy\u0259"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0443\u0445\u0430\u0444\u0430\u0437\u0430 \u0421\u0443\u043b\u0435\u0439\u043c\u0430\u043d\u0456\u044f"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u043b\u0435\u0439\u043c\u0430\u043d\u0438\u044f"
+    ],
+    "name:ces_x_preferred":[
+        "Sulajm\u00e1n\u00edja"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0633\u0644\u06ce\u0645\u0627\u0646\u06cc"
+    ],
+    "name:dan_x_preferred":[
+        "As Sulaymaniyah"
+    ],
+    "name:deu_x_preferred":[
+        "as-Sulaimaniyya"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03bb\u03b1\u03ca\u03bc\u03b1\u03bd\u03b9\u03b3\u03b9\u03ac"
     ],
     "name:eng_x_preferred":[
         "As-Sulaymaniyah"
+    ],
+    "name:eng_x_variant":[
+        "Sulaymaniyah Governorate"
+    ],
+    "name:epo_x_preferred":[
+        "Gubernio Sulajmanija"
+    ],
+    "name:est_x_preferred":[
+        "As-Sulaym\u0101n\u012byah' kubernerkond"
+    ],
+    "name:eus_x_preferred":[
+        "Sulaimaniya probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0644\u06cc\u0645\u0627\u0646\u06cc\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Sulaymaniyya"
+    ],
+    "name:fra_x_preferred":[
+        "As-Sulaymaniya"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac1\u0ab2\u0ac7\u0aae\u0abe\u0aa8\u0ac0\u0aaf\u0abe\u0ab9 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0-\u05e1\u05d5\u05dc\u05d9\u05de\u05d0\u05e0\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0941\u0932\u092f\u092e\u093e\u0928\u093f\u092f\u093e\u0939 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Szulejm\u00e1nijja korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u056c\u0565\u0575\u0574\u0561\u0576\u056b\u0565 \u0574\u0561\u0580\u0566"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ec\u30a4\u30de\u30cb\u30e4\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc1\u0cb2\u0cc8\u0cae\u0cbe\u0ca8\u0cbf\u0caf\u0cbe \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10da\u10d4\u10d8\u10db\u10d0\u10dc\u10d8\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc220\ub77c\uc774\ub9c8\ub2c8\uc57c\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Par\u00eazga-\u00ee Sl\u00eaman\u00ee"
@@ -43,10 +125,86 @@
     "name:kur_x_variant":[
         "Sl\u00eaman\u00ee",
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u0649 \u0633\u0644\u06ce\u0645\u0627\u0646\u0649",
-        "\u0633\u0644\u06ce\u0645\u0627\u0646\u0649"
+        "\u0633\u0644\u06ce\u0645\u0627\u0646\u0649",
+        "Sil\u00eaman\u00ee"
+    ],
+    "name:lav_x_preferred":[
+        "Suleim\u0101n\u012bjas muh\u0101faza"
+    ],
+    "name:lit_x_preferred":[
+        "Suleimanijos gubernija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0941\u0932\u093e\u092f\u092e\u093e\u0928\u093f\u092f\u093e\u0939 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
+    ],
+    "name:nan_x_preferred":[
+        "Sulaymaniyah S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Sulaymaniyah"
+    ],
+    "name:nno_x_preferred":[
+        "Sulaymaniyah guvernement"
+    ],
+    "name:nob_x_preferred":[
+        "Suleimania"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0633\u0644\u06cc\u0645\u0627\u0646\u06cc\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "As-Sulajmanijja"
+    ],
+    "name:por_x_preferred":[
+        "As-Sulaymaniyah"
+    ],
+    "name:ron_x_preferred":[
+        "Sulaymaniyya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043b\u0435\u0439\u043c\u0430\u043d\u0438\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Sulaymaniyah Province"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd4\u0dbd\u0dda\u0db8\u0db1\u0dd2\u0dba\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0443\u0432\u0435\u0440\u043d\u043e\u0440\u0430\u0442 \u0421\u0443\u043b\u0435\u0458\u043c\u0430\u043d\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sulaymaniyya"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0bb2\u0bc7\u0bae\u0bbe\u0ba3\u0bbf\u0baf \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c41\u0c32\u0c3e\u0c2f\u0c4d\u0c2e\u0c3e\u0c28\u0c3f\u0c2f\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0421\u0443\u043b\u0430\u0439\u043c\u043e\u043d\u0438\u044f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e2a\u0e0b\u0e38\u0e25\u0e31\u0e22\u0e21\u0e32\u0e19\u0e35\u0e22\u0e30\u0e2e\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "S\u00fcleymaniye ili"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u043b\u0435\u0439\u043c\u0430\u043d\u0456\u044f"
     ],
     "name:unk_x_variant":[
         "Liw\u0101\u2019 as Sulaym\u0101n\u012byah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0633\u0644\u06cc\u0645\u0627\u0646\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Sulaymaniyah"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u840a\u66fc\u5c3c\u4e9e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRQ",
@@ -173,7 +331,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1553550470,
+    "wof:lastmodified":1563332577,
     "wof:name":"As-Sulaymaniyah",
     "wof:parent_id":-1,
     "wof:placetype":"region",

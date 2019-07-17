@@ -31,11 +31,17 @@
     "name:arz_x_preferred":[
         "\u062a\u0643\u0631\u064a\u062a"
     ],
+    "name:ast_x_preferred":[
+        "Tikrit"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u06a9\u0631\u06cc\u062a"
     ],
     "name:aze_x_preferred":[
         "Tikrit"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u044b\u043a\u0440\u044b\u0442"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09bf\u0995\u09b0\u09bf\u09a4"
@@ -45,6 +51,9 @@
     ],
     "name:cat_x_preferred":[
         "Tikrit"
+    ],
+    "name:ceb_x_preferred":[
+        "Tikr\u012bt"
     ],
     "name:ces_x_preferred":[
         "Tikr\u00edt"
@@ -66,6 +75,9 @@
     ],
     "name:eng_x_preferred":[
         "Tikrit"
+    ],
+    "name:eng_x_variant":[
+        "Sewera"
     ],
     "name:epo_x_preferred":[
         "Tikrit"
@@ -108,6 +120,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0539\u056b\u0584\u0580\u056b\u0569"
+    ],
+    "name:ido_x_preferred":[
+        "Tikrit"
     ],
     "name:ind_x_preferred":[
         "Tikrit"
@@ -223,6 +238,9 @@
     "name:tur_x_preferred":[
         "T\u0131krit"
     ],
+    "name:tur_x_variant":[
+        "Tikrit"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0456\u043a\u0440\u0456\u0442"
     ],
@@ -233,6 +251,9 @@
         "\u062a\u06a9\u0631\u06cc\u062a"
     ],
     "name:vie_x_preferred":[
+        "Tikrit"
+    ],
+    "name:war_x_preferred":[
         "Tikrit"
     ],
     "name:zho_x_preferred":[
@@ -367,7 +388,7 @@
         }
     ],
     "wof:id":890441445,
-    "wof:lastmodified":1561767188,
+    "wof:lastmodified":1563334262,
     "wof:name":"Tikr\u012bt",
     "wof:parent_id":421186243,
     "wof:placetype":"locality",

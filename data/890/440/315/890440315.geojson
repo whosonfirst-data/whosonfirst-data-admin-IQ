@@ -19,11 +19,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0645\u0627\u0648\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0645\u0627\u0648\u0629"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0633\u0645\u0627\u0648\u0647"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ae\u09be\u0993\u09af\u09bc\u09be\u09b9"
+    ],
+    "name:ceb_x_preferred":[
+        "As Samawah"
     ],
     "name:dan_x_preferred":[
         "Samawah"
@@ -127,6 +133,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0432\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u042d\u0441-\u0421\u0430\u043c\u0430\u0432\u0430"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0db8\u0dc0\u0dcf"
     ],
@@ -144,6 +153,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e21\u0e32\u0e27\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e2a\u0e0b\u0e30\u0e21\u0e32\u0e27\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Samava"
@@ -291,7 +303,7 @@
         }
     ],
     "wof:id":890440315,
-    "wof:lastmodified":1561767187,
+    "wof:lastmodified":1563334257,
     "wof:name":"As Samawah",
     "wof:parent_id":421205333,
     "wof:placetype":"locality",

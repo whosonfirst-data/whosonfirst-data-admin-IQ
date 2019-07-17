@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u043b\u0430\u0431\u0434\u0436\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "\u1e28alabjah"
+    ],
     "name:ces_x_preferred":[
         "Halabd\u017ea"
     ],
@@ -82,6 +85,9 @@
     "name:ind_x_preferred":[
         "Halabjah"
     ],
+    "name:ind_x_variant":[
+        "Halabja"
+    ],
     "name:ita_x_preferred":[
         "Halabja"
     ],
@@ -122,6 +128,9 @@
         "\u062d\u0644\u0628\u0686\u0647"
     ],
     "name:nld_x_preferred":[
+        "Halabja"
+    ],
+    "name:nno_x_preferred":[
         "Halabja"
     ],
     "name:nob_x_preferred":[
@@ -230,7 +239,7 @@
         }
     ],
     "wof:id":421174993,
-    "wof:lastmodified":1561767185,
+    "wof:lastmodified":1563334223,
     "wof:name":"\u062d\u0644\u0628\u062c\u0629",
     "wof:parent_id":421183885,
     "wof:placetype":"locality",

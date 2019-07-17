@@ -29,6 +29,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0645\u0648\u0635\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Mosul"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0648\u0635\u0648\u0644"
     ],
@@ -41,6 +44,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09b8\u09c1\u09b2"
     ],
+    "name:bho_x_preferred":[
+        "\u092e\u094b\u0938\u0941\u0932"
+    ],
     "name:bos_x_preferred":[
         "Mosul"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:cat_x_preferred":[
         "Mossul"
+    ],
+    "name:ceb_x_preferred":[
+        "Mosul"
     ],
     "name:ces_x_preferred":[
         "Mosul"
@@ -122,6 +131,9 @@
     "name:ile_x_preferred":[
         "Mosul"
     ],
+    "name:ina_x_preferred":[
+        "Mosul"
+    ],
     "name:ind_x_preferred":[
         "Mosul"
     ],
@@ -130,6 +142,9 @@
     ],
     "name:ita_x_preferred":[
         "Mossul"
+    ],
+    "name:ita_x_variant":[
+        "Mosul"
     ],
     "name:jav_x_preferred":[
         "Mosul"
@@ -449,7 +464,7 @@
         }
     ],
     "wof:id":421186153,
-    "wof:lastmodified":1561767186,
+    "wof:lastmodified":1563334229,
     "wof:name":"\u0645\u0648\u0635\u0644",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",

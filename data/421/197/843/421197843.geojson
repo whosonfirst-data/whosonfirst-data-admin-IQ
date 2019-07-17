@@ -83,6 +83,9 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c-\u0425\u0430\u044f"
     ],
+    "name:rus_x_variant":[
+        "\u042d\u043b\u044c-\u0425\u0430\u0439"
+    ],
     "name:sin_x_preferred":[
         "\u0d85\u0dbd\u0dca-\u0dc4\u0dda"
     ],
@@ -254,7 +257,7 @@
         }
     ],
     "wof:id":421197843,
-    "wof:lastmodified":1561767186,
+    "wof:lastmodified":1563334237,
     "wof:name":"Kut Al Hai",
     "wof:parent_id":1108562685,
     "wof:placetype":"locality",

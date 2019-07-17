@@ -33,8 +33,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0642\u0636\u0627\u0621 \u062f\u0647\u0648\u0643"
+    ],
+    "name:ceb_x_preferred":[
+        "Dohuk District"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0642\u06d5\u0632\u0627\u06cc \u062f\u06be\u06c6\u06a9"
+    ],
+    "name:eng_x_preferred":[
+        "Dohuk District"
+    ],
     "name:eng_x_variant":[
         "Dahuk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062f\u0647\u0648\u06a9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30db\u30fc\u30af\u90e1"
+    ],
+    "name:kur_x_preferred":[
+        "Dihok"
+    ],
+    "name:nld_x_preferred":[
+        "Dohuk district"
+    ],
+    "name:nno_x_preferred":[
+        "Dohuk-distriktet"
+    ],
+    "name:swe_x_preferred":[
+        "Dohuk District"
     ],
     "name:und_x_variant":[
         "\u062f\u0647\u0648\u0643"
@@ -90,7 +120,7 @@
         }
     ],
     "wof:id":421204025,
-    "wof:lastmodified":1554489047,
+    "wof:lastmodified":1563334219,
     "wof:name":"Dahuk",
     "wof:parent_id":85672417,
     "wof:placetype":"county",

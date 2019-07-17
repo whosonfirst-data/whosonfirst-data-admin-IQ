@@ -29,6 +29,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u043b \u0410\u0444\u0430\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Tall \u2018Afar"
+    ],
     "name:ces_x_preferred":[
         "Tal Afar"
     ],
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":1141907833,
-    "wof:lastmodified":1561767239,
+    "wof:lastmodified":1563335186,
     "wof:name":"Tall Afar",
     "wof:parent_id":1108562635,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0430\u0445\u0443\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Dihok"
+    ],
     "name:ckb_x_preferred":[
         "\u062f\u06be\u06c6\u06a9"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Dahuk"
+    ],
+    "name:eng_x_variant":[
+        "Duhok"
     ],
     "name:epo_x_preferred":[
         "Dihok"
@@ -169,6 +175,9 @@
     "name:swe_x_preferred":[
         "Duhok"
     ],
+    "name:swe_x_variant":[
+        "Dihok"
+    ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bca\u0bb9\u0bc1\u0b95\u0bcd"
     ],
@@ -177,6 +186,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e14\u0e2e\u0e39\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e14\u0e30\u0e2e\u0e39\u0e01"
     ],
     "name:tur_x_preferred":[
         "Duhok"
@@ -242,7 +254,7 @@
         }
     ],
     "wof:id":421193787,
-    "wof:lastmodified":1561767185,
+    "wof:lastmodified":1563334218,
     "wof:name":"\u062f\u0647\u0648\u0643",
     "wof:parent_id":421204025,
     "wof:placetype":"locality",

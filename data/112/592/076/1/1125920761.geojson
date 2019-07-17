@@ -28,6 +28,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09af-\u09af\u09c1\u09ac\u09be\u09af\u09bc\u09c7\u09b0"
     ],
+    "name:ceb_x_preferred":[
+        "Az Zubayr"
+    ],
     "name:dan_x_preferred":[
         "Az Zubayr"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0632\u0628\u06cc\u0631\u060c \u0639\u0631\u0627\u0642"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u0628\u06cc\u0631"
     ],
     "name:fin_x_preferred":[
         "Az Zubayr"
@@ -96,6 +102,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0632\u0628\u06cc\u0631\u060c \u0639\u0631\u0627\u0642"
+    ],
+    "name:mzn_x_variant":[
+        "\u0632\u0628\u06cc\u0631"
     ],
     "name:nld_x_preferred":[
         "Az Zubayr"
@@ -187,7 +196,7 @@
         }
     ],
     "wof:id":1125920761,
-    "wof:lastmodified":1561767189,
+    "wof:lastmodified":1563334266,
     "wof:name":"Az Zubayr",
     "wof:parent_id":1108562727,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Amadiya"
     ],
+    "name:ceb_x_preferred":[
+        "Al \u2018Am\u0101d\u012byah"
+    ],
     "name:ces_x_preferred":[
         "Am\u00e1d\u00edja"
     ],
@@ -74,6 +77,9 @@
     ],
     "name:pol_x_preferred":[
         "Al-Amadijja"
+    ],
+    "name:por_x_preferred":[
+        "Amedi"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0435\u0434\u0438\u044f"
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":421192497,
-    "wof:lastmodified":1561767185,
+    "wof:lastmodified":1563334216,
     "wof:name":"Amadiyah",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

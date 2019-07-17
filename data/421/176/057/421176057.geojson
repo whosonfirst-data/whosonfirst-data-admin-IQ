@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062c\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Bayj\u012b"
+    ],
     "name:ces_x_preferred":[
         "Bajd\u017e\u00ed"
     ],
@@ -52,6 +55,9 @@
     "name:mzn_x_preferred":[
         "\u0628\u06cc\u062c\u06cc\u060c \u0639\u0631\u0627\u0642"
     ],
+    "name:mzn_x_variant":[
+        "\u0628\u06cc\u062c\u06cc"
+    ],
     "name:nld_x_preferred":[
         "Baiji"
     ],
@@ -87,6 +93,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u062c\u06cc\u060c \u0639\u0631\u0627\u0642"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u06cc\u062c\u06cc"
     ],
     "name:zho_x_preferred":[
         "\u62dc\u4f0a\u5409"
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":421176057,
-    "wof:lastmodified":1561767187,
+    "wof:lastmodified":1563334256,
     "wof:name":"\u0628\u064a\u062c\u064a",
     "wof:parent_id":1108562647,
     "wof:placetype":"locality",

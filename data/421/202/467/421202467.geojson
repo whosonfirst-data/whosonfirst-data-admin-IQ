@@ -28,6 +28,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0628\u0635\u0631\u0647"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0635\u0631\u0647"
+    ],
     "name:aze_x_preferred":[
         "B\u0259sr\u0259"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:cat_x_preferred":[
         "B\u00e0ssora"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Ba\u015frah"
     ],
     "name:ces_x_preferred":[
         "Basra"
@@ -118,11 +124,17 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u057d\u0580\u0561"
     ],
+    "name:ina_x_preferred":[
+        "Basra"
+    ],
     "name:ind_x_preferred":[
         "Basra"
     ],
     "name:ita_x_preferred":[
         "B\u00e0ssora"
+    ],
+    "name:ita_x_variant":[
+        "Bassora"
     ],
     "name:jav_x_preferred":[
         "Basra"
@@ -201,6 +213,9 @@
     ],
     "name:pol_x_preferred":[
         "Al-Basra"
+    ],
+    "name:pol_x_variant":[
+        "Basra"
     ],
     "name:por_x_preferred":[
         "Ba\u00e7or\u00e1"
@@ -330,7 +345,7 @@
         }
     ],
     "wof:id":421202467,
-    "wof:lastmodified":1561767185,
+    "wof:lastmodified":1563334221,
     "wof:name":"\u0627\u0644\u0628\u0635\u0631\u0629",
     "wof:parent_id":1108562731,
     "wof:placetype":"locality",
