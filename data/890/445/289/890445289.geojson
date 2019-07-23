@@ -34,11 +34,119 @@
     "mps:longitude":42.841496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:eng_x_variant":[
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u062e\u0648"
+    ],
+    "name:arc_x_preferred":[
+        "\u0719\u0710\u071a\u0718"
+    ],
+    "name:arz_x_preferred":[
+        "\u0632\u0627\u062e\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Zaxo"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0417\u0430\u0445\u0443"
+    ],
+    "name:cat_x_preferred":[
         "Zakho"
+    ],
+    "name:ceb_x_preferred":[
+        "Zaxo"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0632\u0627\u062e\u06c6"
+    ],
+    "name:deu_x_preferred":[
+        "Zaxo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03ac\u03c7\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Zakho"
+    ],
+    "name:epo_x_preferred":[
+        "Za\u0125o"
+    ],
+    "name:est_x_preferred":[
+        "Z\u0101kh\u016b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u062e\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Zakho"
+    ],
+    "name:glg_x_preferred":[
+        "Zaxo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d0\u05db\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Zah\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Zakho"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30fc\u30db\u30fc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0430\u0445\u0443"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\ud638"
+    ],
+    "name:kur_x_preferred":[
+        "Zaxo"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0632\u0627\u062e\u0648"
+    ],
+    "name:nld_x_preferred":[
+        "Zakho"
+    ],
+    "name:nob_x_preferred":[
+        "Zakho"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0632\u0627\u062e\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Zachu"
+    ],
+    "name:por_x_preferred":[
+        "Zakho"
+    ],
+    "name:ron_x_preferred":[
+        "Zakho"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0445\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Zakho"
+    ],
+    "name:sqi_x_preferred":[
+        "Zaho"
+    ],
+    "name:swe_x_preferred":[
+        "Zakho"
+    ],
+    "name:tur_x_preferred":[
+        "Zaho"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0445\u0443"
     ],
     "name:und_x_variant":[
         "\u0632\u0627\u062e\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u80e1"
     ],
     "qs:name":"Zakho",
     "qs:name_adm0":"Iraq",
@@ -84,7 +192,7 @@
         }
     ],
     "wof:id":890445289,
-    "wof:lastmodified":1554489062,
+    "wof:lastmodified":1563334264,
     "wof:name":"Zakho",
     "wof:parent_id":85672417,
     "wof:placetype":"county",

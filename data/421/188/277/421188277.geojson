@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Touz Khormatou"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30fc\u30ba\u30fb\u30d5\u30fc\u30eb\u30de\u30fc\u30c8\u30a5\u30fc"
+    ],
     "name:kur_x_preferred":[
         "Tuz Xurmatu"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0437-\u0425\u0443\u0440\u043c\u0430\u0442\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0443\u0437-\u0425\u0443\u0440\u043c\u0430\u0442\u0443"
     ],
     "name:spa_x_preferred":[
         "Tuz Khormato"
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":421188277,
-    "wof:lastmodified":1561767185,
+    "wof:lastmodified":1563334225,
     "wof:name":"Taza Khurmato",
     "wof:parent_id":1108562657,
     "wof:placetype":"locality",

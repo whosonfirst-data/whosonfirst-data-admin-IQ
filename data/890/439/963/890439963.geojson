@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09b6 \u09b6\u09be\u09a4\u09cd\u09b0\u09be\u09b9"
     ],
+    "name:ceb_x_preferred":[
+        "Ash Sha\u0163rah"
+    ],
     "name:dan_x_preferred":[
         "Ash Shatrah"
     ],
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":890439963,
-    "wof:lastmodified":1561767188,
+    "wof:lastmodified":1563334263,
     "wof:name":"Ash Sha\u0163rah",
     "wof:parent_id":1108562741,
     "wof:placetype":"locality",

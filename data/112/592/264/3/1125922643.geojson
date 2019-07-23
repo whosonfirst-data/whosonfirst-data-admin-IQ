@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Hilla"
     ],
+    "name:ceb_x_preferred":[
+        "Al \u1e28illah"
+    ],
     "name:cym_x_preferred":[
         "Al Hillah"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:eng_x_preferred":[
         "Al Hillah"
+    ],
+    "name:eng_x_variant":[
+        "Hillah"
     ],
     "name:epo_x_preferred":[
         "Hilla"
@@ -130,6 +136,9 @@
     "name:pol_x_preferred":[
         "Al Hilla"
     ],
+    "name:pol_x_variant":[
+        "Al-Hilla"
+    ],
     "name:por_x_preferred":[
         "Al-Hillah"
     ],
@@ -138,6 +147,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c-\u0425\u0438\u043b\u043b\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u0438\u043b\u043b\u0430"
     ],
     "name:sco_x_preferred":[
         "Al Hillah"
@@ -159,6 +171,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2e\u0e34\u0e25\u0e25\u0e30\u0e2e\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e25\u0e2e\u0e34\u0e25\u0e25\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Hilla"
@@ -220,7 +235,7 @@
         }
     ],
     "wof:id":1125922643,
-    "wof:lastmodified":1561767189,
+    "wof:lastmodified":1563334271,
     "wof:name":"Al \u1e28illah",
     "wof:parent_id":421172849,
     "wof:placetype":"locality",

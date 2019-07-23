@@ -49,11 +49,17 @@
     "name:nld_x_preferred":[
         "Anah"
     ],
+    "name:pol_x_preferred":[
+        "Ana"
+    ],
     "name:por_x_preferred":[
         "Anah"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0430\u0445"
     ],
     "name:tur_x_preferred":[
         "Ane"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421166947,
-    "wof:lastmodified":1561767185,
+    "wof:lastmodified":1563334214,
     "wof:name":"Anah",
     "wof:parent_id":1108562803,
     "wof:placetype":"locality",

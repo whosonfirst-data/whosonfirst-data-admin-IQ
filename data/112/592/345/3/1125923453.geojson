@@ -22,10 +22,22 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u062d\u064a\u0629 \u063a\u0645\u0627\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u063a\u0645\u0627\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Nahiyat Ghammas"
+    ],
     "name:eng_x_preferred":[
         "Ghammas"
     ],
+    "name:fas_x_preferred":[
+        "\u063a\u0645\u0627\u0633"
+    ],
     "name:nld_x_preferred":[
+        "Ghammas"
+    ],
+    "name:pol_x_preferred":[
         "Ghammas"
     ],
     "name:rus_x_preferred":[
@@ -76,7 +88,7 @@
         }
     ],
     "wof:id":1125923453,
-    "wof:lastmodified":1561767189,
+    "wof:lastmodified":1563334271,
     "wof:name":"Nahiyat Ghammas",
     "wof:parent_id":1108562699,
     "wof:placetype":"locality",

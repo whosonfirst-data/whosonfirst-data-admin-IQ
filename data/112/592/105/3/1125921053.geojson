@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Ar Rutba"
     ],
+    "name:fra_x_variant":[
+        "al-Routbah"
+    ],
     "name:jpn_x_preferred":[
         "\u30eb\u30c8\u30d0"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125921053,
-    "wof:lastmodified":1561767188,
+    "wof:lastmodified":1563334265,
     "wof:name":"Ar Ru\u0163bah",
     "wof:parent_id":1108562667,
     "wof:placetype":"locality",

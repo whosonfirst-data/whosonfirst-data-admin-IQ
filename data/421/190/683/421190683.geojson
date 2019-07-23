@@ -19,6 +19,12 @@
     "name:arz_x_preferred":[
         "\u0631\u0627\u0648\u0647"
     ],
+    "name:ceb_x_preferred":[
+        "R\u0101wah"
+    ],
+    "name:deu_x_preferred":[
+        "Rawa"
+    ],
     "name:eng_x_preferred":[
         "Rawa"
     ],
@@ -34,6 +40,9 @@
     "name:ita_x_preferred":[
         "Rawa"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30ef"
+    ],
     "name:nld_x_preferred":[
         "Rawa"
     ],
@@ -42,6 +51,9 @@
     ],
     "name:swe_x_preferred":[
         "R\u0101wah"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0432\u0430"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u74e6"
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":421190683,
-    "wof:lastmodified":1561767186,
+    "wof:lastmodified":1563334236,
     "wof:name":"Rawa",
     "wof:parent_id":1108562803,
     "wof:placetype":"locality",

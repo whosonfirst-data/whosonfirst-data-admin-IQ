@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Sulaymaniyya"
     ],
+    "name:ceb_x_preferred":[
+        "As Sulaym\u0101n\u012byah"
+    ],
     "name:ces_x_preferred":[
         "Sulajm\u00e1n\u00edja"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:eng_x_preferred":[
         "Sulaymaniyah"
+    ],
+    "name:eng_x_variant":[
+        "Slemani"
     ],
     "name:epo_x_preferred":[
         "Sulajmanija"
@@ -99,6 +105,9 @@
     ],
     "name:ita_x_preferred":[
         "Sulaymaniyya"
+    ],
+    "name:jav_x_preferred":[
+        "Sulaymaniyah"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30ec\u30a4\u30de\u30cb\u30e4"
@@ -171,6 +180,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0443\u043b\u0435\u0439\u043c\u0430\u043d\u0438\u044f"
     ],
+    "name:sco_x_preferred":[
+        "Sulaymaniyah"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd4\u0dbd\u0dba\u0dd2\u0db8\u0db1\u0dd2\u0dba\u0dcf"
     ],
@@ -183,11 +195,17 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0bb2\u0bae\u0ba9\u0bbf\u0baf\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u04e9\u043b\u04d9\u0439\u043c\u0430\u043d\u0438\u044f"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c41\u0c32\u0c47\u0c2e\u0c28\u0c3f\u0c2f\u0c3e\u0c39\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25 \u0e2a\u0e38\u0e44\u0e25\u0e21\u0e32\u0e40\u0e19\u0e35\u0e22\u0e2b\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e2a\u0e0b\u0e38\u0e25\u0e31\u0e22\u0e21\u0e32\u0e19\u0e35\u0e22\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "S\u00fcleymaniye"
@@ -335,7 +353,7 @@
         }
     ],
     "wof:id":890432465,
-    "wof:lastmodified":1561767188,
+    "wof:lastmodified":1563334265,
     "wof:name":"As Sulaym\u0101n\u012byah",
     "wof:parent_id":1108562761,
     "wof:placetype":"locality",

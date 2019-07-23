@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09a6\u09bf\u09a5\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "\u1e28ad\u012bthah"
+    ],
     "name:ces_x_preferred":[
         "Had\u00edtha"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:ind_x_preferred":[
         "Haditsah"
+    ],
+    "name:ind_x_variant":[
+        "Haditha"
     ],
     "name:ita_x_preferred":[
         "Haditha"
@@ -105,6 +111,9 @@
     ],
     "name:por_x_preferred":[
         "Hadita"
+    ],
+    "name:por_x_variant":[
+        "Haditha"
     ],
     "name:ron_x_preferred":[
         "Haditha"
@@ -196,7 +205,7 @@
         }
     ],
     "wof:id":421200415,
-    "wof:lastmodified":1561767186,
+    "wof:lastmodified":1563334243,
     "wof:name":"Al Hadithah",
     "wof:parent_id":1108562649,
     "wof:placetype":"locality",

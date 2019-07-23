@@ -35,13 +35,182 @@
         "Najaf",
         "\u0627\u0644\u0646\u062c\u0641",
         "\u0627\u0644\u0646\u062c\u0641 \u0627\u0644\u0623\u0634\u0631\u0641",
-        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u062c\u0641 \u0627\u0644\u0623\u0634\u0631\u0641"
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u062c\u0641 \u0627\u0644\u0623\u0634\u0631\u0641",
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u062c\u0641"
+    ],
+    "name:arc_x_preferred":[
+        "\u0722\u0713\u0726"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0646\u062c\u0641"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u062c\u0641 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "N\u0259c\u0259f"
+    ],
+    "name:bar_x_preferred":[
+        "An-Nadschaf"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u099c\u09be\u09ab \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u0434\u0436\u0430\u0444"
+    ],
+    "name:ceb_x_preferred":[
+        "An Najaf"
+    ],
+    "name:ces_x_preferred":[
+        "Nad\u017eaf"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0646\u06d5\u062c\u06d5\u0641"
+    ],
+    "name:dan_x_preferred":[
+        "Najaf"
+    ],
+    "name:deu_x_preferred":[
+        "Gouvernement Nadschaf"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03c4\u03b6\u03ac\u03c6"
     ],
     "name:eng_x_preferred":[
         "An-Najaf"
     ],
+    "name:eng_x_variant":[
+        "Najaf Governorate"
+    ],
+    "name:epo_x_preferred":[
+        "Gubernio Na\u011daf"
+    ],
+    "name:est_x_preferred":[
+        "An-Najafi kubernerkond"
+    ],
+    "name:eus_x_preferred":[
+        "Najafeko probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0646\u062c\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "Najaf"
+    ],
+    "name:fra_x_preferred":[
+        "An-Najaf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0a9c\u0aab \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0-\u05e0\u05d2'\u05e3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u091c\u092b\u093c \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Nedzsef korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:ind_x_preferred":[
+        "Kegubernuran Najaf"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30b8\u30e3\u30d5\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0c9c\u0cbe\u0cab\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10ef\u10d0\u10e4\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\uc790\ud504\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "Necef"
+    ],
+    "name:lav_x_preferred":[
+        "Ned\u017eefas muh\u0101faza"
+    ],
+    "name:lit_x_preferred":[
+        "Nad\u017eafo gubernija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u091c\u092b \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Pentadbiran Najaf"
+    ],
+    "name:nan_x_preferred":[
+        "Najaf S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "An-Najaf"
+    ],
+    "name:nno_x_preferred":[
+        "Najaf guvernement"
+    ],
+    "name:nob_x_preferred":[
+        "Najaf"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u0430\u0434\u0436\u0430\u0444"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0646\u062c\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "An-Nad\u017caf"
+    ],
+    "name:por_x_preferred":[
+        "An-Najaf"
+    ],
+    "name:ron_x_preferred":[
+        "Al-Najaf"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0434\u0436\u0430\u0444"
+    ],
+    "name:sco_x_preferred":[
+        "Najaf Province"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0da2\u0dcf\u0dc6\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u045f\u0430\u0444"
+    ],
+    "name:swe_x_preferred":[
+        "Najaf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3e\u0c1c\u0c2b\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041d\u0430\u04b7\u0430\u0444"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e41\u0e19\u0e41\u0e08\u0e1f"
+    ],
+    "name:tur_x_preferred":[
+        "Necef ili"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0434\u0436\u0430\u0444"
+    ],
     "name:unk_x_variant":[
         "Najaf"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0646\u062c\u0641"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Najaf"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5091\u592b\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRQ",
@@ -168,7 +337,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1553550385,
+    "wof:lastmodified":1563332582,
     "wof:name":"An-Najaf",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

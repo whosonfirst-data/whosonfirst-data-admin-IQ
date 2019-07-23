@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Falluja"
     ],
+    "name:ceb_x_preferred":[
+        "Al Fall\u016bjah"
+    ],
     "name:ces_x_preferred":[
         "Fall\u00fad\u017ea"
     ],
@@ -178,6 +181,9 @@
     ],
     "name:swe_x_preferred":[
         "Al-Falluja"
+    ],
+    "name:swe_x_variant":[
+        "al-Falluja"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0bb2\u0bc1\u0b9c\u0bbe\u0bb9\u0bcd"
@@ -345,7 +351,7 @@
         }
     ],
     "wof:id":421173897,
-    "wof:lastmodified":1561767185,
+    "wof:lastmodified":1563334224,
     "wof:name":"\u0627\u0644\u0641\u0644\u0648\u062c\u0629",
     "wof:parent_id":421191407,
     "wof:placetype":"locality",

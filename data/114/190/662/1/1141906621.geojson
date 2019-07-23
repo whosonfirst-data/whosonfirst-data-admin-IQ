@@ -24,6 +24,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b8\u09be\u09af\u09bc\u09cd\u09af\u09bf\u09ac"
     ],
+    "name:ceb_x_preferred":[
+        "Al Musayyib"
+    ],
     "name:dan_x_preferred":[
         "Musayyib"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:eng_x_preferred":[
         "Musayyib"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u06cc\u0628"
     ],
     "name:fin_x_preferred":[
         "Musayyib"
@@ -80,6 +86,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c-\u042d\u043b\u044c-\u041c\u0443\u0441\u0430\u0439\u0438\u0431\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u042d\u043b\u044c-\u041c\u0443\u0441\u0430\u0439\u0438\u0431"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd4\u0dc3\u0dba\u0dd2\u0db6\u0dca"
@@ -247,7 +256,7 @@
         }
     ],
     "wof:id":1141906621,
-    "wof:lastmodified":1561767240,
+    "wof:lastmodified":1563335186,
     "wof:name":"Al Musayyib",
     "wof:parent_id":421172849,
     "wof:placetype":"locality",

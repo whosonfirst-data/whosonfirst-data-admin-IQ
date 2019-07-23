@@ -35,7 +35,47 @@
         "Anbar",
         "\u0627\u0644\u0627\u0646\u0628\u0627\u0631",
         "Al Rum\u0101d\u012b",
-        "\u0627\u0644\u0631\u0645\u0627\u062f\u064a"
+        "\u0627\u0644\u0631\u0645\u0627\u062f\u064a",
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0623\u0646\u0628\u0627\u0631"
+    ],
+    "name:arc_x_preferred":[
+        "\u0710\u0722\u0712\u0710\u072a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u0628\u0627\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0646\u0628\u0627\u0631 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fl-Anbar"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0443\u0445\u0430\u0444\u0430\u0437\u0430 \u0410\u043d\u0431\u0430\u0440"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043b \u0410\u043d\u0431\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Governaci\u00f3 d'Al-Anbar"
+    ],
+    "name:ces_x_preferred":[
+        "Anb\u00e1r"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0626\u06d5\u0646\u0628\u0627\u0631"
+    ],
+    "name:cym_x_preferred":[
+        "Al Anbar"
+    ],
+    "name:dan_x_preferred":[
+        "Al Anbar"
+    ],
+    "name:deu_x_preferred":[
+        "al-Anbar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0391\u03bd\u03bc\u03c0\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Al-Anbar"
@@ -45,8 +85,104 @@
         "Al-Anbar Governorate",
         "Anbar Governorate"
     ],
+    "name:epo_x_preferred":[
+        "Gubernio Anbar"
+    ],
+    "name:est_x_preferred":[
+        "Al-Anb\u0101r"
+    ],
+    "name:eus_x_preferred":[
+        "Anbar probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0646\u0628\u0627\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Al-Anbar"
+    ],
+    "name:fra_x_preferred":[
+        "Al-Anbar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d0\u05e0\u05d1\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0928\u092c\u093e\u0930 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Anb\u00e1r korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30d0\u30fc\u30eb\u770c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d1\u10d0\u10e0\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc548\ubc14\ub974\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "Enbar"
+    ],
+    "name:lav_x_preferred":[
+        "Anb\u0101ras muh\u0101faza"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d7b\u0d2c\u0d3e\u0d7c \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u0628\u0627\u0631"
+    ],
+    "name:nld_x_preferred":[
+        "Al-Anbar"
+    ],
+    "name:nob_x_preferred":[
+        "Anbar"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0627\u0644\u0627\u0646\u0628\u0627\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Anbar"
+    ],
+    "name:por_x_preferred":[
+        "Al-Anbar"
+    ],
+    "name:ron_x_preferred":[
+        "Al-Anbar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0431\u0430\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Anbar Province"
+    ],
+    "name:slk_x_preferred":[
+        "Al-Anb\u00e1r"
+    ],
+    "name:swe_x_preferred":[
+        "al-Anbar"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0410\u043d\u0431\u043e\u0440"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e25\u0e2d\u0e31\u0e19\u0e1a\u0e32\u0e23"
+    ],
+    "name:tur_x_preferred":[
+        "Anbar ili"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0431\u0430\u0440"
+    ],
     "name:unk_x_variant":[
         "Dulaim"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0627\u0644\u0627\u0646\u0628\u0627\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5df4\u5c14\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRQ",
@@ -171,7 +307,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1553550406,
+    "wof:lastmodified":1563332585,
     "wof:name":"Al-Anbar",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

@@ -75,8 +75,14 @@
     "name:cat_x_preferred":[
         "Arbela"
     ],
+    "name:ceb_x_preferred":[
+        "Arbil"
+    ],
     "name:ces_x_preferred":[
         "Arb\u00edl"
+    ],
+    "name:ces_x_variant":[
+        "Irb\u00edl"
     ],
     "name:che_x_preferred":[
         "\u042d\u0440\u0431\u0438\u043b\u044c"
@@ -96,8 +102,13 @@
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03bc\u03c0\u03af\u03bb"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c1\u03bc\u03c0\u03af\u03bb"
+    ],
+    "name:eng_x_preferred":[
+        "Erbil"
+    ],
     "name:eng_x_variant":[
-        "Erbil",
         "Arbil"
     ],
     "name:epo_x_preferred":[
@@ -121,11 +132,17 @@
     "name:glg_x_preferred":[
         "Arbil"
     ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0ab0\u0aac\u0abf\u0ab2"
+    ],
     "name:hbs_x_preferred":[
         "Arbil"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05d1\u05d9\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u092c\u093f\u0932"
     ],
     "name:hrv_x_preferred":[
         "Arbil"
@@ -133,20 +150,35 @@
     "name:hun_x_preferred":[
         "Erb\u00edl"
     ],
+    "name:hye_x_preferred":[
+        "\u0537\u0580\u0562\u056b\u056c"
+    ],
     "name:ile_x_preferred":[
+        "Erbil"
+    ],
+    "name:ina_x_preferred":[
         "Erbil"
     ],
     "name:ind_x_preferred":[
         "Arbil"
     ],
+    "name:isl_x_preferred":[
+        "Arbil"
+    ],
     "name:ita_x_preferred":[
         "Arbil"
+    ],
+    "name:jav_x_preferred":[
+        "Erbil"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30d3\u30fc\u30eb"
     ],
     "name:kal_x_preferred":[
         "Arbil"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0cb0\u0ccd\u0cac\u0cbf\u0cb2\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d4\u10e0\u10d1\u10d8\u10da\u10d8"
@@ -175,6 +207,12 @@
     "name:mal_x_preferred":[
         "\u0d07\u0d7c\u0d2c\u0d3f\u0d7d"
     ],
+    "name:mar_x_preferred":[
+        "\u0905\u0930\u094d\u092c\u093f\u0932"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0415\u0440\u0431\u0438\u043b"
+    ],
     "name:mri_x_preferred":[
         "Arbil"
     ],
@@ -187,10 +225,16 @@
     "name:nau_x_preferred":[
         "Arbil"
     ],
+    "name:nep_x_preferred":[
+        "\u090f\u0930\u094d\u092c\u093f\u0932"
+    ],
     "name:nld_x_preferred":[
         "Arbil"
     ],
     "name:nno_x_preferred":[
+        "Arbil"
+    ],
+    "name:nob_x_preferred":[
         "Arbil"
     ],
     "name:nor_x_preferred":[
@@ -220,8 +264,14 @@
     "name:sco_x_preferred":[
         "Arbil"
     ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0dbb\u0dca\u0db6\u0dd2\u0dbd\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Arb\u00edl"
+    ],
+    "name:slv_x_preferred":[
+        "Arbil"
     ],
     "name:spa_x_preferred":[
         "Erbil"
@@ -232,8 +282,17 @@
     "name:swe_x_preferred":[
         "Erbil"
     ],
+    "name:swe_x_variant":[
+        "Arbil"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c30\u0c4d\u0c2c\u0c3f\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e23\u0e1a\u0e35\u0e25"
     ],
     "name:tur_x_preferred":[
         "Erbil"
@@ -312,7 +371,7 @@
         }
     ],
     "wof:id":421200817,
-    "wof:lastmodified":1554489030,
+    "wof:lastmodified":1563334242,
     "wof:name":"Erbil",
     "wof:parent_id":85672425,
     "wof:placetype":"county",
