@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u1e28ajj\u0101m"
     ],
+    "name:zho_x_preferred":[
+        "\u54c8\u8cc8\u59c6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327418229,
-    "wof:lastmodified":1537639976,
+    "wof:lastmodified":1564103910,
     "wof:name":"Hajjam",
     "wof:parent_id":1108562723,
     "wof:placetype":"locality",

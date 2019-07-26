@@ -32,6 +32,27 @@
     "name:ara_x_variant":[
         "Al Kh\u0101li\u015f"
     ],
+    "name:cat_x_preferred":[
+        "Al-Khalis"
+    ],
+    "name:dan_x_preferred":[
+        "Al Khalis"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Chalis"
+    ],
+    "name:fra_x_preferred":[
+        "Al Khalis"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Chalis"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0430\u043b\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Khalis"
+    ],
     "name:und_x_variant":[
         "Dilt\u0101wah",
         "Dalt\u0101wah",
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1226733665,
-    "wof:lastmodified":1537638658,
+    "wof:lastmodified":1564107041,
     "wof:name":"Al Khalis",
     "wof:parent_id":421169765,
     "wof:placetype":"locality",

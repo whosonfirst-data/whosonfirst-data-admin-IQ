@@ -30,7 +30,35 @@
         "\u0631\u0627\u0634\u062f"
     ],
     "name:ara_x_variant":[
-        "R\u0101shid"
+        "R\u0101shid",
+        "\u0631\u0634\u064a\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "R\u0259\u015fid"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0448\u0438\u0434"
+    ],
+    "name:deu_x_preferred":[
+        "Raschid"
+    ],
+    "name:fra_x_preferred":[
+        "Rachid"
+    ],
+    "name:ita_x_preferred":[
+        "Rashid"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0448\u0438\u0434 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:por_x_preferred":[
+        "Rashid"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0448\u0438\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Rashid"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +83,7 @@
         }
     ],
     "wof:id":1326600863,
-    "wof:lastmodified":1537638814,
+    "wof:lastmodified":1564103824,
     "wof:name":"Rashid",
     "wof:parent_id":1108562681,
     "wof:placetype":"locality",

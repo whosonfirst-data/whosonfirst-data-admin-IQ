@@ -31,6 +31,9 @@
     "name:fas_x_preferred":[
         "\u0642\u0644\u067e"
     ],
+    "name:ita_x_preferred":[
+        "Qalb"
+    ],
     "name:kur_x_preferred":[
         "Qe\u0142b"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1344240769,
-    "wof:lastmodified":1537638052,
+    "wof:lastmodified":1564104214,
     "wof:name":"Qalb",
     "wof:parent_id":421183885,
     "wof:placetype":"locality",

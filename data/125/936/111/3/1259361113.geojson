@@ -32,11 +32,17 @@
     "name:ara_x_variant":[
         "Diz\u016b"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0632\u0648"
+    ],
     "name:kur_x_preferred":[
         "Diz\u00fb"
     ],
     "name:kur_x_variant":[
         "\u062f\u0632\u0648\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Dizu"
     ],
     "name:und_x_variant":[
         "D\u0113z\u014d"
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1259361113,
-    "wof:lastmodified":1537638450,
+    "wof:lastmodified":1564106714,
     "wof:name":"Dizu",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

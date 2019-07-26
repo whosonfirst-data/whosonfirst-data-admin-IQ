@@ -31,6 +31,9 @@
         "Hanshi",
         "\u1e28anash\u012b"
     ],
+    "name:vie_x_preferred":[
+        "Hanashi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632191
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209101333,
-    "wof:lastmodified":1537638359,
+    "wof:lastmodified":1564105550,
     "wof:name":"Hanashi",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

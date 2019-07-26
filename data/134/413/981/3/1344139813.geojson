@@ -26,6 +26,18 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0645\u0627\u0646\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Rummanah"
+    ],
+    "name:ceb_x_preferred":[
+        "Rummanah"
+    ],
+    "name:nno_x_preferred":[
+        "Rummanah"
+    ],
     "name:und_x_variant":[
         "Rumana",
         "Rum\u0101n\u0101h",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1344139813,
-    "wof:lastmodified":1537637998,
+    "wof:lastmodified":1564104188,
     "wof:name":"Rummanah",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",

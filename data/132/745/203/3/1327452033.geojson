@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0629"
     ],
+    "name:fra_x_preferred":[
+        "Mirah"
+    ],
+    "name:ita_x_preferred":[
+        "Mirah"
+    ],
     "name:und_x_variant":[
         "M\u012brah"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1327452033,
-    "wof:lastmodified":1537638874,
+    "wof:lastmodified":1564104079,
     "wof:name":"Mirah",
     "wof:parent_id":1108562655,
     "wof:placetype":"locality",

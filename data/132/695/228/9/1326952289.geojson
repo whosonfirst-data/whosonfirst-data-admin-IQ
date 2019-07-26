@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "B\u0101z\u012bl"
     ],
+    "name:ces_x_preferred":[
+        "Bazil"
+    ],
+    "name:hun_x_preferred":[
+        "Bazil"
+    ],
+    "name:ron_x_preferred":[
+        "Bazil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1326952289,
-    "wof:lastmodified":1537638533,
+    "wof:lastmodified":1564103852,
     "wof:name":"Bazil",
     "wof:parent_id":421172849,
     "wof:placetype":"locality",

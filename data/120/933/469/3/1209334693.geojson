@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u0646\u064a"
     ],
+    "name:fra_x_preferred":[
+        "Karni"
+    ],
     "name:kur_x_preferred":[
         "Kern\u00ee"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209334693,
-    "wof:lastmodified":1537638257,
+    "wof:lastmodified":1564105479,
     "wof:name":"Karni",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

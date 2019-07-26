@@ -29,6 +29,24 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Kuni"
+    ],
+    "name:deu_x_preferred":[
+        "Kuni"
+    ],
+    "name:fin_x_preferred":[
+        "Kuni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kuni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043d\u0456"
+    ],
     "name:und_x_variant":[
         "K\u016bl\u012b"
     ],
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1209619865,
-    "wof:lastmodified":1537640045,
+    "wof:lastmodified":1564105425,
     "wof:name":"Kuni",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u062c\u062f\u064a\u062f\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u062f\u064a\u062f"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062c\u062f\u06cc\u062f"
+    ],
     "name:kur_x_preferred":[
         "Taza"
     ],
@@ -36,10 +42,16 @@
         "Taze",
         "\u062a\u0627\u0632\u06d5"
     ],
+    "name:nno_x_preferred":[
+        "Jadidah"
+    ],
     "name:und_x_variant":[
         "Jadida",
         "Jad\u012bdah",
         "Taza"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u062f\u06cc\u062f\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1360164125,
-    "wof:lastmodified":1537638309,
+    "wof:lastmodified":1564106172,
     "wof:name":"Jadidah",
     "wof:parent_id":421199293,
     "wof:placetype":"locality",

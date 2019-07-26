@@ -29,6 +29,18 @@
     "name:ara_x_preferred":[
         "Al Furs\u0101n"
     ],
+    "name:ara_x_variant":[
+        "\u0641\u0631\u0633\u0627\u0646 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a"
+    ],
+    "name:deu_x_preferred":[
+        "Al Fursan"
+    ],
+    "name:ita_x_preferred":[
+        "Al Fursan"
+    ],
+    "name:rus_x_preferred":[
+        "Al Fursan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293218341,
-    "wof:lastmodified":1537638880,
+    "wof:lastmodified":1564104865,
     "wof:name":"Al Fursan",
     "wof:parent_id":421178933,
     "wof:placetype":"locality",

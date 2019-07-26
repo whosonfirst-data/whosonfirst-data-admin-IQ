@@ -29,6 +29,9 @@
     "name:und_x_variant":[
         "Haff\u0101r"
     ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0641\u0627\u0631 \u062f\u0631\u06cc\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226151753,
-    "wof:lastmodified":1537638377,
+    "wof:lastmodified":1564107222,
     "wof:name":"Haffar",
     "wof:parent_id":1108562735,
     "wof:placetype":"locality",

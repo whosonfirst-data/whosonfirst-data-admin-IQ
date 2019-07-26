@@ -26,11 +26,23 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Basan"
+    ],
     "name:kur_x_preferred":[
         "Basan"
     ],
     "name:kur_x_variant":[
         "\u0628\u0627\u0633\u0627\u0646"
+    ],
+    "name:por_x_preferred":[
+        "Basan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Basan"
     ],
     "name:und_x_variant":[
         "B\u0101ziy\u0101n"
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1360263255,
-    "wof:lastmodified":1537638546,
+    "wof:lastmodified":1564106200,
     "wof:name":"Basan",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

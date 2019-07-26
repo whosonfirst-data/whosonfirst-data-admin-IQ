@@ -35,6 +35,9 @@
     "name:kur_x_variant":[
         "\u0644\u0648\u062a\u06d5\u0631"
     ],
+    "name:pol_x_preferred":[
+        "Luter"
+    ],
     "name:und_x_variant":[
         "L\u016btar",
         "L\u014dtar",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1293023397,
-    "wof:lastmodified":1537639062,
+    "wof:lastmodified":1564104741,
     "wof:name":"Luter",
     "wof:parent_id":1108562759,
     "wof:placetype":"locality",

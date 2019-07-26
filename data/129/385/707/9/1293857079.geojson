@@ -35,6 +35,9 @@
     "name:kur_x_variant":[
         "\u062f\u0648\u0628\u06ce"
     ],
+    "name:slk_x_preferred":[
+        "Dubay"
+    ],
     "name:und_x_variant":[
         "Dubi",
         "D\u016bbay",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1293857079,
-    "wof:lastmodified":1537638915,
+    "wof:lastmodified":1564104638,
     "wof:name":"Dubay",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",

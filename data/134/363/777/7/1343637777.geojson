@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u062d\u062a\u0632"
     ],
+    "name:fra_x_preferred":[
+        "Hataz"
+    ],
     "name:und_x_variant":[
         "\u1e28ataz"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343637777,
-    "wof:lastmodified":1537639673,
+    "wof:lastmodified":1564104158,
     "wof:name":"Hataz",
     "wof:parent_id":1108562775,
     "wof:placetype":"locality",

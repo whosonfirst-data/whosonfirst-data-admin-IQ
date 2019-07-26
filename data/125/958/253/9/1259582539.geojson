@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "T\u0101k\u0101n"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0643\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06a9\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Takan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259582539,
-    "wof:lastmodified":1537638856,
+    "wof:lastmodified":1564106893,
     "wof:name":"Takan",
     "wof:parent_id":1108562761,
     "wof:placetype":"locality",

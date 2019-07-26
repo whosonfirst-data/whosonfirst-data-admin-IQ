@@ -26,6 +26,42 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0645\u064a\u0644"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0645\u064a\u0644"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u06ce\u0645\u06ce\u0644"
+    ],
+    "name:deu_x_preferred":[
+        "S\u00eam\u00eal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0645\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Simel\u00e9"
+    ],
+    "name:kur_x_preferred":[
+        "S\u00eam\u00eal"
+    ],
+    "name:nor_x_preferred":[
+        "Sumel"
+    ],
+    "name:pol_x_preferred":[
+        "Sajmajl"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043c\u0430\u0439\u0438\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Sumail"
+    ],
+    "name:tur_x_preferred":[
+        "Simele"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1343977989,
-    "wof:lastmodified":1536993933,
+    "wof:lastmodified":1564104153,
     "wof:name":"Simele",
     "wof:parent_id":1108562637,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u043b\u0430\u0431\u0434\u0436\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "\u1e28alabjah"
+    ],
     "name:ces_x_preferred":[
         "Halabd\u017ea"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:diq_x_preferred":[
         "Helebce"
+    ],
+    "name:diq_x_variant":[
+        "Helebca"
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03bb\u03ac\u03bc\u03c0\u03c4\u03b6\u03b1"
@@ -81,6 +87,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0939\u0932\u092c\u091c\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u0939\u0932\u093e\u092c\u094d\u091c\u093e"
     ],
     "name:hrv_x_preferred":[
         "Halabja"
@@ -112,6 +121,9 @@
     "name:kaz_x_preferred":[
         "\u041a\u0435\u0440\u0431\u0435\u043b\u0430"
     ],
+    "name:kaz_x_variant":[
+        "\u0425\u0430\u043b\u0430\u0431\u0434\u0436\u0430"
+    ],
     "name:kor_x_preferred":[
         "\ud560\ub77c\ube0c\uc790"
     ],
@@ -134,6 +146,9 @@
         "\u062d\u0644\u0628\u0686\u0647"
     ],
     "name:nld_x_preferred":[
+        "Halabja"
+    ],
+    "name:nno_x_preferred":[
         "Halabja"
     ],
     "name:nob_x_preferred":[
@@ -190,11 +205,17 @@
     "name:urd_x_preferred":[
         "Halabja"
     ],
+    "name:urd_x_variant":[
+        "\u062d\u0644\u0628\u062c\u06c1"
+    ],
     "name:vie_x_preferred":[
         "Halabja"
     ],
     "name:zho_x_preferred":[
         "\u54c8\u62c9\u5e03\u8cc8"
+    ],
+    "name:zho_x_variant":[
+        "\u54c8\u62c9\u535c\u8d3e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -238,7 +259,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1561767163,
+    "wof:lastmodified":1564105820,
     "wof:name":"Halabja",
     "wof:parent_id":-1,
     "wof:placetype":"region",

@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0632\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Bozan"
+    ],
     "name:kur_x_preferred":[
         "Bozan"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243432397,
-    "wof:lastmodified":1537639028,
+    "wof:lastmodified":1564106709,
     "wof:name":"Bozan",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",

@@ -29,6 +29,27 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Kiri"
+    ],
+    "name:deu_x_preferred":[
+        "Kiri"
+    ],
+    "name:est_x_preferred":[
+        "Kiri"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Kiri"
+    ],
+    "name:fra_x_preferred":[
+        "Kiri"
+    ],
+    "name:ind_x_preferred":[
+        "Kiri"
+    ],
     "name:kur_x_preferred":[
         "Kir\u00ee"
     ],
@@ -36,6 +57,18 @@
         "\u0643\u0631\u0649",
         "K\u00ear\u00ee",
         "\u0643\u06ce\u0631\u0649"
+    ],
+    "name:ron_x_preferred":[
+        "Kiri"
+    ],
+    "name:spa_x_preferred":[
+        "Kiri"
+    ],
+    "name:swe_x_preferred":[
+        "Kiri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u0456"
     ],
     "name:und_x_variant":[
         "Kri",
@@ -66,7 +99,7 @@
         }
     ],
     "wof:id":1193134177,
-    "wof:lastmodified":1537638211,
+    "wof:lastmodified":1564105638,
     "wof:name":"Kiri",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

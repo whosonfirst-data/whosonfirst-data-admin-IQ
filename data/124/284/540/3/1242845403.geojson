@@ -29,6 +29,54 @@
     "name:ara_x_preferred":[
         "Mu\u1e29\u012b"
     ],
+    "name:deu_x_preferred":[
+        "Muhi"
+    ],
+    "name:epo_x_preferred":[
+        "Muhi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0647\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Muhi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d4\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Muhi"
+    ],
+    "name:ita_x_preferred":[
+        "Muhi"
+    ],
+    "name:msa_x_preferred":[
+        "Muhi"
+    ],
+    "name:nld_x_preferred":[
+        "Muhi"
+    ],
+    "name:pol_x_preferred":[
+        "Muhi"
+    ],
+    "name:ron_x_preferred":[
+        "Muhi"
+    ],
+    "name:slk_x_preferred":[
+        "Muhi"
+    ],
+    "name:slv_x_preferred":[
+        "Muhi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0443\u0445\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "Muhi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5e0c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1242845403,
-    "wof:lastmodified":1537638122,
+    "wof:lastmodified":1564106595,
     "wof:name":"Muhi",
     "wof:parent_id":1108562711,
     "wof:placetype":"locality",

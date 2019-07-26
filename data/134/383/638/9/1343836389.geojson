@@ -32,6 +32,15 @@
     "name:ara_x_variant":[
         "Tuw\u012b"
     ],
+    "name:ceb_x_preferred":[
+        "Tem"
+    ],
+    "name:fin_x_preferred":[
+        "Tem"
+    ],
+    "name:fra_x_preferred":[
+        "Tem"
+    ],
     "name:kur_x_preferred":[
         "Tuw\u00ee"
     ],
@@ -40,9 +49,24 @@
         "Tem",
         "\u062a\u06d5\u0645"
     ],
+    "name:pol_x_preferred":[
+        "Tem"
+    ],
+    "name:por_x_preferred":[
+        "Tem"
+    ],
+    "name:spa_x_preferred":[
+        "Tem"
+    ],
+    "name:swe_x_preferred":[
+        "Tem"
+    ],
     "name:und_x_variant":[
         "Towi",
         "Twa"
+    ],
+    "name:vie_x_preferred":[
+        "Tem"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +91,7 @@
         }
     ],
     "wof:id":1343836389,
-    "wof:lastmodified":1537639025,
+    "wof:lastmodified":1564104245,
     "wof:name":"Tem",
     "wof:parent_id":1108562757,
     "wof:placetype":"locality",

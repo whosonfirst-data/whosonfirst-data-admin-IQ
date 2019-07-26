@@ -32,6 +32,18 @@
     "name:ara_x_variant":[
         "Mull\u0101"
     ],
+    "name:ceb_x_preferred":[
+        "Mulla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043b\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mulla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1293478033,
-    "wof:lastmodified":1537639982,
+    "wof:lastmodified":1564104660,
     "wof:name":"Mulla",
     "wof:parent_id":1108562757,
     "wof:placetype":"locality",

@@ -29,15 +29,66 @@
     "name:ara_x_preferred":[
         "\u0633\u0631\u0643\u0646\u062f"
     ],
+    "name:ceb_x_preferred":[
+        "Sarkand"
+    ],
+    "name:deu_x_preferred":[
+        "Sarqan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03ba\u03ac\u03bd\u03c4"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06a9\u0646\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Sarkand"
+    ],
+    "name:hsb_x_preferred":[
+        "Sarkan"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u0440\u049b\u0430\u043d"
+    ],
     "name:kur_x_preferred":[
         "Serkend"
     ],
     "name:kur_x_variant":[
         "\u0633\u06d5\u0631\u0643\u06d5\u0646\u062f"
     ],
+    "name:lit_x_preferred":[
+        "Sarkandas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0440\u043a\u0430\u043d\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Sarkand"
+    ],
+    "name:pol_x_preferred":[
+        "Sarkan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u043a\u0430\u043d\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Sarkand"
+    ],
+    "name:swe_x_preferred":[
+        "Sarkand"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0440\u043a\u04d9\u043d\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0440\u043a\u0430\u043d\u0434"
+    ],
     "name:und_x_variant":[
         "Sarkant",
         "Sarkand"
+    ],
+    "name:uzb_x_preferred":[
+        "Sarqand"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1209202601,
-    "wof:lastmodified":1537637971,
+    "wof:lastmodified":1564105495,
     "wof:name":"Sarkand",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

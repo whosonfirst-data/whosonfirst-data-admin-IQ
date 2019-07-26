@@ -26,11 +26,32 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hori"
+    ],
+    "name:deu_x_preferred":[
+        "Hori"
+    ],
+    "name:fra_x_preferred":[
+        "Hori"
+    ],
+    "name:hun_x_preferred":[
+        "Hori"
+    ],
+    "name:ita_x_preferred":[
+        "Hori"
+    ],
     "name:kur_x_preferred":[
         "Hor\u00ee"
     ],
     "name:kur_x_variant":[
         "\u06be\u06c6\u0631\u0649"
+    ],
+    "name:por_x_preferred":[
+        "Hori"
+    ],
+    "name:swe_x_preferred":[
+        "Hori"
     ],
     "name:und_x_variant":[
         "Hore"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1326911619,
-    "wof:lastmodified":1537640088,
+    "wof:lastmodified":1564104027,
     "wof:name":"Hori",
     "wof:parent_id":1108562749,
     "wof:placetype":"locality",

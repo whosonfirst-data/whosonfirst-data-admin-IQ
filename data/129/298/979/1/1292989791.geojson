@@ -29,6 +29,36 @@
     "name:ara_x_preferred":[
         "Ar\u012bz"
     ],
+    "name:ceb_x_preferred":[
+        "Ariz"
+    ],
+    "name:deu_x_preferred":[
+        "Ariz"
+    ],
+    "name:fra_x_preferred":[
+        "Ariz"
+    ],
+    "name:glg_x_preferred":[
+        "Ariz"
+    ],
+    "name:nld_x_preferred":[
+        "Ariz"
+    ],
+    "name:por_x_preferred":[
+        "Ariz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0438\u0448"
+    ],
+    "name:slv_x_preferred":[
+        "Ariz"
+    ],
+    "name:spa_x_preferred":[
+        "Ariz"
+    ],
+    "name:swe_x_preferred":[
+        "Ariz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1292989791,
-    "wof:lastmodified":1537638628,
+    "wof:lastmodified":1564104750,
     "wof:name":"Ariz",
     "wof:parent_id":1108562655,
     "wof:placetype":"locality",

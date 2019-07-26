@@ -29,6 +29,30 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u0643\u0647"
     ],
+    "name:bre_x_preferred":[
+        "Banka"
+    ],
+    "name:cat_x_preferred":[
+        "Banka"
+    ],
+    "name:ceb_x_preferred":[
+        "Banka"
+    ],
+    "name:deu_x_preferred":[
+        "Banka"
+    ],
+    "name:epo_x_preferred":[
+        "Banka"
+    ],
+    "name:eus_x_preferred":[
+        "Banka"
+    ],
+    "name:fra_x_preferred":[
+        "Banka"
+    ],
+    "name:fry_x_preferred":[
+        "Banka"
+    ],
     "name:kur_x_preferred":[
         "Panke"
     ],
@@ -36,6 +60,27 @@
         "\u067e\u0627\u0646\u0643\u06d5",
         "Banka",
         "\u0628\u0627\u0646\u0643\u0627"
+    ],
+    "name:nld_x_preferred":[
+        "Banka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u043a\u0430"
+    ],
+    "name:san_x_preferred":[
+        "\u092c\u093e\u0919\u094d\u0915\u093e"
+    ],
+    "name:slk_x_preferred":[
+        "Banka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Banka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Panka",
@@ -66,7 +111,7 @@
         }
     ],
     "wof:id":1226065173,
-    "wof:lastmodified":1537638567,
+    "wof:lastmodified":1564107270,
     "wof:name":"Banka",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

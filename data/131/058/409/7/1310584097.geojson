@@ -29,11 +29,23 @@
     "name:ara_x_preferred":[
         "\u062d\u0637\u064a\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Burk"
+    ],
+    "name:deu_x_preferred":[
+        "Burk"
+    ],
+    "name:fra_x_preferred":[
+        "Burk"
+    ],
     "name:kur_x_preferred":[
         "Burk"
     ],
     "name:kur_x_variant":[
         "\u0628\u0648\u0631\u0643"
+    ],
+    "name:pol_x_preferred":[
+        "Burk"
     ],
     "name:und_x_variant":[
         "\u1e28i\u0163\u0163\u012bn"
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1310584097,
-    "wof:lastmodified":1537639970,
+    "wof:lastmodified":1564106093,
     "wof:name":"Burk",
     "wof:parent_id":421186449,
     "wof:placetype":"locality",

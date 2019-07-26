@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0648\u063a\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u063a\u0647"
+    ],
     "name:kur_x_preferred":[
         "Yoghe"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1292983751,
-    "wof:lastmodified":1537638509,
+    "wof:lastmodified":1564104753,
     "wof:name":"Al Bughah",
     "wof:parent_id":1108562635,
     "wof:placetype":"locality",

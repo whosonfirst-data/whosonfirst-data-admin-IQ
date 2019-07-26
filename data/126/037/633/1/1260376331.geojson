@@ -32,6 +32,12 @@
     "name:ara_x_variant":[
         "K\u016bl\u012b"
     ],
+    "name:ceb_x_preferred":[
+        "Kuli"
+    ],
+    "name:deu_x_preferred":[
+        "Kuli"
+    ],
     "name:kur_x_preferred":[
         "Kul\u00ee"
     ],
@@ -39,6 +45,15 @@
         "\u0643\u0648\u0644\u0649",
         "Kul\u00ea",
         "\u0643\u0648\u0644\u06ce"
+    ],
+    "name:nds_x_preferred":[
+        "Kuli"
+    ],
+    "name:nor_x_preferred":[
+        "Kuli"
+    ],
+    "name:swe_x_preferred":[
+        "Kuli"
     ],
     "name:und_x_variant":[
         "G\u014dl\u012b",
@@ -68,7 +83,7 @@
         }
     ],
     "wof:id":1260376331,
-    "wof:lastmodified":1537638199,
+    "wof:lastmodified":1564105739,
     "wof:name":"Kuli",
     "wof:parent_id":1108562637,
     "wof:placetype":"locality",

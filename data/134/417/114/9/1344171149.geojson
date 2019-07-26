@@ -30,6 +30,12 @@
     "name:ara_x_preferred":[
         "Sufl\u00e1"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0641\u0644\u0649"
+    ],
+    "name:pol_x_preferred":[
+        "Sufla"
+    ],
     "name:und_x_variant":[
         "Siflah",
         "Sifla"
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1344171149,
-    "wof:lastmodified":1537637880,
+    "wof:lastmodified":1564104401,
     "wof:name":"Sufla",
     "wof:parent_id":1108562649,
     "wof:placetype":"locality",

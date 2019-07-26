@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u062d\u064a\u0629 \u0628\u0631\u0648\u0627\u0646\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u0648\u0627\u0646\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u0627\u0646\u0647"
+    ],
     "name:und_x_variant":[
         "Barwana",
         "Barw\u0101nah",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1343679647,
-    "wof:lastmodified":1537638550,
+    "wof:lastmodified":1564104364,
     "wof:name":"Nahiyat Barwanah",
     "wof:parent_id":1108562649,
     "wof:placetype":"locality",

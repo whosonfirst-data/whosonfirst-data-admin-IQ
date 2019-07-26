@@ -29,15 +29,27 @@
     "name:ara_x_preferred":[
         "\u0646\u0645\u0644"
     ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09ae\u09b2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0645\u0644"
+    ],
     "name:kur_x_preferred":[
         "\u0646\u06d5\u0645\u06d5\u06b5"
     ],
     "name:kur_x_variant":[
         "Neme\u0142"
     ],
+    "name:pnb_x_preferred":[
+        "\u0646\u0645\u0644"
+    ],
     "name:und_x_variant":[
         "Namm\u0101l",
         "Namal"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0645\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1310506285,
-    "wof:lastmodified":1537638104,
+    "wof:lastmodified":1564106045,
     "wof:name":"Namal",
     "wof:parent_id":1108562767,
     "wof:placetype":"locality",

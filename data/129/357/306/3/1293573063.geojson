@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u062e\u0645\u064a\u0633"
     ],
+    "name:nor_x_preferred":[
+        "Ibrahim Khamis"
+    ],
+    "name:pol_x_preferred":[
+        "Ibrahim Khamis"
+    ],
     "name:und_x_variant":[
         "Ibr\u0101h\u012bm Kham\u012bs"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293573063,
-    "wof:lastmodified":1537639383,
+    "wof:lastmodified":1564104705,
     "wof:name":"Ibrahim Khamis",
     "wof:parent_id":1108562655,
     "wof:placetype":"locality",

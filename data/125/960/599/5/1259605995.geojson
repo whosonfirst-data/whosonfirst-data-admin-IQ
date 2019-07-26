@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "D\u0113r\u0113"
     ],
+    "name:ceb_x_preferred":[
+        "Dere"
+    ],
+    "name:deu_x_preferred":[
+        "Dere"
+    ],
     "name:kur_x_preferred":[
         "D\u00ear\u00ea"
     ],
@@ -36,6 +42,15 @@
         "D\u00ea \u1e5e\u00ea",
         "\u062f\u06ce\u0631\u06ce",
         "\u062f\u06ce \u0695\u06ce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Dere"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0440\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1259605995,
-    "wof:lastmodified":1537638452,
+    "wof:lastmodified":1564106896,
     "wof:name":"Dere",
     "wof:parent_id":1108562753,
     "wof:placetype":"locality",

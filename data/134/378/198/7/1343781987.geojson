@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "Misk\u012b"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u06a9\u06cc"
+    ],
     "name:kur_x_preferred":[
         "Misk\u00ee"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1343781987,
-    "wof:lastmodified":1537638149,
+    "wof:lastmodified":1564104303,
     "wof:name":"Miski",
     "wof:parent_id":421204025,
     "wof:placetype":"locality",

@@ -32,6 +32,27 @@
     "name:arc_x_preferred":[
         "M\u0101h\u014dz\u0113"
     ],
+    "name:cat_x_preferred":[
+        "Madain"
+    ],
+    "name:deu_x_preferred":[
+        "Mahuza"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062f\u0627\u0626\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6\u05d0"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Mada'in"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Mada\u2019in"
+    ],
+    "name:spa_x_preferred":[
+        "Madain"
+    ],
     "name:und_x_variant":[
         "Mad\u0101in"
     ],
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1293286999,
-    "wof:lastmodified":1537638653,
+    "wof:lastmodified":1564104834,
     "wof:name":"Al-Mada'in",
     "wof:parent_id":1108562739,
     "wof:placetype":"locality",

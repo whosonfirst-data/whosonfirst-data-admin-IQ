@@ -29,6 +29,18 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u063a\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "D\u016bgh\u0101n"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u063a\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Dughan"
+    ],
+    "name:swe_x_preferred":[
+        "D\u016bgh\u0101n"
+    ],
     "name:und_x_variant":[
         "D\u016bgh\u0101n"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1344045659,
-    "wof:lastmodified":1537639902,
+    "wof:lastmodified":1564104434,
     "wof:name":"Dughan",
     "wof:parent_id":421200817,
     "wof:placetype":"locality",

@@ -29,6 +29,30 @@
     "name:ara_x_preferred":[
         "\u062c\u0644\u0648\u0644\u0627\u0621"
     ],
+    "name:azb_x_preferred":[
+        "\u062c\u0644\u0648\u0644\u0627\u0621"
+    ],
+    "name:cat_x_preferred":[
+        "Jalula"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062c\u06d5\u0644\u06d5\u0648\u0644\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Jalawla"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0644\u0648\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Jalula"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017calaula"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043b\u0430\u0443\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Qarah Gh\u0101n",
         "Jalawlah",
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1226028523,
-    "wof:lastmodified":1537638306,
+    "wof:lastmodified":1564107079,
     "wof:name":"Jalawlah",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",

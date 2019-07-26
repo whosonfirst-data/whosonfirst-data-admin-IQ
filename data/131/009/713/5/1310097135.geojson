@@ -27,6 +27,9 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Midhat"
+    ],
     "name:und_x_variant":[
         "Madhat",
         "Mid\u1e29at"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310097135,
-    "wof:lastmodified":1537638139,
+    "wof:lastmodified":1564105918,
     "wof:name":"Midhat",
     "wof:parent_id":1108562739,
     "wof:placetype":"locality",

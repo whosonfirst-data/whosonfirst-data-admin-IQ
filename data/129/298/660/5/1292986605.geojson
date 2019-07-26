@@ -33,6 +33,12 @@
         "D\u0101yr\u0101y\u016bn",
         "\u062f\u0627\u064a\u0631\u0627\u0628\u0648\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Derabun"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0631\u0628\u0648\u0646"
+    ],
     "name:kur_x_preferred":[
         "D\u00earebun"
     ],
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1292986605,
-    "wof:lastmodified":1537638457,
+    "wof:lastmodified":1564104749,
     "wof:name":"Derebun",
     "wof:parent_id":890445289,
     "wof:placetype":"locality",

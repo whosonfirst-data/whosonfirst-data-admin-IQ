@@ -26,8 +26,26 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0627\u062f\u064a\u0629"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u064a\u0627\u062f\u064a\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u06cc\u0627\u062f\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Ziadiyah"
+    ],
+    "name:pol_x_preferred":[
+        "Zijadijja"
+    ],
+    "name:tur_x_preferred":[
+        "Ziy\u00e2diye"
+    ],
+    "name:vie_x_preferred":[
+        "Ziadiyah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1260298361,
-    "wof:lastmodified":1537639114,
+    "wof:lastmodified":1564105779,
     "wof:name":"Ziadiyah",
     "wof:parent_id":1108562735,
     "wof:placetype":"locality",

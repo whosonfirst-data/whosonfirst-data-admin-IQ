@@ -32,7 +32,16 @@
     "name:ara_x_variant":[
         "B\u0101til"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09a4\u09bf\u09b2"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0924\u093f\u0932"
+    ],
     "name:kur_x_preferred":[
+        "Batil"
+    ],
+    "name:msa_x_preferred":[
         "Batil"
     ],
     "src:geom":"geonames",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1344154171,
-    "wof:lastmodified":1537638545,
+    "wof:lastmodified":1564104201,
     "wof:name":"Batil",
     "wof:parent_id":1108562637,
     "wof:placetype":"locality",

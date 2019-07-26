@@ -29,6 +29,18 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0647 \u062d\u0633\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Qarah \u1e28asan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0647\u200c\u062d\u0633\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Gharehasan"
+    ],
+    "name:swe_x_preferred":[
+        "Qarah \u1e28asan"
+    ],
     "name:und_x_variant":[
         "Qara Hasan",
         "Qarah \u1e28asan"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1310580559,
-    "wof:lastmodified":1537638045,
+    "wof:lastmodified":1564106093,
     "wof:name":"Qarah Hasan",
     "wof:parent_id":1108562775,
     "wof:placetype":"locality",

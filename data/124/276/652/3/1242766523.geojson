@@ -26,6 +26,9 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "H\u0259s\u0259n sultan"
+    ],
     "name:und_x_variant":[
         "\u1e28asan Sul\u0163\u0101n"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1242766523,
-    "wof:lastmodified":1537638347,
+    "wof:lastmodified":1564106615,
     "wof:name":"Hasan Sultan",
     "wof:parent_id":1108562655,
     "wof:placetype":"locality",

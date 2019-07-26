@@ -29,11 +29,41 @@
     "name:ara_x_preferred":[
         "S\u0113hn\u0101n"
     ],
+    "name:deu_x_preferred":[
+        "Senan"
+    ],
+    "name:epo_x_preferred":[
+        "Senan"
+    ],
+    "name:fra_x_preferred":[
+        "Senan"
+    ],
+    "name:ita_x_preferred":[
+        "Senan"
+    ],
     "name:kur_x_preferred":[
         "S\u00eanan"
     ],
     "name:kur_x_variant":[
         "\u0633\u06ce\u0646\u0627\u0646"
+    ],
+    "name:nld_x_preferred":[
+        "Senan"
+    ],
+    "name:oci_x_preferred":[
+        "Senan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Senan"
+    ],
+    "name:swe_x_preferred":[
+        "Senan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0430\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":1310093571,
-    "wof:lastmodified":1537637945,
+    "wof:lastmodified":1564105919,
     "wof:name":"Senan",
     "wof:parent_id":890445493,
     "wof:placetype":"locality",

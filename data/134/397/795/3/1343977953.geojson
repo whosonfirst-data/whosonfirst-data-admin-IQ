@@ -29,6 +29,24 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0631\u0648\u0646\u0647"
     ],
+    "name:ces_x_preferred":[
+        "Haruna"
+    ],
+    "name:deu_x_preferred":[
+        "Haruna"
+    ],
+    "name:fin_x_preferred":[
+        "Haruna"
+    ],
+    "name:ita_x_preferred":[
+        "Haruna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u306f\u308b\u306a"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\ub8e8\ub098"
+    ],
     "name:kur_x_preferred":[
         "Harune"
     ],
@@ -36,6 +54,24 @@
         "\u06be\u0627\u0631\u0648\u0646\u06d5",
         "Haruna",
         "\u06be\u0627\u0631\u0648\u0646\u0627"
+    ],
+    "name:nld_x_preferred":[
+        "Haruna"
+    ],
+    "name:pol_x_preferred":[
+        "Haruna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0443\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Haruna"
+    ],
+    "name:spa_x_preferred":[
+        "Haruna"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e32\u0e23\u0e38\u0e19\u0e30"
     ],
     "name:und_x_variant":[
         "Harona",
@@ -65,7 +101,7 @@
         }
     ],
     "wof:id":1343977953,
-    "wof:lastmodified":1537638953,
+    "wof:lastmodified":1564104155,
     "wof:name":"Haruna",
     "wof:parent_id":890445289,
     "wof:placetype":"locality",

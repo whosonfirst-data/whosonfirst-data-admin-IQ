@@ -29,6 +29,9 @@
     "name:fas_x_preferred":[
         "\u0642\u0645\u0631"
     ],
+    "name:spa_x_preferred":[
+        "Qamar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310188873,
-    "wof:lastmodified":1537639105,
+    "wof:lastmodified":1564105977,
     "wof:name":"Qamar",
     "wof:parent_id":1108562655,
     "wof:placetype":"locality",

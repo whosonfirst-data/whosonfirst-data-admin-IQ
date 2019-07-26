@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0627\u0646\u0629"
     ],
+    "name:deu_x_preferred":[
+        "Alane"
+    ],
+    "name:fra_x_preferred":[
+        "Alane"
+    ],
     "name:kur_x_preferred":[
         "Alane"
     ],
@@ -36,6 +42,9 @@
         "\u0626\u0627\u0644\u0627\u0646\u06d5",
         "Alan",
         "\u0626\u0627\u0644\u0627\u0646"
+    ],
+    "name:nds_x_preferred":[
+        "Alane"
     ],
     "name:und_x_variant":[
         "Al\u0101na",
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":1225932127,
-    "wof:lastmodified":1537638653,
+    "wof:lastmodified":1564106973,
     "wof:name":"Alane",
     "wof:parent_id":1108562749,
     "wof:placetype":"locality",

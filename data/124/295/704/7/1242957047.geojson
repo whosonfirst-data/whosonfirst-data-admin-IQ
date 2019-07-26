@@ -32,6 +32,12 @@
     "name:ara_x_variant":[
         "M\u0101\u1e29\u016br"
     ],
+    "name:ceb_x_preferred":[
+        "Mahur"
+    ],
+    "name:swe_x_preferred":[
+        "Mahur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1242957047,
-    "wof:lastmodified":1537638873,
+    "wof:lastmodified":1564106460,
     "wof:name":"Mahur",
     "wof:parent_id":1108562655,
     "wof:placetype":"locality",

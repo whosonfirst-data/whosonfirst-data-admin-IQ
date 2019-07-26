@@ -32,12 +32,48 @@
     "name:ara_x_variant":[
         "\u1e28\u0101n\u016br"
     ],
+    "name:cat_x_preferred":[
+        "Cano"
+    ],
+    "name:ceb_x_preferred":[
+        "Cano"
+    ],
+    "name:ces_x_preferred":[
+        "Cano"
+    ],
+    "name:deu_x_preferred":[
+        "Cano"
+    ],
+    "name:eus_x_preferred":[
+        "Cano"
+    ],
+    "name:fra_x_preferred":[
+        "Cano"
+    ],
+    "name:glg_x_preferred":[
+        "Cano"
+    ],
+    "name:ita_x_preferred":[
+        "Cano"
+    ],
     "name:kur_x_preferred":[
         "Cano"
     ],
     "name:kur_x_variant":[
         "Jano",
         "\u062c\u0627\u0646\u06c6"
+    ],
+    "name:pol_x_preferred":[
+        "Cano"
+    ],
+    "name:por_x_preferred":[
+        "Cano"
+    ],
+    "name:spa_x_preferred":[
+        "Cano"
+    ],
+    "name:swe_x_preferred":[
+        "Cano"
     ],
     "name:und_x_variant":[
         "J\u0101na",
@@ -68,7 +104,7 @@
         }
     ],
     "wof:id":1243241727,
-    "wof:lastmodified":1537638304,
+    "wof:lastmodified":1564106494,
     "wof:name":"Cano",
     "wof:parent_id":1108562779,
     "wof:placetype":"locality",

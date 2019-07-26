@@ -28,11 +28,32 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0643\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u0643\u0627\u0646"
+    ],
+    "name:ces_x_preferred":[
+        "Barkan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06a9\u0627\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05e7\u05df"
+    ],
     "name:kur_x_preferred":[
         "Berk\u00een"
     ],
     "name:kur_x_variant":[
         "\u0628\u06d5\u0631\u0643\u064a\u0646"
+    ],
+    "name:nno_x_preferred":[
+        "Barkan"
+    ],
+    "name:pol_x_preferred":[
+        "Barkan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u043a\u0430\u043d"
     ],
     "name:und_x_variant":[
         "B\u016blikhtir",
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1344043607,
-    "wof:lastmodified":1537639240,
+    "wof:lastmodified":1564104434,
     "wof:name":"Barkan",
     "wof:parent_id":1108562779,
     "wof:placetype":"locality",

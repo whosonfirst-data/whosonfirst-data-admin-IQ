@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u062d\u0645\u0648\u062f"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0645\u0648\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Hamud"
+    ],
     "name:und_x_variant":[
         "\u1e28am\u016bd"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1259858393,
-    "wof:lastmodified":1537638363,
+    "wof:lastmodified":1564106825,
     "wof:name":"Hamud",
     "wof:parent_id":1108562707,
     "wof:placetype":"locality",

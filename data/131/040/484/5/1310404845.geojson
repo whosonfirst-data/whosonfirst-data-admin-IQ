@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "Ser\u0101n"
     ],
+    "name:ceb_x_preferred":[
+        "Seran"
+    ],
     "name:kur_x_preferred":[
         "Seraw"
     ],
@@ -36,6 +39,9 @@
         "Serway Ser\u00fb",
         "\u0633\u06d5\u0631\u0627\u0648",
         "\u0633\u06d5\u0631\u0648\u0627\u0649 \u0633\u06d5\u0631\u0648\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Seran"
     ],
     "name:und_x_variant":[
         "Saraw"
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1310404845,
-    "wof:lastmodified":1537637944,
+    "wof:lastmodified":1564105884,
     "wof:name":"Seran",
     "wof:parent_id":421183885,
     "wof:placetype":"locality",

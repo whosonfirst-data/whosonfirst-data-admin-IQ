@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "Isk\u0101n"
     ],
+    "name:ceb_x_preferred":[
+        "Iskan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276519973,
-    "wof:lastmodified":1537639242,
+    "wof:lastmodified":1564105010,
     "wof:name":"Iskan",
     "wof:parent_id":421186459,
     "wof:placetype":"locality",

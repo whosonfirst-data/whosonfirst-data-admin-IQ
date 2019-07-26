@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0627\u0644\u0645\u0633\u062d\u0643"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0633\u062d\u0643"
+    ],
     "name:und_x_variant":[
         "Qaryat al Mis\u1e29ak"
     ],
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209678847,
-    "wof:lastmodified":1537639705,
+    "wof:lastmodified":1564105447,
     "wof:name":"Qaryat al Mishak",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

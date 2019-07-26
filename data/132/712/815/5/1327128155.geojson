@@ -27,6 +27,36 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u064a\u062c\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u062d\u0648\u06cc\u062c\u0647"
+    ],
+    "name:ces_x_preferred":[
+        "Hav\u00edd\u017ea"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Hawidscha"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0648\u06cc\u062c\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Hawija"
+    ],
+    "name:fra_x_preferred":[
+        "Hawija"
+    ],
+    "name:nld_x_preferred":[
+        "Hawija"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Hawid\u017ca"
+    ],
+    "name:spa_x_preferred":[
+        "Hawija"
+    ],
     "name:und_x_variant":[
         "Hawija",
         "\u1e28aw\u012bjah"
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1327128155,
-    "wof:lastmodified":1537638342,
+    "wof:lastmodified":1564103893,
     "wof:name":"Hawijah",
     "wof:parent_id":421169765,
     "wof:placetype":"locality",

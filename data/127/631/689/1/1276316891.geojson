@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "Gur\u0101n"
     ],
+    "name:nor_x_preferred":[
+        "Guran"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276316891,
-    "wof:lastmodified":1537638382,
+    "wof:lastmodified":1564105232,
     "wof:name":"Guran",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",

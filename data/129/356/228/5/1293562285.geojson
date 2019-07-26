@@ -35,6 +35,9 @@
     "name:kur_x_variant":[
         "\u0634\u06c6\u0631"
     ],
+    "name:nno_x_preferred":[
+        "Ash Shawr"
+    ],
     "name:und_x_variant":[
         "Tel ash Shaur",
         "Tall ash Shawr",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1293562285,
-    "wof:lastmodified":1537637859,
+    "wof:lastmodified":1564104719,
     "wof:name":"Ash Shawr",
     "wof:parent_id":1108562635,
     "wof:placetype":"locality",

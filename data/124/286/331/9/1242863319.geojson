@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "S\u0101lim"
     ],
+    "name:ita_x_preferred":[
+        "Salim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1242863319,
-    "wof:lastmodified":1537637985,
+    "wof:lastmodified":1564106419,
     "wof:name":"Salim",
     "wof:parent_id":1108562655,
     "wof:placetype":"locality",

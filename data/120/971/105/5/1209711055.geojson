@@ -26,11 +26,26 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kempe"
+    ],
+    "name:fin_x_preferred":[
+        "Kempe"
+    ],
+    "name:fra_x_preferred":[
+        "Kempe"
+    ],
     "name:kur_x_preferred":[
         "Kemp\u00ea"
     ],
     "name:kur_x_variant":[
         "\u0643\u06d5\u0645\u067e\u06ce"
+    ],
+    "name:lim_x_preferred":[
+        "Kempe"
+    ],
+    "name:swe_x_preferred":[
+        "Kempe"
     ],
     "name:und_x_variant":[
         "Kampe"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1209711055,
-    "wof:lastmodified":1537640092,
+    "wof:lastmodified":1564105386,
     "wof:name":"Kempe",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

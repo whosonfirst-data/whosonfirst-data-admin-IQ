@@ -30,7 +30,44 @@
         "Niz\u0101r\u012b"
     ],
     "name:ara_x_variant":[
-        "\u0646\u0632\u0627\u0631\u064a"
+        "\u0646\u0632\u0627\u0631\u064a",
+        "\u0646\u0632\u0627\u0631\u064a\u0629"
+    ],
+    "name:arg_x_preferred":[
+        "Nizar\u00eds"
+    ],
+    "name:arz_x_preferred":[
+        "\u0646\u0632\u0627\u0631\u064a\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Nizarisme"
+    ],
+    "name:deu_x_preferred":[
+        "Nizariten"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03b6\u03b1\u03c1\u03af\u03c4\u03b5\u03c2"
+    ],
+    "name:est_x_preferred":[
+        "Nizariidid"
+    ],
+    "name:eus_x_preferred":[
+        "Nizarismo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0632\u0627\u0631\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Niz\u00e2rites"
+    ],
+    "name:ind_x_preferred":[
+        "Nizari"
+    ],
+    "name:ita_x_preferred":[
+        "Nizariti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30b6\u30fc\u30eb\u6d3e"
     ],
     "name:kur_x_preferred":[
         "Nizar\u00ee"
@@ -40,9 +77,36 @@
         "Nizar\u00ea",
         "\u0646\u0632\u0627\u0631\u06ce"
     ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d3f\u0d38\u0d3e\u0d30\u0d3f \u0d07\u0d38\u0d4d\u0d2e\u0d3e\u0d2f\u0d3f\u0d32\u0d3f"
+    ],
+    "name:pol_x_preferred":[
+        "Nizaryci"
+    ],
+    "name:por_x_preferred":[
+        "Nizaris"
+    ],
+    "name:ron_x_preferred":[
+        "Nizari\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0437\u0430\u0440\u0438\u0442\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Nizar\u00edes"
+    ],
+    "name:tur_x_preferred":[
+        "Nizar\u00eelik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u0437\u0430\u0440\u0438\u0442\u0438"
+    ],
     "name:und_x_variant":[
         "Nzary",
         "Nzarid"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0632\u0627\u0631\u06cc\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +131,7 @@
         }
     ],
     "wof:id":1343836231,
-    "wof:lastmodified":1537639014,
+    "wof:lastmodified":1564104244,
     "wof:name":"Nizari",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",

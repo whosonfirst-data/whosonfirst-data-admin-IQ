@@ -29,6 +29,45 @@
     "name:ara_x_preferred":[
         "\u0647\u0644\u0647\u0648\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u062d\u0644\u062d\u0648\u0644"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u043b\u0445\u0443\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Halhul"
+    ],
+    "name:ceb_x_preferred":[
+        "\u1e28al\u1e29\u016bl"
+    ],
+    "name:ces_x_preferred":[
+        "Halh\u00fal"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0644\u062d\u0648\u0644"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05dc\u05d7\u05d5\u05dc"
+    ],
+    "name:ita_x_preferred":[
+        "Halhul"
+    ],
+    "name:nld_x_preferred":[
+        "Halhul"
+    ],
+    "name:nno_x_preferred":[
+        "Halhul"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062d\u0644\u062d\u0648\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Halhul"
+    ],
+    "name:spa_x_preferred":[
+        "Halhul"
+    ],
     "name:und_x_variant":[
         "Halh\u016bl"
     ],
@@ -55,7 +94,7 @@
         }
     ],
     "wof:id":1259455589,
-    "wof:lastmodified":1537639235,
+    "wof:lastmodified":1564106934,
     "wof:name":"Halhul",
     "wof:parent_id":1108562685,
     "wof:placetype":"locality",

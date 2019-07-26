@@ -29,8 +29,62 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u062c\u0639"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0631\u062c\u0639\u064a\u0629 \u062f\u064a\u0646\u064a\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u0646\u06cc \u0645\u0631\u062c\u0639\u200c\u0644\u06cc\u06af\u06cc"
+    ],
+    "name:dan_x_preferred":[
+        "Marja"
+    ],
+    "name:deu_x_preferred":[
+        "Mardscha\u02bf-e Taghlid"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u062c\u0639 \u062a\u0642\u0644\u06cc\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Marja-e taqlid"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d2'\u05e2 \u05ea\u05e7\u05dc\u05d9\u05d3"
+    ],
+    "name:ita_x_preferred":[
+        "Marja' al-taqlid"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30b8\u30e3\u30a2\u30fb\u30a2\u30c3\uff1d\u30bf\u30af\u30ea\u30fc\u30c9"
+    ],
+    "name:msa_x_preferred":[
+        "Marja'"
+    ],
+    "name:por_x_preferred":[
+        "Marja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0434\u0436\u0430 \u0430\u0442-\u0442\u0430\u043a\u043b\u0438\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Marya Taqlid"
+    ],
+    "name:swe_x_preferred":[
+        "Marja' al-taqlid"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e31\u0e23\u0e40\u0e0d\u0e35\u0e49\u0e22\u0e30\u0e2d\u0e4c\u0e15\u0e31\u0e01\u0e25\u0e35\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "Merci-i taklid"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0434\u0436\u0430 \u0430\u0442-\u0442\u0430\u043a\u043b\u0456\u0434"
+    ],
     "name:und_x_variant":[
         "Marja\u2018"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0631\u062c\u0639"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +109,7 @@
         }
     ],
     "wof:id":1310477579,
-    "wof:lastmodified":1537639715,
+    "wof:lastmodified":1564105892,
     "wof:name":"Marja'",
     "wof:parent_id":1108562647,
     "wof:placetype":"locality",

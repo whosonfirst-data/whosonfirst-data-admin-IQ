@@ -26,8 +26,59 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Shanidar-grot"
+    ],
     "name:ara_x_preferred":[
         "\u0634\u0627\u0646\u0649 \u062f\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0647\u0641 \u0634\u0627\u0646\u062f\u0631"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u0430\u043d\u0456\u0434\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Shanidar"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160\u00e1nidar"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u0634\u06a9\u06d5\u0648\u062a\u06cc \u0634\u0627\u0646\u06d5\u062f\u06d5\u0631"
+    ],
+    "name:cym_x_preferred":[
+        "Shanidar"
+    ],
+    "name:deu_x_preferred":[
+        "Shanidar"
+    ],
+    "name:diq_x_preferred":[
+        "\u015eikefta \u015eaneder\u00ee"
+    ],
+    "name:epo_x_preferred":[
+        "Shanidar"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0627\u0631 \u0634\u0627\u0646\u0647\u200c\u062f\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Shanidar"
+    ],
+    "name:fra_x_preferred":[
+        "Shanidar"
+    ],
+    "name:glg_x_preferred":[
+        "Shanidar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0576\u056b\u0564\u0561\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Shanidar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30cb\u30c0\u30fc\u30eb\u6d1e\u7a9f"
     ],
     "name:kur_x_preferred":[
         "Shaneder"
@@ -35,7 +86,47 @@
     "name:kur_x_variant":[
         "\u0634\u0627\u0646\u06d5\u062f\u06d5\u0631",
         "Shan\u00ee Der",
-        "\u0634\u0627\u0646\u0649 \u062f\u06d5\u0631"
+        "\u0634\u0627\u0646\u0649 \u062f\u06d5\u0631",
+        "\u015eaneder"
+    ],
+    "name:lat_x_preferred":[
+        "Spelunca \u0160an\u012bdar"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160anidaras"
+    ],
+    "name:mar_x_preferred":[
+        "\u0936\u093e\u0928\u093f\u0926\u093e\u0930 \u0917\u0941\u0939\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Shanidargrot"
+    ],
+    "name:nno_x_preferred":[
+        "Shanidargrotta"
+    ],
+    "name:nor_x_preferred":[
+        "Shanidar"
+    ],
+    "name:pol_x_preferred":[
+        "Szanidar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043d\u0438\u0434\u0430\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160\u00e1nidar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u043d\u0438\u0434\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Shanidar"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eanidar Ma\u011faras\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043d\u0456\u0434\u0430\u0440"
     ],
     "name:und_x_variant":[
         "Sh\u0101nidar",
@@ -44,6 +135,9 @@
         "\u0634\u0627\u0646\u062f\u0631",
         "Sh\u0101nadar",
         "Shani Dar"
+    ],
+    "name:uzb_x_preferred":[
+        "Shanidar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +163,7 @@
         }
     ],
     "wof:id":1343442153,
-    "wof:lastmodified":1537637932,
+    "wof:lastmodified":1564104500,
     "wof:name":"Shaneder",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

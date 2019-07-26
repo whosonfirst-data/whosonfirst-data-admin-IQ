@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0644\u0627\u0644\u064a"
     ],
+    "name:deu_x_preferred":[
+        "Jalali"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0644\u0627\u0644\u06cc"
+    ],
     "name:kur_x_preferred":[
         "Celal\u00ee"
     ],
@@ -36,6 +42,9 @@
         "Chnaran",
         "\u062c\u06d5\u0644\u0627\u0644\u0649",
         "\u0686\u0646\u0627\u0631\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043b\u0430\u043b\u0438"
     ],
     "name:und_x_variant":[
         "Jal\u0101l\u012b",
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1193159959,
-    "wof:lastmodified":1537640032,
+    "wof:lastmodified":1564105624,
     "wof:name":"Jalali",
     "wof:parent_id":1108562763,
     "wof:placetype":"locality",

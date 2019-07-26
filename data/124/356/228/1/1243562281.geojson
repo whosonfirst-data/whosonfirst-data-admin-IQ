@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0638\u0647\u0631\u0629"
     ],
+    "name:nno_x_preferred":[
+        "Az Zahrah"
+    ],
     "name:und_x_variant":[
         "Allak ad Dhahir",
         "Allak adh Dhahir",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1243562281,
-    "wof:lastmodified":1537638654,
+    "wof:lastmodified":1564106564,
     "wof:name":"Az Zahrah",
     "wof:parent_id":1108562721,
     "wof:placetype":"locality",

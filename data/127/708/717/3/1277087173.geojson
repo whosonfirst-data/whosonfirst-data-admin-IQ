@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "Sh\u016bm\u0101n"
     ],
+    "name:deu_x_preferred":[
+        "Shuman"
+    ],
+    "name:fra_x_preferred":[
+        "Shuman"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1277087173,
-    "wof:lastmodified":1537638889,
+    "wof:lastmodified":1564104893,
     "wof:name":"Shuman",
     "wof:parent_id":1108562729,
     "wof:placetype":"locality",

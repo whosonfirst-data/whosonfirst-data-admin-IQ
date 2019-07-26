@@ -32,11 +32,45 @@
     "name:ara_x_variant":[
         "B\u0101b\u0101 Kurkur"
     ],
+    "name:ckb_x_preferred":[
+        "\u0628\u0627\u0628\u06d5 \u06af\u0648\u0695\u06af\u0648\u0695"
+    ],
+    "name:epo_x_preferred":[
+        "Baba Gurgur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062f\u0627\u0646 \u0628\u0627\u0628\u0627 \u06af\u0648\u0631\u06af\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Baba Gurgur"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d1\u05d0 \u05d2\u05d5\u05e8\u05d2\u05d5\u05e8"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0562\u0561 \u0533\u0578\u0582\u0580\u0563\u0578\u0582\u0580"
+    ],
     "name:kur_x_preferred":[
         "Babe Gu\u1e5f Gu\u1e5f"
     ],
     "name:kur_x_variant":[
-        "\u0628\u0627\u0628\u06d5 \u06af\u0648\u0695\u06af\u0648\u0695"
+        "\u0628\u0627\u0628\u06d5 \u06af\u0648\u0695\u06af\u0648\u0695",
+        "Babagurgur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0430-\u0413\u0443\u0440\u0433\u0443\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Baba Gurgur"
+    ],
+    "name:swe_x_preferred":[
+        "Babagorgor"
+    ],
+    "name:tur_x_preferred":[
+        "Baba G\u00fcrg\u00fcr"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0431\u0430-\u0413\u0443\u0440-\u0413\u0443\u0440"
     ],
     "name:und_x_variant":[
         "B\u0101b\u0101 Gurgur",
@@ -66,7 +100,7 @@
         }
     ],
     "wof:id":1327006405,
-    "wof:lastmodified":1537638591,
+    "wof:lastmodified":1564103763,
     "wof:name":"Baba Kurkur",
     "wof:parent_id":421199293,
     "wof:placetype":"locality",

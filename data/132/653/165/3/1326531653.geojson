@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "Sh\u0101hir"
     ],
+    "name:msa_x_preferred":[
+        "Shahir Zawawi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326531653,
-    "wof:lastmodified":1537637939,
+    "wof:lastmodified":1564104041,
     "wof:name":"Shahir",
     "wof:parent_id":1108562705,
     "wof:placetype":"locality",

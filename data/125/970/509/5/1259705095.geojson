@@ -26,6 +26,15 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Muhammad Solih"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0445\u0430\u043c\u043c\u0430\u0434 \u0421\u0430\u043b\u0438\u0445"
+    ],
+    "name:tur_x_preferred":[
+        "Muhammed Salih"
+    ],
     "name:und_x_variant":[
         "Muhammad Salth",
         "Mu\u1e29ammad \u015e\u0101li\u1e29"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259705095,
-    "wof:lastmodified":1537638123,
+    "wof:lastmodified":1564106791,
     "wof:name":"Muhammad Salih",
     "wof:parent_id":421189307,
     "wof:placetype":"locality",

@@ -29,6 +29,21 @@
     "name:ara_x_preferred":[
         "\u0645\u062e\u0648\u0644"
     ],
+    "name:ces_x_preferred":[
+        "Makchul"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05db\u05d7\u05d5\u05dc"
+    ],
+    "name:nld_x_preferred":[
+        "Makhul"
+    ],
+    "name:nno_x_preferred":[
+        "Makhul"
+    ],
+    "name:pol_x_preferred":[
+        "Makhul"
+    ],
     "name:und_x_variant":[
         "Makh\u016bl"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1193002097,
-    "wof:lastmodified":1537639213,
+    "wof:lastmodified":1564105607,
     "wof:name":"Makhul",
     "wof:parent_id":1108562653,
     "wof:placetype":"locality",

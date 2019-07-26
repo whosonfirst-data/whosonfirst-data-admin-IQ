@@ -29,6 +29,21 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u0641"
     ],
+    "name:ceb_x_preferred":[
+        "Khalaf"
+    ],
+    "name:deu_x_preferred":[
+        "Khalaf"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u0641"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0444"
+    ],
+    "name:swe_x_preferred":[
+        "Khalaf"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1226511975,
-    "wof:lastmodified":1537640026,
+    "wof:lastmodified":1564107086,
     "wof:name":"Khalaf",
     "wof:parent_id":421186459,
     "wof:placetype":"locality",

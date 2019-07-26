@@ -33,6 +33,9 @@
         "B\u012brk\u0101n",
         "\u0628\u064a\u0631\u0643\u0627\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Birkan"
+    ],
     "name:kur_x_preferred":[
         "B\u00eerkima"
     ],
@@ -40,6 +43,9 @@
         "\u0628\u064a\u0631\u0643\u0645\u06d5",
         "P\u00eerkaman",
         "\u067e\u064a\u0631\u0643\u0627\u0645\u0627\u0646"
+    ],
+    "name:tur_x_preferred":[
+        "Birkan"
     ],
     "name:und_x_variant":[
         "Birk\u012bm",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1344238051,
-    "wof:lastmodified":1537638516,
+    "wof:lastmodified":1564104221,
     "wof:name":"Birkan",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0634\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Rash\u0101n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0634\u0627\u0646"
+    ],
     "name:kur_x_preferred":[
         "\u1e5eeshank\u00ea"
     ],
@@ -36,6 +42,12 @@
         "\u0695\u06d5\u0634\u0627\u0646\u0643\u06ce",
         "\u1e5eeshan",
         "\u0695\u06d5\u0634\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Rash\u0101n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0448\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Rashanke",
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1360005697,
-    "wof:lastmodified":1537638008,
+    "wof:lastmodified":1564106121,
     "wof:name":"Rashan",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

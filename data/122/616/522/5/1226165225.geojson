@@ -32,6 +32,30 @@
     "name:ara_x_variant":[
         "\u0643\u0648\u0631\u064a \u0643\u0627\u06a4\u0627\u0646\u0629"
     ],
+    "name:aze_x_preferred":[
+        "K\u00fcr"
+    ],
+    "name:cat_x_preferred":[
+        "Kura"
+    ],
+    "name:ceb_x_preferred":[
+        "Kura"
+    ],
+    "name:deu_x_preferred":[
+        "Kura"
+    ],
+    "name:est_x_preferred":[
+        "Kura"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Kura"
+    ],
+    "name:ita_x_preferred":[
+        "Kura"
+    ],
     "name:kur_x_preferred":[
         "Kuri Kavane"
     ],
@@ -44,6 +68,24 @@
         "Kumelgeha Kur\u00eat Gavane",
         "Kur\u00ee Kavane",
         "\u0643\u0648\u0645\u06d5\u0644\u06af\u06d5\u06be\u0627 \u0643\u0648\u0631\u06ce\u062a \u06af\u0627\u06a4\u0627\u0646\u06d5"
+    ],
+    "name:lav_x_preferred":[
+        "K\u016bra"
+    ],
+    "name:nld_x_preferred":[
+        "Kura"
+    ],
+    "name:pol_x_preferred":[
+        "Kura"
+    ],
+    "name:slk_x_preferred":[
+        "Kura"
+    ],
+    "name:slv_x_preferred":[
+        "Kura"
+    ],
+    "name:swe_x_preferred":[
+        "Kura"
     ],
     "name:und_x_variant":[
         "G\u014dr\u0113g\u0101v\u0101n",
@@ -77,7 +119,7 @@
         }
     ],
     "wof:id":1226165225,
-    "wof:lastmodified":1537638928,
+    "wof:lastmodified":1564107054,
     "wof:name":"Kura",
     "wof:parent_id":421204025,
     "wof:placetype":"locality",

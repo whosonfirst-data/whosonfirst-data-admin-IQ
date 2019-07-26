@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0646\u0643\u0631"
     ],
+    "name:ben_x_preferred":[
+        "\u09b6\u0999\u09cd\u0995\u09b0"
+    ],
     "name:und_x_variant":[
         "Sangar"
     ],
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209105121,
-    "wof:lastmodified":1537637979,
+    "wof:lastmodified":1564105557,
     "wof:name":"Sankar",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

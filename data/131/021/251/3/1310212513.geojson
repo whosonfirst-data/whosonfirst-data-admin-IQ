@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "Rit\u0101m"
     ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u0442\u0430\u043c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310212513,
-    "wof:lastmodified":1537638001,
+    "wof:lastmodified":1564106025,
     "wof:name":"Ritam",
     "wof:parent_id":421205333,
     "wof:placetype":"locality",

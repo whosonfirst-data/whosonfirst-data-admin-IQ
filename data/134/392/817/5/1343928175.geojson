@@ -32,6 +32,15 @@
     "name:ara_x_variant":[
         "K\u016bsk\u012b"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0633\u06a9\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0633\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Kuski"
+    ],
     "name:kur_x_preferred":[
         "Kosk\u00ee"
     ],
@@ -39,6 +48,12 @@
         "\u0643\u06c6\u0633\u0643\u0649",
         "Guw\u00eesk\u00ea",
         "\u06af\u0648\u064a\u0633\u0643\u06ce"
+    ],
+    "name:pol_x_preferred":[
+        "Kuski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0441\u043a\u0456"
     ],
     "name:und_x_variant":[
         "Gusk\u0113",
@@ -70,7 +85,7 @@
         }
     ],
     "wof:id":1343928175,
-    "wof:lastmodified":1537638898,
+    "wof:lastmodified":1564104326,
     "wof:name":"Kuski",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",

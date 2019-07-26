@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0643"
     ],
+    "name:cat_x_preferred":[
+        "Balik"
+    ],
+    "name:deu_x_preferred":[
+        "Balik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d8\u10e5\u10d8"
+    ],
     "name:kur_x_preferred":[
         "Belik"
     ],
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1209514379,
-    "wof:lastmodified":1537638574,
+    "wof:lastmodified":1564105468,
     "wof:name":"Balik",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

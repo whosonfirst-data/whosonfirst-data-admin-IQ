@@ -29,6 +29,63 @@
     "name:ara_x_preferred":[
         "\u0627\u062d\u0645\u062f \u0638\u0627\u0647\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u062d\u0645\u062f \u0638\u0627\u0647\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Ahmad Zahir"
+    ],
+    "name:deu_x_preferred":[
+        "Ahmad Zahir"
+    ],
+    "name:epo_x_preferred":[
+        "Ahmad Zahir"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u062d\u0645\u062f \u0638\u0627\u0647\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Ahmad Zahir"
+    ],
+    "name:fra_x_preferred":[
+        "Ahmad Zahir"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ud750\ub9c8\ub4dc \uc790\ud788\ub974"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0671\u0645\u0671\u062f \u0632\u0627\u0647\u0631"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u0445\u043c\u0430\u0434 \u0417\u043e\u0445\u0438\u0440"
+    ],
+    "name:nds_x_preferred":[
+        "Ahmad Zahir"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a39\u0a3f\u0a2e\u0a26 \u0a1c\u0a3c\u0a3e\u0a39\u0a3f\u0a30"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u062d\u0645\u062f \u0638\u0627\u0647\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0445\u0438\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Ahmad Zahir"
+    ],
+    "name:swe_x_preferred":[
+        "Ahmad Zahir"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u04b3\u043c\u0430\u0434 \u0417\u043e\u04b3\u0438\u0440"
+    ],
+    "name:tgl_x_preferred":[
+        "Ahmad Zahir"
+    ],
+    "name:tur_x_preferred":[
+        "Ahmed Zahir"
+    ],
     "name:und_x_variant":[
         "A\u1e29mad Z\u0327\u0101hir"
     ],
@@ -49,7 +106,7 @@
         }
     ],
     "wof:id":1209491175,
-    "wof:lastmodified":1537639337,
+    "wof:lastmodified":1564105394,
     "wof:name":"Ahmad Zahir",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

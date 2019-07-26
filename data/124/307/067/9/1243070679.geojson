@@ -29,9 +29,27 @@
     "name:ara_x_preferred":[
         "\u0635\u0641\u0648\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0635\u0641\u0648\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Safwan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0444\u0432\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Safwan"
+    ],
+    "name:swe_x_preferred":[
+        "Safwan"
+    ],
     "name:und_x_variant":[
         "Sufwan",
         "\u015eafw\u0101n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0641\u0648\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1243070679,
-    "wof:lastmodified":1537637991,
+    "wof:lastmodified":1564106350,
     "wof:name":"Safwan",
     "wof:parent_id":1108562727,
     "wof:placetype":"locality",

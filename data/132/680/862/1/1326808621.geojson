@@ -29,8 +29,20 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u0627\u0648\u0647"
     ],
+    "name:deu_x_preferred":[
+        "Sinawe"
+    ],
+    "name:fra_x_preferred":[
+        "Sinawe"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ub098\uc704"
+    ],
     "name:kur_x_preferred":[
         "S\u00eenawe"
+    ],
+    "name:sco_x_preferred":[
+        "Sinawe"
     ],
     "name:und_x_variant":[
         "Sinawah",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1326808621,
-    "wof:lastmodified":1537637894,
+    "wof:lastmodified":1564103797,
     "wof:name":"Sinawe",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",

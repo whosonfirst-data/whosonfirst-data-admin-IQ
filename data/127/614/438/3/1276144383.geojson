@@ -29,6 +29,48 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0645 \u0631\u0634\u064a\u062f"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0631\u06cc\u0645 \u0631\u0634\u06cc\u062f"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0438\u043c \u0420\u0430\u0448\u0438\u0434"
+    ],
+    "name:deu_x_preferred":[
+        "Karim Rashid"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03af\u03bc \u03a1\u03b1\u03c3\u03af\u03bd\u03c4"
+    ],
+    "name:eus_x_preferred":[
+        "Karim Rashid"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06cc\u0645 \u0631\u0634\u06cc\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Karim Rashid"
+    ],
+    "name:hun_x_preferred":[
+        "Karim Rashid"
+    ],
+    "name:ita_x_preferred":[
+        "Karim Rashid"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ub9bc \ub77c\uc2dc\ub4dc"
+    ],
+    "name:por_x_preferred":[
+        "Karim Rashid"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0448\u0438\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Karim Rashid"
+    ],
+    "name:swe_x_preferred":[
+        "Karim Rashid"
+    ],
     "name:und_x_variant":[
         "Kar\u012bm Rash\u012bd"
     ],
@@ -55,7 +97,7 @@
         }
     ],
     "wof:id":1276144383,
-    "wof:lastmodified":1537639633,
+    "wof:lastmodified":1564105080,
     "wof:name":"Karim Rashid",
     "wof:parent_id":421188909,
     "wof:placetype":"locality",

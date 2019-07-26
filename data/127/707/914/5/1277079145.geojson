@@ -32,7 +32,13 @@
     "name:ara_x_variant":[
         "\u0642\u0627\u0632\u0627\u0646"
     ],
+    "name:aze_x_preferred":[
+        "Qazan"
+    ],
     "name:kur_x_preferred":[
+        "Qazan"
+    ],
+    "name:nld_x_preferred":[
         "Qazan"
     ],
     "src:geom":"geonames",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1277079145,
-    "wof:lastmodified":1537638027,
+    "wof:lastmodified":1564104902,
     "wof:name":"Qazan",
     "wof:parent_id":1108562761,
     "wof:placetype":"locality",

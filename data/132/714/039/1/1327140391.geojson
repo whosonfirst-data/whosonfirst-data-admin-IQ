@@ -32,6 +32,42 @@
     "name:ara_x_variant":[
         "B\u016bl\u0101n"
     ],
+    "name:ceb_x_preferred":[
+        "Bulan"
+    ],
+    "name:deu_x_preferred":[
+        "Bulan"
+    ],
+    "name:fra_x_preferred":[
+        "Bulan"
+    ],
+    "name:ind_x_preferred":[
+        "Bulan"
+    ],
+    "name:ita_x_preferred":[
+        "Bulan"
+    ],
+    "name:msa_x_preferred":[
+        "Bulan"
+    ],
+    "name:nld_x_preferred":[
+        "Bulan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0430\u043d"
+    ],
+    "name:sun_x_preferred":[
+        "Bulan"
+    ],
+    "name:swe_x_preferred":[
+        "Bulan"
+    ],
+    "name:tgl_x_preferred":[
+        "Buwan"
+    ],
+    "name:war_x_preferred":[
+        "Bulan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +91,7 @@
         }
     ],
     "wof:id":1327140391,
-    "wof:lastmodified":1537638508,
+    "wof:lastmodified":1564103876,
     "wof:name":"Bulan",
     "wof:parent_id":1108562687,
     "wof:placetype":"locality",

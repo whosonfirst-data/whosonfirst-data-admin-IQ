@@ -29,6 +29,24 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0631\u0642\u0627\u0637"
     ],
+    "name:deu_x_preferred":[
+        "Asch-Schirqat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u0642\u0627\u0637"
+    ],
+    "name:fra_x_preferred":[
+        "Shirqat"
+    ],
+    "name:pol_x_preferred":[
+        "Asz-Szarkat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0440\u0433\u0430\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u0440\u0433\u0430\u0442"
+    ],
     "name:und_x_variant":[
         "Qal\u2018a Sharq\u0101t",
         "Ashhur",
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1292976655,
-    "wof:lastmodified":1537638621,
+    "wof:lastmodified":1564104770,
     "wof:name":"Ash Sharqat",
     "wof:parent_id":1108562645,
     "wof:placetype":"locality",

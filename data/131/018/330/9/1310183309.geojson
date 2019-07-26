@@ -29,11 +29,20 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0643\u0629"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u043a\u0435"
+    ],
     "name:kur_x_preferred":[
         "Bereke"
     ],
     "name:kur_x_variant":[
         "\u0628\u06d5\u0631\u06d5\u0643\u06d5"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u043a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u043a\u0435"
     ],
     "name:und_x_variant":[
         "M\u012brka",
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1310183309,
-    "wof:lastmodified":1537638980,
+    "wof:lastmodified":1564105976,
     "wof:name":"Bereke",
     "wof:parent_id":1108562757,
     "wof:placetype":"locality",

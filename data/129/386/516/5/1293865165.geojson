@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "B\u0113d\u0101r"
     ],
+    "name:fra_x_preferred":[
+        "Daw"
+    ],
     "name:kur_x_preferred":[
         "Daw"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1293865165,
-    "wof:lastmodified":1537638532,
+    "wof:lastmodified":1564104873,
     "wof:name":"Daw",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

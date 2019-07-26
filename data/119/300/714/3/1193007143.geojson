@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0628\u0647\u0628"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0628\u0647\u0628"
+    ],
     "name:und_x_variant":[
         "Qaryat Habhab",
         "Qariya Habhab",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1193007143,
-    "wof:lastmodified":1537638037,
+    "wof:lastmodified":1564105606,
     "wof:name":"Habhab",
     "wof:parent_id":421184253,
     "wof:placetype":"locality",

@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "\u062d\u0633\u0646 \u0622\u063a\u0627"
     ],
+    "name:aze_x_preferred":[
+        "X\u0259dim H\u0259s\u0259n A\u011fa"
+    ],
+    "name:cat_x_preferred":[
+        "Hasan Agha"
+    ],
+    "name:fra_x_preferred":[
+        "Hassan Agha"
+    ],
     "name:kur_x_preferred":[
         "\u1e26esen Agha"
     ],
@@ -37,10 +46,16 @@
         "Hesneka",
         "\u06be\u06d5\u0633\u0646\u06d5\u0643\u0627"
     ],
+    "name:tur_x_preferred":[
+        "Hasan A\u011fa"
+    ],
     "name:und_x_variant":[
         "Hasanka",
         "Hasan Agha",
         "\u1e28asan \u0100gh\u0101"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u73ca\u963f\u52a0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1259756401,
-    "wof:lastmodified":1537638348,
+    "wof:lastmodified":1564106952,
     "wof:name":"Hasan Agha",
     "wof:parent_id":421172365,
     "wof:placetype":"locality",

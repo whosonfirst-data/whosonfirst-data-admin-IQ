@@ -29,6 +29,21 @@
     "name:ara_x_preferred":[
         "\u0628\u0628\u064a\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Babin"
+    ],
+    "name:ces_x_preferred":[
+        "Bab\u00edn"
+    ],
+    "name:deu_x_preferred":[
+        "Babin"
+    ],
+    "name:fra_x_preferred":[
+        "Babin"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0562\u056b\u0576"
+    ],
     "name:kur_x_preferred":[
         "Boyn"
     ],
@@ -36,6 +51,21 @@
         "Ber\u00een",
         "\u0628\u06c6\u064a\u0646",
         "\u0628\u06d5\u0631\u064a\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Babin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Babin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0431\u0456\u043d"
     ],
     "name:und_x_variant":[
         "Boy\u012bn",
@@ -67,7 +97,7 @@
         }
     ],
     "wof:id":1242878861,
-    "wof:lastmodified":1537638510,
+    "wof:lastmodified":1564106408,
     "wof:name":"Babin",
     "wof:parent_id":421183885,
     "wof:placetype":"locality",

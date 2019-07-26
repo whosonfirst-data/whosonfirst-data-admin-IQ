@@ -29,6 +29,24 @@
     "name:ara_x_preferred":[
         "\u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u062e\u0644\u0641"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0628\u0631\u0627\u0647\u064a\u0645 \u062e\u0644\u0641"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130brahim X\u0259l\u0259f"
+    ],
+    "name:ces_x_preferred":[
+        "Ibrahim Khalaf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d1\u10e0\u10d0\u10f0\u10d8\u10db \u10ee\u10d0\u10da\u10d0\u10e4\u10d8"
+    ],
+    "name:nor_x_preferred":[
+        "Ibrahim Khalaf"
+    ],
+    "name:spa_x_preferred":[
+        "Ibrahim Jalaf"
+    ],
     "name:und_x_variant":[
         "Ibr\u0101h\u012bm Khalaf"
     ],
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1326896841,
-    "wof:lastmodified":1537639787,
+    "wof:lastmodified":1564103790,
     "wof:name":"Ibrahim Khalaf",
     "wof:parent_id":421186243,
     "wof:placetype":"locality",

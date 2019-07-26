@@ -29,8 +29,71 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u0637\u0627\u0646 \u062d\u0633\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0644\u0637\u0627\u0646 \u062d\u0633\u064a\u0646 \u0627\u0644\u0623\u0648\u0644 \u0627\u0644\u0635\u0641\u0648\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0627\u0647 \u0633\u0648\u0644\u0637\u0627\u0646 \u062d\u0633\u06cc\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eah H\u00fcseyn"
+    ],
+    "name:cat_x_preferred":[
+        "Sultan Husayn"
+    ],
+    "name:ces_x_preferred":[
+        "Husajn \u0160\u00e1h"
+    ],
+    "name:deu_x_preferred":[
+        "Sultan Hosein"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647 \u0633\u0644\u0637\u0627\u0646 \u062d\u0633\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Chah Hossein"
+    ],
+    "name:hun_x_preferred":[
+        "Szult\u00e1n Huszajn perzsa sah"
+    ],
+    "name:ita_x_preferred":[
+        "Sultan Husayn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30eb\u30bf\u30fc\u30f3\u30fb\u30d5\u30b5\u30a4\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10e3\u10e1\u10d4\u10d8\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Soltan Hoseyn"
+    ],
+    "name:pol_x_preferred":[
+        "Sultan Husajn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0442\u0430\u043d \u0425\u0443\u0441\u0435\u0439\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Sultan Husain"
+    ],
+    "name:tur_x_preferred":[
+        "H\u00fcseyin Mirza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u0442\u0430\u043d \u0425\u0443\u0441\u0435\u0439\u043d"
+    ],
     "name:und_x_variant":[
         "Sul\u0163\u0101n \u1e28usayn"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u06c1 \u0633\u0644\u0637\u0627\u0646 \u062d\u0633\u06cc\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Soltan Hosein"
+    ],
+    "name:zho_x_preferred":[
+        "\u4faf\u8cfd\u56e0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +118,7 @@
         }
     ],
     "wof:id":1243068107,
-    "wof:lastmodified":1537639737,
+    "wof:lastmodified":1564106382,
     "wof:name":"Sultan Husayn",
     "wof:parent_id":421181959,
     "wof:placetype":"locality",

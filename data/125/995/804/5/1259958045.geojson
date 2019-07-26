@@ -29,11 +29,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0631\u0643\u0627\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Serkan"
+    ],
     "name:kur_x_preferred":[
         "Serkan"
     ],
     "name:kur_x_variant":[
         "\u0633\u06d5\u0631\u0643\u0627\u0646"
+    ],
+    "name:tur_x_preferred":[
+        "Serkan"
     ],
     "name:und_x_variant":[
         "Sark\u0101n",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1259958045,
-    "wof:lastmodified":1537639046,
+    "wof:lastmodified":1564106861,
     "wof:name":"Serkan",
     "wof:parent_id":1108562749,
     "wof:placetype":"locality",

@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "\u0622\u0648\u0631\u0647"
     ],
+    "name:ceb_x_preferred":[
+        "Ure"
+    ],
+    "name:fra_x_preferred":[
+        "Ure"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d5\u05e8"
+    ],
     "name:kur_x_preferred":[
         "Awre"
     ],
@@ -36,6 +45,15 @@
         "\u0626\u0627\u0648\u0631\u06d5",
         "Ure",
         "\u0626\u0648\u0631\u06d5"
+    ],
+    "name:pol_x_preferred":[
+        "Ure"
+    ],
+    "name:sco_x_preferred":[
+        "ure"
+    ],
+    "name:swe_x_preferred":[
+        "Ure"
     ],
     "name:und_x_variant":[
         "\u016arah",
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1344142537,
-    "wof:lastmodified":1537637812,
+    "wof:lastmodified":1564104195,
     "wof:name":"Ure",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

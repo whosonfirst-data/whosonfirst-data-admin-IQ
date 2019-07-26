@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u064a\u062f\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u0633\u064a \u062f\u0631"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u0627\u0633\u06cc\u06d5\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0633\u06cc \u062f\u0631"
+    ],
     "name:kur_x_preferred":[
         "Mas\u00eedar"
     ],
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1293205249,
-    "wof:lastmodified":1537638150,
+    "wof:lastmodified":1564104786,
     "wof:name":"Masidar",
     "wof:parent_id":1108562765,
     "wof:placetype":"locality",

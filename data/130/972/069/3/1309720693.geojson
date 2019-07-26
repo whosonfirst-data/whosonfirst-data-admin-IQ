@@ -26,9 +26,21 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u062d\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u062d\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Milhah"
+    ],
     "name:und_x_variant":[
         "Malha",
         "Mil\u1e29ah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0644\u062d\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1309720693,
-    "wof:lastmodified":1537638138,
+    "wof:lastmodified":1564106330,
     "wof:name":"Milhah",
     "wof:parent_id":1108562719,
     "wof:placetype":"locality",

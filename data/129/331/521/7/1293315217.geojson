@@ -29,11 +29,41 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u0648\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Great Nore"
+    ],
+    "name:fin_x_preferred":[
+        "Nore"
+    ],
+    "name:fra_x_preferred":[
+        "Nore"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05e8"
+    ],
+    "name:ita_x_preferred":[
+        "Nore"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\uc5b4"
+    ],
     "name:kur_x_preferred":[
         "\u0646\u06c6\u0631\u06d5"
     ],
     "name:kur_x_variant":[
         "Noora",
+        "Nore"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
         "Nore"
     ],
     "name:und_x_variant":[
@@ -63,7 +93,7 @@
         }
     ],
     "wof:id":1293315217,
-    "wof:lastmodified":1537639039,
+    "wof:lastmodified":1564104552,
     "wof:name":"Nore",
     "wof:parent_id":1108562755,
     "wof:placetype":"locality",

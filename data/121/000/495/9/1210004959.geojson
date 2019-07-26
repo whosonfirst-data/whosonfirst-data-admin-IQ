@@ -26,6 +26,9 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mahmud"
+    ],
     "name:kur_x_preferred":[
         "Me\u1e27mud"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1210004959,
-    "wof:lastmodified":1537638174,
+    "wof:lastmodified":1564105583,
     "wof:name":"Mahmud",
     "wof:parent_id":1108562779,
     "wof:placetype":"locality",

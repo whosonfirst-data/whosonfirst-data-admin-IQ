@@ -29,8 +29,26 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0648\u0631\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u064a\u0648\u0631\u064a"
+    ],
+    "name:jpn_x_preferred":[
+        "\u3055\u30e6\u308a"
+    ],
+    "name:nld_x_preferred":[
+        "Sayuri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u044e\u0440\u0438"
+    ],
     "name:und_x_variant":[
         "Say\u016br\u012b"
+    ],
+    "name:vie_x_preferred":[
+        "Sayuri"
+    ],
+    "name:zho_x_preferred":[
+        "Sayuri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226130501,
-    "wof:lastmodified":1537639901,
+    "wof:lastmodified":1564107175,
     "wof:name":"Sayuri",
     "wof:parent_id":421200817,
     "wof:placetype":"locality",

@@ -29,6 +29,21 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u0644 \u0627\u0628\u0631\u0627\u0647\u064a\u0645"
     ],
+    "name:ara_x_variant":[
+        "\u062e\u0644\u064a\u0644 \u0625\u0628\u0631\u0627\u0647\u064a\u0645"
+    ],
+    "name:deu_x_preferred":[
+        "Khalil Ibrahim"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bb\u03af\u03bb \u0399\u03bc\u03c0\u03c1\u03b1\u03ae\u03bc"
+    ],
+    "name:pol_x_preferred":[
+        "Chalil Ibrahim"
+    ],
+    "name:swe_x_preferred":[
+        "Khalil Ibrahim"
+    ],
     "name:und_x_variant":[
         "Ibr\u0101h\u012bm",
         "Khal\u012bl Ibr\u0101h\u012bm"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1242666633,
-    "wof:lastmodified":1537638323,
+    "wof:lastmodified":1564106449,
     "wof:name":"Khalil Ibrahim",
     "wof:parent_id":1108562655,
     "wof:placetype":"locality",

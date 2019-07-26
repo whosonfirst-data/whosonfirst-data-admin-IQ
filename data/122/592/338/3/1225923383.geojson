@@ -32,6 +32,15 @@
     "name:ara_x_variant":[
         "K\u016br\u0101n"
     ],
+    "name:ceb_x_preferred":[
+        "Kuran"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Kuran"
+    ],
     "name:und_x_variant":[
         "K\u016br\u0101n",
         "Gor\u0101n"
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1225923383,
-    "wof:lastmodified":1537638747,
+    "wof:lastmodified":1564106975,
     "wof:name":"Kuran",
     "wof:parent_id":421199293,
     "wof:placetype":"locality",

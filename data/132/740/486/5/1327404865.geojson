@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "Y\u0101s\u012bn"
     ],
+    "name:deu_x_preferred":[
+        "Yasin"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0441\u0438\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1327404865,
-    "wof:lastmodified":1537637796,
+    "wof:lastmodified":1564103881,
     "wof:name":"Yasin",
     "wof:parent_id":1108562681,
     "wof:placetype":"locality",

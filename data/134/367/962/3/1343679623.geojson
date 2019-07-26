@@ -29,6 +29,27 @@
     "name:ara_x_preferred":[
         "\u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u0627\u062d\u0645\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0628\u0631\u0627\u0647\u064a\u0645 \u0623\u062d\u0645\u062f"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06cc\u0628\u0631\u0627\u06be\u06cc\u0645 \u0626\u06d5\u062d\u0645\u06d5\u062f"
+    ],
+    "name:deu_x_preferred":[
+        "Ibrahim Ahmed"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0631\u0627\u0647\u06cc\u0645 \u0627\u062d\u0645\u062f"
+    ],
+    "name:kur_x_preferred":[
+        "\u00cebrah\u00eem Ehmed"
+    ],
+    "name:pol_x_preferred":[
+        "Ibrahim Ahmad"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130brahim Ahmed"
+    ],
     "name:und_x_variant":[
         "Ibr\u0101h\u012bm A\u1e29mad"
     ],
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1343679623,
-    "wof:lastmodified":1537638322,
+    "wof:lastmodified":1564104363,
     "wof:name":"Ibrahim Ahmad",
     "wof:parent_id":421191407,
     "wof:placetype":"locality",

@@ -32,11 +32,20 @@
     "name:ara_x_variant":[
         "\u0643\u0648\u0644\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Kulan"
+    ],
+    "name:deu_x_preferred":[
+        "Kulan"
+    ],
     "name:kur_x_preferred":[
         "Gu\u0142an"
     ],
     "name:kur_x_variant":[
         "\u06af\u0648\u06b5\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Kulan"
     ],
     "name:und_x_variant":[
         "Gul\u0101n",
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1210021349,
-    "wof:lastmodified":1537638757,
+    "wof:lastmodified":1564105600,
     "wof:name":"Kulan",
     "wof:parent_id":1108562767,
     "wof:placetype":"locality",

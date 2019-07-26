@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0645\u0627\u0644\u0643"
     ],
+    "name:nno_x_preferred":[
+        "Bani Malik"
+    ],
     "name:und_x_variant":[
         "Ban\u012b M\u0101lik"
     ],
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209486245,
-    "wof:lastmodified":1537638569,
+    "wof:lastmodified":1564105336,
     "wof:name":"Bani Malik",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

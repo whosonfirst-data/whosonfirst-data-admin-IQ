@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0646\u062c\u0645"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u062c\u0645"
+    ],
+    "name:ita_x_preferred":[
+        "Najm"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276569325,
-    "wof:lastmodified":1537639215,
+    "wof:lastmodified":1564105015,
     "wof:name":"Najm",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Shawkah"
+    ],
     "name:und_x_variant":[
         "Shoka",
         "Shawkah"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293261925,
-    "wof:lastmodified":1537637927,
+    "wof:lastmodified":1564104858,
     "wof:name":"Shawkah",
     "wof:parent_id":1108562673,
     "wof:placetype":"locality",

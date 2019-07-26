@@ -26,11 +26,53 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Farhud"
+    ],
     "name:ara_x_preferred":[
         "\u0641\u0631\u0647\u0648\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0641\u0631\u0647\u0648\u062f"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0433\u0434\u0430\u0434\u0441\u043a\u0438 \u043f\u043e\u0433\u0440\u043e\u043c"
+    ],
+    "name:deu_x_preferred":[
+        "Farhud"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0647\u0648\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Farhoud"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e4\u05e8\u05d4\u05d5\u05d3"
+    ],
+    "name:lad_x_preferred":[
+        "Farhud"
+    ],
+    "name:nld_x_preferred":[
+        "Farhud"
+    ],
+    "name:pol_x_preferred":[
+        "Farhud"
+    ],
+    "name:ron_x_preferred":[
+        "Farhud"
+    ],
+    "name:swe_x_preferred":[
+        "Farhud"
+    ],
+    "name:tur_x_preferred":[
+        "Farhud"
+    ],
     "name:und_x_variant":[
         "Farh\u016bd"
+    ],
+    "name:zea_x_preferred":[
+        "Farhud"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1209088555,
-    "wof:lastmodified":1537639141,
+    "wof:lastmodified":1564105308,
     "wof:name":"Farhud",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

@@ -29,7 +29,11 @@
         "\u0641\u064a\u0634 \u062e\u0627\u0628\u0648\u0631"
     ],
     "name:ara_x_variant":[
-        "F\u012bsh Kh\u0101b\u016br"
+        "F\u012bsh Kh\u0101b\u016br",
+        "\u0641\u064a\u0634\u062e\u0627\u0628\u0648\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0634 \u062e\u0627\u0628\u0648\u0631"
     ],
     "name:kur_x_preferred":[
         "Fish Khabur"
@@ -37,6 +41,9 @@
     "name:kur_x_variant":[
         "Fish Xabur",
         "\u0641\u0634 \u062e\u0627\u0628\u0648\u0631"
+    ],
+    "name:tur_x_preferred":[
+        "Fi\u015fhabur"
     ],
     "name:und_x_variant":[
         "Pesh Kh\u0101b\u016br",
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":1277001859,
-    "wof:lastmodified":1537638424,
+    "wof:lastmodified":1564104909,
     "wof:name":"Fish Xabur",
     "wof:parent_id":890445289,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "\u0628\u0627\u0646\u0627\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Banan"
+    ],
     "name:kur_x_preferred":[
         "Pa\u0142an\u00ee"
     ],
@@ -39,6 +42,12 @@
         "Pelenyan",
         "\u067e\u0627\u06b5\u0627\u0646\u0649",
         "\u067e\u06d5\u0644\u06d5\u0646\u064a\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Palani"
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1293297661,
-    "wof:lastmodified":1537638572,
+    "wof:lastmodified":1564104805,
     "wof:name":"Banan",
     "wof:parent_id":421183885,
     "wof:placetype":"locality",

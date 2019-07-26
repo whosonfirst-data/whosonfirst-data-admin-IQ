@@ -26,6 +26,15 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sulayman"
+    ],
+    "name:fra_x_preferred":[
+        "Sulayman"
+    ],
+    "name:tgl_x_preferred":[
+        "Sulayman"
+    ],
     "name:und_x_variant":[
         "Sulaym\u0101n"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259377681,
-    "wof:lastmodified":1537637878,
+    "wof:lastmodified":1564106748,
     "wof:name":"Sulayman",
     "wof:parent_id":1108562741,
     "wof:placetype":"locality",

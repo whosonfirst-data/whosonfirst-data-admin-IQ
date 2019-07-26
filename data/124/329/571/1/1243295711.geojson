@@ -26,8 +26,14 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chatan"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u062a\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Chatan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243295711,
-    "wof:lastmodified":1537639110,
+    "wof:lastmodified":1564106655,
     "wof:name":"Chatan",
     "wof:parent_id":1108562765,
     "wof:placetype":"locality",

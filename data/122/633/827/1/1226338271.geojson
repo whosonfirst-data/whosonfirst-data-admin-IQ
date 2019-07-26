@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "S\u0101w\u012b"
     ],
+    "name:deu_x_preferred":[
+        "Sawai"
+    ],
     "name:und_x_variant":[
         "Ghazzi",
         "Sawai",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226338271,
-    "wof:lastmodified":1537637964,
+    "wof:lastmodified":1564107061,
     "wof:name":"Sawai",
     "wof:parent_id":421172357,
     "wof:placetype":"locality",
