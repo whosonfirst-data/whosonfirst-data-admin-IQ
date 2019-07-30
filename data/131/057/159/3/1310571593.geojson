@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u062c\u0643"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u062c\u06a9"
+    ],
     "name:und_x_variant":[
         "K\u016bjak"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310571593,
-    "wof:lastmodified":1537639967,
+    "wof:lastmodified":1564106051,
     "wof:name":"Kujak",
     "wof:parent_id":421186449,
     "wof:placetype":"locality",

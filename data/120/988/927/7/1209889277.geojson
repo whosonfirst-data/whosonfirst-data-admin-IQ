@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "B\u012bly\u0101n"
     ],
+    "name:ceb_x_preferred":[
+        "Bilan"
+    ],
+    "name:deu_x_preferred":[
+        "Bilan"
+    ],
+    "name:fra_x_preferred":[
+        "Bilan"
+    ],
     "name:kur_x_preferred":[
         "B\u00eelyan"
     ],
@@ -36,6 +45,18 @@
         "\u0628\u064a\u0644\u064a\u0627\u0646",
         "Bilan",
         "\u0628\u0644\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043b\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Bilan"
+    ],
+    "name:swe_x_preferred":[
+        "Bilan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043b\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Bill\u0101n",
@@ -66,7 +87,7 @@
         }
     ],
     "wof:id":1209889277,
-    "wof:lastmodified":1537638523,
+    "wof:lastmodified":1564105564,
     "wof:name":"Bilan",
     "wof:parent_id":421172365,
     "wof:placetype":"locality",

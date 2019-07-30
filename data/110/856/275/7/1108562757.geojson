@@ -32,8 +32,41 @@
     "mps:longitude":44.242557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0642\u0644\u0627\u0648\u0629"
+    ],
+    "name:arc_x_preferred":[
+        "\u072b\u0729\u0720\u0712\u0715"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0634\u06d5\u0642\u06b5\u0627\u0648\u06d5"
+    ],
+    "name:deu_x_preferred":[
+        "Schaqlawa"
+    ],
     "name:eng_x_variant":[
         "Shaqlawa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0642\u0644\u0627\u0648\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Shaqlawa"
+    ],
+    "name:kur_x_preferred":[
+        "\u015eeqlawe"
+    ],
+    "name:nor_x_preferred":[
+        "Shaqlawa"
+    ],
+    "name:pol_x_preferred":[
+        "Szaklawa"
+    ],
+    "name:swe_x_preferred":[
+        "Shaqlawa"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eeklave"
     ],
     "name:und_x_variant":[
         "\u0634\u0642\u0644\u0627\u0648\u0629"
@@ -59,7 +92,7 @@
         }
     ],
     "wof:id":1108562757,
-    "wof:lastmodified":1554489209,
+    "wof:lastmodified":1564105825,
     "wof:name":"Shaqlawa",
     "wof:parent_id":85672425,
     "wof:placetype":"county",

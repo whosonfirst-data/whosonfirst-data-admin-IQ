@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "Jub\u016br"
     ],
+    "name:cat_x_preferred":[
+        "Jubur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1292964387,
-    "wof:lastmodified":1537639090,
+    "wof:lastmodified":1564104755,
     "wof:name":"Jubur",
     "wof:parent_id":1108562693,
     "wof:placetype":"locality",

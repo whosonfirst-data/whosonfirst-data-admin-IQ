@@ -29,16 +29,43 @@
     "name:ara_x_preferred":[
         "\u0631\u0645\u0648"
     ],
+    "name:chv_x_preferred":[
+        "\u0420\u0430\u043c\u0443"
+    ],
+    "name:deu_x_preferred":[
+        "Ramu"
+    ],
+    "name:fra_x_preferred":[
+        "Ramu"
+    ],
     "name:kur_x_preferred":[
         "\u1e5eiqe"
     ],
     "name:kur_x_variant":[
         "\u0695\u0642\u06d5"
     ],
+    "name:lit_x_preferred":[
+        "Ramu"
+    ],
+    "name:pol_x_preferred":[
+        "Ramu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u0443"
+    ],
+    "name:swa_x_preferred":[
+        "Ramu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043c\u0443"
+    ],
     "name:und_x_variant":[
         "Rummah",
         "Riqa",
         "Ram\u016b"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7a46\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +90,7 @@
         }
     ],
     "wof:id":1243537531,
-    "wof:lastmodified":1537638777,
+    "wof:lastmodified":1564106370,
     "wof:name":"Ramu",
     "wof:parent_id":1108562635,
     "wof:placetype":"locality",

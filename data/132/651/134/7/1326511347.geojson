@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0637\u0642 \u0637\u0642"
     ],
+    "name:ceb_x_preferred":[
+        "Taq Taq"
+    ],
+    "name:swe_x_preferred":[
+        "Taq Taq"
+    ],
     "name:und_x_variant":[
         "Jaqtaq",
         "Taktak",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1326511347,
-    "wof:lastmodified":1537637848,
+    "wof:lastmodified":1564103804,
     "wof:name":"Taq Taq",
     "wof:parent_id":890445493,
     "wof:placetype":"locality",

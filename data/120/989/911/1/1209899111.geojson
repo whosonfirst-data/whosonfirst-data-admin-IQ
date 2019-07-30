@@ -37,6 +37,9 @@
         "Xel\u00een",
         "\u062e\u06d5\u0644\u064a\u0646"
     ],
+    "name:pol_x_preferred":[
+        "Halin"
+    ],
     "name:und_x_variant":[
         "Hal\u012bn",
         "Hlin",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1209899111,
-    "wof:lastmodified":1537638916,
+    "wof:lastmodified":1564105526,
     "wof:name":"Halin",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",

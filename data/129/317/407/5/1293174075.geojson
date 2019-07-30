@@ -32,8 +32,38 @@
     "name:ara_x_variant":[
         "M\u012br Q\u0101sim"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c0\u09b0 \u0995\u09be\u09b8\u09bf\u09ae"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0940\u0930 \u0915\u093e\u0938\u093f\u092e"
+    ],
+    "name:ita_x_preferred":[
+        "Mir Qasim"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30fc\u30eb\u30fb\u30ab\u30fc\u30b7\u30e0"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cc0\u0cb0\u0ccd \u0c96\u0cbe\u0cb8\u0cbf\u0c82"
+    ],
     "name:kur_x_preferred":[
         "M\u00eer Qasm"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d3f\u0d7c \u0d15\u0d3e\u0d38\u0d3f\u0d02"
+    ],
+    "name:nld_x_preferred":[
+        "Mir Qasim"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u06cc\u0631 \u0642\u0627\u0633\u0645"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0440 \u041a\u0430\u0441\u0456\u043c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0631 \u0642\u0627\u0633\u0645"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":1293174075,
-    "wof:lastmodified":1537638134,
+    "wof:lastmodified":1564104838,
     "wof:name":"Mir Qasim",
     "wof:parent_id":421186449,
     "wof:placetype":"locality",

@@ -32,6 +32,18 @@
     "name:ara_x_variant":[
         "\u0632\u0646\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Zani"
+    ],
+    "name:deu_x_preferred":[
+        "Zani"
+    ],
+    "name:fra_x_preferred":[
+        "Zani"
+    ],
+    "name:ita_x_preferred":[
+        "Zani"
+    ],
     "name:kur_x_preferred":[
         "Zeq\u00ee"
     ],
@@ -41,6 +53,9 @@
         "Zemen\u00ea",
         "\u0632\u06d5\u0645\u06d5\u0646",
         "\u0632\u06d5\u0645\u06d5\u0646\u06ce"
+    ],
+    "name:swe_x_preferred":[
+        "Zani"
     ],
     "name:und_x_variant":[
         "Zaqi",
@@ -72,7 +87,7 @@
         }
     ],
     "wof:id":1327216593,
-    "wof:lastmodified":1537638903,
+    "wof:lastmodified":1564104058,
     "wof:name":"Zani",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",

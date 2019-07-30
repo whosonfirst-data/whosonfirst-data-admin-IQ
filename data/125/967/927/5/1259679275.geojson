@@ -32,11 +32,26 @@
     "name:ara_x_variant":[
         "K\u016bl"
     ],
+    "name:ceb_x_preferred":[
+        "Kul"
+    ],
+    "name:dan_x_preferred":[
+        "Kul"
+    ],
+    "name:deu_x_preferred":[
+        "Kul"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644"
+    ],
     "name:kur_x_preferred":[
         "Kuvil\u00ee"
     ],
     "name:kur_x_variant":[
         "\u0643\u0648\u06a4\u0644\u0649"
+    ],
+    "name:swe_x_preferred":[
+        "Kul"
     ],
     "name:und_x_variant":[
         "K\u014dvil",
@@ -66,7 +81,7 @@
         }
     ],
     "wof:id":1259679275,
-    "wof:lastmodified":1537639058,
+    "wof:lastmodified":1564106888,
     "wof:name":"Kul",
     "wof:parent_id":421204025,
     "wof:placetype":"locality",

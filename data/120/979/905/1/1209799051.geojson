@@ -29,6 +29,21 @@
     "name:ara_x_preferred":[
         "\u0641\u0647\u062f"
     ],
+    "name:est_x_preferred":[
+        "Fahd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0647\u062f"
+    ],
+    "name:ind_x_preferred":[
+        "Fahd"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30cf\u30c9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0445\u0434"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1209799051,
-    "wof:lastmodified":1537639915,
+    "wof:lastmodified":1564105353,
     "wof:name":"Fahd",
     "wof:parent_id":1108562709,
     "wof:placetype":"locality",

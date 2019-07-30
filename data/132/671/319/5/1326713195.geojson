@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "\u0643\u0648\u062e"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u062e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326713195,
-    "wof:lastmodified":1537639994,
+    "wof:lastmodified":1564103970,
     "wof:name":"Kukh",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",

@@ -29,6 +29,18 @@
     "name:ara_x_preferred":[
         "\u1e28\u0101tim"
     ],
+    "name:ceb_x_preferred":[
+        "Hatim"
+    ],
+    "name:deu_x_preferred":[
+        "Hatim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0442\u0438\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Hatim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1260053795,
-    "wof:lastmodified":1537638344,
+    "wof:lastmodified":1564105814,
     "wof:name":"Hatim",
     "wof:parent_id":1108562709,
     "wof:placetype":"locality",

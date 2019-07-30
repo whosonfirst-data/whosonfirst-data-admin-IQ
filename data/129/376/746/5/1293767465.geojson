@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0647\u0631\u0632"
     ],
+    "name:pol_x_preferred":[
+        "Buhriz"
+    ],
     "name:und_x_variant":[
         "Bahriz",
         "Bohriz",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1293767465,
-    "wof:lastmodified":1537638508,
+    "wof:lastmodified":1564104650,
     "wof:name":"Buhriz",
     "wof:parent_id":421184253,
     "wof:placetype":"locality",

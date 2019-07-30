@@ -32,11 +32,20 @@
     "name:ara_x_variant":[
         "Sil\u012b"
     ],
+    "name:cat_x_preferred":[
+        "Sili"
+    ],
+    "name:ceb_x_preferred":[
+        "Sili"
+    ],
     "name:kur_x_preferred":[
         "Sl\u00ee"
     ],
     "name:kur_x_variant":[
         "\u0633\u0644\u0649"
+    ],
+    "name:swe_x_preferred":[
+        "Sili"
     ],
     "name:und_x_variant":[
         "\u015eal\u0101\u1e29\u012byah",
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1276571389,
-    "wof:lastmodified":1537637987,
+    "wof:lastmodified":1564105051,
     "wof:name":"Sili",
     "wof:parent_id":1108562637,
     "wof:placetype":"locality",

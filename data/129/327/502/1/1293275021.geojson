@@ -29,6 +29,36 @@
     "name:ara_x_preferred":[
         "\u0628\u0639\u0634\u064a\u0642\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Bashiqa"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u06d5\u0639\u0634\u06cc\u0642\u06d5"
+    ],
+    "name:deu_x_preferred":[
+        "Baschiqa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0639\u0634\u06cc\u0642\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Bachiqa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e2\u05e9\u05d9\u05e7\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Bashiqa"
+    ],
+    "name:pol_x_preferred":[
+        "Baszika"
+    ],
+    "name:por_x_preferred":[
+        "Bashiqa"
+    ],
+    "name:tur_x_preferred":[
+        "Ba\u015fika"
+    ],
     "name:und_x_variant":[
         "Bash\u012bqa",
         "Ba\u2018sh\u012bqah"
@@ -57,7 +87,7 @@
         }
     ],
     "wof:id":1293275021,
-    "wof:lastmodified":1537638548,
+    "wof:lastmodified":1564104795,
     "wof:name":"Ba'shiqah",
     "wof:parent_id":1108562631,
     "wof:placetype":"locality",

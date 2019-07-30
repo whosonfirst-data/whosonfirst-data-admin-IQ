@@ -26,6 +26,9 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qizil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1293184601,
-    "wof:lastmodified":1536727178,
+    "wof:lastmodified":1564104790,
     "wof:name":"Qizil",
     "wof:parent_id":421169765,
     "wof:placetype":"locality",

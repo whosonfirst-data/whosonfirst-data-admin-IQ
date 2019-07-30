@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0637\u0648\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Tawi"
+    ],
+    "name:swe_x_preferred":[
+        "Tawi"
+    ],
     "name:und_x_variant":[
         "\u0162aw\u012b"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226260405,
-    "wof:lastmodified":1537639545,
+    "wof:lastmodified":1564107023,
     "wof:name":"Tawi",
     "wof:parent_id":421178933,
     "wof:placetype":"locality",

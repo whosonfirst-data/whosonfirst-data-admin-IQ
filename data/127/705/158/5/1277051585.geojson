@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0645\u062f \u064a\u0627\u0633\u064a\u0646"
     ],
+    "name:gor_x_preferred":[
+        "Muhammad Yasin"
+    ],
+    "name:ind_x_preferred":[
+        "Muhammad Yasin"
+    ],
     "name:und_x_variant":[
         "Mu\u1e29ammad Y\u0101s\u012bn"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1277051585,
-    "wof:lastmodified":1537639344,
+    "wof:lastmodified":1564105066,
     "wof:name":"Muhammad Yasin",
     "wof:parent_id":1108562799,
     "wof:placetype":"locality",

@@ -26,11 +26,17 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Seran"
+    ],
     "name:kur_x_preferred":[
         "S\u00ea\u1e5fan"
     ],
     "name:kur_x_variant":[
         "\u0633\u06ce\u0695\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Seran"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1259470963,
-    "wof:lastmodified":1537640087,
+    "wof:lastmodified":1564106813,
     "wof:name":"Seran",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",

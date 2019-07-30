@@ -29,11 +29,50 @@
     "name:ara_x_preferred":[
         "\u06be\u0631\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u062d\u0631\u0643\u064a"
+    ],
+    "name:bre_x_preferred":[
+        "Harki"
+    ],
+    "name:cat_x_preferred":[
+        "Harki"
+    ],
+    "name:ces_x_preferred":[
+        "Harkiov\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Harki"
+    ],
+    "name:epo_x_preferred":[
+        "Harkio"
+    ],
+    "name:fra_x_preferred":[
+        "Harki"
+    ],
+    "name:ita_x_preferred":[
+        "Harki"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30ad"
+    ],
     "name:kur_x_preferred":[
         "Herk\u00eey"
     ],
     "name:kur_x_variant":[
         "\u06be\u06d5\u0631\u0643\u064a\u0649"
+    ],
+    "name:pol_x_preferred":[
+        "Harki"
+    ],
+    "name:por_x_preferred":[
+        "Harki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u043a\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Harki"
     ],
     "name:und_x_variant":[
         "Hark\u012b"
@@ -61,7 +100,7 @@
         }
     ],
     "wof:id":1242961535,
-    "wof:lastmodified":1537638355,
+    "wof:lastmodified":1564106628,
     "wof:name":"Harki",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

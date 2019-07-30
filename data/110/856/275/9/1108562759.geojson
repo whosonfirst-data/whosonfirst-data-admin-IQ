@@ -36,6 +36,12 @@
         "Dokan",
         "Dukan"
     ],
+    "name:kur_x_preferred":[
+        "Dokan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043a\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "\u062f\u0648\u0643\u0627\u0646"
     ],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108562759,
-    "wof:lastmodified":1554489209,
+    "wof:lastmodified":1564105825,
     "wof:name":"Dokan",
     "wof:parent_id":85672475,
     "wof:placetype":"county",

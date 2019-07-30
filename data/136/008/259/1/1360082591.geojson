@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "K\u012bsh\u0101n"
     ],
+    "name:deu_x_preferred":[
+        "Keshan"
+    ],
     "name:kur_x_preferred":[
         "K\u00eeshan"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1360082591,
-    "wof:lastmodified":1537638210,
+    "wof:lastmodified":1564106137,
     "wof:name":"Keshan",
     "wof:parent_id":890445289,
     "wof:placetype":"locality",

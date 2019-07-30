@@ -26,6 +26,12 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fayyad"
+    ],
+    "name:nds_x_preferred":[
+        "Fayyad"
+    ],
     "name:und_x_variant":[
         "Faiy\u0101dh",
         "Fayy\u0101\u1e11"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1259680829,
-    "wof:lastmodified":1537638424,
+    "wof:lastmodified":1564106852,
     "wof:name":"Fayyad",
     "wof:parent_id":421189307,
     "wof:placetype":"locality",

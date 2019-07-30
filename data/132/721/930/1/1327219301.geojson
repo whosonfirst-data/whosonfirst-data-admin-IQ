@@ -32,12 +32,36 @@
     "name:ara_x_variant":[
         "Min\u012bn"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u043d\u0456\u043d"
+    ],
+    "name:ces_x_preferred":[
+        "Minin"
+    ],
+    "name:deu_x_preferred":[
+        "Minin"
+    ],
+    "name:fra_x_preferred":[
+        "Minine"
+    ],
+    "name:ita_x_preferred":[
+        "Minin"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u0437\u044c\u043c\u0430 \u041c\u0438\u043d\u0438\u043d"
+    ],
     "name:kur_x_preferred":[
         "Men\u00een"
     ],
     "name:kur_x_variant":[
         "\u0645\u06d5\u0646\u064a\u0646",
         "Min\u00een"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043d\u0456\u043d"
     ],
     "name:und_x_variant":[
         "Manin",
@@ -66,7 +90,7 @@
         }
     ],
     "wof:id":1327219301,
-    "wof:lastmodified":1537638966,
+    "wof:lastmodified":1564104056,
     "wof:name":"Minin",
     "wof:parent_id":890445289,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "Sh\u012bv\u012b"
     ],
+    "name:hin_x_preferred":[
+        "\u0936\u093f\u0935\u093f"
+    ],
     "name:kur_x_preferred":[
         "Sh\u00eev\u00ee"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1276571369,
-    "wof:lastmodified":1537637905,
+    "wof:lastmodified":1564105051,
     "wof:name":"Shivi",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

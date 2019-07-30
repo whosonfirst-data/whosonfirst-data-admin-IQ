@@ -32,6 +32,21 @@
     "name:ara_x_variant":[
         "Gir\u012b"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u0456\u0440\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Giri"
+    ],
+    "name:deu_x_preferred":[
+        "Giri"
+    ],
+    "name:ind_x_preferred":[
+        "Giri"
+    ],
+    "name:jav_x_preferred":[
+        "Giri"
+    ],
     "name:kur_x_preferred":[
         "Gir\u00ee"
     ],
@@ -39,6 +54,12 @@
         "\u06af\u0631\u0649",
         "Girk Subash\u00ee",
         "\u06af\u0631\u0643 \u0633\u0648\u0628\u0627\u0634\u0649"
+    ],
+    "name:nld_x_preferred":[
+        "Giri"
+    ],
+    "name:swe_x_preferred":[
+        "Giri"
     ],
     "name:und_x_variant":[
         "Gri",
@@ -67,7 +88,7 @@
         }
     ],
     "wof:id":1243234015,
-    "wof:lastmodified":1537638942,
+    "wof:lastmodified":1564106500,
     "wof:name":"Giri",
     "wof:parent_id":421172365,
     "wof:placetype":"locality",

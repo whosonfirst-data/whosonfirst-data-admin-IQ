@@ -29,6 +29,30 @@
     "name:ara_x_preferred":[
         "\u062c\u0645\u064a\u0644"
     ],
+    "name:aze_x_preferred":[
+        "C\u0259mil"
+    ],
+    "name:cat_x_preferred":[
+        "Jamil"
+    ],
+    "name:deu_x_preferred":[
+        "Dscham\u012bl"
+    ],
+    "name:fra_x_preferred":[
+        "Jamil"
+    ],
+    "name:ita_x_preferred":[
+        "Jamil"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cemil"
+    ],
+    "name:por_x_preferred":[
+        "Jamil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0438\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "Jam\u012bl"
     ],
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1259777075,
-    "wof:lastmodified":1537639389,
+    "wof:lastmodified":1564106780,
     "wof:name":"Jamil",
     "wof:parent_id":421169765,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0646\u0648"
     ],
+    "name:fra_x_preferred":[
+        "Shino"
+    ],
+    "name:spa_x_preferred":[
+        "Shino"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259587905,
-    "wof:lastmodified":1537639102,
+    "wof:lastmodified":1564106889,
     "wof:name":"Shino",
     "wof:parent_id":1108562753,
     "wof:placetype":"locality",

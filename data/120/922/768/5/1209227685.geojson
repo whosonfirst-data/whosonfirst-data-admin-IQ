@@ -29,9 +29,21 @@
     "name:ara_x_preferred":[
         "\u0637\u0644\u062d\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0637\u0644\u062d\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u0644\u062d\u0647"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d24\u0d7d\u0d39"
+    ],
     "name:und_x_variant":[
         "Talha",
         "\u0162al\u1e29ah"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u52d2\u6d77"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1209227685,
-    "wof:lastmodified":1537637862,
+    "wof:lastmodified":1564105402,
     "wof:name":"Talhah",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

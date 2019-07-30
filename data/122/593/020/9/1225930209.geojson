@@ -32,7 +32,13 @@
     "name:ara_x_variant":[
         "T\u0101q T\u0101q"
     ],
+    "name:ceb_x_preferred":[
+        "Taq Taq"
+    ],
     "name:kur_x_preferred":[
+        "Taq Taq"
+    ],
+    "name:swe_x_preferred":[
         "Taq Taq"
     ],
     "name:und_x_variant":[
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1225930209,
-    "wof:lastmodified":1537637848,
+    "wof:lastmodified":1564106973,
     "wof:name":"Taq Taq",
     "wof:parent_id":1108562807,
     "wof:placetype":"locality",

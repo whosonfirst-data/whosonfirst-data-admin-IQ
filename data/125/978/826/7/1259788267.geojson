@@ -32,7 +32,16 @@
     "name:ara_x_variant":[
         "\u0628\u0627\u0633\u0627\u0643"
     ],
+    "name:ceb_x_preferred":[
+        "Basak"
+    ],
+    "name:ita_x_preferred":[
+        "Basak"
+    ],
     "name:kur_x_preferred":[
+        "Basak"
+    ],
+    "name:swe_x_preferred":[
         "Basak"
     ],
     "src:geom":"geonames",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1259788267,
-    "wof:lastmodified":1537638550,
+    "wof:lastmodified":1564106806,
     "wof:name":"Basak",
     "wof:parent_id":1108562763,
     "wof:placetype":"locality",

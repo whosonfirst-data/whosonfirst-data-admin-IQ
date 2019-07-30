@@ -29,14 +29,41 @@
     "name:ara_x_preferred":[
         "\u062c\u0645\u0631\u0648\u062f"
     ],
+    "name:ces_x_preferred":[
+        "D\u017eamr\u00fad"
+    ],
+    "name:deu_x_preferred":[
+        "Jamrud"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0645\u0631\u0648\u062f"
+    ],
     "name:kur_x_preferred":[
         "Cemrud"
     ],
     "name:kur_x_variant":[
         "\u062c\u06d5\u0645\u0631\u0648\u062f"
     ],
+    "name:nld_x_preferred":[
+        "Jamrud"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a1c\u0a2e\u0a30\u0a4c\u0a26"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0645\u0631\u0648\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017camrud"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0440\u0443\u0434"
+    ],
     "name:und_x_variant":[
         "Jamr\u016bd"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0645\u0631\u0648\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":1293866903,
-    "wof:lastmodified":1537638726,
+    "wof:lastmodified":1564104875,
     "wof:name":"Jamrud",
     "wof:parent_id":1108562635,
     "wof:placetype":"locality",

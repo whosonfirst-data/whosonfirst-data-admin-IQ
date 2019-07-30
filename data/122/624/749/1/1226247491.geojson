@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u0628\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u0627\u0628\u0627\u0646"
+    ],
     "name:kur_x_preferred":[
         "Dare Ben"
     ],
@@ -38,6 +41,9 @@
     "name:und_x_variant":[
         "D\u0101raban",
         "Dara Ban"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u0631\u0627\u0628\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1226247491,
-    "wof:lastmodified":1537638475,
+    "wof:lastmodified":1564107211,
     "wof:name":"Daraban",
     "wof:parent_id":1108562761,
     "wof:placetype":"locality",

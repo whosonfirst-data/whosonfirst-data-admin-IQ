@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "Riy\u0101h"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u06cc\u0647"
+    ],
     "name:kur_x_preferred":[
         "Z\u00ea"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1343863101,
-    "wof:lastmodified":1537637774,
+    "wof:lastmodified":1564104492,
     "wof:name":"Ziyah",
     "wof:parent_id":1108562763,
     "wof:placetype":"locality",

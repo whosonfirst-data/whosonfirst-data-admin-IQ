@@ -25,32 +25,221 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Kirkoek"
+    ],
     "name:ara_x_preferred":[
         "\u0643\u0631\u0643\u0648\u0643"
+    ],
+    "name:arc_x_preferred":[
+        "\u071f\u072a\u071f \u0723\u0720\u0718\u071f"
+    ],
+    "name:ast_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0631\u06a9\u0648\u06a9"
+    ],
+    "name:aze_x_preferred":[
+        "K\u0259rk\u00fck"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u0440\u043a\u0443\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u0440\u043a\u0443\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:ceb_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:ces_x_preferred":[
+        "Kirk\u00fak"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u06d5\u0631\u06a9\u0648\u0648\u06a9"
+    ],
+    "name:dan_x_preferred":[
+        "Kirkuk"
     ],
     "name:deu_x_preferred":[
         "Kirkuk"
     ],
+    "name:diq_x_preferred":[
+        "Kerk\u00fbk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03c1\u03ba\u03bf\u03cd\u03ba"
+    ],
     "name:eng_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:epo_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:est_x_preferred":[
+        "Kirk\u016bk"
+    ],
+    "name:eus_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06a9\u0648\u06a9"
+    ],
+    "name:fin_x_preferred":[
         "Kirkuk"
     ],
     "name:fra_x_preferred":[
         "Kirkouk"
     ],
+    "name:heb_x_preferred":[
+        "\u05db\u05d9\u05e8\u05db\u05d5\u05db"
+    ],
+    "name:hrv_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:hun_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:hye_x_preferred":[
+        "\u0554\u056b\u0580\u0584\u0578\u0582\u0584"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0554\u056b\u0580\u0584\u0578\u0582\u0584"
+    ],
+    "name:ido_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:ile_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:ina_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:ind_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:ita_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:jav_x_preferred":[
+        "Kirkuk"
+    ],
     "name:jpn_x_preferred":[
         "\u30ad\u30eb\u30af\u30fc\u30af"
+    ],
+    "name:kab_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:kal_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10e0\u10d9\u10e3\u10d9\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0438\u0440\u043a\u0443\u043a"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0438\u0440\u043a\u0443\u043a"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0a4\ub974\ucfe0\ud06c"
     ],
     "name:kur_x_preferred":[
         "Kerk\u00fbk"
     ],
+    "name:lav_x_preferred":[
+        "Kirk\u016bka"
+    ],
+    "name:lit_x_preferred":[
+        "Kirkukas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d3f\u0d7c\u0d15\u0d41\u0d15\u0d4d\u0d15\u0d4d"
+    ],
+    "name:mri_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:msa_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06a9\u0631\u06a9\u0648\u06a9"
+    ],
+    "name:nld_x_preferred":[
+        "Kirkoek"
+    ],
+    "name:nno_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:nor_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:oci_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0631\u06a9\u0648\u06a9"
+    ],
     "name:pol_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:por_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:ron_x_preferred":[
         "Kirkuk"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u043a\u0443\u043a"
     ],
+    "name:scn_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:sco_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:slk_x_preferred":[
+        "Kark\u00fak"
+    ],
     "name:spa_x_preferred":[
         "Kirkuk"
+    ],
+    "name:sqi_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0440\u043a\u0443\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u04d9\u0440\u043a\u04af\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e35\u0e23\u0e4c\u0e04\u0e39\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Kerk\u00fck"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u043a\u0443\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u06a9\u0648\u06a9"
+    ],
+    "name:uzb_x_preferred":[
+        "Karkuk"
+    ],
+    "name:war_x_preferred":[
+        "Kirkuk"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u723e\u5eab\u514b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -96,7 +285,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1553551420,
+    "wof:lastmodified":1564105819,
     "wof:name":"Kirkuk",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

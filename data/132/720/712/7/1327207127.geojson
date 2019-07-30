@@ -32,6 +32,15 @@
     "name:ara_x_variant":[
         "T\u0101r\u016b"
     ],
+    "name:ceb_x_preferred":[
+        "Taru"
+    ],
+    "name:fin_x_preferred":[
+        "Taru"
+    ],
+    "name:swe_x_preferred":[
+        "Taru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1327207127,
-    "wof:lastmodified":1537639808,
+    "wof:lastmodified":1564104097,
     "wof:name":"Taru",
     "wof:parent_id":421186449,
     "wof:placetype":"locality",

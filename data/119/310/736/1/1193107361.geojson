@@ -32,11 +32,23 @@
     "name:ara_x_variant":[
         "Sh\u016bsh"
     ],
+    "name:ceb_x_preferred":[
+        "Shush"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05e9"
+    ],
     "name:kur_x_preferred":[
         "Shosh"
     ],
     "name:kur_x_variant":[
         "\u0634\u06c6\u0634"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0634\u0648\u0634"
+    ],
+    "name:swe_x_preferred":[
+        "Shush"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1193107361,
-    "wof:lastmodified":1537637899,
+    "wof:lastmodified":1564105680,
     "wof:name":"Shush",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",

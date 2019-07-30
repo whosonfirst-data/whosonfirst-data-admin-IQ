@@ -32,6 +32,45 @@
     "name:ara_x_variant":[
         "\u0643\u0648\u0643\u0627"
     ],
+    "name:bos_x_preferred":[
+        "Kuka"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kuka"
+    ],
+    "name:ces_x_preferred":[
+        "Kuka"
+    ],
+    "name:deu_x_preferred":[
+        "Kuka"
+    ],
+    "name:fra_x_preferred":[
+        "Kuka"
+    ],
+    "name:hrv_x_preferred":[
+        "Kuka"
+    ],
+    "name:hun_x_preferred":[
+        "Kuka"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u056f\u0561"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043a\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kuka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +94,7 @@
         }
     ],
     "wof:id":1310410567,
-    "wof:lastmodified":1537640048,
+    "wof:lastmodified":1564105854,
     "wof:name":"Kuka",
     "wof:parent_id":1108562759,
     "wof:placetype":"locality",

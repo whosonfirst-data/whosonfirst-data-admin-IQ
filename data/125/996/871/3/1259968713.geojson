@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u0645\u0627\u0646 \u0627\u062d\u0645\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0644\u0645\u0627\u0646 \u0623\u062d\u0645\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0644\u0645\u0627\u0646 \u0627\u062d\u0645\u062f"
+    ],
+    "name:nor_x_preferred":[
+        "Salman Ahmad"
+    ],
     "name:und_x_variant":[
         "Salm\u0101n A\u1e29mad"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1259968713,
-    "wof:lastmodified":1537639383,
+    "wof:lastmodified":1564106740,
     "wof:name":"Salman Ahmad",
     "wof:parent_id":1108562655,
     "wof:placetype":"locality",

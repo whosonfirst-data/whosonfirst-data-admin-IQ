@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0646\u062c\u0645"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u062c\u0645"
+    ],
+    "name:ita_x_preferred":[
+        "Najm"
+    ],
     "name:und_x_variant":[
         "Najm al \u2018Abd All\u0101h",
         "Najm"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1310001035,
-    "wof:lastmodified":1537638106,
+    "wof:lastmodified":1564105907,
     "wof:name":"Najm",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",

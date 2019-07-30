@@ -29,6 +29,27 @@
     "name:ara_x_preferred":[
         "N\u0101m\u016bs"
     ],
+    "name:deu_x_preferred":[
+        "Namus"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0645\u0648\u0633"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e1m\u00fasz"
+    ],
+    "name:kur_x_preferred":[
+        "Nam\u00fbs"
+    ],
+    "name:por_x_preferred":[
+        "Namus"
+    ],
+    "name:spa_x_preferred":[
+        "Namus"
+    ],
+    "name:tur_x_preferred":[
+        "Namus"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1343530923,
-    "wof:lastmodified":1537638104,
+    "wof:lastmodified":1564104136,
     "wof:name":"Namus",
     "wof:parent_id":421186459,
     "wof:placetype":"locality",

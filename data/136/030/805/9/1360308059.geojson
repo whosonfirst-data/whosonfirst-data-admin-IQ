@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "\u06af\u0648\u0631\u0627\u0646"
     ],
+    "name:nor_x_preferred":[
+        "Guran"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1360308059,
-    "wof:lastmodified":1537640007,
+    "wof:lastmodified":1564106132,
     "wof:name":"Guran",
     "wof:parent_id":1108562745,
     "wof:placetype":"locality",

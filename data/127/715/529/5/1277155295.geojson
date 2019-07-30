@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u0641\u0627\u0646"
     ],
+    "name:aze_x_preferred":[
+        "X\u0259lifan"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062e\u06d5\u0644\u06cc\u0641\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u06cc\u0641\u0627\u0646"
+    ],
     "name:kur_x_preferred":[
         "Xel\u00eefan"
     ],
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1277155295,
-    "wof:lastmodified":1537639029,
+    "wof:lastmodified":1564105062,
     "wof:name":"Khalifan",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",

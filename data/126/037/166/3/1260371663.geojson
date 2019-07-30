@@ -32,6 +32,21 @@
     "name:ara_x_variant":[
         "Tuw\u012b"
     ],
+    "name:deu_x_preferred":[
+        "Tafelvulkan"
+    ],
+    "name:fra_x_preferred":[
+        "Tuya"
+    ],
+    "name:ind_x_preferred":[
+        "Tuya"
+    ],
+    "name:isl_x_preferred":[
+        "Stapi"
+    ],
+    "name:ita_x_preferred":[
+        "Tuya"
+    ],
     "name:kur_x_preferred":[
         "Tuy\u00ee"
     ],
@@ -39,6 +54,15 @@
         "\u062a\u0648\u064a\u0649",
         "Tuya",
         "\u062a\u0648\u064a\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Tuya"
+    ],
+    "name:spa_x_preferred":[
+        "Tuya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0439\u044f"
     ],
     "name:und_x_variant":[
         "Tupy",
@@ -67,7 +91,7 @@
         }
     ],
     "wof:id":1260371663,
-    "wof:lastmodified":1537637822,
+    "wof:lastmodified":1564105737,
     "wof:name":"Tuya",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

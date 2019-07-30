@@ -29,6 +29,18 @@
     "name:ara_x_preferred":[
         "Z\u0327\u0101hir"
     ],
+    "name:deu_x_preferred":[
+        "Zahir"
+    ],
+    "name:ita_x_preferred":[
+        "Zahir"
+    ],
+    "name:pol_x_preferred":[
+        "Zahir"
+    ],
+    "name:tur_x_preferred":[
+        "Zahir"
+    ],
     "name:und_x_variant":[
         "\u1e10ahir",
         "Dhahir"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1226243013,
-    "wof:lastmodified":1537637794,
+    "wof:lastmodified":1564107209,
     "wof:name":"Zahir",
     "wof:parent_id":1108562687,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0632"
     ],
+    "name:ceb_x_preferred":[
+        "B\u0101r\u0101z"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u0632"
+    ],
     "name:kur_x_preferred":[
         "Beraz"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1293460057,
-    "wof:lastmodified":1537638562,
+    "wof:lastmodified":1564104609,
     "wof:name":"Baraz",
     "wof:parent_id":421172365,
     "wof:placetype":"locality",

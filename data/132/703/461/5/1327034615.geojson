@@ -30,7 +30,23 @@
         "B\u0101y\u0101"
     ],
     "name:ara_x_variant":[
-        "\u0628\u0627\u064a\u0627"
+        "\u0628\u0627\u064a\u0627",
+        "\u0628\u0627\u064a\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Baya"
+    ],
+    "name:deu_x_preferred":[
+        "Baya"
+    ],
+    "name:fra_x_preferred":[
+        "Baya"
+    ],
+    "name:spa_x_preferred":[
+        "Baya"
+    ],
+    "name:swe_x_preferred":[
+        "Baya"
     ],
     "name:und_x_variant":[
         "\u0628\u0627\u064a\u0627"
@@ -58,7 +74,7 @@
         }
     ],
     "wof:id":1327034615,
-    "wof:lastmodified":1537640037,
+    "wof:lastmodified":1564103943,
     "wof:name":"Baya",
     "wof:parent_id":1108562763,
     "wof:placetype":"locality",

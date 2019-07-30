@@ -26,6 +26,9 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Hamriyah"
+    ],
     "name:und_x_variant":[
         "Hamr\u012byah"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259352581,
-    "wof:lastmodified":1537638363,
+    "wof:lastmodified":1564106877,
     "wof:name":"Hamriyah",
     "wof:parent_id":1108562781,
     "wof:placetype":"locality",

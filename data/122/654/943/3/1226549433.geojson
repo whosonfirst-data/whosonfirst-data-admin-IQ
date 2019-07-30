@@ -29,6 +29,21 @@
     "name:ara_x_preferred":[
         "\u062d\u0635\u064a\u0628\u0629"
     ],
+    "name:dan_x_preferred":[
+        "Husaybah"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0635\u06cc\u0628\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Husaybah"
+    ],
+    "name:pol_x_preferred":[
+        "Husajba"
+    ],
+    "name:sco_x_preferred":[
+        "Husaybah"
+    ],
     "name:und_x_variant":[
         "\u1e28u\u015faybah"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226549433,
-    "wof:lastmodified":1537638879,
+    "wof:lastmodified":1564107303,
     "wof:name":"Husaybah",
     "wof:parent_id":421178933,
     "wof:placetype":"locality",

@@ -29,6 +29,33 @@
     "name:ara_x_preferred":[
         "\u1e10\u0101min"
     ],
+    "name:ast_x_preferred":[
+        "Damin"
+    ],
+    "name:cat_x_preferred":[
+        "Damin"
+    ],
+    "name:deu_x_preferred":[
+        "Demiin"
+    ],
+    "name:epo_x_preferred":[
+        "Damino"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05de\u05d9\u05e0\u05d9\u05ea"
+    ],
+    "name:pol_x_preferred":[
+        "J\u0119zyk damin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043c\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Damin"
+    ],
+    "name:swe_x_preferred":[
+        "Damin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1243046847,
-    "wof:lastmodified":1537638812,
+    "wof:lastmodified":1564106549,
     "wof:name":"Damin",
     "wof:parent_id":1108562711,
     "wof:placetype":"locality",

@@ -32,6 +32,15 @@
     "name:ara_x_variant":[
         "Gh\u0101l\u012b"
     ],
+    "name:deu_x_preferred":[
+        "Ghali"
+    ],
+    "name:fra_x_preferred":[
+        "Ghali"
+    ],
+    "name:ita_x_preferred":[
+        "Ghali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1277146577,
-    "wof:lastmodified":1537639241,
+    "wof:lastmodified":1564105055,
     "wof:name":"Ghali",
     "wof:parent_id":1108562673,
     "wof:placetype":"locality",

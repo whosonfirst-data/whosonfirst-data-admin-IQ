@@ -32,6 +32,33 @@
     "name:ara_x_variant":[
         "J\u0101r\u012b"
     ],
+    "name:ceb_x_preferred":[
+        "Jari"
+    ],
+    "name:ces_x_preferred":[
+        "Jari"
+    ],
+    "name:deu_x_preferred":[
+        "Jari"
+    ],
+    "name:fin_x_preferred":[
+        "Jari"
+    ],
+    "name:fra_x_preferred":[
+        "Jari"
+    ],
+    "name:nld_x_preferred":[
+        "Jari"
+    ],
+    "name:por_x_preferred":[
+        "Jari"
+    ],
+    "name:spa_x_preferred":[
+        "Jari"
+    ],
+    "name:swe_x_preferred":[
+        "Jari"
+    ],
     "name:und_x_variant":[
         "Ch\u0101r\u012b",
         "\u2018Al\u012b az Zangana"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1209398563,
-    "wof:lastmodified":1537638491,
+    "wof:lastmodified":1564105288,
     "wof:name":"Jari",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
         "\u0162awg\u0101n",
         "\u0162awq\u0101n"
     ],
+    "name:zho_x_preferred":[
+        "\u9676\u574e\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1360208633,
-    "wof:lastmodified":1537637843,
+    "wof:lastmodified":1564106156,
     "wof:name":"Tawqan",
     "wof:parent_id":1108562699,
     "wof:placetype":"locality",

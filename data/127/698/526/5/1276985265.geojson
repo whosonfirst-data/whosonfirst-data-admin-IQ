@@ -32,6 +32,9 @@
     "name:kur_x_variant":[
         "\u0628\u06d5\u064a\u0627\u0646\u0627\u0646"
     ],
+    "name:por_x_preferred":[
+        "Bayanan"
+    ],
     "name:und_x_variant":[
         "B\u012by\u0101n\u0101n",
         "Bayan\u0101n",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1276985265,
-    "wof:lastmodified":1537638541,
+    "wof:lastmodified":1564105216,
     "wof:name":"Bayanan",
     "wof:parent_id":1108562763,
     "wof:placetype":"locality",

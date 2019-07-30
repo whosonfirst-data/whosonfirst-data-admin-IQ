@@ -29,6 +29,21 @@
     "name:ara_x_preferred":[
         "\u062f\u0631\u0628\u0646\u062f"
     ],
+    "name:ceb_x_preferred":[
+        "Darband"
+    ],
+    "name:deu_x_preferred":[
+        "Darband"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0628\u0646\u062f"
+    ],
+    "name:sco_x_preferred":[
+        "Darband"
+    ],
+    "name:swe_x_preferred":[
+        "Darband"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1326825377,
-    "wof:lastmodified":1537638470,
+    "wof:lastmodified":1564103950,
     "wof:name":"Darband",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",

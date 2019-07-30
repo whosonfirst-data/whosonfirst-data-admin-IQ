@@ -29,6 +29,33 @@
     "name:ara_x_preferred":[
         "N\u0101yim"
     ],
+    "name:deu_x_preferred":[
+        "Nayim"
+    ],
+    "name:fra_x_preferred":[
+        "Nayim"
+    ],
+    "name:ita_x_preferred":[
+        "Nayim"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30cf\u30e1\u30c9\u30fb\u30a2\u30ea\u30fb\u30a2\u30de\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "Nayim"
+    ],
+    "name:por_x_preferred":[
+        "Nayim"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0439\u0438\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Nayim"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u0430\u0439\u0438\u043c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1293179827,
-    "wof:lastmodified":1537638097,
+    "wof:lastmodified":1564104839,
     "wof:name":"Nayim",
     "wof:parent_id":1108562707,
     "wof:placetype":"locality",

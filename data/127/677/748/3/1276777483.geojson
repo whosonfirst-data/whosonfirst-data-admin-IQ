@@ -33,6 +33,21 @@
         "\u0627\u0644\u0642\u0627\u0626\u0645",
         "\u0645\u0631\u0643\u0632 \u0642\u0636\u0627\u0621 \u0627\u0644\u0642\u0627\u0626\u0645"
     ],
+    "name:dan_x_preferred":[
+        "Husaybah"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0635\u06cc\u0628\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Husaybah"
+    ],
+    "name:pol_x_preferred":[
+        "Husajba"
+    ],
+    "name:sco_x_preferred":[
+        "Husaybah"
+    ],
     "name:und_x_variant":[
         "Ka\u015f\u012bbah",
         "Kseba",
@@ -71,7 +86,7 @@
         }
     ],
     "wof:id":1276777483,
-    "wof:lastmodified":1537638014,
+    "wof:lastmodified":1564105164,
     "wof:name":"Al Qa'im",
     "wof:parent_id":1108562669,
     "wof:placetype":"locality",

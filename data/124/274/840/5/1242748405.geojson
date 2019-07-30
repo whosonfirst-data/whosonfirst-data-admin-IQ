@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0632\u0648\u0643"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0632\u0648\u06a9"
+    ],
     "name:kur_x_preferred":[
         "\u1e5eizok"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1242748405,
-    "wof:lastmodified":1537638002,
+    "wof:lastmodified":1564106405,
     "wof:name":"Razuk",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u062f\u0631"
     ],
+    "name:nno_x_preferred":[
+        "As Sadr"
+    ],
     "name:und_x_variant":[
         "A\u015f \u015eadr"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327307075,
-    "wof:lastmodified":1537640114,
+    "wof:lastmodified":1564103745,
     "wof:name":"As Sadr",
     "wof:parent_id":421172357,
     "wof:placetype":"locality",

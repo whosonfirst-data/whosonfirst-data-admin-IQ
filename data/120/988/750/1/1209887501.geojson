@@ -32,11 +32,23 @@
     "name:ara_x_variant":[
         "K\u0101r\u012bz"
     ],
+    "name:aze_x_preferred":[
+        "K\u0259hriz"
+    ],
+    "name:ceb_x_preferred":[
+        "Kariz"
+    ],
+    "name:deu_x_preferred":[
+        "Kariz"
+    ],
     "name:kur_x_preferred":[
         "Kar\u00eaz"
     ],
     "name:kur_x_variant":[
         "\u0643\u0627\u0631\u06ce\u0632"
+    ],
+    "name:swe_x_preferred":[
+        "Kariz"
     ],
     "name:und_x_variant":[
         "K\u0101tiz",
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1209887501,
-    "wof:lastmodified":1537638257,
+    "wof:lastmodified":1564105561,
     "wof:name":"Kariz",
     "wof:parent_id":1108562807,
     "wof:placetype":"locality",

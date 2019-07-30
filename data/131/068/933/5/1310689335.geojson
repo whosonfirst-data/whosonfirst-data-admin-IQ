@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "\u0634\u064a\u0644\u0627"
     ],
+    "name:deu_x_preferred":[
+        "Shila"
+    ],
     "name:kur_x_preferred":[
         "\u0634\u064a\u0644\u06d5"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1310689335,
-    "wof:lastmodified":1537638971,
+    "wof:lastmodified":1564106063,
     "wof:name":"Shila",
     "wof:parent_id":890445493,
     "wof:placetype":"locality",

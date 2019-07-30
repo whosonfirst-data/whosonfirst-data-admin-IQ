@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "N\u0101h\u012b"
     ],
+    "name:ceb_x_preferred":[
+        "Nahi"
+    ],
+    "name:eus_x_preferred":[
+        "Nahi"
+    ],
+    "name:swe_x_preferred":[
+        "Nahi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632191
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1209217809,
-    "wof:lastmodified":1537638853,
+    "wof:lastmodified":1564105543,
     "wof:name":"Nahi",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

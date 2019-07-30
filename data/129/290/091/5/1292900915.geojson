@@ -29,6 +29,27 @@
     "name:ara_x_preferred":[
         "Kit\u0101b"
     ],
+    "name:bos_x_preferred":[
+        "Kitab"
+    ],
+    "name:deu_x_preferred":[
+        "Kitab"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0a4\ud0c0\ube0c"
+    ],
+    "name:msa_x_preferred":[
+        "Kitab"
+    ],
+    "name:pol_x_preferred":[
+        "Kitab"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0442\u0430\u0431"
+    ],
+    "name:som_x_preferred":[
+        "Kitaab"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1292900915,
-    "wof:lastmodified":1537638210,
+    "wof:lastmodified":1564104760,
     "wof:name":"Kitab",
     "wof:parent_id":1108562689,
     "wof:placetype":"locality",

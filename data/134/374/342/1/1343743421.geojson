@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "B\u0101n\u012b M\u0101r\u0101n"
     ],
+    "name:fra_x_preferred":[
+        "Banimaran"
+    ],
     "name:kur_x_preferred":[
         "Ban\u00ee Maran"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1343743421,
-    "wof:lastmodified":1537638988,
+    "wof:lastmodified":1564104466,
     "wof:name":"Bani Maran",
     "wof:parent_id":890445493,
     "wof:placetype":"locality",

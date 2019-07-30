@@ -27,9 +27,27 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Laftah"
+    ],
+    "name:ita_x_preferred":[
+        "Laftah"
+    ],
+    "name:msa_x_preferred":[
+        "Laftah"
+    ],
+    "name:ron_x_preferred":[
+        "Laftah"
+    ],
+    "name:spa_x_preferred":[
+        "Laftah"
+    ],
     "name:und_x_variant":[
         "Lafta",
         "Laftah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0641\u0679\u0627\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1276752929,
-    "wof:lastmodified":1537638185,
+    "wof:lastmodified":1564104922,
     "wof:name":"Laftah",
     "wof:parent_id":1108562663,
     "wof:placetype":"locality",

@@ -29,6 +29,27 @@
     "name:ara_x_preferred":[
         "L\u012bk\u0101r\u012b"
     ],
+    "name:bos_x_preferred":[
+        "Likari"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043a\u0430\u0440\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Likari"
+    ],
+    "name:fra_x_preferred":[
+        "Likari"
+    ],
+    "name:hrv_x_preferred":[
+        "Likari"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043a\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Likari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1209705461,
-    "wof:lastmodified":1537638180,
+    "wof:lastmodified":1564105348,
     "wof:name":"Likari",
     "wof:parent_id":1108562725,
     "wof:placetype":"locality",

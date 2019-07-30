@@ -29,8 +29,32 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0632\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Barzan"
+    ],
+    "name:deu_x_preferred":[
+        "Barzan"
+    ],
+    "name:fra_x_preferred":[
+        "Barzan"
+    ],
     "name:kur_x_preferred":[
         "Birzan"
+    ],
+    "name:kur_x_variant":[
+        "Barzan"
+    ],
+    "name:nld_x_preferred":[
+        "Barzan"
+    ],
+    "name:pol_x_preferred":[
+        "Barzan"
+    ],
+    "name:swe_x_preferred":[
+        "Barzan"
+    ],
+    "name:tur_x_preferred":[
+        "Barzan"
     ],
     "name:und_x_variant":[
         "Brzar",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1326900803,
-    "wof:lastmodified":1537638550,
+    "wof:lastmodified":1564104009,
     "wof:name":"Barzan",
     "wof:parent_id":1108562635,
     "wof:placetype":"locality",

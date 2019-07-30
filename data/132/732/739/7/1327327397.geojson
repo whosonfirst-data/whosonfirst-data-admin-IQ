@@ -29,6 +29,27 @@
     "name:ara_x_preferred":[
         "Riy\u0101h"
     ],
+    "name:ara_x_variant":[
+        "\u0631\u064a\u0627\u062d"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0627\u062d"
+    ],
+    "name:cat_x_preferred":[
+        "Riah"
+    ],
+    "name:ceb_x_preferred":[
+        "Riah"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0627\u062d"
+    ],
+    "name:ita_x_preferred":[
+        "Riah"
+    ],
+    "name:swe_x_preferred":[
+        "Riah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1327327397,
-    "wof:lastmodified":1537638000,
+    "wof:lastmodified":1564103927,
     "wof:name":"Riyah",
     "wof:parent_id":1108562655,
     "wof:placetype":"locality",

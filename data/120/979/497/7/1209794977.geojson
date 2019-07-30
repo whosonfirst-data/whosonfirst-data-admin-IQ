@@ -31,13 +31,42 @@
     ],
     "name:ara_x_variant":[
         "\u0100lt\u016bn K\u016bbr\u012b",
-        "Alt\u016bn K\u016bbr\u012b"
+        "Alt\u016bn K\u016bbr\u012b",
+        "\u0623\u0644\u062a\u0646 \u0643\u0648\u0628\u0631\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0644\u062a\u06cc\u0646 \u06a9\u0648\u067e\u0631\u06cc"
+    ],
+    "name:cat_x_preferred":[
+        "Alt\u0131n K\u00f6pr\u00fc"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0631\u062f\u06ce"
+    ],
+    "name:deu_x_preferred":[
+        "Altin K\u00f6pr\u00fc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u062a\u0648\u0646 \u06a9\u0648\u067e\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Altin K\u00f6pr\u00fc"
     ],
     "name:kur_x_preferred":[
         "A\u0142t\u00fbn Kopr\u00ee"
     ],
     "name:kur_x_variant":[
-        "\u0626\u0627\u06b5\u062a\u0648\u0646 \u0643\u06c6\u067e\u0631\u0649"
+        "\u0626\u0627\u06b5\u062a\u0648\u0646 \u0643\u06c6\u067e\u0631\u0649",
+        "Pird\u00ea"
+    ],
+    "name:pol_x_preferred":[
+        "Altun Kubri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0442\u044b\u043d\u043a\u0451\u043f\u0440\u044e"
+    ],
+    "name:tur_x_preferred":[
+        "Alt\u0131nk\u00f6pr\u00fc"
     ],
     "name:und_x_variant":[
         "Pird\u0113",
@@ -75,7 +104,7 @@
         }
     ],
     "wof:id":1209794977,
-    "wof:lastmodified":1537638644,
+    "wof:lastmodified":1564105351,
     "wof:name":"Altun Kubri",
     "wof:parent_id":1108562807,
     "wof:placetype":"locality",

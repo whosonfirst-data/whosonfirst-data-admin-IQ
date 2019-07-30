@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0628\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc \u0628\u0647"
+    ],
     "name:und_x_variant":[
         "B\u012bbah"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260378933,
-    "wof:lastmodified":1537639985,
+    "wof:lastmodified":1564105740,
     "wof:name":"Bibah",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",

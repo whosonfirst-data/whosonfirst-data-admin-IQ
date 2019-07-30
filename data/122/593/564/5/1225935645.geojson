@@ -26,6 +26,18 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0637\u064a\u0641\u064a\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0644\u0637\u064a\u0641\u064a\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Latifijja"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041b\u0430\u0442\u0438\u0444\u0438\u044f"
+    ],
     "name:und_x_variant":[
         "La\u0163\u012bf\u012byah",
         "Lat\u012bf\u012bya",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1225935645,
-    "wof:lastmodified":1537638653,
+    "wof:lastmodified":1564106971,
     "wof:name":"Al Latifiyah",
     "wof:parent_id":421189307,
     "wof:placetype":"locality",

@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "K\u016bl\u012bn"
     ],
+    "name:deu_x_preferred":[
+        "Kulin People"
+    ],
+    "name:fra_x_preferred":[
+        "Kulin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30f3\u4eba"
+    ],
     "name:kur_x_preferred":[
         "Kolen"
     ],
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1310524231,
-    "wof:lastmodified":1537639048,
+    "wof:lastmodified":1564105925,
     "wof:name":"Kulin",
     "wof:parent_id":1108562755,
     "wof:placetype":"locality",

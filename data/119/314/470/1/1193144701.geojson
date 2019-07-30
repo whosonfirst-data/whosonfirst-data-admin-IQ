@@ -29,6 +29,36 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u0627\u064a\u0627\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Layyah"
+    ],
+    "name:lit_x_preferred":[
+        "Lejahas"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0644\u06cc\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Lajjah"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u044f\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Layyah"
+    ],
+    "name:swe_x_preferred":[
+        "Layyah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1193144701,
-    "wof:lastmodified":1537638790,
+    "wof:lastmodified":1564105641,
     "wof:name":"Layyah",
     "wof:parent_id":1108562703,
     "wof:placetype":"locality",

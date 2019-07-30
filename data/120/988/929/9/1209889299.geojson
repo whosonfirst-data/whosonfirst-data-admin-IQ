@@ -32,14 +32,68 @@
     "name:ara_x_variant":[
         "\u0647\u064a\u0632\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Hizan \u0130l\u00e7esi"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062e\u06cc\u0632\u0627\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Hizan"
+    ],
+    "name:diq_x_preferred":[
+        "X\u00eezan"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u06cc\u0632\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Hizan"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u056b\u0566\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Hizan"
+    ],
     "name:kur_x_preferred":[
         "H\u00eezan"
+    ],
+    "name:kur_x_variant":[
+        "X\u00eezan"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0425\u0438\u0437\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Hizan"
+    ],
+    "name:nno_x_preferred":[
+        "Hizan"
+    ],
+    "name:nor_x_preferred":[
+        "Hizan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0437\u0430\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Hizan"
+    ],
+    "name:tur_x_preferred":[
+        "Hizan"
     ],
     "name:und_x_variant":[
         "Zizan",
         "\u0647\u064a\u0632\u0627\u0646",
         "Qaryat H\u012bz\u0101n",
         "\u0642\u0631\u064a\u0629 \u0647\u064a\u0632\u0627\u0646",
+        "Hizan"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u06cc\u0632\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
         "Hizan"
     ],
     "src:geom":"geonames",
@@ -65,7 +119,7 @@
         }
     ],
     "wof:id":1209889299,
-    "wof:lastmodified":1537637769,
+    "wof:lastmodified":1564105563,
     "wof:name":"Hizan",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0642\u0648\u0631"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0642\u0648\u0631"
+    ],
     "name:kur_x_preferred":[
         "Qerqur"
     ],
@@ -37,11 +40,17 @@
         "Qerq\u00eer",
         "\u0642\u06d5\u0631\u0642\u064a\u0631"
     ],
+    "name:pol_x_preferred":[
+        "Karkur"
+    ],
     "name:und_x_variant":[
         "Qaraq\u016br",
         "Qarqor",
         "Qarq\u014dr",
         "Qarq\u016br",
+        "Qarqur"
+    ],
+    "name:vie_x_preferred":[
         "Qarqur"
     ],
     "src:geom":"geonames",
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":1293869447,
-    "wof:lastmodified":1537638041,
+    "wof:lastmodified":1564104877,
     "wof:name":"Qarqur",
     "wof:parent_id":1108562637,
     "wof:placetype":"locality",

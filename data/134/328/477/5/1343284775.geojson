@@ -29,6 +29,18 @@
     "name:ara_x_preferred":[
         "\u0642\u0634\u0627\u0646"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0448\u0430\u043d"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u0430\u0448\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0448\u0430\u043d"
+    ],
+    "name:tat_x_preferred":[
+        "Qa\u015fan"
+    ],
     "name:und_x_variant":[
         "Qash\u0101n"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1343284775,
-    "wof:lastmodified":1537640044,
+    "wof:lastmodified":1564104469,
     "wof:name":"Qashan",
     "wof:parent_id":1108562763,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Halfaya"
+    ],
     "name:und_x_variant":[
         "Markaz al Halfaya",
         "Halfaya",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1243433167,
-    "wof:lastmodified":1537638673,
+    "wof:lastmodified":1564106710,
     "wof:name":"Al Halfayah",
     "wof:parent_id":1108562681,
     "wof:placetype":"locality",

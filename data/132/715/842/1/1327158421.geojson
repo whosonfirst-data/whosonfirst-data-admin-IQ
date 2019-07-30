@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Matar"
+    ],
+    "name:deu_x_preferred":[
+        "Matar"
+    ],
+    "name:swe_x_preferred":[
+        "Matar"
+    ],
     "name:und_x_variant":[
         "Ma\u0163ar"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1327158421,
-    "wof:lastmodified":1537639755,
+    "wof:lastmodified":1564103885,
     "wof:name":"Matar",
     "wof:parent_id":1108562701,
     "wof:placetype":"locality",

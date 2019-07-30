@@ -26,6 +26,9 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Salim"
+    ],
     "name:und_x_variant":[
         "Sal\u012bm"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243145873,
-    "wof:lastmodified":1537637985,
+    "wof:lastmodified":1564106523,
     "wof:name":"Salim",
     "wof:parent_id":1108562709,
     "wof:placetype":"locality",

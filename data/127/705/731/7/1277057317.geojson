@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "\u062c\u064a\u0644\u064a\u0627"
     ],
+    "name:hin_x_preferred":[
+        "\u091c\u093f\u0932\u093f\u092f\u093e"
+    ],
     "name:kur_x_preferred":[
         "J\u00eeliya"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1277057317,
-    "wof:lastmodified":1537637775,
+    "wof:lastmodified":1564105066,
     "wof:name":"Jiliya",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",

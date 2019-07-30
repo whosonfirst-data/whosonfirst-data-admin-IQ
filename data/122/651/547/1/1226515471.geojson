@@ -32,6 +32,12 @@
     "name:ara_x_variant":[
         "\u062a\u0648\u0632\u0643\u064a"
     ],
+    "name:fra_x_preferred":[
+        "Tuzki"
+    ],
+    "name:jpn_x_preferred":[
+        "Tuzki"
+    ],
     "name:kur_x_preferred":[
         "Tuw\u00eejg\u00ea"
     ],
@@ -46,6 +52,12 @@
         "\u062a\u0648\u0631\u0643\u064a",
         "Tuizhge",
         "Tuzky"
+    ],
+    "name:vie_x_preferred":[
+        "Tuzki"
+    ],
+    "name:zho_x_preferred":[
+        "\u5154\u65af\u57fa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +82,7 @@
         }
     ],
     "wof:id":1226515471,
-    "wof:lastmodified":1537640064,
+    "wof:lastmodified":1564107087,
     "wof:name":"Tuzki",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",

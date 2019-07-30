@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0645\u0648\u062f"
     ],
+    "name:cat_x_preferred":[
+        "Mahmud"
+    ],
     "name:kur_x_preferred":[
         "Me\u1e27mud"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1260066721,
-    "wof:lastmodified":1537637820,
+    "wof:lastmodified":1564105747,
     "wof:name":"Mahmud",
     "wof:parent_id":1108562807,
     "wof:placetype":"locality",

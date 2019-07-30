@@ -32,11 +32,89 @@
     "name:ara_x_variant":[
         "\u062a\u0644 \u0639\u0641\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0644\u0639\u0641\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0644\u0639\u0641\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "T\u0259laf\u0259r"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u043b \u0410\u0444\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Tall \u2018Afar"
+    ],
+    "name:ces_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u06d5\u0644\u06d5\u0639\u0641\u06d5\u0631"
+    ],
+    "name:deu_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:epo_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:est_x_preferred":[
+        "Tall \u2018Afar"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u200c\u0639\u0641\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:fra_x_preferred":[
+        "Tall Afar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05dc \u05e2\u05e4\u05e8"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30eb\u30fb\u30a2\u30d5\u30a1\u30eb"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0430\u043b\u043b\u044c-\u0410\u0444\u0430\u0440"
+    ],
     "name:kur_x_preferred":[
         "Tele\u2018fer"
     ],
     "name:kur_x_variant":[
         "\u062a\u06d5\u0644\u06d5\u0639\u0641\u06d5\u0631"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062a\u0644\u0639\u0641\u0631"
+    ],
+    "name:nld_x_preferred":[
+        "Tel Afar"
+    ],
+    "name:nor_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u0644\u0639\u0641\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Tall Afar"
+    ],
+    "name:ron_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u043b\u044c-\u0410\u0444\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:tur_x_preferred":[
+        "Telafer"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043b\u044c-\u0410\u0444\u0430\u0440"
     ],
     "name:und_x_variant":[
         "Tel Afar",
@@ -45,6 +123,12 @@
         "Tala'afar",
         "Tall \u2018Afar",
         "Tall\u2018afar"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0644\u0639\u0641\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u52d2\u963f\u8cbb\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +154,7 @@
         }
     ],
     "wof:id":1259656975,
-    "wof:lastmodified":1537637861,
+    "wof:lastmodified":1564106735,
     "wof:name":"Tall 'Afar",
     "wof:parent_id":1108562635,
     "wof:placetype":"locality",

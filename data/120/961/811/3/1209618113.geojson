@@ -26,6 +26,12 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0631 \u0627\u0644\u0632\u0628\u064a\u0631"
+    ],
+    "name:ind_x_preferred":[
+        "Khur Al Zubair"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632191
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":1209618113,
-    "wof:lastmodified":1537565299,
+    "wof:lastmodified":1564105417,
     "wof:name":"Khor al Zubair",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

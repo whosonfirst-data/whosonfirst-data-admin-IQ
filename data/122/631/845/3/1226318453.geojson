@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "Am\u012bn Am\u012br"
     ],
+    "name:som_x_preferred":[
+        "Amiir Caamir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226318453,
-    "wof:lastmodified":1537639727,
+    "wof:lastmodified":1564107306,
     "wof:name":"Amin Amir",
     "wof:parent_id":1108562647,
     "wof:placetype":"locality",

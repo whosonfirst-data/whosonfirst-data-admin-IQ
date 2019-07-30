@@ -29,6 +29,21 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u062f\u0631"
     ],
+    "name:epo_x_preferred":[
+        "Dudar"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u062f\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Dudar"
+    ],
+    "name:hun_x_preferred":[
+        "Dudar"
+    ],
+    "name:ita_x_preferred":[
+        "Dudar"
+    ],
     "name:kur_x_preferred":[
         "Duder"
     ],
@@ -37,9 +52,30 @@
         "\u062f\u0648\u062f\u06d5\u0631",
         "\u062f\u0648\u0648\u062f\u0627\u0631"
     ],
+    "name:msa_x_preferred":[
+        "Dudar"
+    ],
+    "name:nld_x_preferred":[
+        "Dudar"
+    ],
+    "name:ron_x_preferred":[
+        "Dudar"
+    ],
+    "name:slk_x_preferred":[
+        "Dudar"
+    ],
+    "name:slv_x_preferred":[
+        "Dudar"
+    ],
     "name:und_x_variant":[
         "D\u016bdar",
         "Dudar"
+    ],
+    "name:vie_x_preferred":[
+        "Dudar"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u9053\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +100,7 @@
         }
     ],
     "wof:id":1310632543,
-    "wof:lastmodified":1537640089,
+    "wof:lastmodified":1564105931,
     "wof:name":"Dudar",
     "wof:parent_id":1108562745,
     "wof:placetype":"locality",

@@ -30,6 +30,30 @@
     "name:ara_x_preferred":[
         "Z\u0101y\u0101"
     ],
+    "name:ara_x_variant":[
+        "\u0632\u0627\u064a\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u044f"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u06cc\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0430\u044f"
+    ],
+    "name:pol_x_preferred":[
+        "Zaja"
+    ],
+    "name:ron_x_preferred":[
+        "Zaia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u044f"
+    ],
     "name:und_x_variant":[
         "Z\u0101ve"
     ],
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1243355141,
-    "wof:lastmodified":1537637781,
+    "wof:lastmodified":1564106562,
     "wof:name":"Zaya",
     "wof:parent_id":1108562795,
     "wof:placetype":"locality",

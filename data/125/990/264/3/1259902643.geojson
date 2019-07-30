@@ -32,11 +32,38 @@
     "name:ara_x_variant":[
         "\u0633\u0628\u064a\u0631"
     ],
+    "name:bak_x_preferred":[
+        "\u0421\u0435\u0431\u0435\u0440"
+    ],
+    "name:chv_x_preferred":[
+        "\u00c7\u0115\u043f\u0115\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Sibir"
+    ],
+    "name:ind_x_preferred":[
+        "Sibir"
+    ],
+    "name:ita_x_preferred":[
+        "Sibir"
+    ],
     "name:kur_x_preferred":[
         "Sp\u00ee Ser"
     ],
     "name:kur_x_variant":[
         "\u0633\u067e\u0649 \u0633\u06d5\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0431\u0438\u0440\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Sibir"
+    ],
+    "name:swe_x_preferred":[
+        "Sibir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0431\u0456\u0440"
     ],
     "name:und_x_variant":[
         "Sp\u012bsar",
@@ -65,7 +92,7 @@
         }
     ],
     "wof:id":1259902643,
-    "wof:lastmodified":1537637882,
+    "wof:lastmodified":1564106761,
     "wof:name":"Sibir",
     "wof:parent_id":1108562745,
     "wof:placetype":"locality",

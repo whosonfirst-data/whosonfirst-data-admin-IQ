@@ -32,8 +32,32 @@
     "name:ara_x_variant":[
         "D\u0101q\u016bq"
     ],
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0642\u0648\u0642"
+    ],
+    "name:aze_x_preferred":[
+        "Daquq"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0627\u0642\u0648\u0648\u0642"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0642\u0648\u0642"
+    ],
     "name:kur_x_preferred":[
         "Daquq"
+    ],
+    "name:kur_x_variant":[
+        "Dakuk"
+    ],
+    "name:pol_x_preferred":[
+        "Dakuk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043a\u0443\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Dakuk"
     ],
     "name:und_x_variant":[
         "Tauk",
@@ -65,7 +89,7 @@
         }
     ],
     "wof:id":1293762981,
-    "wof:lastmodified":1537637843,
+    "wof:lastmodified":1564104652,
     "wof:name":"Daquq",
     "wof:parent_id":1108562775,
     "wof:placetype":"locality",

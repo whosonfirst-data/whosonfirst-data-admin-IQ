@@ -29,11 +29,26 @@
     "name:ara_x_preferred":[
         "\u0628\u0642\u0648\u0641\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0642\u0648\u0641\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Baq\u016bfah"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0642\u0648\u0641\u0627"
+    ],
     "name:kur_x_preferred":[
         "Bequfe"
     ],
     "name:kur_x_variant":[
         "\u0628\u06d5\u0642\u0648\u0641\u06d5"
+    ],
+    "name:nor_x_preferred":[
+        "Baqofah"
+    ],
+    "name:swe_x_preferred":[
+        "Baqofah"
     ],
     "name:und_x_variant":[
         "Baq\u014dfah",
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":1343831109,
-    "wof:lastmodified":1537638565,
+    "wof:lastmodified":1564104242,
     "wof:name":"Baqufah",
     "wof:parent_id":1108562629,
     "wof:placetype":"locality",

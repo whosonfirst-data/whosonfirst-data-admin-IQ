@@ -29,6 +29,21 @@
     "name:ara_x_preferred":[
         "F\u0101ris"
     ],
+    "name:ceb_x_preferred":[
+        "Faris"
+    ],
+    "name:deu_x_preferred":[
+        "Faris"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05d9\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Faris"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u044d\u0440\u0438\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293611359,
-    "wof:lastmodified":1537639065,
+    "wof:lastmodified":1564104682,
     "wof:name":"Faris",
     "wof:parent_id":1108562695,
     "wof:placetype":"locality",

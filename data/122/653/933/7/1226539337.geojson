@@ -35,6 +35,9 @@
     "name:kur_x_variant":[
         "\u0633\u06d5\u0631\u062e\u0627\u0646"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e32\u0e23\u0e02\u0e31\u0e13\u0e11\u0e4c"
+    ],
     "name:und_x_variant":[
         "Sarkban",
         "Sarkhan"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1226539337,
-    "wof:lastmodified":1537637970,
+    "wof:lastmodified":1564107295,
     "wof:name":"Sarkhan",
     "wof:parent_id":1108562753,
     "wof:placetype":"locality",

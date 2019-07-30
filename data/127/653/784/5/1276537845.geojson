@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0632\u0627 \u0631\u062d\u064a\u0645"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0632\u0627 \u0631\u062d\u06cc\u0645"
+    ],
     "name:und_x_variant":[
         "M\u012brz\u0101 Ra\u1e29\u012bm"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276537845,
-    "wof:lastmodified":1537639880,
+    "wof:lastmodified":1564105222,
     "wof:name":"Mirza Rahim",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",

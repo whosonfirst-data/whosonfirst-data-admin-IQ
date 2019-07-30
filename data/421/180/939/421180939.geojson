@@ -36,6 +36,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f"
     ],
+    "name:ceb_x_preferred":[
+        "Balad"
+    ],
     "name:deu_x_preferred":[
         "Balad"
     ],
@@ -54,10 +57,16 @@
     "name:nld_x_preferred":[
         "Balad"
     ],
+    "name:pol_x_preferred":[
+        "Balad"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0434"
     ],
     "name:spa_x_preferred":[
+        "Balad"
+    ],
+    "name:swe_x_preferred":[
         "Balad"
     ],
     "name:und_x_variant":[
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":421180939,
-    "wof:lastmodified":1554488794,
+    "wof:lastmodified":1564106336,
     "wof:name":"Balad",
     "wof:parent_id":85672435,
     "wof:placetype":"county",

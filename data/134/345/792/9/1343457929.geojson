@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "\u0634\u0648\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Shiwan"
+    ],
     "name:kur_x_preferred":[
         "Shiwat"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1343457929,
-    "wof:lastmodified":1537637927,
+    "wof:lastmodified":1564104450,
     "wof:name":"Shiwan",
     "wof:parent_id":1108562759,
     "wof:placetype":"locality",

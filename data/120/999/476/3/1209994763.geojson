@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0646\u062f\u064a\u0644"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d3\u05d9\u05dc"
+    ],
     "name:kur_x_preferred":[
         "Qend\u00eel"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1209994763,
-    "wof:lastmodified":1537638025,
+    "wof:lastmodified":1564105328,
     "wof:name":"Qandil",
     "wof:parent_id":1108562757,
     "wof:placetype":"locality",

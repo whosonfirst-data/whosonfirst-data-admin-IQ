@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0629 \u062a\u0628\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u0631\u0647 \u062a\u067e\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0647 \u062a\u0628\u0647"
+    ],
     "name:kur_x_preferred":[
         "Qere Tepe"
     ],
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1259506375,
-    "wof:lastmodified":1537638042,
+    "wof:lastmodified":1564106838,
     "wof:name":"Qarah Tabbah",
     "wof:parent_id":1108562759,
     "wof:placetype":"locality",

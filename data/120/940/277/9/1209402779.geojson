@@ -32,7 +32,13 @@
     "name:ara_x_variant":[
         "\u0645\u0627\u0648\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Mawan"
+    ],
     "name:kur_x_preferred":[
+        "Mawan"
+    ],
+    "name:swe_x_preferred":[
         "Mawan"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1209402779,
-    "wof:lastmodified":1537638987,
+    "wof:lastmodified":1564105377,
     "wof:name":"Mawan",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

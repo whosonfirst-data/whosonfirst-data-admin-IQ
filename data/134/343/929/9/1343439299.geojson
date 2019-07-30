@@ -26,6 +26,9 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Hadur"
+    ],
     "name:und_x_variant":[
         "Had\u016br"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343439299,
-    "wof:lastmodified":1537638843,
+    "wof:lastmodified":1564104508,
     "wof:name":"Hadur",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

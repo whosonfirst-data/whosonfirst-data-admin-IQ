@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0633\u064a\u0631\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0635\u064a\u0631\u0629"
+    ],
     "name:kur_x_preferred":[
         "Bs\u00eer\u00ea"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1343681923,
-    "wof:lastmodified":1537638924,
+    "wof:lastmodified":1564104335,
     "wof:name":"Basirah",
     "wof:parent_id":421204025,
     "wof:placetype":"locality",

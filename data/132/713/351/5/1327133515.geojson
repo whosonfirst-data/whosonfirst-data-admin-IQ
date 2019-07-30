@@ -29,11 +29,17 @@
     "name:ara_x_preferred":[
         "\u0635\u0648\u0641\u064a \u062d\u0633\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0635\u0648\u0641\u06cc\u200c\u062d\u0633\u0646"
+    ],
     "name:kur_x_preferred":[
         "Sof\u00ee \u1e26esen"
     ],
     "name:kur_x_variant":[
         "\u0633\u06c6\u0641\u0649 \u062d\u06d5\u0633\u06d5\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Sufi Hasan"
     ],
     "name:und_x_variant":[
         "Sofi Hasan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1327133515,
-    "wof:lastmodified":1537637880,
+    "wof:lastmodified":1564103872,
     "wof:name":"Sufi Hasan",
     "wof:parent_id":1108562745,
     "wof:placetype":"locality",

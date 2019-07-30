@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "\u0622\u0644 \u0645\u0631\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0628\u064a\u0644\u0629 \u0622\u0644 \u0645\u0631\u0629"
+    ],
+    "name:fin_x_preferred":[
+        "Al Murrah"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u092e\u0941\u0930\u093e\u0939"
+    ],
     "name:und_x_variant":[
         "\u0100l Murrah"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276130249,
-    "wof:lastmodified":1537639277,
+    "wof:lastmodified":1564105085,
     "wof:name":"Al Murrah",
     "wof:parent_id":1108562705,
     "wof:placetype":"locality",

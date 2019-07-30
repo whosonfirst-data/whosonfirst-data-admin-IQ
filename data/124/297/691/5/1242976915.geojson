@@ -29,10 +29,19 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0648\u0627\u0631\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0641\u0648\u0627\u0631\u0627\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Al Fawwarah"
+    ],
     "name:und_x_variant":[
         "Fawar",
         "Al Faww\u0101r",
         "Al Faww\u0101rah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0641\u0648\u0627\u0631\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1242976915,
-    "wof:lastmodified":1537638677,
+    "wof:lastmodified":1564106646,
     "wof:name":"Al Fawwarah",
     "wof:parent_id":1108562687,
     "wof:placetype":"locality",

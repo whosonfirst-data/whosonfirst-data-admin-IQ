@@ -29,6 +29,24 @@
     "name:ara_x_preferred":[
         "T\u016bm\u0101n"
     ],
+    "name:cat_x_preferred":[
+        "Tuman"
+    ],
+    "name:ceb_x_preferred":[
+        "Tuman"
+    ],
+    "name:deu_x_preferred":[
+        "Tuman"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043c\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043c\u0430\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Tuman"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1327339499,
-    "wof:lastmodified":1537637827,
+    "wof:lastmodified":1564103925,
     "wof:name":"Tuman",
     "wof:parent_id":1108562699,
     "wof:placetype":"locality",

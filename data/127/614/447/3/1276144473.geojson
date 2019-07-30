@@ -29,6 +29,24 @@
     "name:ara_x_preferred":[
         "\u0644\u0641\u062a\u0647"
     ],
+    "name:fra_x_preferred":[
+        "Laftah"
+    ],
+    "name:ita_x_preferred":[
+        "Laftah"
+    ],
+    "name:msa_x_preferred":[
+        "Laftah"
+    ],
+    "name:ron_x_preferred":[
+        "Laftah"
+    ],
+    "name:spa_x_preferred":[
+        "Laftah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0641\u0679\u0627\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276144473,
-    "wof:lastmodified":1537639409,
+    "wof:lastmodified":1564105078,
     "wof:name":"Laftah",
     "wof:parent_id":1108562689,
     "wof:placetype":"locality",

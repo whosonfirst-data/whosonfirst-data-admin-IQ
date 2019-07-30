@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0635\u064a\u0641 \u0633\u0631\u0633\u0646\u0643"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0631\u0633\u0646\u0643"
+    ],
     "name:kur_x_preferred":[
         "Sersink"
     ],
@@ -38,6 +41,9 @@
         "Sers\u00eeng",
         "\u0633\u06d5\u0631\u0633\u06d5\u0646\u06af",
         "\u0633\u06d5\u0631\u0633\u064a\u0646\u06af"
+    ],
+    "name:swe_x_preferred":[
+        "Sarsing"
     ],
     "name:und_x_variant":[
         "Ma\u015f\u012bf Sarsink",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1226239523,
-    "wof:lastmodified":1537640105,
+    "wof:lastmodified":1564107201,
     "wof:name":"Sersink",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

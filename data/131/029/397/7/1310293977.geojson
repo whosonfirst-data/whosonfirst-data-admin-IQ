@@ -29,6 +29,21 @@
     "name:ara_x_preferred":[
         "\u1e28ulw\u0101n"
     ],
+    "name:ara_x_variant":[
+        "\u062d\u0644\u0648\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Hulwan"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0644\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Sarpol-e Zahab"
+    ],
+    "name:por_x_preferred":[
+        "Hulv\u00e3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1310293977,
-    "wof:lastmodified":1537638330,
+    "wof:lastmodified":1564105992,
     "wof:name":"Hulwan",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",

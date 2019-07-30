@@ -37,6 +37,9 @@
         "Be\u1e5fane",
         "\u0628\u06d5\u0695\u0627\u0646\u06d5"
     ],
+    "name:nno_x_preferred":[
+        "Baranah"
+    ],
     "name:und_x_variant":[
         "B\u0101r\u0101na",
         "B\u0101r\u0101nah"
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1327312073,
-    "wof:lastmodified":1537638564,
+    "wof:lastmodified":1564103758,
     "wof:name":"Baranah",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0648\u0631"
     ],
+    "name:msa_x_preferred":[
+        "Jabur"
+    ],
     "name:und_x_variant":[
         "Jab\u016br"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276143619,
-    "wof:lastmodified":1537639099,
+    "wof:lastmodified":1564105081,
     "wof:name":"Jabur",
     "wof:parent_id":421189307,
     "wof:placetype":"locality",

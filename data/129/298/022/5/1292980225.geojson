@@ -32,6 +32,30 @@
     "name:ara_x_variant":[
         "B\u0101rz\u0101n"
     ],
+    "name:ceb_x_preferred":[
+        "Barzan"
+    ],
+    "name:deu_x_preferred":[
+        "Barzan"
+    ],
+    "name:fra_x_preferred":[
+        "Barzan"
+    ],
+    "name:kur_x_preferred":[
+        "Barzan"
+    ],
+    "name:nld_x_preferred":[
+        "Barzan"
+    ],
+    "name:pol_x_preferred":[
+        "Barzan"
+    ],
+    "name:swe_x_preferred":[
+        "Barzan"
+    ],
+    "name:tur_x_preferred":[
+        "Barzan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1292980225,
-    "wof:lastmodified":1537639698,
+    "wof:lastmodified":1564104748,
     "wof:name":"Barzan",
     "wof:parent_id":1108562743,
     "wof:placetype":"locality",

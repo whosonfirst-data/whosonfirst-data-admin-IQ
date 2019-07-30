@@ -33,7 +33,25 @@
         "\u0645\u0627\u0648\u0646\u0627\u0646",
         "\u0645\u0648\u0646\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Mawnan"
+    ],
+    "name:cym_x_preferred":[
+        "Mawnan"
+    ],
+    "name:eus_x_preferred":[
+        "Mawnan"
+    ],
+    "name:fra_x_preferred":[
+        "Mawnan"
+    ],
     "name:kur_x_preferred":[
+        "Mawnan"
+    ],
+    "name:pol_x_preferred":[
+        "Mawnan"
+    ],
+    "name:swe_x_preferred":[
         "Mawnan"
     ],
     "name:und_x_variant":[
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1293567479,
-    "wof:lastmodified":1537639046,
+    "wof:lastmodified":1564104720,
     "wof:name":"Mawnan",
     "wof:parent_id":1108562749,
     "wof:placetype":"locality",

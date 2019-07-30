@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u062f\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Bardin"
+    ],
+    "name:fra_x_preferred":[
+        "Bardin"
+    ],
+    "name:ita_x_preferred":[
+        "Bardin"
+    ],
     "name:kur_x_preferred":[
         "Berd\u00een"
     ],
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1259571169,
-    "wof:lastmodified":1537638994,
+    "wof:lastmodified":1564106842,
     "wof:name":"Bardin",
     "wof:parent_id":1108562757,
     "wof:placetype":"locality",

@@ -32,6 +32,15 @@
     "name:ara_x_variant":[
         "Ch\u0101y"
     ],
+    "name:ceb_x_preferred":[
+        "Chay"
+    ],
+    "name:deu_x_preferred":[
+        "Chay"
+    ],
+    "name:ita_x_preferred":[
+        "Chay"
+    ],
     "name:kur_x_preferred":[
         "Chay"
     ],
@@ -40,10 +49,22 @@
         "Ch\u00eay",
         "\u0686\u06ce\u0649"
     ],
+    "name:nld_x_preferred":[
+        "Chay"
+    ],
+    "name:pol_x_preferred":[
+        "Chay"
+    ],
+    "name:scn_x_preferred":[
+        "Chay"
+    ],
     "name:und_x_variant":[
         "Ch\u0101h",
         "Ch\u0113",
         "Chai"
+    ],
+    "name:vie_x_preferred":[
+        "Chay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +89,7 @@
         }
     ],
     "wof:id":1277096277,
-    "wof:lastmodified":1537638502,
+    "wof:lastmodified":1564104894,
     "wof:name":"Chay",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

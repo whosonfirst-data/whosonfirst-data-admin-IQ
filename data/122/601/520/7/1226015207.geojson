@@ -32,6 +32,12 @@
     "name:ara_x_variant":[
         "N\u016br\u0101n"
     ],
+    "name:aze_x_preferred":[
+        "Nuran"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10e0\u10d0\u10dc\u10d8"
+    ],
     "name:kur_x_preferred":[
         "Turan"
     ],
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1226015207,
-    "wof:lastmodified":1537638906,
+    "wof:lastmodified":1564107278,
     "wof:name":"Nuran",
     "wof:parent_id":1108562631,
     "wof:placetype":"locality",

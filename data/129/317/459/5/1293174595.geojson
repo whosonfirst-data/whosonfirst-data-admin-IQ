@@ -27,9 +27,108 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u1300\u1290\u1275"
+    ],
+    "name:asm_x_preferred":[
+        "\u099c\u09be\u09a8\u09cd\u09a8\u09be\u09a4"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130slamda c\u0259nn\u0259t"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u09a8\u09cd\u09a8\u09be\u09a4"
+    ],
+    "name:bos_x_preferred":[
+        "D\u017eennet"
+    ],
+    "name:deu_x_preferred":[
+        "Dschanna"
+    ],
+    "name:epo_x_preferred":[
+        "Jannaho"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0646\u0629"
+    ],
+    "name:fin_x_preferred":[
+        "Janna"
+    ],
+    "name:fra_x_preferred":[
+        "Jannah"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0aa8\u0acd\u0aa8\u0aa4"
+    ],
+    "name:hrv_x_preferred":[
+        "D\u017eennet"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u0576\u0576\u0561\u0569"
+    ],
+    "name:ind_x_preferred":[
+        "Janah"
+    ],
+    "name:inh_x_preferred":[
+        "\u042f\u043b\u0441\u0430\u043c\u0430\u043b\u0435"
+    ],
+    "name:ita_x_preferred":[
+        "Janna"
+    ],
+    "name:jav_x_preferred":[
+        "Jannah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5929\u56fd"
+    ],
+    "name:msa_x_preferred":[
+        "Jannah"
+    ],
+    "name:nld_x_preferred":[
+        "Djannah"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017canna"
+    ],
+    "name:por_x_preferred":[
+        "Jannah"
+    ],
+    "name:pus_x_preferred":[
+        "\u062c\u0646\u062a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u043d\u0430\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Yanna"
+    ],
+    "name:sqi_x_preferred":[
+        "Xhenneti"
+    ],
+    "name:sun_x_preferred":[
+        "Jannah"
+    ],
+    "name:swe_x_preferred":[
+        "Jannah"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130slam'da Cennet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u043d\u0430\u0442"
+    ],
     "name:und_x_variant":[
         "Janna",
         "Jannah"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u062a"
+    ],
+    "name:uzb_x_preferred":[
+        "Jannat"
+    ],
+    "name:zho_x_preferred":[
+        "\u5929\u5802"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +153,7 @@
         }
     ],
     "wof:id":1293174595,
-    "wof:lastmodified":1537638303,
+    "wof:lastmodified":1564104844,
     "wof:name":"Jannah",
     "wof:parent_id":1108562677,
     "wof:placetype":"locality",

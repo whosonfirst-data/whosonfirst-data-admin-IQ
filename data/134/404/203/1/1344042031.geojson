@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0628\u064a\u062d"
     ],
+    "name:ara_x_variant":[
+        "\u0631\u0628\u064a\u0639"
+    ],
     "name:und_x_variant":[
         "Rab\u012b\u1e29"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1344042031,
-    "wof:lastmodified":1537639924,
+    "wof:lastmodified":1564104431,
     "wof:name":"Rabih",
     "wof:parent_id":1108562741,
     "wof:placetype":"locality",

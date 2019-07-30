@@ -32,6 +32,15 @@
     "name:ara_x_variant":[
         "\u0628\u0627\u062f\u0648\u0634"
     ],
+    "name:deu_x_preferred":[
+        "Badusch"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f\u0648\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Badoush"
+    ],
     "name:und_x_variant":[
         "Badoush"
     ],
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1293265333,
-    "wof:lastmodified":1537638586,
+    "wof:lastmodified":1564104858,
     "wof:name":"Badush",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",

@@ -30,13 +30,23 @@
         "Al-\u02bbUzayr"
     ],
     "name:ara_x_variant":[
-        "Al-Azair"
+        "Al-Azair",
+        "\u0636\u0631\u064a\u062d \u0627\u0644\u0639\u0632\u064a\u0631"
     ],
     "name:eng_x_preferred":[
         "Ezra's Tomb"
     ],
     "name:eng_x_variant":[
         "Tomb of Ezra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0642\u0628\u0631\u0647 \u0639\u0632\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Tombe d'Esdras"
+    ],
+    "name:pol_x_preferred":[
+        "Gr\u00f3b Ezdrasza"
     ],
     "name:und_x_variant":[
         "Al Uzair"
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1226113107,
-    "wof:lastmodified":1537640109,
+    "wof:lastmodified":1564107060,
     "wof:name":"Al-'Uzair",
     "wof:parent_id":1108562713,
     "wof:placetype":"locality",

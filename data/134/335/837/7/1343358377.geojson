@@ -29,6 +29,9 @@
     "name:fas_x_preferred":[
         "\u0628\u0648\u0631"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043f'\u044f\u0445"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343358377,
-    "wof:lastmodified":1537639113,
+    "wof:lastmodified":1564104352,
     "wof:name":"Bur",
     "wof:parent_id":1108562763,
     "wof:placetype":"locality",

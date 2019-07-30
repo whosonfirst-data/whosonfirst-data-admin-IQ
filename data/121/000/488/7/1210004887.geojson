@@ -26,6 +26,21 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0633\u0648\u0644"
+    ],
+    "name:ceb_x_preferred":[
+        "Sars\u016bl"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u06d5\u0631\u0633\u0648\u0648\u06b5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0633\u0648\u0644"
+    ],
+    "name:swe_x_preferred":[
+        "Sars\u016bl"
+    ],
     "name:und_x_variant":[
         "Sars\u016bl"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1210004887,
-    "wof:lastmodified":1537637967,
+    "wof:lastmodified":1564105581,
     "wof:name":"Sarsul",
     "wof:parent_id":1108562757,
     "wof:placetype":"locality",

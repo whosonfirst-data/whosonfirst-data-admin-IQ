@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0645\u0631"
     ],
+    "name:deu_x_preferred":[
+        "Jamar"
+    ],
+    "name:fra_x_preferred":[
+        "Jamar"
+    ],
     "name:kur_x_preferred":[
         "Ham\u00eer"
     ],
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1344245223,
-    "wof:lastmodified":1537638497,
+    "wof:lastmodified":1564104219,
     "wof:name":"Jamar",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

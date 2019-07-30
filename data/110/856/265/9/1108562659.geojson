@@ -32,7 +32,13 @@
     "mps:longitude":45.337618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kalar"
+    ],
     "name:eng_x_variant":[
+        "Kalar"
+    ],
+    "name:swe_x_preferred":[
         "Kalar"
     ],
     "name:und_x_variant":[
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1108562659,
-    "wof:lastmodified":1554489205,
+    "wof:lastmodified":1564105837,
     "wof:name":"Kalar",
     "wof:parent_id":85672475,
     "wof:placetype":"county",

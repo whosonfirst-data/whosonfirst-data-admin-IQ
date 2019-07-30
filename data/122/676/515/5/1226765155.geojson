@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "D\u016bl\u0101b"
     ],
+    "name:fra_x_preferred":[
+        "Doulab"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226765155,
-    "wof:lastmodified":1537639293,
+    "wof:lastmodified":1564107187,
     "wof:name":"Dulab",
     "wof:parent_id":421177881,
     "wof:placetype":"locality",

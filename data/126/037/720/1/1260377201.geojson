@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0645\u064a"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0435\u043c\u0456\u0442\u0438"
+    ],
     "name:und_x_variant":[
         "Kar\u012bm\u012b"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260377201,
-    "wof:lastmodified":1537639672,
+    "wof:lastmodified":1564105745,
     "wof:name":"Karimi",
     "wof:parent_id":1108562775,
     "wof:placetype":"locality",

@@ -32,6 +32,21 @@
     "name:ara_x_variant":[
         "\u0633\u064a\u0645\u064a\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0645\u064a\u0644"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u06ce\u0645\u06ce\u0644"
+    ],
+    "name:deu_x_preferred":[
+        "S\u00eam\u00eal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0645\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Simel\u00e9"
+    ],
     "name:kur_x_preferred":[
         "Sum\u00eal"
     ],
@@ -39,6 +54,21 @@
         "\u0633\u0648\u0645\u06ce\u0644",
         "S\u00eam\u00eal",
         "\u0633\u06ce\u0645\u06ce\u0644"
+    ],
+    "name:nor_x_preferred":[
+        "Sumel"
+    ],
+    "name:pol_x_preferred":[
+        "Sajmajl"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043c\u0430\u0439\u0438\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Sumail"
+    ],
+    "name:tur_x_preferred":[
+        "Simele"
     ],
     "name:und_x_variant":[
         "Sam\u012bl",
@@ -76,7 +106,7 @@
         }
     ],
     "wof:id":1226643209,
-    "wof:lastmodified":1537637875,
+    "wof:lastmodified":1564107255,
     "wof:name":"Saymayl",
     "wof:parent_id":1108562637,
     "wof:placetype":"locality",

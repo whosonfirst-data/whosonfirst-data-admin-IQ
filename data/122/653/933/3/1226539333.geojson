@@ -29,6 +29,18 @@
     "name:ara_x_preferred":[
         "\u0643\u0646\u064a \u0632\u0631\u062f"
     ],
+    "name:azb_x_preferred":[
+        "\u0643\u0627\u0646\u06cc \u0632\u0631\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Xaniz\u0259rd"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u0101n\u012b Zard"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u0627\u0646\u06cc\u06d5\u0632\u06d5\u0631\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0646\u06cc \u0632\u0631\u062f"
     ],
@@ -39,7 +51,14 @@
         "Kan\u00ee Zerd"
     ],
     "name:kur_x_variant":[
-        "\u06a9\u0627\u0646\u06cc \u0632\u06d5\u0631\u062f"
+        "\u06a9\u0627\u0646\u06cc \u0632\u06d5\u0631\u062f",
+        "Kaniyezerd"
+    ],
+    "name:msa_x_preferred":[
+        "Kani Zard"
+    ],
+    "name:swe_x_preferred":[
+        "K\u0101n\u012b Zard"
     ],
     "name:und_x_variant":[
         "Kan\u012b Zard",
@@ -67,7 +86,7 @@
         }
     ],
     "wof:id":1226539333,
-    "wof:lastmodified":1537638945,
+    "wof:lastmodified":1564107295,
     "wof:name":"Kani Zard",
     "wof:parent_id":421183885,
     "wof:placetype":"locality",

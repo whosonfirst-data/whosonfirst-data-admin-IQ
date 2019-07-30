@@ -32,7 +32,28 @@
     "mps:longitude":44.745027,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Rania"
+    ],
+    "name:deu_x_preferred":[
+        "Rania"
+    ],
     "name:eng_x_variant":[
+        "Rania"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub2c8\uc544"
+    ],
+    "name:por_x_preferred":[
+        "Rania"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043d\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Rania"
+    ],
+    "name:swe_x_preferred":[
         "Rania"
     ],
     "name:und_x_variant":[
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1108562755,
-    "wof:lastmodified":1554489208,
+    "wof:lastmodified":1564105826,
     "wof:name":"Rania",
     "wof:parent_id":85672475,
     "wof:placetype":"county",

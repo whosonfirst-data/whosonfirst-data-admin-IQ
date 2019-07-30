@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0644\u064a\u0644"
     ],
+    "name:deu_x_preferred":[
+        "Halil"
+    ],
     "name:und_x_variant":[
         "Hal\u012bl"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226412105,
-    "wof:lastmodified":1537640025,
+    "wof:lastmodified":1564107224,
     "wof:name":"Halil",
     "wof:parent_id":421186459,
     "wof:placetype":"locality",

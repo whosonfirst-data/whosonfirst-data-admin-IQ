@@ -29,16 +29,97 @@
     "name:ara_x_preferred":[
         "\u0633\u0645\u0627\u0648\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0645\u0627\u0648\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0627\u0648\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "As Samawah"
+    ],
+    "name:deu_x_preferred":[
+        "Samawa"
+    ],
+    "name:epo_x_preferred":[
+        "Samava"
+    ],
+    "name:est_x_preferred":[
+        "As-Sam\u0101wah"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u0627\u0648\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Samawa"
+    ],
+    "name:fra_x_preferred":[
+        "Samawa"
+    ],
+    "name:fry_x_preferred":[
+        "As Samawa"
+    ],
+    "name:hun_x_preferred":[
+        "Szam\u00e1va"
+    ],
+    "name:ita_x_preferred":[
+        "Samawa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30de\u30fc\u30ef"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10db\u10d0\u10d5\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u0441-\u0421\u0430\u043c\u0430\u0432\u0430"
+    ],
+    "name:kir_x_preferred":[
+        "\u042d\u0441-\u0421\u0430\u043c\u0430\u0432\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ub9c8\uc640"
+    ],
     "name:kur_x_preferred":[
         "Smaqe"
     ],
     "name:kur_x_variant":[
         "\u0633\u0645\u0627\u0642\u06d5"
     ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0645\u0627\u0648\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "As-Samawah"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u0645\u0627\u0648\u0627\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "As-Samawa"
+    ],
+    "name:ron_x_preferred":[
+        "Samawah"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441-\u0421\u0430\u043c\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Samawa"
+    ],
+    "name:tur_x_preferred":[
+        "Semave"
+    ],
     "name:und_x_variant":[
         "Simaq",
         "Asm\u0101wa",
         "Sam\u0101wah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0645\u0627\u0648\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u739b\u6c83"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +144,7 @@
         }
     ],
     "wof:id":1327000343,
-    "wof:lastmodified":1537638929,
+    "wof:lastmodified":1564103765,
     "wof:name":"Samawah",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",

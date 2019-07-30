@@ -26,6 +26,9 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rashwan"
+    ],
     "name:kur_x_preferred":[
         "\u1e5eeshan"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1293888283,
-    "wof:lastmodified":1537638006,
+    "wof:lastmodified":1564104879,
     "wof:name":"Rashwan",
     "wof:parent_id":1108562765,
     "wof:placetype":"locality",

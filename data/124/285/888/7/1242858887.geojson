@@ -27,6 +27,30 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bahr"
+    ],
+    "name:deu_x_preferred":[
+        "Bahr"
+    ],
+    "name:fin_x_preferred":[
+        "Bahr"
+    ],
+    "name:fra_x_preferred":[
+        "Bahr"
+    ],
+    "name:pol_x_preferred":[
+        "Bahr"
+    ],
+    "name:por_x_preferred":[
+        "Bahr"
+    ],
+    "name:slv_x_preferred":[
+        "Bahr"
+    ],
+    "name:swe_x_preferred":[
+        "Bahr"
+    ],
     "name:und_x_variant":[
         "Nahr",
         "Ba\u1e29r"
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1242858887,
-    "wof:lastmodified":1537638583,
+    "wof:lastmodified":1564106619,
     "wof:name":"Bahr",
     "wof:parent_id":1108562723,
     "wof:placetype":"locality",
