@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":30.54705,
     "lbl:longitude":47.511065,
     "meso:name_alt1":"Basra",
@@ -164,9 +167,6 @@
         }
     ],
     "wof:id":85672453,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
@@ -174,7 +174,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1553550386,
+    "wof:lastmodified":1565722172,
     "wof:name":"Al-Basrah",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

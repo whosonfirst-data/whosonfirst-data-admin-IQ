@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BB"
+    ],
     "lbl:latitude":32.510355,
     "lbl:longitude":44.607616,
     "meso:name_alt1":"",
@@ -331,9 +334,6 @@
         }
     ],
     "wof:id":85672491,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
@@ -341,7 +341,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1563332581,
+    "wof:lastmodified":1565722172,
     "wof:name":"Babil",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

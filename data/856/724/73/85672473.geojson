@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WA"
+    ],
     "lbl:latitude":32.689974,
     "lbl:longitude":45.714459,
     "meso:name_alt1":"Wassit",
@@ -317,9 +320,6 @@
         }
     ],
     "wof:id":85672473,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
@@ -327,7 +327,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1563332575,
+    "wof:lastmodified":1565722171,
     "wof:name":"Wasit",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

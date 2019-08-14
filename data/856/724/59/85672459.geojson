@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QA"
+    ],
     "lbl:latitude":31.988921,
     "lbl:longitude":45.076223,
     "meso:name_alt1":"Al-Q\u0101disiyyah",
@@ -317,9 +320,6 @@
         }
     ],
     "wof:id":85672459,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
@@ -327,7 +327,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1563332571,
+    "wof:lastmodified":1565722171,
     "wof:name":"Al-Qadisiyah",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

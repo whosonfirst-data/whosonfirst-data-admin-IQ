@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HA"
+    ],
     "lbl:latitude":35.238335,
     "lbl:longitude":45.860308,
     "meso:name_alt1":"",
@@ -259,7 +262,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1564105820,
+    "wof:lastmodified":1565722292,
     "wof:name":"Halabja",
     "wof:parent_id":-1,
     "wof:placetype":"region",

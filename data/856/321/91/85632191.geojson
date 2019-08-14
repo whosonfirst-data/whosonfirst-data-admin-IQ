@@ -15,6 +15,9 @@
     "itu:country_code":[
         "964"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IQ"
+    ],
     "lbl:latitude":33.115715,
     "lbl:longitude":43.285188,
     "mps:latitude":33.115715,
@@ -1086,9 +1089,6 @@
         }
     ],
     "wof:id":85632191,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
@@ -1096,7 +1096,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1563332594,
+    "wof:lastmodified":1565722173,
     "wof:name":"Iraq",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

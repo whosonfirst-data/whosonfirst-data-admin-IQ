@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":36.211635,
     "lbl:longitude":44.17652,
     "meso:name_alt1":"Erbil",
@@ -333,9 +336,6 @@
         }
     ],
     "wof:id":85672425,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
@@ -343,7 +343,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1563332589,
+    "wof:lastmodified":1565722173,
     "wof:name":"Arbil",
     "wof:parent_id":-1,
     "wof:placetype":"region",

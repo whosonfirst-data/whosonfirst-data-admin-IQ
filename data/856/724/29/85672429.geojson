@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NI"
+    ],
     "lbl:latitude":36.072532,
     "lbl:longitude":42.377471,
     "meso:name_alt1":"Nineveh",
@@ -328,9 +331,6 @@
         }
     ],
     "wof:id":85672429,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
@@ -338,7 +338,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1563332574,
+    "wof:lastmodified":1565722171,
     "wof:name":"Ninawa",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

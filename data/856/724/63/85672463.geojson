@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DQ"
+    ],
     "lbl:latitude":31.231483,
     "lbl:longitude":46.212052,
     "meso:name_alt1":"Thi-Qar",
@@ -258,9 +261,6 @@
         }
     ],
     "wof:id":85672463,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
@@ -268,7 +268,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1563332584,
+    "wof:lastmodified":1565722173,
     "wof:name":"Dhi-Qar",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

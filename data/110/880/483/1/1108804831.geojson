@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TS"
+    ],
     "lbl:latitude":35.280232,
     "lbl:longitude":44.169134,
     "meso:name_alt1":"",
@@ -285,7 +288,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1564105819,
+    "wof:lastmodified":1565722291,
     "wof:name":"Kirkuk",
     "wof:parent_id":85632191,
     "wof:placetype":"region",
