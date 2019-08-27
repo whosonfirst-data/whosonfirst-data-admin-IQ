@@ -10,8 +10,12 @@
     "geom:latitude":34.13477,
     "geom:longitude":42.37724,
     "iso:country":"IQ",
+    "lbl:bbox":"42.35724,34.11477,42.39724,34.15477",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062d\u062f\u064a\u062b\u0629"
@@ -145,7 +149,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0434\u0456\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al \u1e28ad\u012bthah"
     ],
     "name:urd_x_preferred":[
@@ -188,7 +192,7 @@
     "wof:concordances":{
         "gn:id":96309,
         "gp:id":1979395,
-        "qs:id":1302074,
+        "qs_pg:id":1302074,
         "wd:id":"Q944368",
         "wk:page":"Haditha"
     },
@@ -205,7 +209,7 @@
         }
     ],
     "wof:id":421200415,
-    "wof:lastmodified":1563334243,
+    "wof:lastmodified":1566714967,
     "wof:name":"Al Hadithah",
     "wof:parent_id":1108562649,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.1543,33.44957,43.1943,33.48957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0644\u0641 \u0627\u0644\u062d\u0645\u062f"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1344170877,
-    "wof:lastmodified":1537638635,
+    "wof:lastmodified":1566714073,
     "wof:name":"Khalaf al Hamad",
     "wof:parent_id":421178933,
     "wof:placetype":"locality",

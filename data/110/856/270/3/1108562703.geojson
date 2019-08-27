@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":30.005866,
     "lbl:longitude":45.349431,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Muthanna",
     "meso:admin1_loc":"\u0627\u0644\u0645\u062b\u0646\u0649",
     "meso:gadm_admin":"As Salman",
@@ -32,6 +34,7 @@
     "mps:longitude":45.349431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Salman"
     ],
@@ -73,7 +76,7 @@
         "\u0627\u0644\u0633\u0644\u0645\u0627\u0646"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632191,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108562703,
-    "wof:lastmodified":1564105831,
+    "wof:lastmodified":1566714720,
     "wof:name":"Salman",
     "wof:parent_id":85672455,
     "wof:placetype":"county",

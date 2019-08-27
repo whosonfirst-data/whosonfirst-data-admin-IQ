@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.90221,35.25383,45.94221,35.29383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0627\u062c\u064a \u0631\u0641\u0629"
     ],
@@ -45,7 +49,6 @@
     "name:und_x_variant":[
         "H\u00e3jl Raqa",
         "\u1e28\u0101j\u012b Rafah",
-        "\u1e28\u0101jj\u012b Raqah",
         "\u062d\u0627\u062c\u064a \u0631\u0641\u0647",
         "Haji Raqa"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1242576637,
-    "wof:lastmodified":1537638863,
+    "wof:lastmodified":1566715018,
     "wof:name":"Haji Rafah",
     "wof:parent_id":421183885,
     "wof:placetype":"locality",

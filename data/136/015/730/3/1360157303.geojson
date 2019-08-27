@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.96634,32.32375,46.00634,32.36375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0648 \u0628\u062f\u0631"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360157303,
-    "wof:lastmodified":1537639218,
+    "wof:lastmodified":1566714848,
     "wof:name":"Albu Badr",
     "wof:parent_id":1108562685,
     "wof:placetype":"locality",

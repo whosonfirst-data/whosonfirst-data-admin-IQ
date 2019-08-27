@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"46.0132,35.1508,46.0532,35.1908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u0628\u0627 \u0639\u0628\u06cc\u062f\u0647"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259582365,
-    "wof:lastmodified":1537639122,
+    "wof:lastmodified":1566715234,
     "wof:name":"Aba 'Abideh",
     "wof:parent_id":421183885,
     "wof:placetype":"locality",

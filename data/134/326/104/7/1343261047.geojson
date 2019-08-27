@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.98571,36.22193,45.02571,36.26193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kur_x_preferred":[
         "Deruwe Kude\u0142e"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1343261047,
-    "wof:lastmodified":1537638464,
+    "wof:lastmodified":1566714104,
     "wof:name":"Dawrak Dawlah",
     "wof:parent_id":1108562753,
     "wof:placetype":"locality",

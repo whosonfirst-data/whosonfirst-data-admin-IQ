@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":33.915645,
     "lbl:longitude":44.951785,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_alt2":"",
     "meso:name_local":"\u062f\u064a\u0627\u0644\u0649",
@@ -197,7 +198,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0456\u044f\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liw\u0101\u2019 Diy\u0101l\u00e1"
     ],
     "name:urd_x_preferred":[
@@ -282,9 +283,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-10-16",
+    "src:population_date":"1997-10-16",
     "statoids:area_km":"19,076",
     "statoids:area_mi":"7,365",
     "statoids:as_of_date":"1997-10-16",
@@ -311,7 +312,7 @@
         "hasc:id":"IQ.DI",
         "iso:id":"IQ-DI",
         "nyt:id":"N66993953892767803791",
-        "qs:id":423778,
+        "qs_pg:id":423778,
         "wd:id":"Q217075",
         "wk:page":"Diyala Governorate"
     },
@@ -332,11 +333,10 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1565722172,
+    "wof:lastmodified":1566714125,
     "wof:name":"Diyala",
     "wof:parent_id":85632191,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1135223,
     "wof:population_rank":12,

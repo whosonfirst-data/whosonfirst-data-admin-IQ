@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":31.132126,
     "lbl:longitude":43.773826,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Najaf",
     "meso:admin1_loc":"\u0627\u0644\u0646\u062c\u0641",
     "meso:gadm_admin":"Najaf",
@@ -32,6 +34,7 @@
     "mps:longitude":43.773826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u062c\u0641"
@@ -213,9 +216,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043d-\u041d\u0430\u0434\u0436\u0430\u0444"
     ],
-    "name:und_x_variant":[
-        "\u0627\u0644\u0646\u062c\u0641"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u062c\u0641"
     ],
@@ -250,7 +250,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632191,
@@ -259,7 +259,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999970,
-        "qs:id":991626
+        "qs_pg:id":991626
     },
     "wof:country":"IQ",
     "wof:created":1459009405,
@@ -273,7 +273,7 @@
         }
     ],
     "wof:id":421184255,
-    "wof:lastmodified":1564106343,
+    "wof:lastmodified":1566714968,
     "wof:name":"Najaf",
     "wof:parent_id":85672439,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"42.47105,37.0047,42.51105,37.0447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u067e\u064a\u0632\u0627\u0646"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1343346965,
-    "wof:lastmodified":1537638084,
+    "wof:lastmodified":1566714066,
     "wof:name":"Pizan",
     "wof:parent_id":1108562637,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7737292.183373,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.388097,33.339463,44.388097,33.339463",
     "geom:latitude":33.339463,
     "geom:longitude":44.388097,
     "gn:id":"",
     "iso:country":"IQ",
+    "lbl:bbox":"44.383097,33.334463,44.393097,33.344463",
     "lbl:latitude":33.339463,
     "lbl:longitude":44.388097,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.3411,
     "mps:longitude":44.385107,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ara_x_preferred":[
-        "Alawi Al-Hilla"
-    ],
-    "name:unk_x_variant":[
         "Alawi Al-Hilla"
     ],
     "qs:gn_adm0_cc":"IQ",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672447,
         102191569,
         85632191,
-        1108562785,
-        85672447
+        1108562785
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1971207,
-        "qs:id":1002945
+        "qs_pg:id":1002945
     },
     "wof:country":"IQ",
     "wof:geomhash":"3a651c22d2a3d43a496116345323ecb7",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936032,
+    "wof:lastmodified":1566714122,
     "wof:name":"Alawi Al-Hilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

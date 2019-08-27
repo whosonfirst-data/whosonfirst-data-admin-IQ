@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":37.03934,
     "lbl:longitude":43.0061,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Dohuk",
     "meso:name_alt2":"Dahok",
     "meso:name_local":"\u062f\u0647\u0648\u0643",
@@ -207,7 +208,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0445\u0443\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Duhok Province"
     ],
     "name:urd_x_preferred":[
@@ -292,9 +293,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-10-16",
+    "src:population_date":"1997-10-16",
     "statoids:area_km":"6,553",
     "statoids:area_mi":"2,530",
     "statoids:as_of_date":"1997-10-16",
@@ -319,7 +320,7 @@
         "gp:id":2345840,
         "hasc:id":"IQ.DA",
         "iso:id":"IQ-DA",
-        "qs:id":427265,
+        "qs_pg:id":427265,
         "unlc:id":"IQ-DA",
         "wd:id":"Q189541",
         "wk:page":"Dohuk Governorate"
@@ -341,11 +342,10 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1565722172,
+    "wof:lastmodified":1566714124,
     "wof:name":"Dihok",
     "wof:parent_id":-1,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":402970,
     "wof:population_rank":10,

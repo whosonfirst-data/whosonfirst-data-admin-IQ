@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.26306,35.6775,43.30306,35.7175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ijhala Gharb\u012b",
         "Ij\u1e29\u0101lah Gharb\u012b"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209598315,
-    "wof:lastmodified":1537638320,
+    "wof:lastmodified":1566714538,
     "wof:name":"Ijhalah Gharbi",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

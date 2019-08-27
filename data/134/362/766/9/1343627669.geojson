@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.27476,35.07092,43.31476,35.11092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u062d\u0644\u064a\u0648\u0627\u062a"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343627669,
-    "wof:lastmodified":1537639709,
+    "wof:lastmodified":1566713945,
     "wof:name":"Qaryat Hulaywat",
     "wof:parent_id":1108562647,
     "wof:placetype":"locality",

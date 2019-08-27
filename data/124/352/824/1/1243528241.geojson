@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"46.85531,32.04576,46.89531,32.08576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0641 \u062d\u0627\u0645\u062f"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243528241,
-    "wof:lastmodified":1537638364,
+    "wof:lastmodified":1566714996,
     "wof:name":"Salaf Hamid",
     "wof:parent_id":1108562681,
     "wof:placetype":"locality",

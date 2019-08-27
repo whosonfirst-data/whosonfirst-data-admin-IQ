@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"41.68857,35.96298,41.72857,36.00298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0644\u064a\u0637\u064a\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226525239,
-    "wof:lastmodified":1537639912,
+    "wof:lastmodified":1566715400,
     "wof:name":"As Silitiyah",
     "wof:parent_id":1108562639,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.22502,33.57872,44.26502,33.61872",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0646\u062f\u064a\u0645 \u0627\u0644\u062b\u0627\u0646\u064a\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310522875,
-    "wof:lastmodified":1537639604,
+    "wof:lastmodified":1566714761,
     "wof:name":"Qaryat Nadim ath Thaniyah",
     "wof:parent_id":1108562665,
     "wof:placetype":"locality",

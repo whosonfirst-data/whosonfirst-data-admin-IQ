@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.41941,35.41839,45.45941,35.45839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0645\u0627\u0631\u0627\u0647"
     ],
@@ -41,8 +45,7 @@
     "name:und_x_variant":[
         "Sam\u0101r\u0101h",
         "Sam\u0101w\u0101t",
-        "Samawat",
-        "\u0633\u0645\u0627\u0631\u0627\u0647"
+        "Samawat"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1310405033,
-    "wof:lastmodified":1537637981,
+    "wof:lastmodified":1566714742,
     "wof:name":"Samawat",
     "wof:parent_id":1108562761,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":34.88808,
     "geom:longitude":44.63256,
     "iso:country":"IQ",
+    "lbl:bbox":"44.61256,34.86808,44.65256,34.90808",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0162\u016bzkh\u016brm\u0101t\u016b"
@@ -80,7 +84,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0437-\u0425\u0443\u0440\u043c\u0430\u0442\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khurmati"
     ],
     "name:urd_x_preferred":[
@@ -119,7 +123,7 @@
     "wof:concordances":{
         "gn:id":90026,
         "gp:id":1978674,
-        "qs:id":1091811,
+        "qs_pg:id":1091811,
         "wd:id":"Q1023334"
     },
     "wof:country":"IQ",
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":421188277,
-    "wof:lastmodified":1563334225,
+    "wof:lastmodified":1566714963,
     "wof:name":"Taza Khurmato",
     "wof:parent_id":1108562657,
     "wof:placetype":"locality",

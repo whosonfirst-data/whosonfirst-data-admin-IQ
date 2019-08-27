@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6180626.488563,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.296875,33.286915,44.296875,33.286915",
     "geom:latitude":33.286915,
     "geom:longitude":44.296875,
     "gn:id":"",
     "iso:country":"IQ",
+    "lbl:bbox":"44.291875,33.281915,44.301875,33.291915",
     "lbl:latitude":33.286915,
     "lbl:longitude":44.296875,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.286916,
     "mps:longitude":44.291056,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ara_x_preferred":[
-        "Al Firdaws"
-    ],
-    "name:unk_x_variant":[
         "Al Firdaws"
     ],
     "qs:gn_adm0_cc":"IQ",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672447,
         102191569,
         85632191,
-        1108562793,
-        85672447
+        1108562793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1970808,
-        "qs:id":1120228
+        "qs_pg:id":1120228
     },
     "wof:country":"IQ",
     "wof:geomhash":"94139ded25cb7a12363de3d99d0970ad",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936025,
+    "wof:lastmodified":1566714122,
     "wof:name":"Al Firdaws",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

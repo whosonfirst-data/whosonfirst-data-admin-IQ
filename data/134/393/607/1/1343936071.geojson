@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.63518,35.99067,44.67518,36.03067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0648\u062c\u064a\u0631"
     ],
@@ -40,8 +44,6 @@
         "Shiwkir",
         "Sh\u014dgir",
         "Shawj\u012br",
-        "\u0634\u0648\u062c\u064a\u0631",
-        "Shawgir",
         "Shawger"
     ],
     "src:geom":"geonames",
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1343936071,
-    "wof:lastmodified":1537637902,
+    "wof:lastmodified":1566714060,
     "wof:name":"Shewgir",
     "wof:parent_id":890445493,
     "wof:placetype":"locality",

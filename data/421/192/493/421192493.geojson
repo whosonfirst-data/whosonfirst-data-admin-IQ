@@ -10,13 +10,16 @@
     "geom:latitude":33.39722,
     "geom:longitude":44.35722,
     "iso:country":"IQ",
+    "lbl:bbox":"44.35222,33.39222,44.36222,33.40222",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u0644\u064a\u062e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shalchiya"
     ],
     "qs:gn_country":"IQ",
@@ -39,16 +42,16 @@
     "qs:woe_id":1971773,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85672447,
         102191569,
         85632191,
-        1108562771,
-        85672447
+        1108562771
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":98466,
         "gp:id":1971773,
-        "qs:id":1168259
+        "qs_pg:id":1168259
     },
     "wof:country":"IQ",
     "wof:created":1459009738,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421192493,
-    "wof:lastmodified":1531858687,
+    "wof:lastmodified":1566714961,
     "wof:name":"A\u015f \u015eulaykh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

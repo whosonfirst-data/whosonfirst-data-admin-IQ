@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":37.018869,
     "lbl:longitude":44.092379,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Erbil",
     "meso:admin1_loc":"\u0627\u0631\u0628\u064a\u0644",
     "meso:gadm_admin":"Mergasur",
@@ -32,6 +34,7 @@
     "mps:longitude":44.092379,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Mergasur"
     ],
@@ -39,7 +42,7 @@
         "\u0645\u064a\u0631\u0643\u0633\u0648\u0631"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632191,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108562747,
-    "wof:lastmodified":1554489209,
+    "wof:lastmodified":1566714716,
     "wof:name":"Mergasur",
     "wof:parent_id":85672425,
     "wof:placetype":"county",

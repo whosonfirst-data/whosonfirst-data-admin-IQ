@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.66249,35.74871,45.70249,35.78871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "T\u016btk\u0101n"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1226781597,
-    "wof:lastmodified":1537637823,
+    "wof:lastmodified":1566715374,
     "wof:name":"Tutkan",
     "wof:parent_id":1108562763,
     "wof:placetype":"locality",

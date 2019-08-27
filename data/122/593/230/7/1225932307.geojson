@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.62065,36.04816,44.66065,36.08816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kur_x_preferred":[
         "Toke"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1225932307,
-    "wof:lastmodified":1537639170,
+    "wof:lastmodified":1566715270,
     "wof:name":"Mizgewtoke",
     "wof:parent_id":890445493,
     "wof:placetype":"locality",

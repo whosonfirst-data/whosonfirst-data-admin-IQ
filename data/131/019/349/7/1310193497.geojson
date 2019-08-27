@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.37061,36.861,44.41061,36.901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0627\u0646\u0647"
     ],
@@ -40,7 +44,6 @@
         "M\u012br\u0101n",
         "Mar\u0101nah",
         "Mar\u0101na",
-        "\u0645\u0627\u0631\u0627\u0646\u0647",
         "Maran",
         "Marana",
         "M\u0101r\u0101nah"
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1310193497,
-    "wof:lastmodified":1537638154,
+    "wof:lastmodified":1566714806,
     "wof:name":"Meran",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14144063.819936,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.374817,33.274024,44.374817,33.274024",
     "geom:latitude":33.274024,
     "geom:longitude":44.374817,
     "gn:latitude":33.31883,
     "gn:longitude":44.31836,
     "iso:country":"IQ",
+    "lbl:bbox":"44.369817,33.269024,44.379817,33.279024",
     "lbl:latitude":33.274024,
     "lbl:longitude":44.374817,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.276765,
     "mps:longitude":44.378123,
     "mz:hierarchy_label":0,
@@ -42,9 +44,8 @@
     "name:nno_x_preferred":[
         "Al Jami`ah"
     ],
-    "name:unk_x_variant":[
-        "Al J\u0101mi\u2018ah",
-        "Al J\u0101mi\u2019ah"
+    "name:und_x_variant":[
+        "Al J\u0101mi\u2018ah"
     ],
     "qs:gn_adm0_cc":"IQ",
     "qs:gn_fcode":"PPLX",
@@ -74,19 +75,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":25,
     "wof:belongsto":[
+        85672447,
         102191569,
         85632191,
-        1108562785,
-        85672447
+        1108562785
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":387274,
         "gp:id":1970945,
-        "qs:id":239246
+        "qs_pg:id":239246
     },
     "wof:country":"IQ",
     "wof:geomhash":"5a5dd30a7265132ba12e4eb8cb306282",
@@ -104,7 +105,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936027,
+    "wof:lastmodified":1566714121,
     "wof:name":"Al J\u0101mi\u2019ah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

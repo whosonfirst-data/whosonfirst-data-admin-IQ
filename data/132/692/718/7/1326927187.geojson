@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.88369,33.24932,43.92369,33.28932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0631\u0627\u0634\u062f \u0627\u0644\u0639\u0648\u0627\u062f"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326927187,
-    "wof:lastmodified":1537639070,
+    "wof:lastmodified":1566713816,
     "wof:name":"Qaryat Rashid al 'Awwad",
     "wof:parent_id":421184257,
     "wof:placetype":"locality",

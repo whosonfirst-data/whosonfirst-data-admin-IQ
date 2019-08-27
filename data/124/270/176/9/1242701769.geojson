@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.7075,31.65389,44.7475,31.69389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242701769,
-    "wof:lastmodified":1536884363,
+    "wof:lastmodified":1566715092,
     "wof:name":"Anitak al Bulbul",
     "wof:parent_id":1108562699,
     "wof:placetype":"locality",

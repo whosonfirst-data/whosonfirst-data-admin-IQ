@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"46.36333,31.46333,46.40333,31.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Ma\u2018y\u016bf Jam\u0101\u2018ah",
         "Al Ma\u2018yuf Jam\u0101\u2018a",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259773213,
-    "wof:lastmodified":1537638305,
+    "wof:lastmodified":1566715185,
     "wof:name":"Jama'at al Ma'yuf",
     "wof:parent_id":1108562741,
     "wof:placetype":"locality",

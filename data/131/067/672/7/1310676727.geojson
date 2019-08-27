@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.29933,33.90287,44.33933,33.94287",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0645\u0648\u062f \u0639\u0628\u0627\u0633"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310676727,
-    "wof:lastmodified":1537639566,
+    "wof:lastmodified":1566714838,
     "wof:name":"Mahmud 'Abbas",
     "wof:parent_id":421180939,
     "wof:placetype":"locality",

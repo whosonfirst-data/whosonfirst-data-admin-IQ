@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.50198,35.68204,44.54198,35.72204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "M\u0101rd"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259469241,
-    "wof:lastmodified":1564106798,
+    "wof:lastmodified":1566715192,
     "wof:name":"Mard",
     "wof:parent_id":421199293,
     "wof:placetype":"locality",

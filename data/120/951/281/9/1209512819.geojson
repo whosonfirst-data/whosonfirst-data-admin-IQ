@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.16914,32.95669,44.20914,32.99669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0631\u0628 \u0639\u0644\u064a \u0627\u0644\u0638\u0627\u0647\u0631"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209512819,
-    "wof:lastmodified":1537638792,
+    "wof:lastmodified":1566714554,
     "wof:name":"'Arab 'Ali az Zahir",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

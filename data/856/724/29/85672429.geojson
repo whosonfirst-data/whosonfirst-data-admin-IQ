@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.072532,
     "lbl:longitude":42.377471,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Nineveh",
     "meso:name_alt2":"Ninewa",
     "meso:name_local":"\u0646\u064a\u0646\u0648\u0649",
@@ -206,7 +207,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0439\u043d\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Maw\u015fil"
     ],
     "name:urd_x_preferred":[
@@ -291,9 +292,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-10-16",
+    "src:population_date":"1997-10-16",
     "statoids:area_km":"37,323",
     "statoids:area_mi":"14,410",
     "statoids:as_of_date":"1997-10-16",
@@ -317,7 +318,7 @@
         "gp:id":2345847,
         "hasc:id":"IQ.NI",
         "iso:id":"IQ-NI",
-        "qs:id":211641,
+        "qs_pg:id":211641,
         "wd:id":"Q189352",
         "wk:page":"Nineveh Governorate"
     },
@@ -338,11 +339,10 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1565722171,
+    "wof:lastmodified":1566714123,
     "wof:name":"Ninawa",
     "wof:parent_id":85632191,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2042852,
     "wof:population_rank":12,

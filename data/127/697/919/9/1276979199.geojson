@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.39515,34.96693,45.43515,35.00693",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0627\u0648\u0629"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1276979199,
-    "wof:lastmodified":1537638154,
+    "wof:lastmodified":1566714423,
     "wof:name":"Mrawe",
     "wof:parent_id":1108562659,
     "wof:placetype":"locality",

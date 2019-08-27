@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.34821,35.59939,43.38821,35.63939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u062d\u0645\u062f \u0633\u062a\u064a\u0631"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259761443,
-    "wof:lastmodified":1537639553,
+    "wof:lastmodified":1566715205,
     "wof:name":"Qaryat Hamad Sutayr",
     "wof:parent_id":1108562645,
     "wof:placetype":"locality",

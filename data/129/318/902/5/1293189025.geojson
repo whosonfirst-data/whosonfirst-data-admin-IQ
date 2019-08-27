@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.76257,35.99106,44.80257,36.03106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kur_x_preferred":[
         "Ban\u00ee N\u00eeskan"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293189025,
-    "wof:lastmodified":1537640081,
+    "wof:lastmodified":1566714256,
     "wof:name":"Bani Niskan",
     "wof:parent_id":890445493,
     "wof:placetype":"locality",

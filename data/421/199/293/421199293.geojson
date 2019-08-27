@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":35.398494,
     "lbl:longitude":44.178274,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kirkuk",
     "meso:admin1_loc":"\u0643\u0631\u0643\u0648\u0643",
     "meso:gadm_admin":"Kirkuk",
@@ -32,6 +34,7 @@
     "mps:longitude":44.178274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Kirkoek"
@@ -270,9 +273,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0440\u043a\u0443\u043a"
     ],
-    "name:und_x_variant":[
-        "\u0643\u0631\u0643\u0648\u0643"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0631\u06a9\u0648\u06a9"
     ],
@@ -313,7 +313,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":350.0,
     "wd:latitude":35.466667,
@@ -328,7 +328,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999948,
-        "qs:id":467944,
+        "qs_pg:id":467944,
         "wd:id":"Q173310"
     },
     "wof:country":"IQ",
@@ -343,7 +343,7 @@
         }
     ],
     "wof:id":421199293,
-    "wof:lastmodified":1563334240,
+    "wof:lastmodified":1566714967,
     "wof:name":"Kirkuk",
     "wof:parent_id":1108804831,
     "wof:placetype":"county",

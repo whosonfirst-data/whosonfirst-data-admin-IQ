@@ -10,6 +10,9 @@
     "geom:latitude":33.42056,
     "geom:longitude":43.30778,
     "iso:country":"IQ",
+    "lbl:bbox":"43.28778,33.40056,43.32778,33.44056",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -185,7 +188,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440-\u0420\u0430\u043c\u0430\u0434\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rum\u0101d\u012bya"
     ],
     "name:urd_x_preferred":[
@@ -329,7 +332,7 @@
     "wof:concordances":{
         "gn:id":98717,
         "gp:id":1979428,
-        "qs:id":493168,
+        "qs_pg:id":493168,
         "wd:id":"Q192961",
         "wk:page":"Ramadi"
     },
@@ -346,7 +349,7 @@
         }
     ],
     "wof:id":421181481,
-    "wof:lastmodified":1563334231,
+    "wof:lastmodified":1566714965,
     "wof:name":"Ramadie",
     "wof:parent_id":421178933,
     "wof:placetype":"locality",

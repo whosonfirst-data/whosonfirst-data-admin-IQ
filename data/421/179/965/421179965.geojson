@@ -10,8 +10,12 @@
     "geom:latitude":33.84667,
     "geom:longitude":44.23444,
     "iso:country":"IQ",
+    "lbl:bbox":"44.21444,33.82667,44.25444,33.86667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u062c\u064a\u0644"
@@ -70,7 +74,7 @@
     "name:tur_x_preferred":[
         "D\u00fcceyil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u0101\u1e29iyat ad Dujayl"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":99759,
         "gp:id":1970557,
-        "qs:id":273834,
+        "qs_pg:id":273834,
         "wd:id":"Q988430",
         "wk:page":"Dujail"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421179965,
-    "wof:lastmodified":1563334251,
+    "wof:lastmodified":1566714969,
     "wof:name":"Ad Dujayl",
     "wof:parent_id":1108562809,
     "wof:placetype":"locality",

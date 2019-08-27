@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.61354,35.3328,45.65354,35.3728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u0629 \u06af\u0648\u0644 \u0627\u0644\u0639\u0644\u064a\u0627"
     ],
@@ -44,7 +48,6 @@
         "Qarah Gawl al \u2018Uly\u0101",
         "Qarah Kaw\u0101l al \u2018Uly\u0101",
         "\u0642\u0631\u0629 \u0643\u0648\u0627\u0644 \u0627\u0644\u0639\u0644\u064a\u0627",
-        "\u0642\u0631\u0629 \u06af\u0648\u0644 \u0627\u0644\u0639\u0644\u064a\u0627",
         "Qara Gol"
     ],
     "src:geom":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1343492971,
-    "wof:lastmodified":1537638759,
+    "wof:lastmodified":1566714021,
     "wof:name":"Qarah Gawl al 'Ulya",
     "wof:parent_id":1108562767,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.36752,33.13946,44.40752,33.17946",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0635\u064a\u0641 \u0631\u0645\u064a\u0636"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276869003,
-    "wof:lastmodified":1537639855,
+    "wof:lastmodified":1566714310,
     "wof:name":"Latif Rumayd",
     "wof:parent_id":421189307,
     "wof:placetype":"locality",

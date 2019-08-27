@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"48.2597,30.2824,48.2997,30.3224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u0627\u062f\u064a\u0629"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1260298361,
-    "wof:lastmodified":1564105779,
+    "wof:lastmodified":1566714697,
     "wof:name":"Ziadiyah",
     "wof:parent_id":1108562735,
     "wof:placetype":"locality",

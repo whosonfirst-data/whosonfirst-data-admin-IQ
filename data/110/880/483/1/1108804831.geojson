@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":35.280232,
     "lbl:longitude":44.169134,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_alt2":"",
     "meso:name_local":"\u0643\u0631\u0643\u0648\u0643",
@@ -245,9 +246,9 @@
         "\u57fa\u723e\u5eab\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-10-16",
+    "src:population_date":"1997-10-16",
     "statoids:area_km":"10,282",
     "statoids:area_mi":"3,970",
     "statoids:as_of_date":"1997-10-16",
@@ -288,7 +289,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1565722291,
+    "wof:lastmodified":1566714715,
     "wof:name":"Kirkuk",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

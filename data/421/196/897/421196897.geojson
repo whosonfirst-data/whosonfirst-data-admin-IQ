@@ -10,8 +10,12 @@
     "geom:latitude":30.71861,
     "geom:longitude":47.72083,
     "iso:country":"IQ",
+    "lbl:bbox":"47.70083,30.69861,47.74083,30.73861",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0647\u0627\u0631\u062b\u0629"
@@ -34,7 +38,7 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c-\u0425\u0430\u0440\u0440\u0438\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hartha"
     ],
     "qs:gn_country":"IQ",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":99369,
         "gp:id":1970879,
-        "qs:id":1302029,
+        "qs_pg:id":1302029,
         "wd:id":"Q3744534"
     },
     "wof:country":"IQ",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421196897,
-    "wof:lastmodified":1563334234,
+    "wof:lastmodified":1566714966,
     "wof:name":"Al H\u00e5rithah",
     "wof:parent_id":1108562731,
     "wof:placetype":"locality",

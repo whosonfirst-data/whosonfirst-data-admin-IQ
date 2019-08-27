@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.91086,32.44169,44.95086,32.48169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u062c\u062a \u0627\u0644\u063a\u062f\u064a\u0631"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259375335,
-    "wof:lastmodified":1537639441,
+    "wof:lastmodified":1566715165,
     "wof:name":"Sajit al Ghadir",
     "wof:parent_id":421188909,
     "wof:placetype":"locality",

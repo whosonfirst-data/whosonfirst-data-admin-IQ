@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.15954,32.95095,44.19954,32.99095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0631\u0628 \u0639\u0644\u064a \u0630\u064a\u0628"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259872043,
-    "wof:lastmodified":1537639628,
+    "wof:lastmodified":1566715244,
     "wof:name":"'Arab 'Ali Dhib",
     "wof:parent_id":421172849,
     "wof:placetype":"locality",

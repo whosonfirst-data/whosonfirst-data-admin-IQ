@@ -10,6 +10,9 @@
     "geom:latitude":36.335,
     "geom:longitude":43.11889,
     "iso:country":"IQ",
+    "lbl:bbox":"43.09889,36.315,43.13889,36.355",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -297,7 +300,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u0443\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Maw\u015fil"
     ],
     "name:urd_x_preferred":[
@@ -447,7 +450,7 @@
         "gn:id":99072,
         "gp:id":1979409,
         "loc:id":"n50005853",
-        "qs:id":911583,
+        "qs_pg:id":911583,
         "wd:id":"Q83317",
         "wk:page":"Mosul"
     },
@@ -464,7 +467,7 @@
         }
     ],
     "wof:id":421186153,
-    "wof:lastmodified":1563334229,
+    "wof:lastmodified":1566714964,
     "wof:name":"\u0645\u0648\u0635\u0644",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",

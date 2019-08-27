@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.8312,36.20494,44.8712,36.24494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "K\u016bl\u012bn"
     ],
@@ -46,8 +50,7 @@
         "\u0643\u0648\u0644\u064a\u0646"
     ],
     "name:und_x_variant":[
-        "K\u014dl\u0113n",
-        "Kolen"
+        "K\u014dl\u0113n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1310524231,
-    "wof:lastmodified":1564105925,
+    "wof:lastmodified":1566714761,
     "wof:name":"Kulin",
     "wof:parent_id":1108562755,
     "wof:placetype":"locality",

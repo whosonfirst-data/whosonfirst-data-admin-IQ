@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.9275,36.3992,43.9675,36.4392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u062f\u064a \u0645\u0627\u0648\u062a"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1276852021,
-    "wof:lastmodified":1537638894,
+    "wof:lastmodified":1566714394,
     "wof:name":"Kirdi Mawt",
     "wof:parent_id":1108562757,
     "wof:placetype":"locality",

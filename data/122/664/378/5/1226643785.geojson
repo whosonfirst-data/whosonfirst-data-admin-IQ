@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.59954,32.34411,44.63954,32.38411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f \u062d\u0645\u062f \u0627\u0644\u062f\u064a\u0628\u0627\u062c"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226643785,
-    "wof:lastmodified":1537639521,
+    "wof:lastmodified":1566715402,
     "wof:name":"Sayyid Hamad ad Dibaj",
     "wof:parent_id":1108562689,
     "wof:placetype":"locality",

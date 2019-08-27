@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.61373,35.56438,44.65373,35.60438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0100w B\u0101r\u012bk"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310391799,
-    "wof:lastmodified":1537638747,
+    "wof:lastmodified":1566714777,
     "wof:name":"Aw Barik",
     "wof:parent_id":421199293,
     "wof:placetype":"locality",

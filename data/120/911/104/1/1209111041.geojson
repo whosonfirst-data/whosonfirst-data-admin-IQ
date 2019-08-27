@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.02366,35.27146,45.06366,35.31146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "M\u012br Ism\u0101\u2018\u012bl"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209111041,
-    "wof:lastmodified":1537640000,
+    "wof:lastmodified":1566714559,
     "wof:name":"Mir Isma'il",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

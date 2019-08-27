@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.36706,36.93303,44.40706,36.97303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kur_x_preferred":[
         "Kewne Gund"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1293670201,
-    "wof:lastmodified":1537640094,
+    "wof:lastmodified":1566714232,
     "wof:name":"Kewne Gund",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

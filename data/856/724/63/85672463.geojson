@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":31.231483,
     "lbl:longitude":46.212052,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Thi-Qar",
     "meso:name_alt2":"Dhi Qar",
     "meso:name_local":"\u0630\u064a \u0642\u0627\u0631",
@@ -140,7 +141,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0456-\u041a\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Thi-Qar Muhafadha"
     ],
     "name:zho_x_preferred":[
@@ -219,9 +220,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-10-16",
+    "src:population_date":"1997-10-16",
     "statoids:area_km":"12,900",
     "statoids:area_mi":"4,981",
     "statoids:as_of_date":"1997-10-16",
@@ -246,7 +247,7 @@
         "gp:id":2345841,
         "hasc:id":"IQ.DQ",
         "iso:id":"IQ-DQ",
-        "qs:id":894894,
+        "qs_pg:id":894894,
         "unlc:id":"IQ-DQ",
         "wd:id":"Q215649",
         "wk:page":"Dhi Qar Governorate"
@@ -268,11 +269,10 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1565722173,
+    "wof:lastmodified":1566714126,
     "wof:name":"Dhi-Qar",
     "wof:parent_id":85632191,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1184796,
     "wof:population_rank":12,

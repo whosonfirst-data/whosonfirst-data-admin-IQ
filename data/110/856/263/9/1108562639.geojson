@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":35.64388,
     "lbl:longitude":41.67565,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ninewa",
     "meso:admin1_loc":"\u0646\u064a\u0646\u0648\u0649",
     "meso:gadm_admin":"Al Ba'aj",
@@ -32,6 +34,7 @@
     "mps:longitude":41.67565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Al-Ba'aj",
         "Al Ba'aj"
@@ -40,7 +43,7 @@
         "\u0627\u0644\u0628\u0639\u0627\u062c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632191,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108562639,
-    "wof:lastmodified":1554489206,
+    "wof:lastmodified":1566714724,
     "wof:name":"Ba'aj",
     "wof:parent_id":85672429,
     "wof:placetype":"county",

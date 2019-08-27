@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.22735,35.49946,45.26735,35.53946",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0631\u0645\u0648\u0632\u064a\u0627\u0631"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327430807,
-    "wof:lastmodified":1537637806,
+    "wof:lastmodified":1566713911,
     "wof:name":"Warmuzyar",
     "wof:parent_id":1108562761,
     "wof:placetype":"locality",

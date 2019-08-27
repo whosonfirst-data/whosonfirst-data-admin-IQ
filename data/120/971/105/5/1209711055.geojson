@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.81569,37.001,43.85569,37.041",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kempe"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1209711055,
-    "wof:lastmodified":1564105386,
+    "wof:lastmodified":1566714516,
     "wof:name":"Kempe",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

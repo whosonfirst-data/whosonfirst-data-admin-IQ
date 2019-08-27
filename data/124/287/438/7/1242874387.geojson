@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.53417,31.64111,44.57417,31.68111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San\u012bm Khidhr",
         "San\u012bn Khidhr",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242874387,
-    "wof:lastmodified":1537637979,
+    "wof:lastmodified":1566715004,
     "wof:name":"Sanim Khidr",
     "wof:parent_id":1108562699,
     "wof:placetype":"locality",

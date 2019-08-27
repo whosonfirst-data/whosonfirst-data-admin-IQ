@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.20035,36.67754,43.24035,36.71754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0635\u064a\u0631\u064a"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327307167,
-    "wof:lastmodified":1537638908,
+    "wof:lastmodified":1566713772,
     "wof:name":"Nusayri",
     "wof:parent_id":421172365,
     "wof:placetype":"locality",

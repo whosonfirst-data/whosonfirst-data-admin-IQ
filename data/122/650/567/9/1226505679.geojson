@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.71957,34.41185,43.75957,34.45185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0631\u0628 \u062c\u062f\u0648\u0639"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226505679,
-    "wof:lastmodified":1537639351,
+    "wof:lastmodified":1566715344,
     "wof:name":"'Arab Jaddu'",
     "wof:parent_id":1108562799,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"46.37861,30.85722,46.41861,30.89722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "T\u0101mir Bak",
         "Thamir Beg",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209599801,
-    "wof:lastmodified":1537637838,
+    "wof:lastmodified":1566714538,
     "wof:name":"Thamir Bak",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

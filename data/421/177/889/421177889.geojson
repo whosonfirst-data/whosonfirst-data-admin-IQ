@@ -10,6 +10,9 @@
     "geom:latitude":31.99289,
     "geom:longitude":44.92552,
     "iso:country":"IQ",
+    "lbl:bbox":"44.90552,31.97289,44.94552,32.01289",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -150,7 +153,7 @@
         "Al-Diwaniyya"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bb2\u0bcd   \u0b9f\u0bbf\u0bb5\u0bbe\u0ba8\u0bc0\u0baf\u0bbe"
+        "\u0b85\u0bb2\u0bcd  \u0b9f\u0bbf\u0bb5\u0bbe\u0ba8\u0bc0\u0baf\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c32\u0c4d \u0c26\u0c3f\u0c35\u0c3e\u0c28\u0c3f\u0c2f"
@@ -167,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u044c-\u0414\u0456\u0432\u0430\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hiska"
     ],
     "name:urd_x_preferred":[
@@ -307,7 +310,7 @@
     "wof:concordances":{
         "gn:id":99762,
         "gp:id":1973057,
-        "qs:id":273826,
+        "qs_pg:id":273826,
         "wd:id":"Q694939",
         "wk:page":"Al Diwaniyah"
     },
@@ -324,7 +327,7 @@
         }
     ],
     "wof:id":421177889,
-    "wof:lastmodified":1563334248,
+    "wof:lastmodified":1566714968,
     "wof:name":"Diwaniyeh",
     "wof:parent_id":421181959,
     "wof:placetype":"locality",

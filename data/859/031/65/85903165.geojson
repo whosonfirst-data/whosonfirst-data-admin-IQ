@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5090755.190305,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.360622,33.300103,44.360622,33.300103",
     "geom:latitude":33.300103,
     "geom:longitude":44.360622,
     "iso:country":"IQ",
+    "lbl:bbox":"44.355622,33.295103,44.365622,33.305103",
     "lbl:latitude":33.300103,
     "lbl:longitude":44.360622,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.297394,
     "mps:longitude":44.355592,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:ara_x_variant":[
         "Al H\u0327\u0101rthiyah"
-    ],
-    "name:unk_x_variant":[
-        "Al H\u0327\u0101rith\u012byah"
     ],
     "qs:gn_adm0_cc":"IQ",
     "qs:gn_id":0,
@@ -64,12 +63,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672447,
         102191569,
         85632191,
-        1108562793,
-        85672447
+        1108562793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +90,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936025,
+    "wof:lastmodified":1566714122,
     "wof:name":"Al H\u0327\u0101rith\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.26472,35.74888,43.30472,35.78888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0631\u0643\u0628\u0629 \u063a\u0631\u0628\u064a\u0629"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293866881,
-    "wof:lastmodified":1537638635,
+    "wof:lastmodified":1566714291,
     "wof:name":"Arkabah Gharbiyah",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.49667,34.91333,45.53667,34.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hourain Shikhan",
         "Hawrayn Sh\u012bkh\u0101n"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209538385,
-    "wof:lastmodified":1537638341,
+    "wof:lastmodified":1566714462,
     "wof:name":"Hawrayn Shikhan",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

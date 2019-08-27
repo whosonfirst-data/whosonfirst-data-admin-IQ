@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"48.3592,30.0974,48.3992,30.1374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0645\u0646\u0627\u0631\u06cc\u0644 \u0627\u0644\u063a\u06cc\u0628\u0627\u0646\u06cc"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259796711,
-    "wof:lastmodified":1537639115,
+    "wof:lastmodified":1566715190,
     "wof:name":"Manaril ol Gheybani",
     "wof:parent_id":1108562737,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.09286,36.52841,44.13286,36.56841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0644\u062c\u0627\u0631"
     ],
@@ -38,7 +42,6 @@
     ],
     "name:und_x_variant":[
         "T\u0101laj\u0101r",
-        "\u062a\u0627\u0644\u062c\u0627\u0631",
         "T\u0101lah J\u0101r",
         "\u062a\u0627\u0644\u0647 \u062c\u0627\u0631",
         "Taljar"
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1310283271,
-    "wof:lastmodified":1537638985,
+    "wof:lastmodified":1566714800,
     "wof:name":"Tala Car",
     "wof:parent_id":1108562757,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.53031,35.33667,45.57031,35.37667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062d\u0647"
     ],
@@ -43,8 +47,7 @@
     "name:und_x_variant":[
         "K\u016b\u1e29ah",
         "Goja",
-        "Gurgachiy\u0101",
-        "\u0643\u0648\u062d\u0647"
+        "Gurgachiy\u0101"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1293691741,
-    "wof:lastmodified":1537640060,
+    "wof:lastmodified":1566714222,
     "wof:name":"Kuhah",
     "wof:parent_id":1108562761,
     "wof:placetype":"locality",

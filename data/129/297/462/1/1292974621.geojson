@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"47.16333,31.79667,47.20333,31.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Q\u0101sim",
         "Bust\u0101n Ab\u012b al Q\u0101sim",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1292974621,
-    "wof:lastmodified":1537638506,
+    "wof:lastmodified":1566714246,
     "wof:name":"Bustan Abu al Qasim",
     "wof:parent_id":1108562681,
     "wof:placetype":"locality",

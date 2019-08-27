@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.18,32.63,44.22,32.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alaiwi",
         "Jal\u0101w\u012b al Mazghal"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193255589,
-    "wof:lastmodified":1537638307,
+    "wof:lastmodified":1566714632,
     "wof:name":"Jalawi al Mazghal",
     "wof:parent_id":1108562777,
     "wof:placetype":"locality",

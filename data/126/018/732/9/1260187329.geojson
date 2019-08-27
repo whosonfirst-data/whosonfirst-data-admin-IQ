@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.55525,35.06743,45.59525,35.10743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Bis\u0101k\u0101n"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1260187329,
-    "wof:lastmodified":1537638077,
+    "wof:lastmodified":1566714692,
     "wof:name":"Bisakan",
     "wof:parent_id":1108562659,
     "wof:placetype":"locality",

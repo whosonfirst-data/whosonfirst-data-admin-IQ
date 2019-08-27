@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.14555,37.16804,43.18555,37.20804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u06af\u0627\u0631\u0643\u0648\u0647"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1242663121,
-    "wof:lastmodified":1537638418,
+    "wof:lastmodified":1566715022,
     "wof:name":"Gereguh",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

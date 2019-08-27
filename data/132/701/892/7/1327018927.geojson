@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.42129,34.0263,44.46129,34.0663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0631 \u0639\u0645\u0627\u0644"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327018927,
-    "wof:lastmodified":1537639834,
+    "wof:lastmodified":1566713767,
     "wof:name":"Dur 'Umal",
     "wof:parent_id":421169765,
     "wof:placetype":"locality",

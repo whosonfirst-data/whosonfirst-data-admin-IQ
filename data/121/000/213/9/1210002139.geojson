@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"42.89947,37.16083,42.93947,37.20083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Argin\u012b"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1210002139,
-    "wof:lastmodified":1537638629,
+    "wof:lastmodified":1566714602,
     "wof:name":"Af Gani",
     "wof:parent_id":890445289,
     "wof:placetype":"locality",

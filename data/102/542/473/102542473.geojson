@@ -12,6 +12,7 @@
     "iso:country":"IQ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Al-Taqaddum Air Base"
     ],
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":102542473,
-    "wof:lastmodified":1563332226,
+    "wof:lastmodified":1566713936,
     "wof:name":"Al Taqaddum Airport",
     "wof:parent_id":85672483,
     "wof:placetype":"campus",

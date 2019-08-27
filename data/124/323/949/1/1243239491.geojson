@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.08667,34.01167,44.12667,34.05167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ibr\u0101h\u012bm a\u015f \u015eaff\u0101r"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243239491,
-    "wof:lastmodified":1537638881,
+    "wof:lastmodified":1566715048,
     "wof:name":"Ibrahim as Saffar",
     "wof:parent_id":421180939,
     "wof:placetype":"locality",

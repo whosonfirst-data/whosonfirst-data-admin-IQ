@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":31.415608,
     "lbl:longitude":47.202845,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Missan",
     "meso:admin1_loc":"\u0645\u064a\u0633\u0627\u0646",
     "meso:gadm_admin":"Al Mijar al Kabir",
@@ -32,6 +34,7 @@
     "mps:longitude":47.202845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Al-Mejar Al-Kabi",
         "Al Mijar al Kabir"
@@ -40,7 +43,7 @@
         "\u0627\u0644\u0645\u062c\u0631 \u0627\u0644\u0643\u0628\u064a\u0631"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632191,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108562707,
-    "wof:lastmodified":1554489208,
+    "wof:lastmodified":1566714720,
     "wof:name":"Mejar Al-Kabi",
     "wof:parent_id":85672469,
     "wof:placetype":"county",

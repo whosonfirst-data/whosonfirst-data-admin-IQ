@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"42.28685,36.72833,42.32685,36.76833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0627\u0644\u0647\u0648\u0649"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1226212755,
-    "wof:lastmodified":1537638344,
+    "wof:lastmodified":1566715291,
     "wof:name":"Tall al Hawa",
     "wof:parent_id":1108562635,
     "wof:placetype":"locality",

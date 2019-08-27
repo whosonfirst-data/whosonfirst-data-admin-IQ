@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"42.96512,35.64709,43.00512,35.68709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0645\u0636\u0627\u0646\u064a\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360167643,
-    "wof:lastmodified":1537639993,
+    "wof:lastmodified":1566714880,
     "wof:name":"Ramdaniyah",
     "wof:parent_id":1108562641,
     "wof:placetype":"locality",

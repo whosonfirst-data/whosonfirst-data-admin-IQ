@@ -11,10 +11,14 @@
     "geom:longitude":44.8343,
     "gn:country":"IQ",
     "gn:fcode":"PPL",
-    "gn:pop":75634,
+    "gn:population":75634,
     "iso:country":"IQ",
+    "lbl:bbox":"44.8143,35.51356,44.8543,35.55356",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0686\u0645\u0686\u0645\u0627\u0644"
     ],
@@ -69,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043c\u0447\u0430\u043c\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shamsham\u0101l"
     ],
     "name:zho_x_preferred":[
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":97417,
         "gp:id":1972742,
-        "qs:id":62608,
+        "qs_pg:id":62608,
         "wd:id":"Q870475",
         "wk:page":"Chamchamal"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890449813,
-    "wof:lastmodified":1563334260,
+    "wof:lastmodified":1566714971,
     "wof:name":"Chamcham\u0101l",
     "wof:parent_id":1108562745,
     "wof:placetype":"locality",

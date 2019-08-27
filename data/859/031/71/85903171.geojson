@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2661726.545083,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.382019,33.250172,44.382019,33.250172",
     "geom:latitude":33.250172,
     "geom:longitude":44.382019,
-    "gn:gn_country":"IQ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IQ",
+    "gn:fcode":"PPLX",
     "gn:latitude":33.24417,
     "gn:longitude":44.37417,
+    "gn:population":0,
     "iso:country":"IQ",
+    "lbl:bbox":"44.377019,33.245172,44.387019,33.255172",
     "lbl:latitude":33.250172,
     "lbl:longitude":44.382019,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.248061,
     "mps:longitude":44.383,
     "mz:hierarchy_label":0,
@@ -35,8 +37,7 @@
     "name:ara_x_preferred":[
         "Al Jaz\u00e5'ir"
     ],
-    "name:unk_x_variant":[
-        "Al Jaz\u00e5'ir",
+    "name:und_x_variant":[
         "Al Jaz\u0101\u2019ir"
     ],
     "qs:gn_adm0_cc":"IQ",
@@ -87,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672447,
         102191569,
@@ -98,7 +99,6 @@
     "wof:concordances":{
         "gn:id":387279,
         "gp:id":1970954,
-        "qs:id":44646,
         "qs_pg:id":44646
     },
     "wof:country":"IQ",
@@ -117,7 +117,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379347,
+    "wof:lastmodified":1566714122,
     "wof:name":"Al Jaz\u00e5'ir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,6 +10,9 @@
     "geom:latitude":31.9892,
     "geom:longitude":44.3291,
     "iso:country":"IQ",
+    "lbl:bbox":"44.3091,31.9692,44.3491,32.0092",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -227,9 +230,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d-\u041d\u0430\u0434\u0436\u0430\u0444"
     ],
-    "name:unk_x_variant":[
-        "Najaf"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u062c\u0641"
     ],
@@ -369,7 +369,7 @@
     "wof:concordances":{
         "gn:id":98860,
         "gp:id":1979423,
-        "qs:id":1175356,
+        "qs_pg:id":1175356,
         "wd:id":"Q168193",
         "wk:page":"Najaf"
     },
@@ -386,7 +386,7 @@
         }
     ],
     "wof:id":421168639,
-    "wof:lastmodified":1563334214,
+    "wof:lastmodified":1566714960,
     "wof:name":"An Najaf",
     "wof:parent_id":421184255,
     "wof:placetype":"locality",

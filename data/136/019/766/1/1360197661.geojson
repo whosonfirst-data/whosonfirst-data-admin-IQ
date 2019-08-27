@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"47.27445,31.0181,47.31445,31.0581",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0633\u0644\u0627\u0646"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360197661,
-    "wof:lastmodified":1537638616,
+    "wof:lastmodified":1566714899,
     "wof:name":"'Aslan",
     "wof:parent_id":1108562717,
     "wof:placetype":"locality",

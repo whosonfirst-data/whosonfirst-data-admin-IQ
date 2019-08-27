@@ -11,8 +11,11 @@
     "geom:longitude":47.144,
     "gn:country":"IQ",
     "gn:fcode":"PPLA",
-    "gn:pop":323302,
+    "gn:population":323302,
     "iso:country":"IQ",
+    "lbl:bbox":"47.124,31.81588,47.164,31.85588",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -163,9 +166,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0410\u043c\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Amara"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0639\u0645\u0627\u0631\u06c1"
     ],
@@ -285,7 +285,7 @@
     "wof:concordances":{
         "gn:id":99608,
         "gp:id":1970699,
-        "qs:id":64205,
+        "qs_pg:id":64205,
         "wd:id":"Q366010"
     },
     "wof:country":"IQ",
@@ -301,7 +301,7 @@
         }
     ],
     "wof:id":890440319,
-    "wof:lastmodified":1563334257,
+    "wof:lastmodified":1566714970,
     "wof:name":"Al \u2018Am\u0101rah",
     "wof:parent_id":1108562681,
     "wof:placetype":"locality",

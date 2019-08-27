@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.37778,32.67639,45.41778,32.71639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yeknahr",
         "Yaknahr"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209183745,
-    "wof:lastmodified":1537637799,
+    "wof:lastmodified":1566714570,
     "wof:name":"Yaknahr",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

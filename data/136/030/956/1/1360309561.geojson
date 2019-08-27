@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.05556,32.00778,45.09556,32.04778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Makhtar Yus\u016bfia",
         "Mukht\u0101r Y\u016bsif\u012byah",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360309561,
-    "wof:lastmodified":1537638120,
+    "wof:lastmodified":1566714863,
     "wof:name":"Mukhtar Yusufiyah",
     "wof:parent_id":1108562687,
     "wof:placetype":"locality",

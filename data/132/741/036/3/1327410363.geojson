@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.88521,35.71978,43.92521,35.75978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0648\u062c"
     ],
@@ -39,8 +43,7 @@
         "\u0641\u06d5\u0631\u06d5\u062c"
     ],
     "name:und_x_variant":[
-        "Q\u016bch",
-        "Faraj"
+        "Q\u016bch"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1327410363,
-    "wof:lastmodified":1537638019,
+    "wof:lastmodified":1566713846,
     "wof:name":"Quj",
     "wof:parent_id":1108562779,
     "wof:placetype":"locality",

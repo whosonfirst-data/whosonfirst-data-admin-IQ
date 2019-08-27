@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.09427,35.72459,45.13427,35.76459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "K\u016bk\u0101"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1310410567,
-    "wof:lastmodified":1564105854,
+    "wof:lastmodified":1566714730,
     "wof:name":"Kuka",
     "wof:parent_id":1108562759,
     "wof:placetype":"locality",

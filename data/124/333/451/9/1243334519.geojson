@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"47.41818,31.80222,47.45818,31.84222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u0631\u062d"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1243334519,
-    "wof:lastmodified":1537638648,
+    "wof:lastmodified":1566715087,
     "wof:name":"Al Musharrah",
     "wof:parent_id":1108562681,
     "wof:placetype":"locality",

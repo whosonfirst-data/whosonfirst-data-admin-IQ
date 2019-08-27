@@ -11,8 +11,10 @@
     "geom:longitude":44.37485,
     "gn:id":"",
     "iso:country":"IQ",
+    "lbl:bbox":"44.36985,35.464114,44.37985,35.474114",
     "lbl:latitude":35.469114,
     "lbl:longitude":44.37485,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.467795,
     "mps:longitude":44.397695,
     "mz:hierarchy_label":0,
@@ -89,9 +91,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0440\u0430\u043f\u0445\u0430"
     ],
-    "name:unk_x_variant":[
-        "Arrapha"
-    ],
     "qs:gn_adm0_cc":"IQ",
     "qs:gn_id":0,
     "qs:gn_local":94787,
@@ -117,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":35.45,
     "wd:longitude":44.383333,
     "wd:wordcount":600,
@@ -130,7 +129,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1971678,
-        "qs:id":900320,
+        "qs_pg:id":900320,
         "wd:id":"Q672905"
     },
     "wof:country":"IQ",
@@ -149,7 +148,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1563332569,
+    "wof:lastmodified":1566714121,
     "wof:name":"Arrapha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

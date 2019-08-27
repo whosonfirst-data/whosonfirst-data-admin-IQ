@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":33.868724,
     "lbl:longitude":44.761802,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Diyala",
     "meso:admin1_loc":"\u062f\u064a\u0627\u0644\u0649",
     "meso:gadm_admin":"Al Miqdadiyah",
@@ -32,6 +34,7 @@
     "mps:longitude":44.761802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_variant":[
         "Al-Muqdadiya",
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632191,
@@ -71,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999939,
-        "qs:id":991625
+        "qs_pg:id":991625
     },
     "wof:country":"IQ",
     "wof:created":1459009405,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421184253,
-    "wof:lastmodified":1554488946,
+    "wof:lastmodified":1566714968,
     "wof:name":"Muqdadiya",
     "wof:parent_id":85672481,
     "wof:placetype":"county",

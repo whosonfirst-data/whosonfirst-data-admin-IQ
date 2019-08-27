@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.67113,34.79714,45.71113,34.83714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631 \u0627\u0643\u0631\u0645"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276537937,
-    "wof:lastmodified":1537639880,
+    "wof:lastmodified":1566714440,
     "wof:name":"Dar Akrim",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

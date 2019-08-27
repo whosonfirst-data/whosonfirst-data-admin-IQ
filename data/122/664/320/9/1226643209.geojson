@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"42.8282,36.83823,42.8682,36.87823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0645\u064a\u0644"
     ],
@@ -79,8 +83,7 @@
         "Sumayl",
         "Semel",
         "Saymayl",
-        "S\u012bmayl",
-        "Sumel"
+        "S\u012bmayl"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1226643209,
-    "wof:lastmodified":1564107255,
+    "wof:lastmodified":1566715403,
     "wof:name":"Saymayl",
     "wof:parent_id":1108562637,
     "wof:placetype":"locality",

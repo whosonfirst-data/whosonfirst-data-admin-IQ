@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.63234,35.46012,45.67234,35.50012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u064a\u0633\u0627\u0648\u0647"
     ],
@@ -44,8 +48,7 @@
         "M\u0101ys\u0101wah",
         "M\u0101d\u012b\u0101wa",
         "M\u0101y\u0101wah",
-        "Mayawa",
-        "\u0645\u0627\u064a\u0633\u0627\u0648\u0647"
+        "Mayawa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1310203927,
-    "wof:lastmodified":1537638172,
+    "wof:lastmodified":1566714781,
     "wof:name":"Mayawah",
     "wof:parent_id":1108562763,
     "wof:placetype":"locality",

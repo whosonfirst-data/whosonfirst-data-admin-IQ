@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.93287,32.41232,44.97287,32.45232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0645\u062f \u0633\u0641\u0627\u062d \u0639\u0628\u064a\u062f"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226537671,
-    "wof:lastmodified":1537639438,
+    "wof:lastmodified":1566715420,
     "wof:name":"Muhammad Saffah 'Ubayd",
     "wof:parent_id":1108562689,
     "wof:placetype":"locality",

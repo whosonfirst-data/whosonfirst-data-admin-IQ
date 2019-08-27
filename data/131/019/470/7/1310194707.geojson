@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"46.21056,30.99472,46.25056,31.03472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Ajil at Tuwaili",
         "\u2018Aj\u012bl a\u0163 \u0162aw\u012bl\u012b",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310194707,
-    "wof:lastmodified":1537638691,
+    "wof:lastmodified":1566714806,
     "wof:name":"'Ajil at Tuwayli",
     "wof:parent_id":421172357,
     "wof:placetype":"locality",

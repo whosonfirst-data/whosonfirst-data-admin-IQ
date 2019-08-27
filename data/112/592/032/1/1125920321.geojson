@@ -9,15 +9,18 @@
     "geom:bbox":"44.53014,36.61647,44.53014,36.61647",
     "geom:latitude":36.61647,
     "geom:longitude":44.53014,
-    "gn:gn_country":"IQ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":22943,
+    "gn:country":"IQ",
+    "gn:fcode":"PPL",
     "gn:population":22943,
     "iso:country":"IQ",
+    "lbl:bbox":"44.51014,36.59647,44.55014,36.63647",
     "lbl:latitude":36.61647,
     "lbl:longitude":44.53014,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0627\u0648\u0646\u062f\u0648\u0632"
@@ -94,7 +97,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0432\u0430\u043d\u0434\u0443\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rewandus"
     ],
     "qs_pg:aaroncc":"IQ",
@@ -109,7 +112,7 @@
     "qs_pg:qs_id":62287,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1125920321,
-    "wof:lastmodified":1563334270,
+    "wof:lastmodified":1566714974,
     "wof:name":"R\u0101wand\u016bz",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",

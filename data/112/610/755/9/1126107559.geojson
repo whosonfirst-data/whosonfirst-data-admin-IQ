@@ -9,15 +9,17 @@
     "geom:bbox":"43.09065,36.33091,43.09065,36.33091",
     "geom:latitude":36.33091,
     "geom:longitude":43.09065,
-    "gn:gn_country":"IQ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":2065597,
+    "gn:country":"IQ",
+    "gn:fcode":"PPLX",
     "gn:population":2065597,
     "iso:country":"IQ",
+    "lbl:bbox":"43.08565,36.32591,43.09565,36.33591",
     "lbl:latitude":36.33091,
     "lbl:longitude":43.09065,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0648\u0635\u0644 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
@@ -34,13 +36,13 @@
     "qs_pg:qs_id":63743,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85672429,
         102191569,
         85632191,
-        1108562633,
-        85672429
+        1108562633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1126107559,
-    "wof:lastmodified":1509412445,
+    "wof:lastmodified":1566714974,
     "wof:name":"Al Maw\u015fil al Jad\u012bdah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

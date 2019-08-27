@@ -11,8 +11,11 @@
     "geom:longitude":44.39222,
     "gn:country":"IQ",
     "gn:fcode":"PPLA",
-    "gn:pop":601433,
+    "gn:population":601433,
     "iso:country":"IQ",
+    "lbl:bbox":"44.37222,35.44806,44.41222,35.48806",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.1,
@@ -259,7 +262,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0440\u043a\u0443\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kark\u016bk"
     ],
     "name:urd_x_preferred":[
@@ -392,7 +395,7 @@
     "wof:concordances":{
         "gn:id":94787,
         "gp:id":1979505,
-        "qs:id":62532,
+        "qs_pg:id":62532,
         "wd:id":"Q173310",
         "wk:page":"Kirkuk"
     },
@@ -409,7 +412,7 @@
         }
     ],
     "wof:id":890449811,
-    "wof:lastmodified":1563334259,
+    "wof:lastmodified":1566714970,
     "wof:name":"Kirkuk",
     "wof:parent_id":421199293,
     "wof:placetype":"locality",

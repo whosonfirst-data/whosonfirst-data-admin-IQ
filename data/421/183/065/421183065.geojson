@@ -10,8 +10,12 @@
     "geom:latitude":36.3209,
     "geom:longitude":41.87656,
     "iso:country":"IQ",
+    "lbl:bbox":"41.85656,36.3009,41.89656,36.3409",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "Sinj\u0101r"
@@ -128,7 +132,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043d\u0434\u0436\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shengal"
     ],
     "name:urd_x_preferred":[
@@ -167,7 +171,7 @@
     "wof:concordances":{
         "gn:id":448149,
         "gp:id":1979563,
-        "qs:id":960001,
+        "qs_pg:id":960001,
         "wd:id":"Q955690",
         "wk:page":"Sinjar"
     },
@@ -184,7 +188,7 @@
         }
     ],
     "wof:id":421183065,
-    "wof:lastmodified":1563334249,
+    "wof:lastmodified":1566714969,
     "wof:name":"\u0633\u0646\u062c\u0627\u0631",
     "wof:parent_id":421186449,
     "wof:placetype":"locality",

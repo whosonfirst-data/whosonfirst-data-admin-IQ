@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"46.10667,31.55194,46.14667,31.59194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Suq abu H\u0101wan",
         "S\u016bq Ab\u016b Haw\u0101"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242868575,
-    "wof:lastmodified":1537637872,
+    "wof:lastmodified":1566715009,
     "wof:name":"Suq Abu Hawa",
     "wof:parent_id":1108562683,
     "wof:placetype":"locality",
