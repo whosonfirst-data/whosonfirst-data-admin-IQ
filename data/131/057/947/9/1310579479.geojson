@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.90598,36.64418,44.94598,36.68418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0631\u0628\u0646\u062f"
     ],
@@ -54,7 +58,6 @@
     ],
     "name:und_x_variant":[
         "Daraband",
-        "Darband",
         "Darband Rayat"
     ],
     "src:geom":"geonames",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1310579479,
-    "wof:lastmodified":1564106055,
+    "wof:lastmodified":1566714823,
     "wof:name":"Darband",
     "wof:parent_id":1108562749,
     "wof:placetype":"locality",

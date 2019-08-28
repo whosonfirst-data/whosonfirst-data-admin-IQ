@@ -10,8 +10,12 @@
     "geom:latitude":35.77622,
     "geom:longitude":43.57974,
     "iso:country":"IQ",
+    "lbl:bbox":"43.55974,35.75622,43.59974,35.79622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u062e\u0645\u0648\u0631"
@@ -25,7 +29,7 @@
         "Mexmur",
         "\u0645\u06d5\u062e\u0645\u0648\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makhmur"
     ],
     "qs:gn_country":"IQ",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":93818,
         "gp:id":1979514,
-        "qs:id":122193
+        "qs_pg:id":122193
     },
     "wof:country":"IQ",
     "wof:created":1459009835,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":421195195,
-    "wof:lastmodified":1506728907,
+    "wof:lastmodified":1566714961,
     "wof:name":"\u0645\u062e\u0645\u0648\u0631",
     "wof:parent_id":1108562779,
     "wof:placetype":"locality",

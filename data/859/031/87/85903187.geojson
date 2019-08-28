@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8809692.955697,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.42668,33.283722,44.42668,33.283722",
     "geom:latitude":33.283722,
     "geom:longitude":44.42668,
     "gn:id":"",
     "iso:country":"IQ",
+    "lbl:bbox":"44.42168,33.278722,44.43168,33.288722",
     "lbl:latitude":33.283722,
     "lbl:longitude":44.42668,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.284874,
     "mps:longitude":44.426852,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ara_x_preferred":[
-        "Alwiya"
-    ],
-    "name:unk_x_variant":[
         "Alwiya"
     ],
     "qs:gn_adm0_cc":"IQ",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672447,
         102191569,
         85632191,
-        1108562793,
-        85672447
+        1108562793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1971425,
-        "qs:id":1002946
+        "qs_pg:id":1002946
     },
     "wof:country":"IQ",
     "wof:geomhash":"9d0f5b29937b756e60ec4a46b76e4d57",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936032,
+    "wof:lastmodified":1566714121,
     "wof:name":"Alwiya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

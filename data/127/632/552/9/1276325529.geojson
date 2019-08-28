@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.34667,33.59667,44.38667,33.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muhammad al Jeb",
         "Mu\u1e29ammad al Jayb"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276325529,
-    "wof:lastmodified":1537638126,
+    "wof:lastmodified":1566714363,
     "wof:name":"Muhammad al Jayb",
     "wof:parent_id":1108562771,
     "wof:placetype":"locality",

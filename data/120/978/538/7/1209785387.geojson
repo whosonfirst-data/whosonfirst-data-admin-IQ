@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"46.25645,32.51517,46.29645,32.55517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Ism\u0101\u2018\u012bl Mu\u1e29sin"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209785387,
-    "wof:lastmodified":1537640022,
+    "wof:lastmodified":1566714515,
     "wof:name":"Isma'il Muhsin",
     "wof:parent_id":421186459,
     "wof:placetype":"locality",

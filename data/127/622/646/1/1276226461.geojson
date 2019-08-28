@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.77067,36.38416,44.81067,36.42416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Dir\u0101skut"
     ],
@@ -34,8 +38,6 @@
     ],
     "name:und_x_variant":[
         "D\u0101r Askawt",
-        "\u062f\u0627\u0631 \u0627\u0633\u0643\u0648\u062a",
-        "Dir\u0101skut",
         "Dar Ashkawt"
     ],
     "src:geom":"geonames",
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1276226461,
-    "wof:lastmodified":1537639038,
+    "wof:lastmodified":1566714391,
     "wof:name":"Dar Askawt",
     "wof:parent_id":1108562755,
     "wof:placetype":"locality",

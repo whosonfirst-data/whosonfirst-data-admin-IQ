@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.14774,33.49152,44.18774,33.53152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0645\u0648\u062f \u0639\u0628\u062f \ufdf2"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259874233,
-    "wof:lastmodified":1537639615,
+    "wof:lastmodified":1566715244,
     "wof:name":"Mahmud 'Abd Allah",
     "wof:parent_id":1108562795,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":30.54705,
     "lbl:longitude":47.511065,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Basra",
     "meso:name_alt2":"Al-Basrah",
     "meso:name_local":"\u0627\u0644\u0628\u0635\u0631\u0629",
@@ -44,15 +45,8 @@
         "Basra Governorate",
         "Basra"
     ],
-    "name:und_x_preferred":[
-        "Al Basrah"
-    ],
     "name:und_x_variant":[
-        "Al-Basrah",
-        "Basra"
-    ],
-    "name:unk_x_variant":[
-        "Basrah"
+        "Al Basrah"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRQ",
@@ -127,9 +121,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-10-16",
+    "src:population_date":"1997-10-16",
     "statoids:area_km":"19,070",
     "statoids:area_mi":"7,363",
     "statoids:as_of_date":"1997-10-16",
@@ -154,7 +148,7 @@
         "gp:id":2345834,
         "hasc:id":"IQ.BA",
         "iso:id":"IQ-BA",
-        "qs:id":1135096,
+        "qs_pg:id":1135096,
         "unlc:id":"IQ-BA"
     },
     "wof:country":"IQ",
@@ -174,11 +168,10 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1565722172,
+    "wof:lastmodified":1566714125,
     "wof:name":"Al-Basrah",
     "wof:parent_id":85632191,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1556445,
     "wof:population_rank":12,

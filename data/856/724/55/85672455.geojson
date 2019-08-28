@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":30.106675,
     "lbl:longitude":45.210692,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Muthanna",
     "meso:name_alt2":"Al-Muthanna",
     "meso:name_local":"\u0627\u0644\u0645\u062b\u0646\u0649",
@@ -160,7 +161,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0442\u0430\u043d\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "As-Samawah Province"
     ],
     "name:urd_x_preferred":[
@@ -242,9 +243,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-10-16",
+    "src:population_date":"1997-10-16",
     "statoids:area_km":"51,740",
     "statoids:area_mi":"19,977",
     "statoids:as_of_date":"1997-10-16",
@@ -268,7 +269,7 @@
         "gp:id":2345835,
         "hasc:id":"IQ.MU",
         "iso:id":"IQ-MU",
-        "qs:id":191367,
+        "qs_pg:id":191367,
         "wd:id":"Q212761",
         "wk:page":"Muthanna Governorate"
     },
@@ -289,11 +290,10 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1565722173,
+    "wof:lastmodified":1566714126,
     "wof:name":"Al-Muthannia",
     "wof:parent_id":85632191,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":436825,
     "wof:population_rank":10,

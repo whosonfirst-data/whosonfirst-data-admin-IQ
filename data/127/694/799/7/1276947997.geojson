@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.01922,36.69614,44.05922,36.73614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kur_x_preferred":[
         "Shanes\u00fbr J\u00fbr\u00ee"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276947997,
-    "wof:lastmodified":1537640099,
+    "wof:lastmodified":1566714357,
     "wof:name":"Shanasur Zhuri",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",

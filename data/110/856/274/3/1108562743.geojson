@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":35.248083,
     "lbl:longitude":43.705361,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kirkuk",
     "meso:admin1_loc":"\u0643\u0631\u0643\u0648\u0643",
     "meso:gadm_admin":"Haweeja",
@@ -32,6 +34,7 @@
     "mps:longitude":43.705361,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Al-Hawiga",
         "Haweeja"
@@ -40,7 +43,7 @@
         "\u0627\u0644\u062d\u0648\u064a\u062c\u0629"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632191,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108562743,
-    "wof:lastmodified":1554489208,
+    "wof:lastmodified":1566714716,
     "wof:name":"Hawiga",
     "wof:parent_id":1108804831,
     "wof:placetype":"county",

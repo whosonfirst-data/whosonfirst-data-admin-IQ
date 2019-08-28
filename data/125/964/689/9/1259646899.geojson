@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.08944,34.00694,44.12944,34.04694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mahd\u012b al al Ibrah"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259646899,
-    "wof:lastmodified":1537638881,
+    "wof:lastmodified":1566715175,
     "wof:name":"Mahdi al al Ibrah",
     "wof:parent_id":421180939,
     "wof:placetype":"locality",

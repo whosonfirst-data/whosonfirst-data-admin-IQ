@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"46.4156,31.07569,46.4556,31.11569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0627\u0626\u0628 \u0645\u0637\u0634\u0631"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310389763,
-    "wof:lastmodified":1537638231,
+    "wof:lastmodified":1566714750,
     "wof:name":"Khara'ib Mutashshar",
     "wof:parent_id":421172357,
     "wof:placetype":"locality",

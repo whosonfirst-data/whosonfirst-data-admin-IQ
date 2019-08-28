@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.61951,36.34546,44.65951,36.38546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276985181,
-    "wof:lastmodified":1536900041,
+    "wof:lastmodified":1566714437,
     "wof:name":"Kawartian",
     "wof:parent_id":1108562755,
     "wof:placetype":"locality",

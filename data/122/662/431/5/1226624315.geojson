@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.55615,35.63165,43.59615,35.67165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a \u0643\u0631\u062f \u0643\u0627\u0646"
     ],
@@ -40,8 +44,7 @@
         "Sal Kird K\u0101nah",
         "Sal Kirdk\u0101n",
         "Sai Kirdk\u0101n",
-        "Siyy Kird K\u0101n",
-        "Se Grtkan"
+        "Siyy Kird K\u0101n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1226624315,
-    "wof:lastmodified":1537637990,
+    "wof:lastmodified":1566715414,
     "wof:name":"Siyy Kird Kan",
     "wof:parent_id":1108562779,
     "wof:placetype":"locality",

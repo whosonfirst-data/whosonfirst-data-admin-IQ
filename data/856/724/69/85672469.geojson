@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":31.870435,
     "lbl:longitude":47.06986,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Missan",
     "meso:name_alt2":"",
     "meso:name_local":"\u0645\u064a\u0633\u0627\u0646",
@@ -195,7 +196,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u0441\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liw\u0101\u2019 al \u2018Am\u0101rah"
     ],
     "name:urd_x_preferred":[
@@ -280,9 +281,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-10-16",
+    "src:population_date":"1997-10-16",
     "statoids:area_km":"16,072",
     "statoids:area_mi":"6,205",
     "statoids:as_of_date":"1997-10-16",
@@ -307,7 +308,7 @@
         "gp:id":2345846,
         "hasc:id":"IQ.MA",
         "iso:id":"IQ-MA",
-        "qs:id":959517,
+        "qs_pg:id":959517,
         "unlc:id":"IQ-MA",
         "wd:id":"Q213170",
         "wk:page":"Maysan Governorate"
@@ -329,11 +330,10 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1565722171,
+    "wof:lastmodified":1566714123,
     "wof:name":"Maysan",
     "wof:parent_id":85632191,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":637126,
     "wof:population_rank":11,

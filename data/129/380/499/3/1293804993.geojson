@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.47622,33.10578,44.51622,33.14578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0636\u064a\u0631 \u062d\u0633\u0646"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293804993,
-    "wof:lastmodified":1537639849,
+    "wof:lastmodified":1566714271,
     "wof:name":"Khudayr Hasan",
     "wof:parent_id":421189307,
     "wof:placetype":"locality",

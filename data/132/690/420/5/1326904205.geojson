@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"47.29667,31.48,47.33667,31.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban\u012b M\u0101t\u012bk"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326904205,
-    "wof:lastmodified":1537638569,
+    "wof:lastmodified":1566713893,
     "wof:name":"Bani Matik",
     "wof:parent_id":1108562713,
     "wof:placetype":"locality",

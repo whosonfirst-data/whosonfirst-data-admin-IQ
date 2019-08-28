@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.75878,35.09608,43.79878,35.13608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062d\u0627\u0628 \u0627\u0644\u0645\u0634\u0644\u062d"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276427387,
-    "wof:lastmodified":1537639256,
+    "wof:lastmodified":1566714333,
     "wof:name":"Sahab al Mushlih",
     "wof:parent_id":1108562743,
     "wof:placetype":"locality",

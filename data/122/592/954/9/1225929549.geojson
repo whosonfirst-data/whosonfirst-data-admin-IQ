@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.80767,36.99778,43.84767,37.03778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kur_x_preferred":[
         "Kumelgeha Sw\u00eery\u00ea"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1225929549,
-    "wof:lastmodified":1537640092,
+    "wof:lastmodified":1566715271,
     "wof:name":"Kumelgeha Swirye",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

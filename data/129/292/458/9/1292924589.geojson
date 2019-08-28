@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"46.56889,30.92056,46.60889,30.96056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khabb\u0101z",
         "Al Khabb\u0101z"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292924589,
-    "wof:lastmodified":1537638246,
+    "wof:lastmodified":1566714166,
     "wof:name":"Al Khabbaz",
     "wof:parent_id":1108562723,
     "wof:placetype":"locality",

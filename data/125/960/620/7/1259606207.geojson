@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.59721,35.81,45.63721,35.85",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0648\u0686\u064a \u0628\u0631\u062f\u0648\u06af"
     ],
@@ -41,7 +45,6 @@
         "Q\u016bkh\u012b Bar\u016bdak",
         "\u0642\u0648\u062e\u064a \u0628\u0631\u0648\u062f\u0643",
         "Qawch\u012b Bird\u016bg",
-        "\u0642\u0648\u0686\u064a \u0628\u0631\u062f\u0648\u06af",
         "Qoche Brdog"
     ],
     "src:geom":"geonames",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1259606207,
-    "wof:lastmodified":1537640033,
+    "wof:lastmodified":1566715235,
     "wof:name":"Qawchi Birdug",
     "wof:parent_id":1108562763,
     "wof:placetype":"locality",

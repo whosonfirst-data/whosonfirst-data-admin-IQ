@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.12611,31.46806,45.16611,31.50806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tash\u0101sh",
         "\u0162ash\u0101sh an Nab\u0101\u2019ish"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343969873,
-    "wof:lastmodified":1537637845,
+    "wof:lastmodified":1566713947,
     "wof:name":"Tashash an Naba'ish",
     "wof:parent_id":1108562705,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3211055.132121,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.442444,33.309872,44.442444,33.309872",
     "geom:latitude":33.309872,
     "geom:longitude":44.442444,
     "iso:country":"IQ",
+    "lbl:bbox":"44.437444,33.304872,44.447444,33.314872",
     "lbl:latitude":33.309872,
     "lbl:longitude":44.442444,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.309871,
     "mps:longitude":44.442457,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Al Wahdah"
     ],
     "name:ara_x_preferred":[
-        "Al Wah\u0327dah"
-    ],
-    "name:unk_x_variant":[
         "Al Wah\u0327dah"
     ],
     "qs:gn_adm0_cc":"IQ",
@@ -60,13 +59,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":120,
     "wof:belongsto":[
+        85672447,
         102191569,
         85632191,
-        1108562785,
-        85672447
+        1108562785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936030,
+    "wof:lastmodified":1566714121,
     "wof:name":"Al Wah\u0327dah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

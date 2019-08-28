@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.8175,36.05495,43.8575,36.09495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0646\u062f\u0648\u0631\u0629"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1326811551,
-    "wof:lastmodified":1537637853,
+    "wof:lastmodified":1566713787,
     "wof:name":"Tendure",
     "wof:parent_id":421200817,
     "wof:placetype":"locality",

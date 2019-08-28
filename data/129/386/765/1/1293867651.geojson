@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.05876,33.80413,45.09876,33.84413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Mahdi"
     ],
@@ -152,9 +156,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0433\u0434\u0456"
     ],
-    "name:und_x_variant":[
-        "Mahd\u012b"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0645\u0627\u0645 \u0645\u06c1\u062f\u06cc"
     ],
@@ -190,7 +191,7 @@
         }
     ],
     "wof:id":1293867651,
-    "wof:lastmodified":1564104870,
+    "wof:lastmodified":1566714291,
     "wof:name":"Mahdi",
     "wof:parent_id":1108562655,
     "wof:placetype":"locality",

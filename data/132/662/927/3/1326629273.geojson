@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.90028,35.55801,45.94028,35.59801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0634\u0627\u0646"
     ],
@@ -50,7 +54,6 @@
     "name:und_x_variant":[
         "Roshan",
         "Rawsh\u0101n",
-        "Rash\u0101n",
         "Rashan"
     ],
     "src:geom":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1326629273,
-    "wof:lastmodified":1564104024,
+    "wof:lastmodified":1566713900,
     "wof:name":"Rashan",
     "wof:parent_id":1108562765,
     "wof:placetype":"locality",

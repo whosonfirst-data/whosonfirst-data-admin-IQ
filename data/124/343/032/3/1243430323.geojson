@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.32528,34.28956,43.36528,34.32956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0648\u062f\u0629 \u062c\u062f\u064a\u0639"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243430323,
-    "wof:lastmodified":1537638888,
+    "wof:lastmodified":1566715148,
     "wof:name":"'Awdat Juday'",
     "wof:parent_id":1108562799,
     "wof:placetype":"locality",

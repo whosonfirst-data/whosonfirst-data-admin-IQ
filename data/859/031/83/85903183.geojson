@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7679616.619241,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.360987,33.331567,44.360987,33.331567",
     "geom:latitude":33.331567,
     "geom:longitude":44.360987,
     "iso:country":"IQ",
+    "lbl:bbox":"44.355987,33.326567,44.365987,33.336567",
     "lbl:latitude":33.331567,
     "lbl:longitude":44.360987,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.329904,
     "mps:longitude":44.352907,
     "mz:hierarchy_label":0,
@@ -70,13 +72,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":43,
     "wof:belongsto":[
+        85672447,
         102191569,
         85632191,
-        1108562795,
-        85672447
+        1108562795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +101,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936031,
+    "wof:lastmodified":1566714122,
     "wof:name":"Al Wash\u00e5sh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,18 @@
     "geom:bbox":"47.70174,30.39213,47.70174,30.39213",
     "geom:latitude":30.39213,
     "geom:longitude":47.70174,
-    "gn:gn_country":"IQ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":122676,
+    "gn:country":"IQ",
+    "gn:fcode":"PPL",
     "gn:population":122676,
     "iso:country":"IQ",
+    "lbl:bbox":"47.68174,30.37213,47.72174,30.41213",
     "lbl:latitude":30.39213,
     "lbl:longitude":47.70174,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0628\u064a\u0631"
@@ -131,7 +134,7 @@
         "Az Zubayr"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bb8\u0bcd  \u0bb8\u0bc1\u0baa\u0bc8\u0baf\u0bb0\u0bcd"
+        "\u0b85\u0bb8\u0bcd \u0bb8\u0bc1\u0baa\u0bc8\u0baf\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c1c\u0c4d \u0c1c\u0c41\u0c2c\u0c3e\u0c2f\u0c30\u0c4d"
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0437-\u0417\u0443\u0431\u0430\u0439\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Zubair"
     ],
     "name:urd_x_preferred":[
@@ -169,7 +172,7 @@
     "qs_pg:qs_id":62900,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":1125920761,
-    "wof:lastmodified":1563334266,
+    "wof:lastmodified":1566714973,
     "wof:name":"Az Zubayr",
     "wof:parent_id":1108562727,
     "wof:placetype":"locality",

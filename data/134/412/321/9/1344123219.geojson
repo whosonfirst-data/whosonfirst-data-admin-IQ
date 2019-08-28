@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.3225,34.13111,44.3625,34.17111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e28\u0101w\u012b Iglay\u2018ah"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344123219,
-    "wof:lastmodified":1537638882,
+    "wof:lastmodified":1566713987,
     "wof:name":"Hawi Iglay'ah",
     "wof:parent_id":1108562773,
     "wof:placetype":"locality",

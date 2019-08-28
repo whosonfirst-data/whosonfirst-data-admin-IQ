@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.8465,35.18956,45.8865,35.22956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Kh\u016bl\u0101y Khuw\u0101r Sufl\u00e1"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310128565,
-    "wof:lastmodified":1537640056,
+    "wof:lastmodified":1566714726,
     "wof:name":"Khulay Khuwar Sufla",
     "wof:parent_id":421183885,
     "wof:placetype":"locality",

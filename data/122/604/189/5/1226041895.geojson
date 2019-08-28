@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.78039,36.09157,44.82039,36.13157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "W\u012bj\u0101"
     ],
@@ -43,7 +47,6 @@
         "Maiwizha",
         "Mayw\u012bzhah",
         "M\u0113wzha",
-        "Mewzha",
         "Mewizha"
     ],
     "src:geom":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1226041895,
-    "wof:lastmodified":1537638144,
+    "wof:lastmodified":1566715330,
     "wof:name":"Mewje",
     "wof:parent_id":1108562759,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.73308,35.51765,43.77308,35.55765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u062f\u0647 \u0631\u0648\u062f"
     ],
@@ -38,8 +42,7 @@
     "name:und_x_variant":[
         "Kud\u012b R\u016bn",
         "Kurd\u012b R\u016b\u012b",
-        "Kirdah R\u016bd",
-        "Girdarwa"
+        "Kirdah R\u016bd"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1310284361,
-    "wof:lastmodified":1537638192,
+    "wof:lastmodified":1566714798,
     "wof:name":"Kirdah Rud",
     "wof:parent_id":1108562779,
     "wof:placetype":"locality",

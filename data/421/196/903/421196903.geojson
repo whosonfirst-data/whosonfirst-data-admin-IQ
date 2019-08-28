@@ -10,13 +10,17 @@
     "geom:latitude":31.52845,
     "geom:longitude":45.20377,
     "iso:country":"IQ",
+    "lbl:bbox":"45.18377,31.50845,45.22377,31.54845",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0645\u064a\u062b\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rumetha"
     ],
     "qs:gn_country":"IQ",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":98685,
         "gp:id":1979430,
-        "qs:id":1302084
+        "qs_pg:id":1302084
     },
     "wof:country":"IQ",
     "wof:created":1459009896,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421196903,
-    "wof:lastmodified":1505340749,
+    "wof:lastmodified":1566714965,
     "wof:name":"Ar Rumaythah",
     "wof:parent_id":1108562705,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":43.8739,
     "gn:country":"IQ",
     "gn:fcode":"PPL",
-    "gn:pop":158508,
+    "gn:population":158508,
     "iso:country":"IQ",
+    "lbl:bbox":"43.8539,34.17663,43.8939,34.21663",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -217,7 +220,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0440\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u0101marrah"
     ],
     "name:urd_x_preferred":[
@@ -336,7 +339,7 @@
     "wof:concordances":{
         "gn:id":91597,
         "gp:id":1977526,
-        "qs:id":62219,
+        "qs_pg:id":62219,
         "wd:id":"Q170047"
     },
     "wof:country":"IQ",
@@ -352,7 +355,7 @@
         }
     ],
     "wof:id":890449805,
-    "wof:lastmodified":1563334259,
+    "wof:lastmodified":1566714971,
     "wof:name":"S\u0101marr\u0101\u2019",
     "wof:parent_id":1108562773,
     "wof:placetype":"locality",

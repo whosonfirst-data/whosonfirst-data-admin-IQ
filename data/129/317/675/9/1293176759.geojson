@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.08117,33.55815,44.12117,33.59815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0628\u062f \u062d\u0645\u0648\u062f"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293176759,
-    "wof:lastmodified":1537639607,
+    "wof:lastmodified":1566714278,
     "wof:name":"`Abd Hamud",
     "wof:parent_id":421191407,
     "wof:placetype":"locality",

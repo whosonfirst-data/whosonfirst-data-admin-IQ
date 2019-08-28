@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":34.673935,
     "lbl:longitude":41.828997,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Anbar",
     "meso:admin1_loc":"\u0627\u0644\u0627\u0646\u0628\u0627\u0631",
     "meso:gadm_admin":"Anah",
@@ -32,6 +34,7 @@
     "mps:longitude":41.828997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Ra'ua",
         "Anah"
@@ -40,7 +43,7 @@
         "\u0631\u0627\u0648\u0629"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632191,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108562803,
-    "wof:lastmodified":1554489210,
+    "wof:lastmodified":1566714715,
     "wof:name":"Ru'ua",
     "wof:parent_id":85672483,
     "wof:placetype":"county",

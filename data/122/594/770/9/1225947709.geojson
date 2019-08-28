@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"47.40861,31.1625,47.44861,31.2025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nakhkrash",
         "Nakrash",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1225947709,
-    "wof:lastmodified":1537638106,
+    "wof:lastmodified":1566715265,
     "wof:name":"Nakhash",
     "wof:parent_id":1108562717,
     "wof:placetype":"locality",

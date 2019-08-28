@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.28128,33.46723,44.32128,33.50723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al H\u0101jj \u2018Abb\u0101s an Na\u015f\u012bf"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309897623,
-    "wof:lastmodified":1537639075,
+    "wof:lastmodified":1566714950,
     "wof:name":"Al Hajj 'Abbas an Nasif",
     "wof:parent_id":1108562795,
     "wof:placetype":"locality",

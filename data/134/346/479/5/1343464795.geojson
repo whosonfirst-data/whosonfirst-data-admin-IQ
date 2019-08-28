@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.62815,32.07925,44.66815,32.11925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0634\u0645 \u063a\u0631\u0648\u0632 \u0646\u0639\u0645\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343464795,
-    "wof:lastmodified":1537639488,
+    "wof:lastmodified":1566713998,
     "wof:name":"Hashim Ghuruz Ni'mah",
     "wof:parent_id":421181959,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.05236,32.8833,45.09236,32.9233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u062e\u0627\u0644"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276301827,
-    "wof:lastmodified":1537639135,
+    "wof:lastmodified":1566714430,
     "wof:name":"Ad Dakhkhal",
     "wof:parent_id":1108562781,
     "wof:placetype":"locality",

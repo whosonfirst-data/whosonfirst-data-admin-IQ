@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":34.254165,
     "lbl:longitude":43.363674,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Salah al-Din",
     "meso:admin1_loc":"\u0635\u0644\u0627\u062d \u0627\u0644\u062f\u064a\u0646",
     "meso:gadm_admin":"Samarra",
@@ -32,6 +34,7 @@
     "mps:longitude":43.363674,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0645\u0631\u0627\u0621"
     ],
@@ -200,9 +203,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0440\u0440\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0633\u0627\u0645\u0631\u0627\u0621"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0645\u0631\u0627\u0621"
     ],
@@ -213,7 +213,7 @@
         "\u85a9\u9081\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632191,
@@ -233,7 +233,7 @@
         }
     ],
     "wof:id":1108562799,
-    "wof:lastmodified":1564105833,
+    "wof:lastmodified":1566714721,
     "wof:name":"Samarra",
     "wof:parent_id":85672435,
     "wof:placetype":"county",

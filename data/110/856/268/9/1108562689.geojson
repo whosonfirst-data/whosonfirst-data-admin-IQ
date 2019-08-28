@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":32.301528,
     "lbl:longitude":44.648699,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Babylon",
     "meso:admin1_loc":"\u0628\u0627\u0628\u0644",
     "meso:gadm_admin":"Al Hashimiyah",
@@ -32,6 +34,7 @@
     "mps:longitude":44.648699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Hashimiya",
         "Al Hashimiyah"
@@ -40,7 +43,7 @@
         "\u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632191,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108562689,
-    "wof:lastmodified":1554489207,
+    "wof:lastmodified":1566714718,
     "wof:name":"Hashimiya",
     "wof:parent_id":85672491,
     "wof:placetype":"county",

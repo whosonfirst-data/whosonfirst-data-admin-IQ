@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.91594,33.88304,44.95594,33.92304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0632\u0646 \u0639\u0628\u062f \u0627\u0644\u0631\u062d\u0645\u0646"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343847117,
-    "wof:lastmodified":1537639365,
+    "wof:lastmodified":1566714006,
     "wof:name":"Mazin 'Abd ar Rahman",
     "wof:parent_id":421184253,
     "wof:placetype":"locality",

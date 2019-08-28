@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.53,31.63,44.57,31.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shaikh Jabb\u0101r",
         "Ash Shaykh Jabb\u0101r"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343494123,
-    "wof:lastmodified":1537638619,
+    "wof:lastmodified":1566714021,
     "wof:name":"Ash Shaykh Jabbar",
     "wof:parent_id":1108562699,
     "wof:placetype":"locality",

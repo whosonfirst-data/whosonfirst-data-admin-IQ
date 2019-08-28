@@ -10,8 +10,12 @@
     "geom:latitude":35.6169,
     "geom:longitude":45.95338,
     "iso:country":"IQ",
+    "lbl:bbox":"45.93338,35.5969,45.97338,35.6369",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u067e\u064a\u0646\u062c\u0648\u06cc\u0646"
@@ -32,7 +36,7 @@
         "\u067e\u06ce\u0646\u062c\u0648\u06ce\u0646",
         "P\u00eanciw\u00ean"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Banjw\u012bn"
     ],
     "qs:gn_country":"IQ",
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":98012,
         "gp:id":1972275,
-        "qs:id":257252
+        "qs_pg:id":257252
     },
     "wof:country":"IQ",
     "wof:created":1459008868,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421170793,
-    "wof:lastmodified":1507590242,
+    "wof:lastmodified":1566714968,
     "wof:name":"\u0628\u0646\u062c\u0648\u064a\u0646",
     "wof:parent_id":1108562765,
     "wof:placetype":"locality",

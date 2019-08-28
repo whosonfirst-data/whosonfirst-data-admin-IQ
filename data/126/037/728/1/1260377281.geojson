@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.07436,35.30317,44.11436,35.34317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0644\u0649 \u063a\u064a\u0631"
     ],
@@ -40,8 +44,7 @@
         "Al Jayr",
         "Al Gayr",
         "Algair",
-        "\u2018Ul\u00e1 Ghayr",
-        "Kaly Ker"
+        "\u2018Ul\u00e1 Ghayr"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1260377281,
-    "wof:lastmodified":1537638676,
+    "wof:lastmodified":1566714680,
     "wof:name":"'Ula Ghayr",
     "wof:parent_id":421199293,
     "wof:placetype":"locality",

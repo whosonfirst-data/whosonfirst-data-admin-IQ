@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":33.255552,
     "lbl:longitude":44.722206,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Baghdad",
     "meso:admin1_loc":"\u0628\u063a\u062f\u0627\u062f",
     "meso:gadm_admin":"Balad Ruz",
@@ -32,6 +34,7 @@
     "mps:longitude":44.722206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Mada'in",
         "Balad Ruz"
@@ -40,7 +43,7 @@
         "\u0627\u0644\u0645\u062f\u0627\u0626\u0646"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632191,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108562739,
-    "wof:lastmodified":1554489208,
+    "wof:lastmodified":1566714716,
     "wof:name":"Mada'in",
     "wof:parent_id":85672447,
     "wof:placetype":"county",

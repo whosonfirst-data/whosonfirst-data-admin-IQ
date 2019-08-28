@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":34.392864,
     "lbl:longitude":43.603564,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_alt2":"Salah ad-Din",
     "meso:name_local":"\u0635\u0644\u0627\u062d \u0627\u0644\u062f\u064a\u0646",
@@ -46,7 +47,7 @@
         "Salah ad Din",
         "Salah ad-Din"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salahuddin"
     ],
     "ne:abbrev":"",
@@ -122,9 +123,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-10-16",
+    "src:population_date":"1997-10-16",
     "statoids:area_km":"24,751",
     "statoids:area_mi":"9,556",
     "statoids:as_of_date":"1997-10-16",
@@ -149,7 +150,7 @@
         "gp:id":2345850,
         "hasc:id":"IQ.SD",
         "iso:id":"IQ-SD",
-        "qs:id":900704,
+        "qs_pg:id":900704,
         "unlc:id":"IQ-SD"
     },
     "wof:country":"IQ",
@@ -169,11 +170,10 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1565722171,
+    "wof:lastmodified":1566714123,
     "wof:name":"Sala ad-Din",
     "wof:parent_id":85632191,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":904432,
     "wof:population_rank":11,

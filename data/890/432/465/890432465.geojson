@@ -11,8 +11,11 @@
     "geom:longitude":45.4329,
     "gn:country":"IQ",
     "gn:fcode":"PPLA",
-    "gn:pop":723170,
+    "gn:population":723170,
     "iso:country":"IQ",
+    "lbl:bbox":"45.4129,35.54496,45.4529,35.58496",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -213,7 +216,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043b\u0435\u0439\u043c\u0430\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sleim\u0101ni"
     ],
     "name:urd_x_preferred":[
@@ -338,7 +341,7 @@
     "wof:concordances":{
         "gn:id":98463,
         "gp:id":1979435,
-        "qs:id":62985,
+        "qs_pg:id":62985,
         "wd:id":"Q191204"
     },
     "wof:country":"IQ",
@@ -353,7 +356,7 @@
         }
     ],
     "wof:id":890432465,
-    "wof:lastmodified":1563334265,
+    "wof:lastmodified":1566714972,
     "wof:name":"As Sulaym\u0101n\u012byah",
     "wof:parent_id":1108562761,
     "wof:placetype":"locality",

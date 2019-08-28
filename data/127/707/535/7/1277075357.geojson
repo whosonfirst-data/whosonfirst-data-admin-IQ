@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.81778,31.50639,44.85778,31.54639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qal\u2018at Ab\u016b S\u016brah"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277075357,
-    "wof:lastmodified":1537638066,
+    "wof:lastmodified":1566714305,
     "wof:name":"Qal'at Abu Surah",
     "wof:parent_id":1108562701,
     "wof:placetype":"locality",

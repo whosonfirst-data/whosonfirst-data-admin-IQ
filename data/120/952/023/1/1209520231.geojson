@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.51927,35.88119,45.55927,35.92119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0648\u0644\u0629 \u0643\u0627\u0646\u064a"
     ],
@@ -41,7 +45,6 @@
         "Q\u016blah Kan",
         "\u0642\u0648\u0644\u0629 \u0643\u0646",
         "Q\u016blah K\u0101n\u012b",
-        "\u0642\u0648\u0644\u0629 \u0643\u0627\u0646\u064a",
         "Kula Kani"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209520231,
-    "wof:lastmodified":1537640035,
+    "wof:lastmodified":1566714487,
     "wof:name":"Qulah Kani",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"44.01062,36.19257,44.01062,36.19257",
     "geom:latitude":36.19257,
     "geom:longitude":44.01062,
-    "gn:gn_country":"IQ",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":932800,
+    "gn:country":"IQ",
+    "gn:fcode":"PPLA",
     "gn:population":932800,
     "iso:country":"IQ",
+    "lbl:bbox":"43.99062,36.17257,44.03062,36.21257",
     "lbl:latitude":36.19257,
     "lbl:longitude":44.01062,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Arbil"
@@ -299,7 +302,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0431\u0456\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hawl\u0113r"
     ],
     "name:urd_x_preferred":[
@@ -326,7 +329,7 @@
     "qs_pg:qs_id":62599,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -353,7 +356,7 @@
         }
     ],
     "wof:id":1125920643,
-    "wof:lastmodified":1563334268,
+    "wof:lastmodified":1566714973,
     "wof:name":"Erbil",
     "wof:parent_id":421200817,
     "wof:placetype":"locality",

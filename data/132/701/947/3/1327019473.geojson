@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"46.21333,31.14667,46.25333,31.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mu\u1e29ammad al Ful\u0101y\u1e29",
         "Muhammad al Fulaiyih",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327019473,
-    "wof:lastmodified":1537638125,
+    "wof:lastmodified":1566713767,
     "wof:name":"Muhammad al 'Ulayb",
     "wof:parent_id":1108562741,
     "wof:placetype":"locality",

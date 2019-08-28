@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.12733,36.56099,44.16733,36.60099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Fuqiy\u0101nuk"
     ],
@@ -43,8 +47,6 @@
     "name:und_x_variant":[
         "Faqy\u0101nuk",
         "Faqy\u0101n",
-        "\u0641\u0642\u064a\u0627\u0646",
-        "Fuqiy\u0101nuk",
         "Faqeyan",
         "Faqian"
     ],
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1310679239,
-    "wof:lastmodified":1537638422,
+    "wof:lastmodified":1566714840,
     "wof:name":"Faqyan",
     "wof:parent_id":1108562757,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.72059,36.35779,44.76059,36.39779",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u062f\u0627\u0646\u0643\u0629"
     ],
@@ -40,7 +44,6 @@
         "Band\u012bngah",
         "Bard\u0101nga",
         "Bard\u0101nkah",
-        "Bardanka",
         "Bardanga"
     ],
     "src:geom":"geonames",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1209105237,
-    "wof:lastmodified":1537638560,
+    "wof:lastmodified":1566714590,
     "wof:name":"Berdenke",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",

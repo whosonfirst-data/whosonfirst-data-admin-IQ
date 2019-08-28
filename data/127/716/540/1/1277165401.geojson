@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.11861,36.88608,44.15861,36.92608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0631\u064a"
     ],
@@ -41,7 +45,6 @@
         "B\u0101r\u012b",
         "Dura",
         "Dawray",
-        "\u062f\u0648\u0631\u064a",
         "Dure"
     ],
     "src:geom":"geonames",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1277165401,
-    "wof:lastmodified":1537638556,
+    "wof:lastmodified":1566714450,
     "wof:name":"Dawray",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

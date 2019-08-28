@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.06605,36.43398,44.10605,36.47398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0631\u0633\u0648\u0644"
     ],
@@ -39,9 +43,6 @@
         "\u0633\u0631\u0633\u0648\u0644"
     ],
     "name:swe_x_preferred":[
-        "Sars\u016bl"
-    ],
-    "name:und_x_variant":[
         "Sars\u016bl"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1210004887,
-    "wof:lastmodified":1564105581,
+    "wof:lastmodified":1566714602,
     "wof:name":"Sarsul",
     "wof:parent_id":1108562757,
     "wof:placetype":"locality",

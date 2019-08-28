@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.19306,32.45,44.23306,32.49",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Al\u012b",
         "\u2018Ali al Husain",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343548365,
-    "wof:lastmodified":1537638668,
+    "wof:lastmodified":1566713951,
     "wof:name":"'Ali al Husayn",
     "wof:parent_id":1108562777,
     "wof:placetype":"locality",

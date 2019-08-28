@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.7423,35.1975,45.7823,35.2375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u0437\u0443\u043b"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1293691585,
-    "wof:lastmodified":1564104714,
+    "wof:lastmodified":1566714222,
     "wof:name":"Vazul",
     "wof:parent_id":1108562767,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.12093,36.91209,44.16093,36.95209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "B\u0113dy\u0101l"
     ],
@@ -42,10 +46,8 @@
     "name:und_x_variant":[
         "B\u012bdy\u0101r",
         "Baydiy\u0101l",
-        "\u0628\u064a\u062f\u064a\u0627\u0644",
         "N\u012bdy\u0101l",
         "\u0646\u064a\u062f\u064a\u0627\u0644",
-        "B\u0113dy\u0101l",
         "Bidial",
         "Bedyal"
     ],
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":1360063509,
-    "wof:lastmodified":1537638525,
+    "wof:lastmodified":1566714870,
     "wof:name":"Baydiyal",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

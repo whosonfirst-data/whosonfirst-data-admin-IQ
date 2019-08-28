@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.510355,
     "lbl:longitude":44.607616,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_alt2":"",
     "meso:name_local":"\u0628\u0627\u0628\u0644",
@@ -207,7 +208,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0431\u0456\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liw\u0101\u2019 al \u1e28illah"
     ],
     "name:urd_x_preferred":[
@@ -292,9 +293,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-10-16",
+    "src:population_date":"1997-10-16",
     "statoids:area_km":"6,468",
     "statoids:area_mi":"2,497",
     "statoids:as_of_date":"1997-10-16",
@@ -319,7 +320,7 @@
         "gp:id":2345838,
         "hasc:id":"IQ.BB",
         "iso:id":"IQ-BB",
-        "qs:id":427264,
+        "qs_pg:id":427264,
         "unlc:id":"IQ-BB",
         "wd:id":"Q59202",
         "wk:page":"Babil Governorate"
@@ -341,11 +342,10 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1565722172,
+    "wof:lastmodified":1566714125,
     "wof:name":"Babil",
     "wof:parent_id":85632191,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1181751,
     "wof:population_rank":12,

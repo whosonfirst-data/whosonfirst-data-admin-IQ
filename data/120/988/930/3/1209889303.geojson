@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.76806,36.77917,43.80806,36.81917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "D\u0113r Awd\u012bsho"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209889303,
-    "wof:lastmodified":1537638901,
+    "wof:lastmodified":1566714592,
     "wof:name":"Der Awdisho",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",

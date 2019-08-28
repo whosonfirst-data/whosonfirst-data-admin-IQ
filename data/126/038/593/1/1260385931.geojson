@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"43.83556,33.20538,43.87556,33.24538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0627\u0644\u062e\u0636\u0631"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260385931,
-    "wof:lastmodified":1537639071,
+    "wof:lastmodified":1566714663,
     "wof:name":"Qaryat al Khadr",
     "wof:parent_id":421184257,
     "wof:placetype":"locality",

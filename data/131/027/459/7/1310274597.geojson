@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.56222,32.98139,44.60222,33.02139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Diw\u0101n\u012bya",
         "D\u012bw\u0101n\u012byah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310274597,
-    "wof:lastmodified":1537638445,
+    "wof:lastmodified":1566714784,
     "wof:name":"Diwaniyah",
     "wof:parent_id":1108562783,
     "wof:placetype":"locality",

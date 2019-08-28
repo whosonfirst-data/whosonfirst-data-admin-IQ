@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.16333,33.99116,45.20333,34.03116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u0639\u0642\u0648\u0628 \u064a\u0648\u0633\u0641 \u0632\u0628\u0627\u0644\u0647"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343245843,
-    "wof:lastmodified":1537638035,
+    "wof:lastmodified":1566714010,
     "wof:name":"Ya'qub Yusuf Zabalah",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",

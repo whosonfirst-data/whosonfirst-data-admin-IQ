@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"41.5587,34.29898,41.5987,34.33898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0686\u0628\u0627\u0628"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343779673,
-    "wof:lastmodified":1537638660,
+    "wof:lastmodified":1566714002,
     "wof:name":"Chibab",
     "wof:parent_id":1108562669,
     "wof:placetype":"locality",

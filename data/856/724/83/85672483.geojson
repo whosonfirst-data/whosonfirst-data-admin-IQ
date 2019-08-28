@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":33.053066,
     "lbl:longitude":41.656602,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_alt2":"",
     "meso:name_local":"\u0627\u0644\u0627\u0646\u0628\u0627\u0631",
@@ -178,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0431\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dulaim"
     ],
     "name:urd_x_preferred":[
@@ -260,9 +261,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-10-16",
+    "src:population_date":"1997-10-16",
     "statoids:area_km":"138,501",
     "statoids:area_mi":"53,476",
     "statoids:as_of_date":"1997-10-16",
@@ -286,7 +287,7 @@
         "gp:id":2345833,
         "hasc:id":"IQ.AN",
         "iso:id":"IQ-AN",
-        "qs:id":191366,
+        "qs_pg:id":191366,
         "wd:id":"Q187334",
         "wk:page":"Al Anbar Governorate"
     },
@@ -307,11 +308,10 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1565722173,
+    "wof:lastmodified":1566714126,
     "wof:name":"Al-Anbar",
     "wof:parent_id":85632191,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1023776,
     "wof:population_rank":12,

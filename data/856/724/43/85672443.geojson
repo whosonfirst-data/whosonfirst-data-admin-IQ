@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.511623,
     "lbl:longitude":43.819922,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Kerbala",
     "meso:name_alt2":"Karbala",
     "meso:name_local":"\u0643\u0631\u0628\u0644\u0627\u0621",
@@ -188,7 +189,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0440\u0431\u0435\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karbal\u0101\u2019"
     ],
     "name:urd_x_preferred":[
@@ -273,9 +274,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-10-16",
+    "src:population_date":"1997-10-16",
     "statoids:area_km":"5,034",
     "statoids:area_mi":"1,944",
     "statoids:as_of_date":"1997-10-16",
@@ -300,7 +301,7 @@
         "gp:id":2345844,
         "hasc:id":"IQ.KA",
         "iso:id":"IQ-KA",
-        "qs:id":211642,
+        "qs_pg:id":211642,
         "unlc:id":"IQ-KA",
         "wd:id":"Q214104",
         "wk:page":"Karbala Governorate"
@@ -322,11 +323,10 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1565722172,
+    "wof:lastmodified":1566714125,
     "wof:name":"Karbala'",
     "wof:parent_id":85632191,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":594235,
     "wof:population_rank":11,

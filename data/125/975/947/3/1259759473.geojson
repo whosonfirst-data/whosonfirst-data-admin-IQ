@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.465,31.87083,44.505,31.91083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ja\u2018ara",
         "Al J\u2018ara",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259759473,
-    "wof:lastmodified":1537638661,
+    "wof:lastmodified":1566715260,
     "wof:name":"Al Ja'arah",
     "wof:parent_id":1108562693,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.54233,32.01043,44.58233,32.05043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0627\u062c \u0633\u0631\u062d\u0627\u0646"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226248949,
-    "wof:lastmodified":1537639462,
+    "wof:lastmodified":1566715382,
     "wof:name":"Hajj Sarhan",
     "wof:parent_id":421181959,
     "wof:placetype":"locality",

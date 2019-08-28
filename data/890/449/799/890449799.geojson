@@ -11,10 +11,14 @@
     "geom:longitude":43.12026,
     "gn:country":"IQ",
     "gn:fcode":"PPL",
-    "gn:pop":23524,
+    "gn:population":23524,
     "iso:country":"IQ",
+    "lbl:bbox":"43.10026,36.47109,43.14026,36.51109",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0642\u0636\u0627\u0621 \u062a\u0644\u0643\u064a\u0641"
     ],
@@ -78,7 +82,7 @@
     "name:swe_x_preferred":[
         "Tel Keppe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tall Kaif"
     ],
     "name:urd_x_preferred":[
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":90353,
         "gp:id":56121188,
-        "qs:id":62090,
+        "qs_pg:id":62090,
         "wd:id":"Q2418956"
     },
     "wof:country":"IQ",
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":890449799,
-    "wof:lastmodified":1563334257,
+    "wof:lastmodified":1566714970,
     "wof:name":"Qa\u1e11\u0101\u2019 Talk\u012bf",
     "wof:parent_id":1108562629,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.87583,31.79083,44.91583,31.83083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qal\u2018at Umm al \u1e28a\u015fr"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343459055,
-    "wof:lastmodified":1537638053,
+    "wof:lastmodified":1566714093,
     "wof:name":"Qal'at Umm al Hasr",
     "wof:parent_id":1108562701,
     "wof:placetype":"locality",

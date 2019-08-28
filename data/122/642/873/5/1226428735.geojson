@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.35111,35.62278,44.39111,35.66278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kur_x_preferred":[
         "Gu\u0142dze"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226428735,
-    "wof:lastmodified":1537638385,
+    "wof:lastmodified":1566715296,
     "wof:name":"Guldazah Buyuk",
     "wof:parent_id":421199293,
     "wof:placetype":"locality",

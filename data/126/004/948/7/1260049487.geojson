@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.41333,32.51333,45.45333,32.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hidjab"
     ],
@@ -233,7 +237,7 @@
         }
     ],
     "wof:id":1260049487,
-    "wof:lastmodified":1564105806,
+    "wof:lastmodified":1566714709,
     "wof:name":"Hijab",
     "wof:parent_id":1108562675,
     "wof:placetype":"locality",

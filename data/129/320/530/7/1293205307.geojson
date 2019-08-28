@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.71354,35.72677,45.75354,35.76677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0686\u0648\u0631\u0643"
     ],
@@ -40,10 +44,7 @@
         "\u062c\u0648\u0631\u0643",
         "Ch\u016brak",
         "Chawrik",
-        "\u0686\u0648\u0631\u0643",
-        "Chork",
-        "Chowrk",
-        "\u0686\u06c6\u0631\u0643"
+        "Chowrk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1293205307,
-    "wof:lastmodified":1537638482,
+    "wof:lastmodified":1566714254,
     "wof:name":"Chawrik",
     "wof:parent_id":1108562763,
     "wof:placetype":"locality",

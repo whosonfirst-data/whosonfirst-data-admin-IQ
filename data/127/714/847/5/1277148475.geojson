@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.38,31.76333,44.42,31.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Girna",
         "\u2018Urq\u016bb al Qurnah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277148475,
-    "wof:lastmodified":1537637811,
+    "wof:lastmodified":1566714375,
     "wof:name":"'Urqub al Qurnah",
     "wof:parent_id":1108562693,
     "wof:placetype":"locality",

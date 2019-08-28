@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"46.60146,30.89224,46.64146,30.93224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0634\u064a\u062f \u0627\u0644\u0645\u062d\u0633\u0646"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242662059,
-    "wof:lastmodified":1537638788,
+    "wof:lastmodified":1566715022,
     "wof:name":"Rashid al Muhsin",
     "wof:parent_id":1108562723,
     "wof:placetype":"locality",

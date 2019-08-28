@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":32.359781,
     "lbl:longitude":45.529756,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Wassit",
     "meso:admin1_loc":"\u0648\u0627\u0633\u0637",
     "meso:gadm_admin":"Al Noamania",
@@ -32,6 +34,7 @@
     "mps:longitude":45.529756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Al-Na'maniya",
         "Al Noamania"
@@ -40,7 +43,7 @@
         "\u0627\u0644\u0646\u0639\u0645\u0627\u0646\u064a\u0629"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632191,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108562675,
-    "wof:lastmodified":1554489205,
+    "wof:lastmodified":1566714719,
     "wof:name":"Na'maniya",
     "wof:parent_id":85672473,
     "wof:placetype":"county",

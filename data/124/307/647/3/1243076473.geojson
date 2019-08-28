@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"48.44361,29.96306,48.48361,30.00306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Ar\u016bnd Kin\u0101r"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243076473,
-    "wof:lastmodified":1537638853,
+    "wof:lastmodified":1566714975,
     "wof:name":"Arund Kinar",
     "wof:parent_id":1108562737,
     "wof:placetype":"locality",

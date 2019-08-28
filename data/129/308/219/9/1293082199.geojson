@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.14556,36.95931,44.18556,36.99931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "T\u0101nk\u012b"
     ],
@@ -42,7 +46,6 @@
     ],
     "name:und_x_variant":[
         "Tatk\u012b",
-        "\u062a\u0627\u0646\u0643\u064a",
         "Tanky",
         "Tatke"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1293082199,
-    "wof:lastmodified":1537639034,
+    "wof:lastmodified":1566714153,
     "wof:name":"Tanki",
     "wof:parent_id":1108562747,
     "wof:placetype":"locality",

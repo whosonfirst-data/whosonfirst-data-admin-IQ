@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"46.53444,31.25278,46.57444,31.29278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "An Nahr",
         "Al Nah\u0101r",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1292895721,
-    "wof:lastmodified":1537638637,
+    "wof:lastmodified":1566714164,
     "wof:name":"An Nahar",
     "wof:parent_id":421172357,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.73935,35.84234,44.77935,35.88234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0646\u062f \u0622\u063a\u0627\u0639"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226574887,
-    "wof:lastmodified":1537640009,
+    "wof:lastmodified":1566715344,
     "wof:name":"Kand Agha'",
     "wof:parent_id":1108562745,
     "wof:placetype":"locality",

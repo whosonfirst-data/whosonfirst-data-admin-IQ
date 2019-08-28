@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.59667,37.01333,44.63667,37.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Paras"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1277158433,
-    "wof:lastmodified":1564105059,
+    "wof:lastmodified":1566714376,
     "wof:name":"Paras",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",

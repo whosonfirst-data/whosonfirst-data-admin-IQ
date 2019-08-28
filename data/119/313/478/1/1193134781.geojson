@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"44.44363,32.62977,44.48363,32.66977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0637\u0627\u0644\u0628 \u0643\u0645\u0631"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193134781,
-    "wof:lastmodified":1537639646,
+    "wof:lastmodified":1566714628,
     "wof:name":"Talib Kamar",
     "wof:parent_id":421188909,
     "wof:placetype":"locality",

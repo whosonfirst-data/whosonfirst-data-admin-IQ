@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.00111,31.6486,45.04111,31.6886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f \u0645\u062d\u0633\u0646 \u0627\u0628\u0648 \u0637\u0628\u064a\u062e"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259690127,
-    "wof:lastmodified":1537637952,
+    "wof:lastmodified":1566715240,
     "wof:name":"Sayyid Muhsin Abu Tabikh",
     "wof:parent_id":1108562705,
     "wof:placetype":"locality",

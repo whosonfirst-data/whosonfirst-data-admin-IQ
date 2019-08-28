@@ -9,15 +9,18 @@
     "geom:bbox":"44.41963,32.46367,44.41963,32.46367",
     "geom:latitude":32.46367,
     "geom:longitude":44.41963,
-    "gn:gn_country":"IQ",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":289709,
+    "gn:country":"IQ",
+    "gn:fcode":"PPLA",
     "gn:population":289709,
     "iso:country":"IQ",
+    "lbl:bbox":"44.39963,32.44367,44.43963,32.48367",
     "lbl:latitude":32.46367,
     "lbl:longitude":44.41963,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0644\u0629"
@@ -181,7 +184,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0456\u043b\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hilah"
     ],
     "name:urd_x_preferred":[
@@ -208,7 +211,7 @@
     "qs_pg:qs_id":63863,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":1125922643,
-    "wof:lastmodified":1563334271,
+    "wof:lastmodified":1566714974,
     "wof:name":"Al \u1e28illah",
     "wof:parent_id":421172849,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baghdad",
     "iso:country":"IQ",
+    "lbl:bbox":"45.48195,34.78604,45.52195,34.82604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f \u0645\u062d\u0645\u0648\u062f"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1226539221,
-    "wof:lastmodified":1537638601,
+    "wof:lastmodified":1566715420,
     "wof:name":"Sayyid Mahmud",
     "wof:parent_id":1108562659,
     "wof:placetype":"locality",
