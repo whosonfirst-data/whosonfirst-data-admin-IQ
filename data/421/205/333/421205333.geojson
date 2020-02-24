@@ -245,6 +245,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459010221,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6b5c15a6ad4335fcf7cd2ceff556fd20",
     "wof:hierarchy":[
         {
@@ -255,7 +258,7 @@
         }
     ],
     "wof:id":421205333,
-    "wof:lastmodified":1566714962,
+    "wof:lastmodified":1582314011,
     "wof:name":"Samawa",
     "wof:parent_id":85672455,
     "wof:placetype":"county",

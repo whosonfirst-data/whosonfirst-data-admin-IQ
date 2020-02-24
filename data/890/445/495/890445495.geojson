@@ -85,6 +85,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1469052512,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7bf504eec48364a60023c99e34e45c7d",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890445495,
-    "wof:lastmodified":1566714972,
+    "wof:lastmodified":1582314012,
     "wof:name":"Soran",
     "wof:parent_id":85672425,
     "wof:placetype":"county",

@@ -78,6 +78,9 @@
         "gp:id":1970805
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eaa6bf0e5604f7efe5969c4846854746",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566714121,
+    "wof:lastmodified":1582313987,
     "wof:name":"Al Fay\u015fal\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

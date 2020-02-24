@@ -189,6 +189,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009481,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"08bbe2d307dba28f31312bba000e772b",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":421186459,
-    "wof:lastmodified":1566714964,
+    "wof:lastmodified":1582314011,
     "wof:name":"Kut",
     "wof:parent_id":85672473,
     "wof:placetype":"county",

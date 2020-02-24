@@ -179,6 +179,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009481,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7119b3eb2be230dcb2b6e5b08ee31656",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":421186449,
-    "wof:lastmodified":1566714964,
+    "wof:lastmodified":1582314011,
     "wof:name":"Sinjar",
     "wof:parent_id":85672429,
     "wof:placetype":"county",

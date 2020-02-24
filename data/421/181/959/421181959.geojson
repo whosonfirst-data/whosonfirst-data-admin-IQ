@@ -86,6 +86,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009313,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ea055060e5f903ae39c6ef678fb42ecc",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421181959,
-    "wof:lastmodified":1566714965,
+    "wof:lastmodified":1582314011,
     "wof:name":"Diwaniya",
     "wof:parent_id":85672459,
     "wof:placetype":"county",

@@ -69,6 +69,9 @@
         "qs_pg:id":1002946
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9d0f5b29937b756e60ec4a46b76e4d57",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566714121,
+    "wof:lastmodified":1582313988,
     "wof:name":"Alwiya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

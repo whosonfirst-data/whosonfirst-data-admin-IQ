@@ -720,6 +720,9 @@
         421178393
     ],
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1a8918cb9dc64806d933fffe9b48dab0",
     "wof:hierarchy":[
         {
@@ -736,7 +739,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714126,
+    "wof:lastmodified":1582313990,
     "wof:name":"Baghdad",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

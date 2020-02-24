@@ -82,6 +82,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009163,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2200ab2d3db1971ec2ff697430538469",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421177881,
-    "wof:lastmodified":1566714969,
+    "wof:lastmodified":1582314012,
     "wof:name":"Heet",
     "wof:parent_id":85672483,
     "wof:placetype":"county",

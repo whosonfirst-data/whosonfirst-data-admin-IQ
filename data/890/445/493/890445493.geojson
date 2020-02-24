@@ -71,6 +71,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1469052511,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"843ed930e3a52b0cce147d15e147f33e",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890445493,
-    "wof:lastmodified":1566714972,
+    "wof:lastmodified":1582314012,
     "wof:name":"Koisnjaq",
     "wof:parent_id":85672425,
     "wof:placetype":"county",

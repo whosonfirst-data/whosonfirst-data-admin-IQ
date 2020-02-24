@@ -75,6 +75,9 @@
         "qs_pg:id":1120273
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"24f8f39eba16a00b16ba59f6d77d6163",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566714122,
+    "wof:lastmodified":1582313988,
     "wof:name":"Q\u0101\u0163irkh\u0101nah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

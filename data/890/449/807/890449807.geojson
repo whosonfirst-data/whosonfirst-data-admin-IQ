@@ -84,6 +84,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1469052711,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c755a4c1fdf736441725423dae43e3fe",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890449807,
-    "wof:lastmodified":1566714971,
+    "wof:lastmodified":1582314012,
     "wof:name":"N\u0101\u1e29\u012byat Saddat al Hind\u012byah",
     "wof:parent_id":421172849,
     "wof:placetype":"locality",

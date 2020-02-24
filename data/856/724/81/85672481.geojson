@@ -317,6 +317,9 @@
         "wk:page":"Diyala Governorate"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ecd047a60754a37760b074d40d28e49",
     "wof:hierarchy":[
         {
@@ -333,7 +336,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714125,
+    "wof:lastmodified":1582313990,
     "wof:name":"Diyala",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

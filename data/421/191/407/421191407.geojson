@@ -78,6 +78,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009691,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d025d40b2d1da6216b7d533d4e61368",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421191407,
-    "wof:lastmodified":1566714966,
+    "wof:lastmodified":1582314011,
     "wof:name":"Falluja",
     "wof:parent_id":85672483,
     "wof:placetype":"county",

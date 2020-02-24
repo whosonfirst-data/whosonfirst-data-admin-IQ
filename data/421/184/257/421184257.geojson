@@ -172,6 +172,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009405,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3f063de8409977445f421903b710f185",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":421184257,
-    "wof:lastmodified":1566714968,
+    "wof:lastmodified":1582314011,
     "wof:name":"Abu Ghraib",
     "wof:parent_id":85672447,
     "wof:placetype":"county",

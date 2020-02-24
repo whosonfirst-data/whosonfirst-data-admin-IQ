@@ -112,6 +112,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459008823,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bfd64834de3c3cf7271741be30f42cd7",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421169765,
-    "wof:lastmodified":1566714961,
+    "wof:lastmodified":1582314010,
     "wof:name":"Khalis",
     "wof:parent_id":85672481,
     "wof:placetype":"county",

@@ -268,6 +268,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459008937,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"540e4d160b202d50be216c6a47213c6b",
     "wof:hierarchy":[
         {
@@ -278,7 +281,7 @@
         }
     ],
     "wof:id":421172357,
-    "wof:lastmodified":1566714963,
+    "wof:lastmodified":1582314011,
     "wof:name":"Nassriya",
     "wof:parent_id":85672463,
     "wof:placetype":"county",

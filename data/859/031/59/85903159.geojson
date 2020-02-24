@@ -172,6 +172,9 @@
         "qs_pg:id":124557
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7e66615112e2a4a71068d6ac5089453",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1578079595,
+    "wof:lastmodified":1582313988,
     "wof:name":"Al Ba\u015frah Al Qad\u012bmah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

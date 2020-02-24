@@ -79,6 +79,9 @@
         "qs:id":44647
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5db92b9865266b6ac292b83dddbe2ab7",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379347,
+    "wof:lastmodified":1582313988,
     "wof:name":"Al Jaz\u012brah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

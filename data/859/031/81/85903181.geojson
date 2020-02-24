@@ -72,6 +72,9 @@
         "gp:id":1971163
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5704b3caeb40acb837b3c57c6d5d39fa",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566714121,
+    "wof:lastmodified":1582313988,
     "wof:name":"Al Wah\u0327dah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

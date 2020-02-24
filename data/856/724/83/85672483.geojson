@@ -292,6 +292,9 @@
         "wk:page":"Al Anbar Governorate"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3225c8f38be2ef988a238ff5e669c215",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714126,
+    "wof:lastmodified":1582313990,
     "wof:name":"Al-Anbar",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

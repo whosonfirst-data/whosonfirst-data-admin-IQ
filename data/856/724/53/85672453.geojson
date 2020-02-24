@@ -152,6 +152,9 @@
         "unlc:id":"IQ-BA"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eced212ee1f87e6619bfd50978929f3e",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714125,
+    "wof:lastmodified":1582313990,
     "wof:name":"Al-Basrah",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

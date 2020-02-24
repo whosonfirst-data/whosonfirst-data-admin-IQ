@@ -86,6 +86,9 @@
         "wd:id":"Q4703327"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5803f439efc8b79470ff611e305d557c",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566714122,
+    "wof:lastmodified":1582313988,
     "wof:name":"Al Wash\u00e5sh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

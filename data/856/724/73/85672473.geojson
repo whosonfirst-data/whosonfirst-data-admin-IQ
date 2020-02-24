@@ -312,6 +312,9 @@
         "wk:page":"Wasit Governorate"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4c073ccf787dabe6a96682519f94f0d0",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714124,
+    "wof:lastmodified":1582313989,
     "wof:name":"Wasit",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

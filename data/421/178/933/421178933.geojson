@@ -210,6 +210,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009198,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac4b86166670d262bbd9c77a5076db4e",
     "wof:hierarchy":[
         {
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":421178933,
-    "wof:lastmodified":1566714970,
+    "wof:lastmodified":1582314012,
     "wof:name":"Ramadi",
     "wof:parent_id":85672483,
     "wof:placetype":"county",

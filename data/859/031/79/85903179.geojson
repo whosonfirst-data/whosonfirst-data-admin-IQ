@@ -137,6 +137,9 @@
         "wk:page":"Kadhimiya"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7fb5f0a996687fa2fdbaeeb9619cdce3",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1561767075,
+    "wof:lastmodified":1582313988,
     "wof:name":"Al K\u0101z\u0327im\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -78,6 +78,9 @@
         "qs_pg:id":1120223
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5baa6d7feef9b647a2522fafb1278d55",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566714121,
+    "wof:lastmodified":1582313988,
     "wof:name":"\u2018abb\u0101s H\u0327ayy Al",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

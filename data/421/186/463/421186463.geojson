@@ -77,6 +77,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009482,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"475d1632f51d67c25a73a8c72aa4d80e",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421186463,
-    "wof:lastmodified":1566714964,
+    "wof:lastmodified":1582314011,
     "wof:name":"Akre",
     "wof:parent_id":85672429,
     "wof:placetype":"county",

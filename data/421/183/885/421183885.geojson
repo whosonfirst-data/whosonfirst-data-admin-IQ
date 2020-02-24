@@ -251,6 +251,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009390,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5ecea80d5a8fdc472f9d51b84ada2e47",
     "wof:hierarchy":[
         {
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":421183885,
-    "wof:lastmodified":1566714969,
+    "wof:lastmodified":1582314012,
     "wof:name":"Halabja",
     "wof:parent_id":1108804835,
     "wof:placetype":"county",
