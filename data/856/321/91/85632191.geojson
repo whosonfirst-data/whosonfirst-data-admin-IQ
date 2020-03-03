@@ -1023,7 +1023,6 @@
     "src:geom":"meso",
     "src:geom_alt":[
         "naturalearth",
-        "naturalearth",
         "meso",
         "quattroshapes"
     ],
@@ -1101,7 +1100,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1582313991,
+    "wof:lastmodified":1583200684,
     "wof:name":"Iraq",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
