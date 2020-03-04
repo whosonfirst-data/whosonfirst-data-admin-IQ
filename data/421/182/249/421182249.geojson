@@ -87,6 +87,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009323,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6c2de2fe8359412fb4eb0de4a217cc69",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421182249,
-    "wof:lastmodified":1566714970,
+    "wof:lastmodified":1582314012,
     "wof:name":"Amedi",
     "wof:parent_id":85672417,
     "wof:placetype":"county",

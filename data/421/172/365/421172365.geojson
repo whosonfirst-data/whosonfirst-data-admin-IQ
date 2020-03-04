@@ -78,6 +78,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459008937,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7fc78ddce50864db65994c91998f4635",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421172365,
-    "wof:lastmodified":1566714963,
+    "wof:lastmodified":1582314011,
     "wof:name":"Shikhan",
     "wof:parent_id":85672429,
     "wof:placetype":"county",

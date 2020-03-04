@@ -326,6 +326,9 @@
         "wk:page":"Babil Governorate"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"44ad86eecc87277a5677edaeac304982",
     "wof:hierarchy":[
         {
@@ -342,7 +345,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714125,
+    "wof:lastmodified":1582313990,
     "wof:name":"Babil",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

@@ -272,6 +272,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009474,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"50b92518308fd325c85069f0cb945a0c",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":421186243,
-    "wof:lastmodified":1566714964,
+    "wof:lastmodified":1582314011,
     "wof:name":"Tikrit",
     "wof:parent_id":85672435,
     "wof:placetype":"county",

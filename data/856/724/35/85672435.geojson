@@ -154,6 +154,9 @@
         "unlc:id":"IQ-SD"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f9f791629e97d716e0c464555be28b66",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714123,
+    "wof:lastmodified":1582313989,
     "wof:name":"Sala ad-Din",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

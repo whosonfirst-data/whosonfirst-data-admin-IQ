@@ -312,6 +312,9 @@
         "wk:page":"Al-Q\u0101disiyyah Governorate"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bdd771f7c3c83358825fb84ad7486cdf",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714122,
+    "wof:lastmodified":1582313988,
     "wof:name":"Al-Qadisiyah",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

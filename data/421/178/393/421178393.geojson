@@ -752,6 +752,9 @@
     ],
     "wof:country":"IQ",
     "wof:created":1459009180,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3c66882d456815289d0a50039b58ecea",
     "wof:hierarchy":[
         {
@@ -763,7 +766,7 @@
         }
     ],
     "wof:id":421178393,
-    "wof:lastmodified":1566714969,
+    "wof:lastmodified":1582314012,
     "wof:name":"\u0628\u063a\u062f\u0627\u062f",
     "wof:parent_id":1108562785,
     "wof:placetype":"locality",

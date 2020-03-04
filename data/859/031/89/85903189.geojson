@@ -81,6 +81,9 @@
         "qs_pg:id":988706
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d759215d9c98539ad8b71306c297d65d",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566714121,
+    "wof:lastmodified":1582313988,
     "wof:name":"Ar Ra\u015f\u0101fah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

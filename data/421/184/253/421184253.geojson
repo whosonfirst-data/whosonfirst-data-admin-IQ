@@ -78,6 +78,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009405,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"471b16f86912bdbf84c421bcbfda18fd",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421184253,
-    "wof:lastmodified":1566714968,
+    "wof:lastmodified":1582314012,
     "wof:name":"Muqdadiya",
     "wof:parent_id":85672481,
     "wof:placetype":"county",

@@ -307,6 +307,9 @@
         "wk:page":"Karbala Governorate"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2cb993bcba3bc83e07ddafe3e90ab712",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714125,
+    "wof:lastmodified":1582313990,
     "wof:name":"Karbala'",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

@@ -1023,6 +1023,7 @@
     "src:geom":"meso",
     "src:geom_alt":[
         "naturalearth",
+        "meso",
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1078,6 +1079,12 @@
     },
     "wof:country":"IQ",
     "wof:country_alpha3":"IRQ",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso-reversegeo",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e64d10f1f3d9fbbb2ed2db1ba78cda2a",
     "wof:hierarchy":[
         {
@@ -1093,7 +1100,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714127,
+    "wof:lastmodified":1583200684,
     "wof:name":"Iraq",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

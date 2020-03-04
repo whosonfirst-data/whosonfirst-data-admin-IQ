@@ -78,6 +78,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009826,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"de1f65c6c6c35f8d5c0439de748cc99e",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421194967,
-    "wof:lastmodified":1566714961,
+    "wof:lastmodified":1582314010,
     "wof:name":"Kerbala",
     "wof:parent_id":85672443,
     "wof:placetype":"county",

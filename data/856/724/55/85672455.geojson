@@ -274,6 +274,9 @@
         "wk:page":"Muthanna Governorate"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"889798b8276d43944ed1af97a180ee6e",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714126,
+    "wof:lastmodified":1582313990,
     "wof:name":"Al-Muthannia",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

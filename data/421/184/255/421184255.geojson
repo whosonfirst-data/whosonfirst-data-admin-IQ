@@ -263,6 +263,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009405,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"817c341bf3572067ba899fc5bda67b96",
     "wof:hierarchy":[
         {
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":421184255,
-    "wof:lastmodified":1566714968,
+    "wof:lastmodified":1582314012,
     "wof:name":"Najaf",
     "wof:parent_id":85672439,
     "wof:placetype":"county",

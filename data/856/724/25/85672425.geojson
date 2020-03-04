@@ -328,6 +328,9 @@
         "wk:page":"Erbil Governorate"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3837b0fa7ec4f4c6791a154a27ef4b6b",
     "wof:hierarchy":[
         {
@@ -344,7 +347,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714126,
+    "wof:lastmodified":1582313991,
     "wof:name":"Arbil",
     "wof:parent_id":-1,
     "wof:placetype":"region",

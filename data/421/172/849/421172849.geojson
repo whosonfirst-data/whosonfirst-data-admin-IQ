@@ -78,6 +78,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459008956,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6fb754b96aab8cb29674ae57ea476e79",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421172849,
-    "wof:lastmodified":1566714964,
+    "wof:lastmodified":1582314011,
     "wof:name":"Musayab",
     "wof:parent_id":85672491,
     "wof:placetype":"county",

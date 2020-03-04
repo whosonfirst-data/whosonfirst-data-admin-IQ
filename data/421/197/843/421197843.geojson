@@ -249,6 +249,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009927,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"a73471372123c08aa5e705dfce0ed758",
     "wof:hierarchy":[
         {
@@ -260,7 +263,7 @@
         }
     ],
     "wof:id":421197843,
-    "wof:lastmodified":1566714967,
+    "wof:lastmodified":1582314011,
     "wof:name":"Kut Al Hai",
     "wof:parent_id":1108562685,
     "wof:placetype":"locality",

@@ -111,6 +111,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459010171,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d5523833c0e442ed4abf4a0a679340d",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421204025,
-    "wof:lastmodified":1566714962,
+    "wof:lastmodified":1582314011,
     "wof:name":"Dahuk",
     "wof:parent_id":85672417,
     "wof:placetype":"county",

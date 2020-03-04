@@ -103,6 +103,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009587,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"118cb6e43650dbd0ab24c03b801c59ef",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421188909,
-    "wof:lastmodified":1566714963,
+    "wof:lastmodified":1582314011,
     "wof:name":"Mahawil",
     "wof:parent_id":85672491,
     "wof:placetype":"county",

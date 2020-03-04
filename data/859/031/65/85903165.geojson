@@ -75,6 +75,9 @@
         "gp:id":1970880
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"84a9275e067d610b3bf33a9ae07f214f",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566714122,
+    "wof:lastmodified":1582313988,
     "wof:name":"Al H\u0327\u0101rith\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

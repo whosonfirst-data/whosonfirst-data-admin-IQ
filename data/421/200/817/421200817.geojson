@@ -361,6 +361,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459010042,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d85fc588d001e19f6de008a8b17aa914",
     "wof:hierarchy":[
         {
@@ -371,7 +374,7 @@
         }
     ],
     "wof:id":421200817,
-    "wof:lastmodified":1566714967,
+    "wof:lastmodified":1582314011,
     "wof:name":"Erbil",
     "wof:parent_id":85672425,
     "wof:placetype":"county",

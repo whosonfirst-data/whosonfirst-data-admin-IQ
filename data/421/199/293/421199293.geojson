@@ -333,6 +333,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009984,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"13056b2d563260f36efad892fe330db6",
     "wof:hierarchy":[
         {
@@ -343,7 +346,7 @@
         }
     ],
     "wof:id":421199293,
-    "wof:lastmodified":1566714967,
+    "wof:lastmodified":1582314011,
     "wof:name":"Kirkuk",
     "wof:parent_id":1108804831,
     "wof:placetype":"county",

@@ -133,6 +133,9 @@
         "wd:id":"Q672905"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b8cadc374779b01f44f3c49407dbfe43",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566714121,
+    "wof:lastmodified":1582313988,
     "wof:name":"Arrapha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

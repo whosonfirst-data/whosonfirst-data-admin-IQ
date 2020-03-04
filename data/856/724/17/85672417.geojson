@@ -326,6 +326,9 @@
         "wk:page":"Dohuk Governorate"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4da94c04e9f6c8069cd705988861b68c",
     "wof:hierarchy":[
         {
@@ -342,7 +345,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714124,
+    "wof:lastmodified":1582313989,
     "wof:name":"Dihok",
     "wof:parent_id":-1,
     "wof:placetype":"region",

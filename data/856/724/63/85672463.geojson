@@ -253,6 +253,9 @@
         "wk:page":"Dhi Qar Governorate"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"225503e75c0b95483f45aab85de9f3e4",
     "wof:hierarchy":[
         {
@@ -269,7 +272,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714126,
+    "wof:lastmodified":1582313990,
     "wof:name":"Dhi-Qar",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

@@ -69,6 +69,9 @@
         "qs_pg:id":1002945
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3a651c22d2a3d43a496116345323ecb7",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566714122,
+    "wof:lastmodified":1582313988,
     "wof:name":"Alawi Al-Hilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

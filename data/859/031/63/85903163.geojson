@@ -69,6 +69,9 @@
         "qs_pg:id":1120228
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"94139ded25cb7a12363de3d99d0970ad",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566714122,
+    "wof:lastmodified":1582313988,
     "wof:name":"Al Firdaws",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

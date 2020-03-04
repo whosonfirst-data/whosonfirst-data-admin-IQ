@@ -182,6 +182,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1469052504,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a16f4e6a20a5ad2c1f2953044d5bc9e3",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":890445289,
-    "wof:lastmodified":1566714972,
+    "wof:lastmodified":1582314012,
     "wof:name":"Zakho",
     "wof:parent_id":85672417,
     "wof:placetype":"county",

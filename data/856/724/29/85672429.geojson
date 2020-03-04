@@ -323,6 +323,9 @@
         "wk:page":"Nineveh Governorate"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b17cd244995ef39266ac8eb2ae8c3002",
     "wof:hierarchy":[
         {
@@ -339,7 +342,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714123,
+    "wof:lastmodified":1582313989,
     "wof:name":"Ninawa",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

@@ -319,6 +319,9 @@
         "wk:page":"Najaf Governorate"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b3e2c9b411b39bc4817ebcb60ab54361",
     "wof:hierarchy":[
         {
@@ -335,7 +338,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714125,
+    "wof:lastmodified":1582313990,
     "wof:name":"An-Najaf",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

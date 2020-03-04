@@ -316,6 +316,9 @@
         "wk:page":"Sulaymaniyah Governorate"
     },
     "wof:country":"IQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5a934ee3708b0a08c66738cdd1d3e718",
     "wof:hierarchy":[
         {
@@ -332,7 +335,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1566714124,
+    "wof:lastmodified":1582313990,
     "wof:name":"As-Sulaymaniyah",
     "wof:parent_id":-1,
     "wof:placetype":"region",

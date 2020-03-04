@@ -108,6 +108,9 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009276,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2b4bd7e80f843165801683a93f7724bf",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421180939,
-    "wof:lastmodified":1566714963,
+    "wof:lastmodified":1582314011,
     "wof:name":"Balad",
     "wof:parent_id":85672435,
     "wof:placetype":"county",
