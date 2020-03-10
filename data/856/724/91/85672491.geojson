@@ -315,9 +315,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25619
-        ],
+        "digitalenvoy:region_code":25619,
         "fips:code":"IZ06",
         "gn:id":98227,
         "gp:id":2345838,
@@ -348,7 +346,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583538369,
+    "wof:lastmodified":1583882845,
     "wof:name":"Babil",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

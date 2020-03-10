@@ -313,9 +313,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25627
-        ],
+        "digitalenvoy:region_code":25627,
         "fips:code":"IZ15",
         "gn:id":92877,
         "gp:id":2345847,
@@ -345,7 +343,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583538369,
+    "wof:lastmodified":1583882846,
     "wof:name":"Ninawa",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

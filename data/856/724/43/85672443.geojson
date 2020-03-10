@@ -296,9 +296,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25624
-        ],
+        "digitalenvoy:region_code":25624,
         "fips:code":"IZ12",
         "gn:id":94823,
         "gp:id":2345844,
@@ -329,7 +327,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583538369,
+    "wof:lastmodified":1583882845,
     "wof:name":"Karbala'",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

@@ -282,9 +282,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25616
-        ],
+        "digitalenvoy:region_code":25616,
         "fips:code":"IZ01",
         "gn:id":99592,
         "gp:id":2345833,
@@ -314,7 +312,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583538369,
+    "wof:lastmodified":1583882845,
     "wof:name":"Al-Anbar",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

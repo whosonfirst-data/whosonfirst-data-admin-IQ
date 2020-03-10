@@ -305,9 +305,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25630
-        ],
+        "digitalenvoy:region_code":25630,
         "fips:code":"IZ05",
         "gn:id":98465,
         "gp:id":2345837,
@@ -338,7 +336,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583538370,
+    "wof:lastmodified":1583882846,
     "wof:name":"As-Sulaymaniyah",
     "wof:parent_id":-1,
     "wof:placetype":"region",

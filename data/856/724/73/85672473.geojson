@@ -301,9 +301,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25632
-        ],
+        "digitalenvoy:region_code":25632,
         "fips:code":"IZ16",
         "gn:id":89693,
         "gp:id":2345848,
@@ -334,7 +332,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583538370,
+    "wof:lastmodified":1583882846,
     "wof:name":"Wasit",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

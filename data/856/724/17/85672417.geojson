@@ -315,9 +315,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25621
-        ],
+        "digitalenvoy:region_code":25621,
         "fips:code":"IZ08",
         "gn:id":97270,
         "gp:id":2345840,
@@ -348,7 +346,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583538369,
+    "wof:lastmodified":1583882845,
     "wof:name":"Dihok",
     "wof:parent_id":-1,
     "wof:placetype":"region",

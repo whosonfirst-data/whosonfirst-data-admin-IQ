@@ -267,9 +267,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25631
-        ],
+        "digitalenvoy:region_code":25631,
         "fips:code":"IZ13",
         "hasc:id":"IQ.TS",
         "iso:id":"IQ-KI"
@@ -292,7 +290,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583538370,
+    "wof:lastmodified":1583882846,
     "wof:name":"Kirkuk",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

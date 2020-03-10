@@ -145,9 +145,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25629
-        ],
+        "digitalenvoy:region_code":25629,
         "fips:code":"IZ18",
         "gn:id":91695,
         "gp:id":2345850,
@@ -176,7 +174,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583538370,
+    "wof:lastmodified":1583882846,
     "wof:name":"Sala ad-Din",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

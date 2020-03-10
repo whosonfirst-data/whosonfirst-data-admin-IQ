@@ -143,9 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25618
-        ],
+        "digitalenvoy:region_code":25618,
         "fips:code":"IZ02",
         "gn:id":89341,
         "gp:id":2345834,
@@ -174,7 +172,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583538369,
+    "wof:lastmodified":1583882845,
     "wof:name":"Al-Basrah",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

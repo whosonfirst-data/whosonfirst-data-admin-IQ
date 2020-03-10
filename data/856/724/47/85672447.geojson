@@ -707,9 +707,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25620
-        ],
+        "digitalenvoy:region_code":25620,
         "fips:code":"IZ07",
         "gn:id":98180,
         "gp:id":2345839,
@@ -742,7 +740,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583538369,
+    "wof:lastmodified":1583882845,
     "wof:name":"Baghdad",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

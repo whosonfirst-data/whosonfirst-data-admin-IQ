@@ -308,9 +308,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25626
-        ],
+        "digitalenvoy:region_code":25626,
         "fips:code":"IZ17",
         "gn:id":98862,
         "gp:id":2345849,
@@ -341,7 +339,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583538369,
+    "wof:lastmodified":1583882845,
     "wof:name":"An-Najaf",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

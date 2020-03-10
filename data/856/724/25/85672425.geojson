@@ -317,9 +317,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25617
-        ],
+        "digitalenvoy:region_code":25617,
         "fips:code":"IZ11",
         "gn:id":95445,
         "gp:id":2345843,
@@ -350,7 +348,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583538369,
+    "wof:lastmodified":1583882845,
     "wof:name":"Arbil",
     "wof:parent_id":-1,
     "wof:placetype":"region",
