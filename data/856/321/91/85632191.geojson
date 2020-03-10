@@ -1055,9 +1055,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Iraq",
-        "digitalenvoy:country_code":[
-            368
-        ],
+        "digitalenvoy:country_code":368,
         "fb:id":"en.iraq",
         "fifa:id":"IRQ",
         "fips:code":"IZ",
@@ -1103,7 +1101,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583529157,
+    "wof:lastmodified":1583797364,
     "wof:name":"Iraq",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
