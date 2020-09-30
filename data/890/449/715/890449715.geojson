@@ -38,8 +38,8 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        85672425,
-        421200817
+        421200817,
+        85672425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":890449715,
-    "wof:lastmodified":1601068388,
+    "wof:lastmodified":1601423088,
     "wof:name":"Erbil",
     "wof:parent_id":421200817,
     "wof:placetype":"locality",

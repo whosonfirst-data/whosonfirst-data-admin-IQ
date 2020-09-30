@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        85672435,
-        421186243
+        421186243,
+        85672435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190759,
-    "wof:lastmodified":1601068395,
+    "wof:lastmodified":1601423093,
     "wof:name":"Tikrit",
     "wof:parent_id":421186243,
     "wof:placetype":"locality",

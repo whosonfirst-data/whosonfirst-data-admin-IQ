@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        85672429,
-        1108562635
+        1108562635,
+        85672429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190735,
-    "wof:lastmodified":1601068395,
+    "wof:lastmodified":1601423093,
     "wof:name":"Tal Afar",
     "wof:parent_id":1108562635,
     "wof:placetype":"locality",

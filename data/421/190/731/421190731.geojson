@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        85672483,
-        421178933
+        421178933,
+        85672483
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190731,
-    "wof:lastmodified":1601068389,
+    "wof:lastmodified":1601423084,
     "wof:name":"Al Habbaniyah",
     "wof:parent_id":421178933,
     "wof:placetype":"locality",
