@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0635\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Basra"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -44,7 +50,7 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009276,
-    "wof:geomhash":"1eefd800f409b51ac74cf511a5cc198c",
+    "wof:geomhash":"49ca9f9f4db99ce452f0dcc83b1ad20d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,8 +60,8 @@
         }
     ],
     "wof:id":421180943,
-    "wof:lastmodified":1474052711,
-    "wof:name":"\u0627\u0644\u0628\u0635\u0631\u0629",
+    "wof:lastmodified":1601423087,
+    "wof:name":"Basra",
     "wof:parent_id":85672453,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-iq",

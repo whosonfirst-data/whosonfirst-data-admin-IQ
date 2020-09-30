@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0631\u0628\u064a\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Erbil"
+    ],
     "qs:name":"\u0627\u0631\u0628\u064a\u0644",
     "qs:name_adm0":"Iraq",
     "qs:name_adm1":"Arbil",
@@ -32,8 +38,8 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        85672425,
-        421200817
+        421200817,
+        85672425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +59,8 @@
         }
     ],
     "wof:id":890449715,
-    "wof:lastmodified":1566714971,
-    "wof:name":"\u0627\u0631\u0628\u064a\u0644",
+    "wof:lastmodified":1601423088,
+    "wof:name":"Erbil",
     "wof:parent_id":421200817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",

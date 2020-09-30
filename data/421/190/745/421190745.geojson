@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.245523,31.0363145,46.245523,31.0363145",
+    "geom:bbox":"46.245523,31.036314,46.245523,31.036314",
     "geom:latitude":31.036314,
     "geom:longitude":46.245523,
     "iso:country":"IQ",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0635\u0631\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "An Nasiriyah"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        85672463,
-        421172357
+        421172357,
+        85672463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009667,
-    "wof:geomhash":"90a0b7af734c1e801e7dcd7f571b7ee2",
+    "wof:geomhash":"f224f8fcf4845422baf4be0afa861373",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421190745,
-    "wof:lastmodified":1566714966,
-    "wof:name":"\u0627\u0644\u0646\u0627\u0635\u0631\u064a\u0629",
+    "wof:lastmodified":1601423086,
+    "wof:name":"An Nasiriyah",
     "wof:parent_id":421172357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
@@ -71,9 +77,9 @@
 },
   "bbox": [
     46.245523,
-    31.0363145,
+    31.036314,
     46.245523,
-    31.0363145
+    31.036314
 ],
-  "geometry": {"coordinates":[46.245523,31.0363145],"type":"Point"}
+  "geometry": {"coordinates":[46.245523,31.036314],"type":"Point"}
 }
