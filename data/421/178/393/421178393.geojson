@@ -597,10 +597,10 @@
         "Bagdad"
     ],
     "name:vie_x_preferred":[
-        "Baghdad"
+        "Bagdad"
     ],
     "name:vie_x_variant":[
-        "Bagdad"
+        "Baghdad"
     ],
     "name:vol_x_preferred":[
         "Bagdad"
@@ -772,6 +772,7 @@
     "wof:concordances":{
         "gn:id":98182,
         "gp:id":1979455,
+        "ne:id":1159151547,
         "qs_pg:id":279783,
         "wd:id":"Q1530",
         "wk:page":"Baghdad"
@@ -795,9 +796,9 @@
         }
     ],
     "wof:id":421178393,
-    "wof:lastmodified":1608675986,
+    "wof:lastmodified":1608677554,
     "wof:megacity":1,
-    "wof:name":"\u0628\u063a\u062f\u0627\u062f",
+    "wof:name":"Baghdad",
     "wof:parent_id":1108562785,
     "wof:placetype":"locality",
     "wof:population":5672513,
