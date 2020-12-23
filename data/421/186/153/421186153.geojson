@@ -442,14 +442,15 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        85672429,
-        1108562633
+        1108562633,
+        85672429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":99072,
         "gp:id":1979409,
         "loc:id":"n50005853",
+        "ne:id":1159150087,
         "qs_pg:id":911583,
         "wd:id":"Q83317",
         "wk:page":"Mosul"
@@ -467,7 +468,8 @@
         }
     ],
     "wof:id":421186153,
-    "wof:lastmodified":1566714964,
+    "wof:lastmodified":1608688172,
+    "wof:megacity":1,
     "wof:name":"\u0645\u0648\u0635\u0644",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",
