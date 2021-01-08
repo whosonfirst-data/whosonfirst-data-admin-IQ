@@ -15,7 +15,7 @@
     "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":4.0,
+    "mz:min_zoom":5.1,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Basra"
@@ -347,6 +347,7 @@
     "wof:concordances":{
         "gn:id":99532,
         "gp:id":1979390,
+        "ne:id":1159150127,
         "qs_pg:id":222714,
         "wd:id":"Q48195",
         "wk:page":"Basra"
@@ -364,7 +365,8 @@
         }
     ],
     "wof:id":421202467,
-    "wof:lastmodified":1587427892,
+    "wof:lastmodified":1608688172,
+    "wof:megacity":1,
     "wof:name":"\u0627\u0644\u0628\u0635\u0631\u0629",
     "wof:parent_id":1108562731,
     "wof:placetype":"locality",
