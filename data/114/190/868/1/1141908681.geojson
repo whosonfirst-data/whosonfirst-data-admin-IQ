@@ -10,7 +10,6 @@
     "geom:latitude":36.203189,
     "geom:longitude":44.022046,
     "iso:country":"IQ",
-    "lbl:bbox":"43.9866751118,36.1609894571,44.0266751118,36.2009894571",
     "lbl:latitude":36.187711,
     "lbl:longitude":44.011037,
     "lbl:max_zoom":18.0,
@@ -208,7 +207,7 @@
         }
     ],
     "wof:id":1141908681,
-    "wof:lastmodified":1608689807,
+    "wof:lastmodified":1610147652,
     "wof:megacity":1,
     "wof:name":"Irbil",
     "wof:parent_id":421200817,
