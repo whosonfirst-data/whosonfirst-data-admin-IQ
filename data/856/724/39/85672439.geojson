@@ -33,14 +33,14 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
     "name:ara_x_preferred":[
-        "An Najaf"
+        "\u0627\u0644\u0646\u062c\u0641"
     ],
     "name:ara_x_variant":[
         "Najaf",
-        "\u0627\u0644\u0646\u062c\u0641",
         "\u0627\u0644\u0646\u062c\u0641 \u0627\u0644\u0623\u0634\u0631\u0641",
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u062c\u0641 \u0627\u0644\u0623\u0634\u0631\u0641",
-        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u062c\u0641"
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u062c\u0641",
+        "An Najaf"
     ],
     "name:arc_x_preferred":[
         "\u0722\u0713\u0726"
@@ -339,7 +339,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583882845,
+    "wof:lastmodified":1614894772,
     "wof:name":"An-Najaf",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

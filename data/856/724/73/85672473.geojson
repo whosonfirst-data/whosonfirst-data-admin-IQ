@@ -33,10 +33,11 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
     "name:ara_x_preferred":[
-        "Wasit"
+        "\u0648\u0627\u0633\u0637"
     ],
     "name:ara_x_variant":[
-        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0648\u0627\u0633\u0637"
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0648\u0627\u0633\u0637",
+        "Wasit"
     ],
     "name:arc_x_preferred":[
         "\u0718\u0710\u0723\u071b"
@@ -332,7 +333,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583882846,
+    "wof:lastmodified":1614894772,
     "wof:name":"Wasit",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

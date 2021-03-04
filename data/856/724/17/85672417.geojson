@@ -33,10 +33,10 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
     "name:ara_x_preferred":[
-        "Dahuk"
+        "\u062f\u0647\u0648\u0643"
     ],
     "name:ara_x_variant":[
-        "\u062f\u0647\u0648\u0643"
+        "Dahuk"
     ],
     "name:arc_x_preferred":[
         "\u0722\u0718\u0717\u0715\u072a\u0710"
@@ -346,7 +346,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583882845,
+    "wof:lastmodified":1614894772,
     "wof:name":"Dihok",
     "wof:parent_id":-1,
     "wof:placetype":"region",
