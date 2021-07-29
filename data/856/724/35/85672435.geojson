@@ -48,6 +48,9 @@
         "Salah ad Din",
         "Salah ad-Din"
     ],
+    "name:fra_x_preferred":[
+        "Sal\u00e2h ad-D\u00een"
+    ],
     "name:und_x_variant":[
         "Salahuddin"
     ],
@@ -175,7 +178,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1614894771,
+    "wof:lastmodified":1627522212,
     "wof:name":"Sala ad-Din",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

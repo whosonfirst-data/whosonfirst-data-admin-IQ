@@ -45,6 +45,9 @@
         "Basra Governorate",
         "Basra"
     ],
+    "name:fra_x_preferred":[
+        "Al Basrah"
+    ],
     "name:und_x_variant":[
         "Al Basrah"
     ],
@@ -172,7 +175,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1583882845,
+    "wof:lastmodified":1627522207,
     "wof:name":"Al-Basrah",
     "wof:parent_id":85632191,
     "wof:placetype":"region",
