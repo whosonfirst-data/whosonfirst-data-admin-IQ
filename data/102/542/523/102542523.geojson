@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.1475,36.3058333333,43.1475,36.3058333333",
+    "geom:bbox":"43.1475,36.305833,43.1475,36.305833",
     "geom:latitude":36.305833,
     "geom:longitude":43.1475,
     "iso:country":"IQ",
@@ -21,6 +21,10 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Mosul"
+    ],
+    "name:eng_x_variant":[
+        "OSM",
+        "ORBM"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u0648\u0635\u0644"
@@ -69,7 +73,7 @@
         "wd:id":"Q1432089"
     },
     "wof:country":"IQ",
-    "wof:geomhash":"d9106b1081c1bfa5076923b292d8588b",
+    "wof:geomhash":"84c6eaf2eb6f86b2636eee0a732f19d6",
     "wof:hierarchy":[
         {
             "campus_id":102542523,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":102542523,
-    "wof:lastmodified":1566713936,
+    "wof:lastmodified":1631743810,
     "wof:name":"Mosul Airport",
     "wof:parent_id":85672429,
     "wof:placetype":"campus",
@@ -91,9 +95,9 @@
 },
   "bbox": [
     43.1475,
-    36.305833333333,
+    36.305833,
     43.1475,
-    36.305833333333
+    36.305833
 ],
-  "geometry": {"coordinates":[43.1475,36.305833333333],"type":"Point"}
+  "geometry": {"coordinates":[43.1475,36.305833],"type":"Point"}
 }
