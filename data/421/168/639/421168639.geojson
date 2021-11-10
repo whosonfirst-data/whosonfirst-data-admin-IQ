@@ -236,6 +236,9 @@
     "name:uzb_x_preferred":[
         "Najaf"
     ],
+    "name:vie_x_preferred":[
+        "An Najaf"
+    ],
     "name:war_x_preferred":[
         "Najaf"
     ],
@@ -386,7 +389,7 @@
         }
     ],
     "wof:id":421168639,
-    "wof:lastmodified":1566714960,
+    "wof:lastmodified":1636494831,
     "wof:name":"An Najaf",
     "wof:parent_id":421184255,
     "wof:placetype":"locality",

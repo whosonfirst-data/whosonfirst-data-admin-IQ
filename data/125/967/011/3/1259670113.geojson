@@ -36,6 +36,9 @@
     "name:ara_x_variant":[
         "S\u016br"
     ],
+    "name:hun_x_preferred":[
+        "Sur"
+    ],
     "name:kur_x_preferred":[
         "Sud"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1259670113,
-    "wof:lastmodified":1566715231,
+    "wof:lastmodified":1636494832,
     "wof:name":"Sur",
     "wof:parent_id":421199293,
     "wof:placetype":"locality",

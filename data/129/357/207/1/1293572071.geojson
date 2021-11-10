@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u062c"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05de\u05d0\u05e8\u05d2'"
+    ],
+    "name:hun_x_preferred":[
+        "Al Marj"
+    ],
     "name:und_x_variant":[
         "Marj Dibaj",
         "Marj ad D\u012bb\u0101j"
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1293572071,
-    "wof:lastmodified":1566714219,
+    "wof:lastmodified":1636494827,
     "wof:name":"Al Marj",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",

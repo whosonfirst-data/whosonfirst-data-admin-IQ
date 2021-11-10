@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Wardak"
     ],
+    "name:hun_x_preferred":[
+        "Wardak"
+    ],
     "name:kur_x_preferred":[
         "Wzok"
     ],
@@ -63,7 +66,7 @@
         "gn:id":6869962
     },
     "wof:country":"IQ",
-    "wof:geomhash":"b2dbe0ca7b9c1956de77b2f3d6657a8e",
+    "wof:geomhash":"15f6dfdc82786761bf99c748e4c008a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1276319939,
-    "wof:lastmodified":1566714446,
+    "wof:lastmodified":1636494828,
     "wof:name":"Wardak",
     "wof:parent_id":1108562779,
     "wof:placetype":"locality",
@@ -85,9 +88,9 @@
 },
   "bbox": [
     43.70181,
-    35.51987000000001,
+    35.51987,
     43.70181,
-    35.51987000000001
+    35.51987
 ],
-  "geometry": {"coordinates":[43.70181,35.51987000000001],"type":"Point"}
+  "geometry": {"coordinates":[43.70181,35.51987],"type":"Point"}
 }

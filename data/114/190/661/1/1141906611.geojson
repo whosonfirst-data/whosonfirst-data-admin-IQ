@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.7079817289,30.3891644481,47.7079817289,30.3891644481",
+    "geom:bbox":"47.707982,30.389164,47.707982,30.389164",
     "geom:latitude":30.389164,
     "geom:longitude":47.707982,
     "iso:country":"IQ",
@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05d0\u05d6 \u05d0\u05d5\u05d1\u05d9\u05d9\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Az Aubayr"
+    ],
+    "name:por_x_preferred":[
+        "Az Zubayr"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Iraq",
     "ne:ADM0_A3":"IRQ",
@@ -124,7 +133,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1499130616,
-    "wof:geomhash":"7e0b55e432f854769ad777cd286508b4",
+    "wof:geomhash":"0f97f91c4376358a932642830cdf4cd0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":1141906611,
-    "wof:lastmodified":1566715446,
+    "wof:lastmodified":1636494835,
     "wof:name":"Az Aubayr",
     "wof:parent_id":1108562727,
     "wof:placetype":"locality",
@@ -145,10 +154,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.70798172891955,
-    30.38916444805466,
-    47.70798172891955,
-    30.38916444805466
+    47.707982,
+    30.389164,
+    47.707982,
+    30.389164
 ],
-  "geometry": {"coordinates":[47.70798172891955,30.38916444805466],"type":"Point"}
+  "geometry": {"coordinates":[47.707982,30.389164],"type":"Point"}
 }

@@ -33,11 +33,17 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u064a"
     ],
+    "name:hin_x_preferred":[
+        "\u0926\u0941\u092c\u0947"
+    ],
     "name:kur_x_preferred":[
         "Dub\u00ea"
     ],
     "name:kur_x_variant":[
         "\u062f\u0648\u0628\u06ce"
+    ],
+    "name:por_x_preferred":[
+        "Dubai"
     ],
     "name:slk_x_preferred":[
         "Dubay"
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1293857079,
-    "wof:lastmodified":1566714185,
+    "wof:lastmodified":1636494827,
     "wof:name":"Dubay",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",

@@ -36,8 +36,41 @@
     "name:ara_x_variant":[
         "K\u012bsh\u0101n"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c7\u09b6\u09be\u09a8"
+    ],
     "name:deu_x_preferred":[
         "Keshan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ad\u03c3\u03b1\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Keshan"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0634\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Keshan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e9\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u0936\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Keshan"
+    ],
+    "name:ind_x_preferred":[
+        "Keshan"
+    ],
+    "name:ita_x_preferred":[
+        "Keshan"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\uc0b0"
     ],
     "name:kur_x_preferred":[
         "K\u00eeshan"
@@ -46,10 +79,40 @@
         "\u0643\u06d5\u0634\u0627\u0646",
         "Keshan"
     ],
+    "name:nld_x_preferred":[
+        "Keshan"
+    ],
+    "name:pol_x_preferred":[
+        "Keshan"
+    ],
+    "name:por_x_preferred":[
+        "Keshan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044d\u0448\u0430\u043d\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Keshan"
+    ],
+    "name:swe_x_preferred":[
+        "Keshan"
+    ],
+    "name:tur_x_preferred":[
+        "Keshan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0448\u0430\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "Kash\u0101n",
         "Kashan",
         "Kaysh\u0101n"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0634\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Kh\u1eafc S\u01a1n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +137,7 @@
         }
     ],
     "wof:id":1360082591,
-    "wof:lastmodified":1566714865,
+    "wof:lastmodified":1636494830,
     "wof:name":"Keshan",
     "wof:parent_id":890445289,
     "wof:placetype":"locality",

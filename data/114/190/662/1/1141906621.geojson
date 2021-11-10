@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.2899991443,32.7786310008,44.2899991443,32.7786310008",
+    "geom:bbox":"44.289999,32.778631,44.289999,32.778631",
     "geom:latitude":32.778631,
     "geom:longitude":44.289999,
     "gn:country":"IQ",
@@ -33,6 +33,9 @@
     "name:dan_x_preferred":[
         "Musayyib"
     ],
+    "name:deu_x_preferred":[
+        "Al Musayyib"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c5\u03c3\u03b1\u03b3\u03af\u03bc\u03c0"
     ],
@@ -45,11 +48,20 @@
     "name:fin_x_preferred":[
         "Musayyib"
     ],
+    "name:fra_x_preferred":[
+        "Musayib"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac1\u0ab8\u0abe\u0aaf\u0ac0\u0aac"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05de\u05d5\u05e1\u05d9\u05d9\u05d0\u05d9\u05d1"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0941\u0938\u093e\u092f\u0907\u092c"
+    ],
+    "name:hun_x_preferred":[
+        "Al Musayyib"
     ],
     "name:ind_x_preferred":[
         "Musayyib"
@@ -87,6 +99,9 @@
     "name:pol_x_preferred":[
         "Musayyib"
     ],
+    "name:por_x_preferred":[
+        "Musayyib"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c-\u042d\u043b\u044c-\u041c\u0443\u0441\u0430\u0439\u0438\u0431\u0435"
     ],
@@ -95,6 +110,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd4\u0dc3\u0dba\u0dd2\u0db6\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Al Musayyib"
     ],
     "name:swe_x_preferred":[
         "Al Musayyib"
@@ -248,7 +266,7 @@
     },
     "wof:country":"IQ",
     "wof:created":1499130617,
-    "wof:geomhash":"b41d875624e99401b6860910bb0a1596",
+    "wof:geomhash":"56b3f7fa344866ec3315c1564e362653",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -259,7 +277,7 @@
         }
     ],
     "wof:id":1141906621,
-    "wof:lastmodified":1566715446,
+    "wof:lastmodified":1636494835,
     "wof:name":"Al Musayyib",
     "wof:parent_id":421172849,
     "wof:placetype":"locality",
@@ -273,10 +291,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.28999914427038,
-    32.77863100079861,
-    44.28999914427038,
-    32.77863100079861
+    44.289999,
+    32.778631,
+    44.289999,
+    32.778631
 ],
-  "geometry": {"coordinates":[44.28999914427038,32.77863100079861],"type":"Point"}
+  "geometry": {"coordinates":[44.289999,32.778631],"type":"Point"}
 }

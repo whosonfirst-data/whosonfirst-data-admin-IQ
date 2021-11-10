@@ -39,6 +39,9 @@
     "name:ceb_x_preferred":[
         "Qala"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05dc\u05d4"
+    ],
     "name:kur_x_preferred":[
         "Qe\u0142a"
     ],
@@ -65,7 +68,7 @@
         "gn:id":417040
     },
     "wof:country":"IQ",
-    "wof:geomhash":"53602ca69c4308e10d05281aea68da55",
+    "wof:geomhash":"dce07c1842b495fd6e4c90ee93826998",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1225867549,
-    "wof:lastmodified":1566715347,
+    "wof:lastmodified":1636494833,
     "wof:name":"Qala",
     "wof:parent_id":1108562659,
     "wof:placetype":"locality",
@@ -87,9 +90,9 @@
 },
   "bbox": [
     45.43126,
-    35.13959000000001,
+    35.13959,
     45.43126,
-    35.13959000000001
+    35.13959
 ],
-  "geometry": {"coordinates":[45.43126,35.13959000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.43126,35.13959],"type":"Point"}
 }

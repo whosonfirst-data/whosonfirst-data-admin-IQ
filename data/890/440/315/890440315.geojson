@@ -70,6 +70,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0aae\u0abe\u0ab5\u0abe\u0ab9"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e1 \u05e1\u05d0\u05de\u05d0\u05d5\u05d5\u05d7"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u092e\u093e\u0935\u093e\u0939"
     ],
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":890440315,
-    "wof:lastmodified":1566714970,
+    "wof:lastmodified":1636494831,
     "wof:name":"As Samawah",
     "wof:parent_id":421205333,
     "wof:placetype":"locality",

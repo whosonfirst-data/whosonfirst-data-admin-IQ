@@ -576,6 +576,9 @@
         "Bagdad"
     ],
     "name:vie_x_preferred":[
+        "Baghdad"
+    ],
+    "name:vie_x_variant":[
         "Bagdad"
     ],
     "name:vol_x_preferred":[
@@ -740,7 +743,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1587587540,
+    "wof:lastmodified":1636494826,
     "wof:name":"Baghdad",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

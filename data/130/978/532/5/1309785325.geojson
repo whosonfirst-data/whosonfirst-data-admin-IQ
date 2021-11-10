@@ -37,6 +37,9 @@
         "\u0627\u0644\u0631\u064a\u0627\u0636",
         "\u0646\u0627\u062d\u064a\u0629 \u0627\u0644\u0631\u064a\u0627\u0636"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0 \u09b0\u09bf\u09df\u09be\u09a7"
+    ],
     "name:und_x_variant":[
         "Riyadh",
         "N\u0101\u1e29iyat ar Riy\u0101\u1e11"
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1309785325,
-    "wof:lastmodified":1566714924,
+    "wof:lastmodified":1636494830,
     "wof:name":"Ar Riyad",
     "wof:parent_id":1108562743,
     "wof:placetype":"locality",

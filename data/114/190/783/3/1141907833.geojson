@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"42.4497497139,36.3759824819,42.4497497139,36.3759824819",
+    "geom:bbox":"42.44975,36.375982,42.44975,36.375982",
     "geom:latitude":36.375982,
     "geom:longitude":42.44975,
     "iso:country":"IQ",
@@ -30,6 +30,9 @@
     "name:aze_x_preferred":[
         "T\u0259laf\u0259r \u015f\u0259h\u0259ri"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09b2\u09cd\u09b2 \u0986\u09ab\u09be\u09b0"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u043b \u0410\u0444\u0430\u0440"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:deu_x_preferred":[
         "Tal Afar"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bb \u0391\u03c6\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Tal Afar"
@@ -66,6 +72,18 @@
     "name:heb_x_preferred":[
         "\u05ea\u05dc \u05e2\u05e4\u05e8"
     ],
+    "name:hin_x_preferred":[
+        "\u091f\u093e\u0932 \u0905\u092b\u093c\u093e\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Tall Afar"
+    ],
+    "name:ind_x_preferred":[
+        "Tal Afar"
+    ],
+    "name:ita_x_preferred":[
+        "Tal Afar"
+    ],
     "name:jpn_x_preferred":[
         "\u30bf\u30eb\u30fb\u30a2\u30d5\u30a1\u30eb"
     ],
@@ -87,6 +105,9 @@
     "name:pol_x_preferred":[
         "Tall Afar"
     ],
+    "name:por_x_preferred":[
+        "Tal Afar"
+    ],
     "name:ron_x_preferred":[
         "Tal Afar"
     ],
@@ -107,6 +128,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0644\u0639\u0641\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Tall Afar"
     ],
     "name:zho_x_preferred":[
         "\u6cf0\u52d2\u963f\u8cbb\u723e"
@@ -219,7 +243,7 @@
     },
     "wof:country":"IQ",
     "wof:created":1499130777,
-    "wof:geomhash":"26f1354e32a23ce738111f2024e7e705",
+    "wof:geomhash":"0119b374cfbb0473b28817e081c2a15d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -230,7 +254,7 @@
         }
     ],
     "wof:id":1141907833,
-    "wof:lastmodified":1566715446,
+    "wof:lastmodified":1636494835,
     "wof:name":"Tall Afar",
     "wof:parent_id":1108562635,
     "wof:placetype":"locality",
@@ -240,10 +264,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    42.44974971392452,
-    36.37598248193285,
-    42.44974971392452,
-    36.37598248193285
+    42.44975,
+    36.375982,
+    42.44975,
+    36.375982
 ],
-  "geometry": {"coordinates":[42.44974971392452,36.37598248193285],"type":"Point"}
+  "geometry": {"coordinates":[42.44975,36.375982],"type":"Point"}
 }
