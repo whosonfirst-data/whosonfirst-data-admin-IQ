@@ -258,13 +258,15 @@
         }
     ],
     "wof:id":421193787,
-    "wof:lastmodified":1566714961,
+    "wof:lastmodified":1666654365,
     "wof:name":"\u062f\u0647\u0648\u0643",
     "wof:parent_id":421204025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141906249
+    ],
     "wof:tags":[]
 },
   "bbox": [

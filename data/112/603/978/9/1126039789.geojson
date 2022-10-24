@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1126039789,
-    "wof:lastmodified":1566714974,
+    "wof:lastmodified":1666654365,
     "wof:name":"Rawandoz",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125920321
+    ],
     "wof:tags":[]
 },
   "bbox": [

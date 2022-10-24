@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":890449807,
-    "wof:lastmodified":1582314012,
+    "wof:lastmodified":1666654365,
     "wof:name":"N\u0101\u1e29\u012byat Saddat al Hind\u012byah",
     "wof:parent_id":421172849,
     "wof:placetype":"locality",
@@ -106,7 +106,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343284131
+    ],
     "wof:tags":[]
 },
   "bbox": [

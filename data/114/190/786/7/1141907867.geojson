@@ -2,11 +2,12 @@
   "id": 1141907867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-10-24",
+    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.2675528552,31.0429488312,46.2675528552,31.0429488312",
+    "geom:bbox":"46.267553,31.042949,46.267553,31.042949",
     "geom:latitude":31.042949,
     "geom:longitude":46.267553,
     "iso:country":"IQ",
@@ -16,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Iraq",
@@ -124,7 +125,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1499130781,
-    "wof:geomhash":"5d78e24f54dc6e3f7390a89c6a520aad",
+    "wof:geomhash":"1141bb4089bf47d857a77a06bd409e43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,20 +136,22 @@
         }
     ],
     "wof:id":1141907867,
-    "wof:lastmodified":1566715446,
+    "wof:lastmodified":1666654365,
     "wof:name":"An Nasiriyah",
     "wof:parent_id":421172357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421190745
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    46.26755285521585,
-    31.0429488311953,
-    46.26755285521585,
-    31.0429488311953
+    46.267553,
+    31.042949,
+    46.267553,
+    31.042949
 ],
-  "geometry": {"coordinates":[46.26755285521585,31.0429488311953],"type":"Point"}
+  "geometry": {"coordinates":[46.267553,31.042949],"type":"Point"}
 }
