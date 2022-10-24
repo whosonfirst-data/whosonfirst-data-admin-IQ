@@ -2,8 +2,8 @@
   "id": 421203539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2022-10-24",
+    "edtf:cessation":"2022-10-24",
+    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -40,10 +40,10 @@
     "qs:woe_id":1970697,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85672447,
         102191569,
         85632191,
-        1108562785
+        1108562785,
+        85672447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,12 +65,14 @@
         }
     ],
     "wof:id":421203539,
-    "wof:lastmodified":1666654555,
+    "wof:lastmodified":1666654730,
     "wof:name":"Al \u2018alw\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85903181
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
