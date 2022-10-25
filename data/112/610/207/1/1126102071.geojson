@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000449,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.32593,33.3237,44.32593,33.3237",
-    "geom:latitude":33.3237,
-    "geom:longitude":44.32593,
+    "geom:bbox":"44.300277,33.306965,44.324686,33.329833",
+    "geom:latitude":33.31938,
+    "geom:longitude":44.313439,
     "gn:country":"IQ",
     "gn:fcode":"PPLX",
     "gn:population":0,
     "iso:country":"IQ",
-    "lbl:bbox":"44.32093,33.3187,44.33093,33.3287",
-    "lbl:latitude":33.3237,
-    "lbl:longitude":44.32593,
+    "lbl:latitude":33.319253,
+    "lbl:longitude":44.313439,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"IQ",
@@ -41,8 +40,13 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424855,
     "qs_pg:woe_id":1970945,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":33.319253,
+    "reversegeo:longitude":44.313439,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424855,
     "woe:name_adm0":"Iraq",
     "woe:name_adm1":"\u0628\u063a\u062f\u0627\u062f",
@@ -61,7 +65,10 @@
     },
     "wof:country":"IQ",
     "wof:created":1497316256,
-    "wof:geomhash":"49623f30d611132bee03b43a0cf4be4d",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"37e938dde9ff502a241dab5ed78ebfa8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +80,7 @@
         }
     ],
     "wof:id":1126102071,
-    "wof:lastmodified":1566714974,
+    "wof:lastmodified":1666735492,
     "wof:name":"Al J\u0101mi\u2019ah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -83,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.32593,
-    33.3237,
-    44.32593,
-    33.3237
+    44.300277,
+    33.306965,
+    44.324686,
+    33.329833
 ],
-  "geometry": {"coordinates":[44.32593,33.3237],"type":"Point"}
+  "geometry": {"coordinates":[[[44.324686,33.329833],[44.324607,33.327463],[44.324403,33.321969],[44.324199,33.317302],[44.324018,33.312544],[44.323777,33.306965],[44.319863,33.307928],[44.317139,33.308579],[44.315474,33.30897],[44.313729,33.30931],[44.307295,33.310689],[44.306397,33.310864],[44.305715,33.31093],[44.304933,33.31093],[44.304545,33.310887],[44.303891,33.310765],[44.302759,33.310485],[44.302061,33.315573],[44.301143,33.320848],[44.300513,33.3251],[44.300277,33.327882],[44.301816,33.327985],[44.306733,33.328498],[44.313259,33.329118],[44.319234,33.329616],[44.323017,33.329808],[44.324686,33.329833]]],"type":"Polygon"}
 }

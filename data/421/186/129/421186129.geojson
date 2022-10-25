@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001165,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.46816,33.34908,44.46816,33.34908",
-    "geom:latitude":33.34908,
-    "geom:longitude":44.46816,
+    "geom:bbox":"44.418866,33.308983,44.47509,33.349539",
+    "geom:latitude":33.329089,
+    "geom:longitude":44.448003,
     "iso:country":"IQ",
-    "lbl:bbox":"44.46316,33.34408,44.47316,33.35408",
+    "lbl:latitude":33.329468,
+    "lbl:longitude":44.447575,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -43,7 +44,13 @@
     "qs:qs_id":911448,
     "qs:woe_adm0":23424855,
     "qs:woe_id":1971100,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":33.329468,
+    "reversegeo:longitude":44.447575,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85672447,
         102191569,
@@ -58,7 +65,10 @@
     },
     "wof:country":"IQ",
     "wof:created":1459009471,
-    "wof:geomhash":"886f403d7f916a8d0a4f72b17e0394a2",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"61611a6e67a0902ffc9909aec20a6c48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,7 +80,7 @@
         }
     ],
     "wof:id":421186129,
-    "wof:lastmodified":1566714964,
+    "wof:lastmodified":1666735493,
     "wof:name":"Al Muthann\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -80,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.46816,
-    33.34908,
-    44.46816,
-    33.34908
+    44.418866,
+    33.308983,
+    44.47509,
+    33.349539
 ],
-  "geometry": {"coordinates":[44.46816,33.34908],"type":"Point"}
+  "geometry": {"coordinates":[[[44.418866,33.334395],[44.420893,33.335539],[44.426115,33.338541],[44.430545,33.340988],[44.434657,33.343446],[44.440083,33.346652],[44.44471,33.349539],[44.454227,33.34211],[44.456014,33.340716],[44.47509,33.325829],[44.473056,33.323435],[44.472152,33.322286],[44.470717,33.320478],[44.468974,33.318419],[44.467475,33.316915],[44.466081,33.315649],[44.463229,33.313089],[44.458972,33.309222],[44.458655,33.308983],[44.457942,33.309297],[44.448547,33.313705],[44.442478,33.316724],[44.439458,33.318219],[44.434425,33.321391],[44.4318,33.323172],[44.428009,33.326147],[44.42367,33.329611],[44.421803,33.331197],[44.420835,33.332224],[44.418866,33.334395]]],"type":"Polygon"}
 }

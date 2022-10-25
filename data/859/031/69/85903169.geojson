@@ -4,17 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000399,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.374817,33.274024,44.374817,33.274024",
-    "geom:latitude":33.274024,
-    "geom:longitude":44.374817,
+    "geom:bbox":"44.367133,33.263054,44.393856,33.283752",
+    "geom:latitude":33.272817,
+    "geom:longitude":44.379215,
     "gn:latitude":33.31883,
     "gn:longitude":44.31836,
     "iso:country":"IQ",
-    "lbl:bbox":"44.369817,33.269024,44.379817,33.279024",
-    "lbl:latitude":33.274024,
-    "lbl:longitude":44.374817,
+    "lbl:latitude":33.272755,
+    "lbl:longitude":44.379215,
     "lbl:max_zoom":18.0,
     "mps:latitude":33.276765,
     "mps:longitude":44.378123,
@@ -71,11 +70,14 @@
     "qs:woe_lau":0,
     "qs:woe_local":1979455,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":33.272755,
+    "reversegeo:longitude":44.379215,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         85672447,
@@ -91,9 +93,9 @@
     },
     "wof:country":"IQ",
     "wof:geom_alt":[
-        "quattroshapes"
+        "mz"
     ],
-    "wof:geomhash":"5a5dd30a7265132ba12e4eb8cb306282",
+    "wof:geomhash":"ae0521647d8c989d6db243e2c28476c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +110,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313988,
+    "wof:lastmodified":1666735492,
     "wof:name":"Al J\u0101mi\u2019ah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -118,10 +120,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.374817,
-    33.274024,
-    44.374817,
-    33.274024
+    44.367133,
+    33.263054,
+    44.393856,
+    33.283752
 ],
-  "geometry": {"coordinates":[44.374817,33.274024],"type":"Point"}
+  "geometry": {"coordinates":[[[44.391383,33.268565],[44.384979,33.264313],[44.382617,33.263421],[44.377683,33.263054],[44.373432,33.263054],[44.371227,33.264156],[44.36897,33.266518],[44.36729,33.270297],[44.367133,33.274077],[44.368078,33.277593],[44.371227,33.281425],[44.373995,33.283752],[44.379029,33.28239],[44.382858,33.281393],[44.384772,33.280872],[44.386426,33.280441],[44.387038,33.280453],[44.387503,33.280555],[44.388117,33.280749],[44.38936,33.278499],[44.391246,33.275049],[44.393856,33.270452],[44.391383,33.268565]]],"type":"Polygon"}
 }
