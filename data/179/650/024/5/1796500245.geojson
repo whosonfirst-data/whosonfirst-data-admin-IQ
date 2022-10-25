@@ -1,0 +1,40 @@
+{
+  "id": 1796500245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:bbox":"44.413002,33.315291,44.434425,33.334395",
+    "geom:latitude":33.325013,
+    "geom:longitude":44.424132,
+    "iso:country":"IQ",
+    "lbl:latitude":33.3213,
+    "lbl:longitude":44.427866,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IQ",
+    "wof:geomhash":"b3ceb0fbaa9217624673029d67b158da",
+    "wof:hierarchy":[],
+    "wof:id":1796500245,
+    "wof:lastmodified":1666734970,
+    "wof:name":"Al Saadoom Park",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.413002,
+    33.315291,
+    44.434425,
+    33.334395
+],
+  "geometry": {"coordinates":[[[44.42526,33.317487],[44.424357,33.31945],[44.423232,33.321675],[44.42134,33.325666],[44.421164,33.326007],[44.420418,33.326327],[44.417676,33.327485],[44.41462,33.328755],[44.414365,33.328892],[44.41411,33.329102],[44.413002,33.330731],[44.413077,33.330793],[44.413666,33.331121],[44.415705,33.331846],[44.415943,33.332062],[44.418118,33.333897],[44.418866,33.334395],[44.420835,33.332224],[44.421803,33.331197],[44.42367,33.329611],[44.428009,33.326147],[44.4318,33.323172],[44.434425,33.321391],[44.427197,33.315824],[44.426129,33.315291],[44.42526,33.317487]]],"type":"Polygon"}
+}

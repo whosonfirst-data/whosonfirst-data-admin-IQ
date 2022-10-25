@@ -1,0 +1,40 @@
+{
+  "id": 1796500257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:bbox":"44.404358,33.314132,44.420776,33.327349",
+    "geom:latitude":33.320235,
+    "geom:longitude":44.412157,
+    "iso:country":"IQ",
+    "lbl:latitude":33.320104,
+    "lbl:longitude":44.412281,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IQ",
+    "wof:geomhash":"5b74766856563292d462354838a82a6a",
+    "wof:hierarchy":[],
+    "wof:id":1796500257,
+    "wof:lastmodified":1666734970,
+    "wof:name":"Abu Nuwas",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.404358,
+    33.314132,
+    44.420776,
+    33.327349
+],
+  "geometry": {"coordinates":[[[44.408699,33.327349],[44.410242,33.326144],[44.411342,33.3253],[44.412539,33.324207],[44.413037,33.323428],[44.413894,33.322113],[44.41411,33.321806],[44.414686,33.321217],[44.416073,33.319764],[44.417002,33.318835],[44.419004,33.316898],[44.419502,33.316348],[44.420776,33.314742],[44.412805,33.314132],[44.410175,33.318588],[44.404358,33.324653],[44.406892,33.326474],[44.407832,33.327157],[44.408699,33.327349]]],"type":"Polygon"}
+}

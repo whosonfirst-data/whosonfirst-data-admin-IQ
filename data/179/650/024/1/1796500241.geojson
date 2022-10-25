@@ -1,0 +1,40 @@
+{
+  "id": 1796500241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000214,
+    "geom:bbox":"44.43939,33.29325,44.467824,33.308983",
+    "geom:latitude":33.301565,
+    "geom:longitude":44.454798,
+    "iso:country":"IQ",
+    "lbl:latitude":33.301098,
+    "lbl:longitude":44.454584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IQ",
+    "wof:geomhash":"db2d002fad941d1ee925fbf2ffd35fa9",
+    "wof:hierarchy":[],
+    "wof:id":1796500241,
+    "wof:lastmodified":1666734970,
+    "wof:name":"Camp Sarah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43939,
+    33.29325,
+    44.467824,
+    33.308983
+],
+  "geometry": {"coordinates":[[[44.43939,33.301092],[44.44443,33.303075],[44.44947,33.305126],[44.454571,33.307132],[44.457019,33.308123],[44.457652,33.308375],[44.458323,33.308741],[44.458655,33.308983],[44.460641,33.308108],[44.46299,33.306781],[44.465308,33.305119],[44.467824,33.303258],[44.465735,33.301504],[44.463737,33.30001],[44.462265,33.29898],[44.459894,33.297371],[44.456447,33.295137],[44.454,33.293338],[44.453881,33.29325],[44.452032,33.295076],[44.451468,33.295618],[44.451148,33.295793],[44.450324,33.296121],[44.443995,33.298996],[44.43939,33.301092]]],"type":"Polygon"}
+}
