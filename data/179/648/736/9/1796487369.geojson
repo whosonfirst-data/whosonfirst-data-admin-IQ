@@ -1,0 +1,40 @@
+{
+  "id": 1796487369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00025,
+    "geom:bbox":"43.621952,36.259268,43.64229,36.279204",
+    "geom:latitude":36.27003,
+    "geom:longitude":43.633445,
+    "iso:country":"IQ",
+    "lbl:latitude":36.270698,
+    "lbl:longitude":43.634462,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IQ",
+    "wof:geomhash":"2d060d0b210cf943c9e5e1e73050f16f",
+    "wof:hierarchy":[],
+    "wof:id":1796487369,
+    "wof:lastmodified":1666727861,
+    "wof:name":"Aski Kalak",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.621952,
+    36.259268,
+    43.64229,
+    36.279204
+],
+  "geometry": {"coordinates":[[[43.634205,36.259268],[43.626874,36.261779],[43.624062,36.264491],[43.622555,36.266249],[43.622003,36.266952],[43.621952,36.267504],[43.623961,36.267554],[43.627778,36.268107],[43.627577,36.273731],[43.628481,36.278501],[43.630188,36.279204],[43.634707,36.279204],[43.637118,36.278652],[43.640081,36.278501],[43.641838,36.277949],[43.641738,36.275388],[43.64219,36.273379],[43.64229,36.270768],[43.641135,36.267705],[43.639076,36.265596],[43.637771,36.26434],[43.636264,36.263386],[43.635712,36.262784],[43.634205,36.259268]]],"type":"Polygon"}
+}

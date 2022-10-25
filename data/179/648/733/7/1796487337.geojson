@@ -1,0 +1,40 @@
+{
+  "id": 1796487337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001014,
+    "geom:bbox":"42.871689,36.773965,42.92522,36.810623",
+    "geom:latitude":36.789706,
+    "geom:longitude":42.901726,
+    "iso:country":"IQ",
+    "lbl:latitude":36.792384,
+    "lbl:longitude":42.910243,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IQ",
+    "wof:geomhash":"1a99c0bafd484144c8244199aff54a1b",
+    "wof:hierarchy":[],
+    "wof:id":1796487337,
+    "wof:lastmodified":1666727860,
+    "wof:name":"Bajerke Dumez",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.871689,
+    36.773965,
+    42.92522,
+    36.810623
+],
+  "geometry": {"coordinates":[[[42.92522,36.782301],[42.89268,36.778585],[42.89027,36.776576],[42.886252,36.774869],[42.883842,36.773965],[42.874803,36.775371],[42.8741,36.782703],[42.87189,36.783004],[42.871689,36.785314],[42.873799,36.787322],[42.875205,36.790034],[42.879523,36.790335],[42.896798,36.794051],[42.898907,36.795156],[42.899309,36.797366],[42.899409,36.799374],[42.900715,36.800781],[42.902824,36.80289],[42.909051,36.805903],[42.916483,36.810322],[42.919295,36.810623],[42.9204,36.809719],[42.921906,36.802337],[42.923965,36.78903],[42.92522,36.782301]]],"type":"Polygon"}
+}
