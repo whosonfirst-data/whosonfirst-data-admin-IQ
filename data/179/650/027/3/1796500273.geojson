@@ -17,17 +17,22 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253684
+    },
     "wof:country":"IQ",
     "wof:geomhash":"2633bef77efe8ea4e0b689a28d00a284",
     "wof:hierarchy":[],
     "wof:id":1796500273,
-    "wof:lastmodified":1666734971,
+    "wof:lastmodified":1666819054,
     "wof:name":"Sha'ab",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242598967
+    ],
     "wof:tags":[]
 },
   "bbox": [

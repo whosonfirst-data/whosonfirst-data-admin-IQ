@@ -17,17 +17,22 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166664
+    },
     "wof:country":"IQ",
     "wof:geomhash":"0563744affc6a08a9221b7ee2198a814",
     "wof:hierarchy":[],
     "wof:id":1796500209,
-    "wof:lastmodified":1666734969,
+    "wof:lastmodified":1666819054,
     "wof:name":"Bataween",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226640535
+    ],
     "wof:tags":[]
 },
   "bbox": [

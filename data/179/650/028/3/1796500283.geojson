@@ -13,21 +13,30 @@
     "lbl:longitude":44.337822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0631\u0645\u0648\u0643"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798653,
+        "wk:page":"Yarmouk%2C_Baghdad"
+    },
     "wof:country":"IQ",
     "wof:geomhash":"165867f79cdc67ecf549144dfef3d125",
     "wof:hierarchy":[],
     "wof:id":1796500283,
-    "wof:lastmodified":1666734971,
+    "wof:lastmodified":1666819055,
     "wof:name":"Al Yarmuk",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343283189
+    ],
     "wof:tags":[]
 },
   "bbox": [

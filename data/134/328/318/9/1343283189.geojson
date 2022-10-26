@@ -2,7 +2,7 @@
   "id": 1343283189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-10-26",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u064a\u0631\u0645\u0648\u0643"
@@ -46,7 +46,7 @@
         "wk:page":"Yarmouk%2C_Baghdad"
     },
     "wof:country":"IQ",
-    "wof:geomhash":"4e7e13ba4abbeb7df7b822bab967c994",
+    "wof:geomhash":"50660d5daa47a1bb14b1910092702278",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +57,22 @@
         }
     ],
     "wof:id":1343283189,
-    "wof:lastmodified":1566714103,
+    "wof:lastmodified":1666819055,
     "wof:name":"Yarmouk",
     "wof:parent_id":1108562793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796500283
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     44.34167,
-    33.29555999999999,
+    33.29556,
     44.34167,
-    33.29555999999999
+    33.29556
 ],
-  "geometry": {"coordinates":[44.34167,33.29555999999999],"type":"Point"}
+  "geometry": {"coordinates":[44.34167,33.29556],"type":"Point"}
 }

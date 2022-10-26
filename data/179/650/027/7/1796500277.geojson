@@ -17,17 +17,22 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064054
+    },
     "wof:country":"IQ",
     "wof:geomhash":"8e20c9ae37024a93f5ad28c0bf3ff33e",
     "wof:hierarchy":[],
     "wof:id":1796500277,
-    "wof:lastmodified":1666734971,
+    "wof:lastmodified":1666819054,
     "wof:name":"Sab al Bor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343283227
+    ],
     "wof:tags":[]
 },
   "bbox": [

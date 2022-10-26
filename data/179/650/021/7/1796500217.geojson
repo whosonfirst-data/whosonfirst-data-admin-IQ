@@ -13,21 +13,29 @@
     "lbl:longitude":44.319343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u064a\u0629"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253683
+    },
     "wof:country":"IQ",
     "wof:geomhash":"ed1cd117162128d90d48760ff954a4b0",
     "wof:hierarchy":[],
     "wof:id":1796500217,
-    "wof:lastmodified":1666734970,
+    "wof:lastmodified":1666819054,
     "wof:name":"Hurriyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343683237
+    ],
     "wof:tags":[]
 },
   "bbox": [

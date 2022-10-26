@@ -17,17 +17,22 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166655
+    },
     "wof:country":"IQ",
     "wof:geomhash":"bff8aff43c39d08a2a99f68cb3e4f585",
     "wof:hierarchy":[],
     "wof:id":1796500271,
-    "wof:lastmodified":1666734971,
+    "wof:lastmodified":1666819054,
     "wof:name":"Hosseinia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243548327
+    ],
     "wof:tags":[]
 },
   "bbox": [
