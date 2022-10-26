@@ -406,6 +406,9 @@
         "wd:id":"Q199909",
         "wk:page":"Karbala"
     },
+    "wof:concordances_alt":{
+        "gn:id":9169471
+    },
     "wof:country":"IQ",
     "wof:created":1459009997,
     "wof:geom_alt":[
@@ -430,7 +433,7 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[1225822525],
     "wof:tags":[]
 },
   "bbox": [

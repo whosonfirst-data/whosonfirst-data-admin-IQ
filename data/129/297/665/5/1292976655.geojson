@@ -99,7 +99,7 @@
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[1293746947],
     "wof:tags":[]
 },
   "bbox": [
