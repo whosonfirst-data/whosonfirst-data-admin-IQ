@@ -20,6 +20,7 @@
     "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":5.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
@@ -357,7 +358,7 @@
         }
     ],
     "wof:id":1125920643,
-    "wof:lastmodified":1666900283,
+    "wof:lastmodified":1666903448,
     "wof:name":"Erbil",
     "wof:parent_id":421200817,
     "wof:placetype":"locality",

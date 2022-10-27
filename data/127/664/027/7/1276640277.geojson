@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Atwi al Khal\u0101t",
@@ -46,7 +47,7 @@
         "gn:id":98394
     },
     "wof:country":"IQ",
-    "wof:geomhash":"46429d1b19e5879841ac8f23ae7d9374",
+    "wof:geomhash":"4b700f6fb0b73063d7eef34db09a4d6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1276640277,
-    "wof:lastmodified":1566714419,
+    "wof:lastmodified":1666903433,
     "wof:name":"'Atwi Khalat",
     "wof:parent_id":421172357,
     "wof:placetype":"locality",
@@ -68,9 +69,9 @@
 },
   "bbox": [
     46.24056,
-    31.02639000000001,
+    31.02639,
     46.24056,
-    31.02639000000001
+    31.02639
 ],
-  "geometry": {"coordinates":[46.24056,31.02639000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.24056,31.02639],"type":"Point"}
 }

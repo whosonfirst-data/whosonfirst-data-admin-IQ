@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0644\u0647 \u0627\u0644\u0633\u0641\u0644\u0649"
@@ -56,7 +57,7 @@
         "gn:id":89432
     },
     "wof:country":"IQ",
-    "wof:geomhash":"719f07d8c095b4714bbb6e51166d24cc",
+    "wof:geomhash":"d94288e6ee96e00a88417363c9f51683",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1309905187,
-    "wof:lastmodified":1566714911,
+    "wof:lastmodified":1666903446,
     "wof:name":"Zalah as Sufla",
     "wof:parent_id":1108562761,
     "wof:placetype":"locality",
@@ -77,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    45.46037000000001,
+    45.46037,
     35.48641,
-    45.46037000000001,
+    45.46037,
     35.48641
 ],
-  "geometry": {"coordinates":[45.46037000000001,35.48641],"type":"Point"}
+  "geometry": {"coordinates":[45.46037,35.48641],"type":"Point"}
 }

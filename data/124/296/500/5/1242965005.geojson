@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u062a\u0644 \u0623\u0633\u0648\u062f"
@@ -45,7 +46,7 @@
         "gn:id":6927465
     },
     "wof:country":"IQ",
-    "wof:geomhash":"879d59a216492d0bf412f1d50d58aa0c",
+    "wof:geomhash":"bd19bd8de27402f7fb3bc45e222cccd0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1242965005,
-    "wof:lastmodified":1566715111,
+    "wof:lastmodified":1666903451,
     "wof:name":"Qaryat Tall Aswad",
     "wof:parent_id":1108562793,
     "wof:placetype":"locality",
@@ -67,9 +68,9 @@
 },
   "bbox": [
     44.31875,
-    33.22479000000001,
+    33.22479,
     44.31875,
-    33.22479000000001
+    33.22479
 ],
-  "geometry": {"coordinates":[44.31875,33.22479000000001],"type":"Point"}
+  "geometry": {"coordinates":[44.31875,33.22479],"type":"Point"}
 }

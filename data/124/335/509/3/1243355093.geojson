@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qal\u2018a J\u0101sim al Muhammad",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1243355093,
-    "wof:lastmodified":1566715077,
+    "wof:lastmodified":1666903450,
     "wof:name":"Qal'at 'Asim al Muhammad",
     "wof:parent_id":1108562795,
     "wof:placetype":"locality",

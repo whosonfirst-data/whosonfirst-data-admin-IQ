@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "H\u0101j Wahib",
@@ -46,7 +47,7 @@
         "gn:id":96212
     },
     "wof:country":"IQ",
-    "wof:geomhash":"09dbd2e7296cfc2fd454a1ba73e9653c",
+    "wof:geomhash":"64651bb7c7fb2888c633623de6869beb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1326951397,
-    "wof:lastmodified":1566713820,
+    "wof:lastmodified":1666903418,
     "wof:name":"Hajj Wahib",
     "wof:parent_id":1108562785,
     "wof:placetype":"locality",
@@ -67,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.46299000000001,
+    44.46299,
     33.24891,
-    44.46299000000001,
+    44.46299,
     33.24891
 ],
-  "geometry": {"coordinates":[44.46299000000001,33.24891],"type":"Point"}
+  "geometry": {"coordinates":[44.46299,33.24891],"type":"Point"}
 }

@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0627\u0644\u0639\u0627\u0635\u0641\u0629"
@@ -45,7 +46,7 @@
         "gn:id":6927501
     },
     "wof:country":"IQ",
-    "wof:geomhash":"061a787bfdcbbfd27537e37e1355c55d",
+    "wof:geomhash":"46ea0c27ba1621487265b38424d09155",
     "wof:hierarchy":[
         {
             "country_id":85632191,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1209027957,
-    "wof:lastmodified":1566714556,
+    "wof:lastmodified":1666903437,
     "wof:name":"Qaryat al 'Asifah",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",
@@ -63,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.36049000000001,
+    44.36049,
     33.23421,
-    44.36049000000001,
+    44.36049,
     33.23421
 ],
-  "geometry": {"coordinates":[44.36049000000001,33.23421],"type":"Point"}
+  "geometry": {"coordinates":[44.36049,33.23421],"type":"Point"}
 }

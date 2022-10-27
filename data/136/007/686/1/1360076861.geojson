@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tall Ab\u016b \u0162ab\u016bn"
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1360076861,
-    "wof:lastmodified":1566714854,
+    "wof:lastmodified":1666903444,
     "wof:name":"Tall Abu Tabun",
     "wof:parent_id":1108562795,
     "wof:placetype":"locality",

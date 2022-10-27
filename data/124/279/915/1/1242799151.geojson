@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jam\u0101l al \u2018Az\u012bz"
@@ -45,7 +46,7 @@
         "gn:id":448868
     },
     "wof:country":"IQ",
-    "wof:geomhash":"666f44607c64dc3f47917a0e5d74b19b",
+    "wof:geomhash":"a6c53acc7d1204e78f8c33689afac016",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1242799151,
-    "wof:lastmodified":1566715100,
+    "wof:lastmodified":1666903451,
     "wof:name":"Jamal al 'Aziz",
     "wof:parent_id":1108562795,
     "wof:placetype":"locality",
@@ -67,9 +68,9 @@
 },
   "bbox": [
     44.3411,
-    33.42140999999999,
+    33.42141,
     44.3411,
-    33.42140999999999
+    33.42141
 ],
-  "geometry": {"coordinates":[44.3411,33.42140999999999],"type":"Point"}
+  "geometry": {"coordinates":[44.3411,33.42141],"type":"Point"}
 }

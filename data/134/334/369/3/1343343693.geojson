@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e28asan Khiy\u016bm"
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1343343693,
-    "wof:lastmodified":1566714066,
+    "wof:lastmodified":1666903424,
     "wof:name":"Hasan Khiyum",
     "wof:parent_id":421186459,
     "wof:placetype":"locality",

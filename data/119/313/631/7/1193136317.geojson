@@ -30,6 +30,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kusa",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1193136317,
-    "wof:lastmodified":1566714630,
+    "wof:lastmodified":1666903439,
     "wof:name":"Kusah",
     "wof:parent_id":1108562761,
     "wof:placetype":"locality",

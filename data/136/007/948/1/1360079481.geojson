@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062e\u0644\u0641 \u0645\u062d\u0645\u062f"
@@ -48,7 +49,7 @@
         "gn:id":6806089
     },
     "wof:country":"IQ",
-    "wof:geomhash":"f8701940048f49009843297f226cbf0c",
+    "wof:geomhash":"6556a71bfd1a5c8e180878c245e7d206",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1360079481,
-    "wof:lastmodified":1566714856,
+    "wof:lastmodified":1666903444,
     "wof:name":"Mukhlif Muhammad",
     "wof:parent_id":1108562795,
     "wof:placetype":"locality",
@@ -70,9 +71,9 @@
 },
   "bbox": [
     44.19228,
-    33.52670999999999,
+    33.52671,
     44.19228,
-    33.52670999999999
+    33.52671
 ],
-  "geometry": {"coordinates":[44.19228,33.52670999999999],"type":"Point"}
+  "geometry": {"coordinates":[44.19228,33.52671],"type":"Point"}
 }

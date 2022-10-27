@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u062d\u064a\u0629 \u0639\u06a9\u064a\u06a9\u0629"
@@ -53,7 +54,7 @@
         "gn:id":89987
     },
     "wof:country":"IQ",
-    "wof:geomhash":"505c8f578c7f1c16a47463e146c75c97",
+    "wof:geomhash":"069b818a523f55f497b2a9d1eb8321da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1293374415,
-    "wof:lastmodified":1566714149,
+    "wof:lastmodified":1666903426,
     "wof:name":"Nahiyah 'Akikah",
     "wof:parent_id":1108562723,
     "wof:placetype":"locality",
@@ -75,9 +76,9 @@
 },
   "bbox": [
     46.45177,
-    30.90027000000001,
+    30.90027,
     46.45177,
-    30.90027000000001
+    30.90027
 ],
-  "geometry": {"coordinates":[46.45177,30.90027000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.45177,30.90027],"type":"Point"}
 }

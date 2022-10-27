@@ -18,6 +18,7 @@
     "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":5.1,
     "name:afr_x_preferred":[
         "Kirkoek"
@@ -412,7 +413,7 @@
         }
     ],
     "wof:id":890449811,
-    "wof:lastmodified":1666900284,
+    "wof:lastmodified":1666903448,
     "wof:name":"Kirkuk",
     "wof:parent_id":421199293,
     "wof:placetype":"locality",

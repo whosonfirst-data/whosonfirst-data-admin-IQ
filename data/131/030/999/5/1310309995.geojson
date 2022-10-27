@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Qilrikh-i Pich\u016bk"
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1310309995,
-    "wof:lastmodified":1566714764,
+    "wof:lastmodified":1666903442,
     "wof:name":"Qilrikh as Saghir",
     "wof:parent_id":421183885,
     "wof:placetype":"locality",

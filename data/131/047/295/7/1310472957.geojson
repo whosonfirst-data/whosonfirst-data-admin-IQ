@@ -30,6 +30,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u1e28\u0101jj\u012b \u015e\u0101li\u1e29"
@@ -49,7 +50,7 @@
         "gn:id":96228
     },
     "wof:country":"IQ",
-    "wof:geomhash":"0fb6464ef6f3d81345bbba4ecb8cacf5",
+    "wof:geomhash":"91430799d79b8ead7d5237e559fe2347",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1310472957,
-    "wof:lastmodified":1566714746,
+    "wof:lastmodified":1666903441,
     "wof:name":"Hajji Salih",
     "wof:parent_id":1108562681,
     "wof:placetype":"locality",
@@ -71,9 +72,9 @@
 },
   "bbox": [
     47.11667,
-    31.86667000000001,
+    31.86667,
     47.11667,
-    31.86667000000001
+    31.86667
 ],
-  "geometry": {"coordinates":[47.11667,31.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.11667,31.86667],"type":"Point"}
 }
