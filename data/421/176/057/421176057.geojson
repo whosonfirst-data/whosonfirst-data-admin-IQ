@@ -10,6 +10,8 @@
     "geom:latitude":34.959419,
     "geom:longitude":43.490505,
     "iso:country":"IQ",
+    "lbl:latitude":34.92983,
+    "lbl:longitude":43.491613,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
@@ -122,6 +124,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191569,
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421176057,
-    "wof:lastmodified":1666900282,
+    "wof:lastmodified":1666902968,
     "wof:name":"Baiji",
     "wof:parent_id":1108562647,
     "wof:placetype":"locality",
