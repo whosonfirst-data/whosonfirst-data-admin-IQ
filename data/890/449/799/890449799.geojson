@@ -42,6 +42,9 @@
         "\u03a4\u03b1\u03bb \u039a\u03b1\u0390\u03c6"
     ],
     "name:eng_x_preferred":[
+        "Qa\u1e11\u0101\u2019 Talk\u012bf"
+    ],
+    "name:eng_x_variant":[
         "Tel Keppe"
     ],
     "name:fas_x_preferred":[
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":890449799,
-    "wof:lastmodified":1666735308,
+    "wof:lastmodified":1666900285,
     "wof:name":"Qa\u1e11\u0101\u2019 Talk\u012bf",
     "wof:parent_id":1108562629,
     "wof:placetype":"locality",

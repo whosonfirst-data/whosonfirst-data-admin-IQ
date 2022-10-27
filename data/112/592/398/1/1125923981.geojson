@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0632\u064a\u0632\u064a\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Al \u2018Az\u012bz\u012byah"
+    ],
     "name:und_x_variant":[
         "Al \u2018Aziziya"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1125923981,
-    "wof:lastmodified":1666735309,
+    "wof:lastmodified":1666900279,
     "wof:name":"Al \u2018Az\u012bz\u012byah",
     "wof:parent_id":1108562781,
     "wof:placetype":"locality",

@@ -21,6 +21,12 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u062d\u064a\u0629 \u0627\u0644\u0641\u0647\u0648\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "N\u0101\u1e29iyat al Fuh\u016bd"
+    ],
     "name:und_x_variant":[
         "Fuh\u016bd"
     ],
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1125923521,
-    "wof:lastmodified":1666735309,
+    "wof:lastmodified":1666900285,
     "wof:name":"N\u0101\u1e29iyat al Fuh\u016bd",
     "wof:parent_id":1108562723,
     "wof:placetype":"locality",

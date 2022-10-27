@@ -13,6 +13,12 @@
     "lbl:longitude":44.471876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0645\u0639 \u0627\u0644\u0635\u0646\u0627\u0639\u064a \u0644\u0644\u0632\u0639\u0641\u0631\u0627\u0646\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Zafriniya Industrial Complex"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"f5142c648c0eaacdbb730b35edf4eb1d",
     "wof:hierarchy":[],
     "wof:id":1796500253,
-    "wof:lastmodified":1666734970,
+    "wof:lastmodified":1666900287,
     "wof:name":"Zafriniya Industrial Complex",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

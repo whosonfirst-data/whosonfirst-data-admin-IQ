@@ -13,6 +13,12 @@
     "lbl:longitude":44.356092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0639\u064a\u062f\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Saidiya"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"688fa0ea860093f6a4a8ce7286e571d2",
     "wof:hierarchy":[],
     "wof:id":1796500181,
-    "wof:lastmodified":1666734969,
+    "wof:lastmodified":1666900286,
     "wof:name":"Saidiya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

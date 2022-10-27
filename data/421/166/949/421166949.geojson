@@ -28,6 +28,9 @@
         "\u0639\u06d5\u0641\u06d5\u06a9"
     ],
     "name:eng_x_preferred":[
+        "Afaq"
+    ],
+    "name:eng_x_variant":[
         "Afak"
     ],
     "name:fas_x_preferred":[
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421166949,
-    "wof:lastmodified":1666735311,
+    "wof:lastmodified":1666900279,
     "wof:name":"Afaq",
     "wof:parent_id":1108562687,
     "wof:placetype":"locality",

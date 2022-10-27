@@ -21,6 +21,9 @@
         "\u0627\u0644\u0648\u0632\u064a\u0631\u064a\u0629"
     ],
     "name:eng_x_preferred":[
+        "Al Waz\u012br\u012byah"
+    ],
+    "name:eng_x_variant":[
         "Al-Wazireya"
     ],
     "qs:gn_country":"IQ",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421198167,
-    "wof:lastmodified":1666735493,
+    "wof:lastmodified":1666900281,
     "wof:name":"Al Waz\u012br\u012byah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

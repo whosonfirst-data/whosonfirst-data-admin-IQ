@@ -13,6 +13,12 @@
     "lbl:longitude":44.525834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Amin"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"9bf0c4a28961edfec18307b7d1c65c01",
     "wof:hierarchy":[],
     "wof:id":1796500191,
-    "wof:lastmodified":1666734969,
+    "wof:lastmodified":1666900281,
     "wof:name":"Amin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

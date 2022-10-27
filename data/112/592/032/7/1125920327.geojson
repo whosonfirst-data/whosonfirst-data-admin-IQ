@@ -22,9 +22,10 @@
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
-        "\u0642\u0636\u0627\u0621 \u0627\u0644\u062d\u0645\u062f\u0627\u0646\u064a\u0629"
+        "\u0642\u0636\u0627\u0621 \u0627\u0644\u062d\u0645\u062f\u0646\u064a\u0629"
     ],
     "name:ara_x_variant":[
+        "\u0642\u0636\u0627\u0621 \u0627\u0644\u062d\u0645\u062f\u0627\u0646\u064a\u0629",
         "\u0628\u063a\u062f\u064a\u062f\u0627"
     ],
     "name:arc_x_preferred":[
@@ -46,9 +47,10 @@
         "Bachdida"
     ],
     "name:eng_x_preferred":[
-        "Al-Hamdaniya District"
+        "Qa\u1e11\u0101\u2019 al \u1e28amd\u0101n\u012byah"
     ],
     "name:eng_x_variant":[
+        "Al-Hamdaniya District",
         "Bakhdida"
     ],
     "name:fas_x_preferred":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":1125920327,
-    "wof:lastmodified":1666735310,
+    "wof:lastmodified":1666900285,
     "wof:name":"Qa\u1e11\u0101\u2019 al \u1e28amd\u0101n\u012byah",
     "wof:parent_id":1108562631,
     "wof:placetype":"locality",

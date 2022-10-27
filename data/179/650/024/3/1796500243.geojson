@@ -13,6 +13,12 @@
     "lbl:longitude":44.537247,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u064a\u062f\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Obaydi"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"d54117a9c7ca16c39ff24f450d3e14c5",
     "wof:hierarchy":[],
     "wof:id":1796500243,
-    "wof:lastmodified":1666734970,
+    "wof:lastmodified":1666900285,
     "wof:name":"Obaydi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

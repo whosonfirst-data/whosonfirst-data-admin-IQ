@@ -13,6 +13,12 @@
     "lbl:longitude":44.427866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631\u0643 \u0627\u0644\u0633\u0639\u062f\u0648\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Saadoom Park"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"b3ceb0fbaa9217624673029d67b158da",
     "wof:hierarchy":[],
     "wof:id":1796500245,
-    "wof:lastmodified":1666734970,
+    "wof:lastmodified":1666900281,
     "wof:name":"Al Saadoom Park",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

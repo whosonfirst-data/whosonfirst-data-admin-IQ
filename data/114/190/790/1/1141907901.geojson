@@ -36,6 +36,9 @@
         "\u0391\u03c1 \u03a1\u03bf\u03c5\u03c4\u03bc\u03c0\u03ac\u03c7"
     ],
     "name:eng_x_preferred":[
+        "Ar Rutbah"
+    ],
+    "name:eng_x_variant":[
         "Ar Rutba"
     ],
     "name:fas_x_preferred":[
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":1141907901,
-    "wof:lastmodified":1666735310,
+    "wof:lastmodified":1666900282,
     "wof:name":"Ar Rutbah",
     "wof:parent_id":1108562667,
     "wof:placetype":"locality",

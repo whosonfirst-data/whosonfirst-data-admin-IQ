@@ -28,6 +28,9 @@
         "Al-Mejar Al-Kabi District"
     ],
     "name:eng_x_preferred":[
+        "Al Mijar Al Kabir"
+    ],
+    "name:eng_x_variant":[
         "Majar al-Kabir District"
     ],
     "name:fas_x_preferred":[
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421196899,
-    "wof:lastmodified":1666735313,
+    "wof:lastmodified":1666900280,
     "wof:name":"Al Mijar Al Kabir",
     "wof:parent_id":1108562707,
     "wof:placetype":"locality",

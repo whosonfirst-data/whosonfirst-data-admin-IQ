@@ -31,11 +31,14 @@
         "Al Jami\u2019ah"
     ],
     "name:ara_x_preferred":[
-        "Al J\u0101mi\u2019ah"
+        "\u0627\u0644\u062c\u0627\u0645\u0639\u0629"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u062c\u0627\u0645\u0639\u0629",
+        "Al J\u0101mi\u2019ah",
         "\u062d\u064a \u0627\u0644\u062c\u0627\u0645\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al J\u0101mi\u2019ah"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062c\u0645\u06cc\u0639\u0627\u0647"
@@ -110,7 +113,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1666735492,
+    "wof:lastmodified":1666900280,
     "wof:name":"Al J\u0101mi\u2019ah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

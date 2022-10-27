@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0639\u0644\u064a \u0627\u0644\u063a\u0631\u0628\u064a"
     ],
+    "name:eng_x_preferred":[
+        "Ali Al-Gharbi District"
+    ],
     "name:und_x_variant":[
         "Im\u0101m Ali Gherbi"
     ],
@@ -78,8 +81,8 @@
         }
     ],
     "wof:id":421197841,
-    "wof:lastmodified":1666735307,
-    "wof:name":"\u0639\u0644\u064a \u0627\u0644\u063a\u0631\u0628\u064a",
+    "wof:lastmodified":1666900281,
+    "wof:name":"Ali Al-Gharbi District",
     "wof:parent_id":1108562677,
     "wof:placetype":"locality",
     "wof:population":19711,

@@ -13,6 +13,12 @@
     "lbl:longitude":44.545043,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0631\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Soran"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"decf86fd781c41793b7ddc0d76490fe7",
     "wof:hierarchy":[],
     "wof:id":1796487365,
-    "wof:lastmodified":1666727861,
+    "wof:lastmodified":1666900286,
     "wof:name":"Soran",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u0648\u064a\u0631\u0629"
     ],
+    "name:eng_x_preferred":[
+        "A\u015f \u015euwayrah"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u0432\u0430\u0439\u0440\u0430"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125920773,
-    "wof:lastmodified":1666735310,
+    "wof:lastmodified":1666900282,
     "wof:name":"A\u015f \u015euwayrah",
     "wof:parent_id":1108562783,
     "wof:placetype":"locality",

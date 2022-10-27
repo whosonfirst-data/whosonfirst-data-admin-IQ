@@ -21,10 +21,13 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
-        "Al Mishkh\u0101b"
+        "\u0627\u0644\u0645\u0634\u062e\u0627\u0628"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0645\u0634\u062e\u0627\u0628"
+        "Al Mishkh\u0101b"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mishkh\u0101b"
     ],
     "name:und_x_variant":[
         "Faisailiya"
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890417893,
-    "wof:lastmodified":1666735309,
+    "wof:lastmodified":1666900280,
     "wof:name":"Al Mishkh\u0101b",
     "wof:parent_id":1108562693,
     "wof:placetype":"locality",

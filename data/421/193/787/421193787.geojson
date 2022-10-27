@@ -19,10 +19,10 @@
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
-        "\u062f\u064e\u0647\u064f\u06a9\u0652"
+        "\u062f\u0647\u0648\u0643"
     ],
     "name:ara_x_variant":[
-        "\u062f\u0647\u0648\u0643",
+        "\u062f\u064e\u0647\u064f\u06a9\u0652",
         "Dih\u016bk"
     ],
     "name:arc_x_preferred":[
@@ -59,10 +59,10 @@
         "\u039d\u03c4\u03b1\u03c7\u03bf\u03cd\u03ba"
     ],
     "name:eng_x_preferred":[
-        "Dahuk"
+        "Duhok"
     ],
     "name:eng_x_variant":[
-        "Duhok"
+        "Dahuk"
     ],
     "name:epo_x_preferred":[
         "Dihok"
@@ -268,8 +268,8 @@
         }
     ],
     "wof:id":421193787,
-    "wof:lastmodified":1666735312,
-    "wof:name":"\u062f\u0647\u0648\u0643",
+    "wof:lastmodified":1666900283,
+    "wof:name":"Duhok",
     "wof:parent_id":421204025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",

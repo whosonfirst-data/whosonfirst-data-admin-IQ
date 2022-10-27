@@ -13,6 +13,12 @@
     "lbl:longitude":44.370854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0645\u0639\u0631\u0648\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Sheik Maaruf"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"c848e5eafcb43d66c2901ed605c06d50",
     "wof:hierarchy":[],
     "wof:id":1796500261,
-    "wof:lastmodified":1666734971,
+    "wof:lastmodified":1666900286,
     "wof:name":"Sheik Maaruf",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

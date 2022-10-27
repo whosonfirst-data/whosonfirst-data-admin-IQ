@@ -18,10 +18,14 @@
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
-        "An N\u012bl"
+        "\u0627\u0644\u0646\u064a\u0644"
     ],
     "name:ara_x_variant":[
+        "An N\u012bl",
         "N\u012bl"
+    ],
+    "name:eng_x_preferred":[
+        "An N\u012bl"
     ],
     "qs:gn_country":"IQ",
     "qs:gn_fcode":"PPLX",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421198169,
-    "wof:lastmodified":1666735492,
+    "wof:lastmodified":1666900282,
     "wof:name":"An N\u012bl",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

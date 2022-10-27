@@ -19,7 +19,13 @@
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u0631\u0645\u064a\u062b\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0631\u0645\u064a\u062b\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rumaythah"
     ],
     "name:und_x_variant":[
         "Rumetha"
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421196903,
-    "wof:lastmodified":1666735307,
+    "wof:lastmodified":1666900282,
     "wof:name":"Ar Rumaythah",
     "wof:parent_id":1108562705,
     "wof:placetype":"locality",

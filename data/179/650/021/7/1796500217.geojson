@@ -14,7 +14,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u062d\u0631\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Hurriyah"
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
@@ -27,7 +33,7 @@
     "wof:geomhash":"ed1cd117162128d90d48760ff954a4b0",
     "wof:hierarchy":[],
     "wof:id":1796500217,
-    "wof:lastmodified":1666819054,
+    "wof:lastmodified":1666900284,
     "wof:name":"Hurriyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

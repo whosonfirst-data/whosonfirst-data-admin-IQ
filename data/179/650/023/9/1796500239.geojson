@@ -13,6 +13,12 @@
     "lbl:longitude":44.451666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u0639\u064a\u062b\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Bo'aitha"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"2493eb113513a0968b27377b9209d400",
     "wof:hierarchy":[],
     "wof:id":1796500239,
-    "wof:lastmodified":1666734970,
+    "wof:lastmodified":1666900283,
     "wof:name":"Bo'aitha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

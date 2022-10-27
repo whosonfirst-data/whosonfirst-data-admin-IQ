@@ -13,6 +13,12 @@
     "lbl:longitude":44.408058,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0622\u0633\u064a\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Asia"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"755c2dcb08aff96fe106db1fea554928",
     "wof:hierarchy":[],
     "wof:id":1796500229,
-    "wof:lastmodified":1666734970,
+    "wof:lastmodified":1666900282,
     "wof:name":"Asia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

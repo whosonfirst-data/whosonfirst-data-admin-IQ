@@ -13,6 +13,12 @@
     "lbl:longitude":44.508387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u062a\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Mashtal"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"f0ab6eab313b24349fa792f5738b65f1",
     "wof:hierarchy":[],
     "wof:id":1796500189,
-    "wof:lastmodified":1666734969,
+    "wof:lastmodified":1666900285,
     "wof:name":"Mashtal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

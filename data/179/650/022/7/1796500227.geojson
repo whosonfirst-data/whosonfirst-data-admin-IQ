@@ -13,6 +13,12 @@
     "lbl:longitude":44.471876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u062f\u064a\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ghadeer"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"ca362c7ce8bce3465969c0edb08c4021",
     "wof:hierarchy":[],
     "wof:id":1796500227,
-    "wof:lastmodified":1666734970,
+    "wof:lastmodified":1666900280,
     "wof:name":"Al Ghadeer",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

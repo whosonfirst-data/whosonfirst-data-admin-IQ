@@ -13,6 +13,12 @@
     "lbl:longitude":44.511875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0639\u0641\u0631\u0627\u0646\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Zafriniya"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"87091b105b6c116e5eb8320a6525a2a3",
     "wof:hierarchy":[],
     "wof:id":1796500223,
-    "wof:lastmodified":1666734970,
+    "wof:lastmodified":1666900287,
     "wof:name":"Zafriniya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

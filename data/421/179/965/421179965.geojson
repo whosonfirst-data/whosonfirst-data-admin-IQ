@@ -28,6 +28,9 @@
         "Dudschail"
     ],
     "name:eng_x_preferred":[
+        "Ad Dujayl"
+    ],
+    "name:eng_x_variant":[
         "Dujail"
     ],
     "name:epo_x_preferred":[
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421179965,
-    "wof:lastmodified":1666735308,
+    "wof:lastmodified":1666900279,
     "wof:name":"Ad Dujayl",
     "wof:parent_id":1108562809,
     "wof:placetype":"locality",

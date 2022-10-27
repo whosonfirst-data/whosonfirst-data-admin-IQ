@@ -39,6 +39,9 @@
         "\u039c\u03bf\u03c5\u03c3\u03b1\u03b3\u03af\u03bc\u03c0"
     ],
     "name:eng_x_preferred":[
+        "Al Musayyib"
+    ],
+    "name:eng_x_variant":[
         "Musayyib"
     ],
     "name:fas_x_preferred":[
@@ -283,7 +286,7 @@
         }
     ],
     "wof:id":1141906621,
-    "wof:lastmodified":1666735310,
+    "wof:lastmodified":1666900280,
     "wof:name":"Al Musayyib",
     "wof:parent_id":421172849,
     "wof:placetype":"locality",

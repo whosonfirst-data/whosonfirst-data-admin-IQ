@@ -13,6 +13,12 @@
     "lbl:longitude":44.42359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0628\u064a\u0628\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Habibiyah"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"723d9a7d6df1fa2cc0797a0c649462f2",
     "wof:hierarchy":[],
     "wof:id":1796500193,
-    "wof:lastmodified":1666734969,
+    "wof:lastmodified":1666900283,
     "wof:name":"Habibiyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

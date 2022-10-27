@@ -42,6 +42,9 @@
         "\u0391\u03bb \u03a3\u03b1\u03c4\u03c1\u03ac\u03c7"
     ],
     "name:eng_x_preferred":[
+        "Ash Sha\u0163rah"
+    ],
+    "name:eng_x_variant":[
         "Ash Shatrah"
     ],
     "name:est_x_preferred":[
@@ -267,7 +270,7 @@
         }
     ],
     "wof:id":890439963,
-    "wof:lastmodified":1666735309,
+    "wof:lastmodified":1666900282,
     "wof:name":"Ash Sha\u0163rah",
     "wof:parent_id":1108562741,
     "wof:placetype":"locality",

@@ -13,6 +13,12 @@
     "lbl:longitude":44.391617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0639\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Sha'ab"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -24,7 +30,7 @@
     "wof:geomhash":"2633bef77efe8ea4e0b689a28d00a284",
     "wof:hierarchy":[],
     "wof:id":1796500273,
-    "wof:lastmodified":1666819054,
+    "wof:lastmodified":1666900286,
     "wof:name":"Sha'ab",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

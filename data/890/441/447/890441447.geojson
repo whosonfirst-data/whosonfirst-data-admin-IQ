@@ -39,6 +39,9 @@
         "Mandali"
     ],
     "name:eng_x_preferred":[
+        "Mandal\u012b"
+    ],
+    "name:eng_x_variant":[
         "Mandali"
     ],
     "name:fas_x_preferred":[
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":890441447,
-    "wof:lastmodified":1666735309,
+    "wof:lastmodified":1666900284,
     "wof:name":"Mandal\u012b",
     "wof:parent_id":1108562655,
     "wof:placetype":"locality",

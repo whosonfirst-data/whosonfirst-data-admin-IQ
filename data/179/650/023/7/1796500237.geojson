@@ -13,6 +13,12 @@
     "lbl:longitude":44.359631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0648\u0629 \u0627\u0644\u0631\u0634\u064a\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Ewairij"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"8b655ec733609ca11b9cfee199461e5a",
     "wof:hierarchy":[],
     "wof:id":1796500237,
-    "wof:lastmodified":1666734970,
+    "wof:lastmodified":1666900283,
     "wof:name":"Ewairij",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

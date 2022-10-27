@@ -28,6 +28,12 @@
         "Al Wahdah"
     ],
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u062d\u062f\u0629"
+    ],
+    "name:ara_x_variant":[
+        "Al Wah\u0327dah"
+    ],
+    "name:eng_x_preferred":[
         "Al Wah\u0327dah"
     ],
     "qs:gn_adm0_cc":"IQ",
@@ -92,7 +98,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1666735492,
+    "wof:lastmodified":1666900281,
     "wof:name":"Al Wah\u0327dah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

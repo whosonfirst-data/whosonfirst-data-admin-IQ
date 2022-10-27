@@ -20,6 +20,12 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0627\u0645\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al J\u0101mi\u2019ah"
+    ],
     "qs_pg:aaroncc":"IQ",
     "qs_pg:gn_country":"IQ",
     "qs_pg:gn_fcode":"PPLX",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1126102071,
-    "wof:lastmodified":1666735492,
+    "wof:lastmodified":1666900280,
     "wof:name":"Al J\u0101mi\u2019ah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

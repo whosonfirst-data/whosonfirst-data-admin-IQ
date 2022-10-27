@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062e\u0645\u0648\u0631"
     ],
+    "name:eng_x_preferred":[
+        "Makhmur"
+    ],
     "name:kur_x_preferred":[
         "Mokhmur"
     ],
@@ -86,8 +89,8 @@
         }
     ],
     "wof:id":421195195,
-    "wof:lastmodified":1666735312,
-    "wof:name":"\u0645\u062e\u0645\u0648\u0631",
+    "wof:lastmodified":1666900284,
+    "wof:name":"Makhmur",
     "wof:parent_id":1108562779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",

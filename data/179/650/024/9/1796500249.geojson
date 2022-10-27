@@ -13,6 +13,12 @@
     "lbl:longitude":44.347344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u062d\u0627\u0645\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Fahamah"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"a7f69e2dab71d250fef6942b59f3ff7a",
     "wof:hierarchy":[],
     "wof:id":1796500249,
-    "wof:lastmodified":1666734970,
+    "wof:lastmodified":1666900279,
     "wof:name":"Al Fahamah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

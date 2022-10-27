@@ -19,6 +19,9 @@
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062f\u064a\u062b\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u062d\u062f\u064a\u062b\u0629"
     ],
     "name:arz_x_preferred":[
@@ -43,6 +46,9 @@
         "\u03a7\u03b1\u03bd\u03c4\u03b9\u03b8\u03ac"
     ],
     "name:eng_x_preferred":[
+        "Al Hadithah"
+    ],
+    "name:eng_x_variant":[
         "Haditha"
     ],
     "name:fas_x_preferred":[
@@ -219,7 +225,7 @@
         }
     ],
     "wof:id":421200415,
-    "wof:lastmodified":1666735308,
+    "wof:lastmodified":1666900280,
     "wof:name":"Al Hadithah",
     "wof:parent_id":1108562649,
     "wof:placetype":"locality",

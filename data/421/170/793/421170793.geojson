@@ -19,10 +19,14 @@
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
-        "\u067e\u064a\u0646\u062c\u0648\u06cc\u0646"
+        "\u0628\u0646\u062c\u0648\u064a\u0646"
     ],
     "name:ara_x_variant":[
+        "\u067e\u064a\u0646\u062c\u0648\u06cc\u0646",
         "\u0628\u064a\u0646\u062c\u0648\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Penjwen"
     ],
     "name:fas_x_preferred":[
         "Penjv\u012bn"
@@ -94,8 +98,8 @@
         }
     ],
     "wof:id":421170793,
-    "wof:lastmodified":1666735308,
-    "wof:name":"\u0628\u0646\u062c\u0648\u064a\u0646",
+    "wof:lastmodified":1666900285,
+    "wof:name":"Penjwen",
     "wof:parent_id":1108562765,
     "wof:placetype":"locality",
     "wof:population":27116,

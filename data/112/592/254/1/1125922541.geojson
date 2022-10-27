@@ -22,10 +22,14 @@
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
-        "Kh\u0101li\u015f"
+        "\u062e\u0644\u064a\u062c"
     ],
     "name:ara_x_variant":[
+        "Kh\u0101li\u015f",
         "\u062e\u0627\u0644\u0635"
+    ],
+    "name:eng_x_preferred":[
+        "Kh\u0101li\u015f"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c-\u0425\u0430\u043b\u0438\u0441\u0430"
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1125922541,
-    "wof:lastmodified":1666735309,
+    "wof:lastmodified":1666900284,
     "wof:name":"Kh\u0101li\u015f",
     "wof:parent_id":421184253,
     "wof:placetype":"locality",

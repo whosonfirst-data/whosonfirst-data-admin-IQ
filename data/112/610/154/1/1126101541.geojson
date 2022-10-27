@@ -26,6 +26,9 @@
         "Al Jazirah"
     ],
     "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0632\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
         "Al Jaz\u012brah"
     ],
     "name:und_x_variant":[
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126101541,
-    "wof:lastmodified":1666735492,
+    "wof:lastmodified":1666900280,
     "wof:name":"Al Jaz\u012brah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

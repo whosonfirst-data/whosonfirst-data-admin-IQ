@@ -21,10 +21,10 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
-        "\u0686\u0645\u0686\u0645\u0627\u0644"
+        "\u062c\u0645\u062c\u0645\u0627\u0644"
     ],
     "name:ara_x_variant":[
-        "\u062c\u0645\u062c\u0645\u0627\u0644"
+        "\u0686\u0645\u0686\u0645\u0627\u0644"
     ],
     "name:ceb_x_preferred":[
         "Jamjam\u0101l"
@@ -36,6 +36,9 @@
         "\u00c7em\u00e7emal"
     ],
     "name:eng_x_preferred":[
+        "Chamcham\u0101l"
+    ],
+    "name:eng_x_variant":[
         "Chamchamal"
     ],
     "name:est_x_preferred":[
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890449813,
-    "wof:lastmodified":1666735309,
+    "wof:lastmodified":1666900283,
     "wof:name":"Chamcham\u0101l",
     "wof:parent_id":1108562745,
     "wof:placetype":"locality",

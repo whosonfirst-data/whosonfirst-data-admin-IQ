@@ -19,10 +19,10 @@
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
-        "\u0643\u0648\u064a \u0633\u0646\u062c\u0642"
+        "\u0643\u0648\u064a\u0633\u0646\u062c\u0642"
     ],
     "name:ara_x_variant":[
-        "\u0643\u0648\u064a\u0633\u0646\u062c\u0642",
+        "\u0643\u0648\u064a \u0633\u0646\u062c\u0642",
         "\u0643\u0648\u064a\u0629"
     ],
     "name:ben_x_preferred":[
@@ -47,6 +47,9 @@
         "\u039a\u03cc\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Koi Sanjaq"
+    ],
+    "name:eng_x_variant":[
         "Koy Sanjaq"
     ],
     "name:fas_x_preferred":[
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":421199679,
-    "wof:lastmodified":1666735307,
+    "wof:lastmodified":1666900284,
     "wof:name":"Koi Sanjaq",
     "wof:parent_id":890445493,
     "wof:placetype":"locality",

@@ -13,6 +13,12 @@
     "lbl:longitude":44.479007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0644\u062f\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Baladiyat"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -21,7 +27,7 @@
     "wof:geomhash":"fbef2b9eaa5729f072c95101f3329ca8",
     "wof:hierarchy":[],
     "wof:id":1796500219,
-    "wof:lastmodified":1666734970,
+    "wof:lastmodified":1666900283,
     "wof:name":"Baladiyat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

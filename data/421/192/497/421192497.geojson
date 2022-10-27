@@ -46,6 +46,9 @@
         "Amediye"
     ],
     "name:eng_x_preferred":[
+        "Amadiyah"
+    ],
+    "name:eng_x_variant":[
         "Amadiya"
     ],
     "name:fas_x_preferred":[
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":421192497,
-    "wof:lastmodified":1666735312,
+    "wof:lastmodified":1666900281,
     "wof:name":"Amadiyah",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
     "name:ckb_x_preferred":[
         "\u06be\u06d5\u0631\u06cc\u0631"
     ],
+    "name:eng_x_preferred":[
+        "Harir"
+    ],
     "name:kur_x_preferred":[
         "Her\u00eer"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1276526109,
-    "wof:lastmodified":1666819335,
+    "wof:lastmodified":1666900283,
     "wof:name":"Harir",
     "wof:parent_id":1108562757,
     "wof:placetype":"locality",

@@ -31,7 +31,13 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0635\u0631\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0646\u0627\u0635\u0631\u064a\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "An Nasiriyah"
     ],
     "name:und_x_variant":[
         "An N\u0101\u015fir\u012byah"
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1344230169,
-    "wof:lastmodified":1566713993,
+    "wof:lastmodified":1666900282,
     "wof:name":"An Nasiriyah",
     "wof:parent_id":1108562639,
     "wof:placetype":"locality",
