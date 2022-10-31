@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672455,
+        421205333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +53,17 @@
     "wof:geomhash":"3322a0730bfeff1385284983308b7daf",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209326379
+            "county_id":421205333,
+            "locality_id":1209326379,
+            "region_id":85672455
         }
     ],
     "wof:id":1209326379,
-    "wof:lastmodified":1666903437,
+    "wof:lastmodified":1667247499,
     "wof:name":"Al Khashabah",
-    "wof:parent_id":85632191,
+    "wof:parent_id":421205333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

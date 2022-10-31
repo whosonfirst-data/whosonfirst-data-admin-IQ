@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672447,
+        1108562793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"fad30de8059421c7f1a88acda8042385",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209097805
+            "county_id":1108562793,
+            "locality_id":1209097805,
+            "region_id":85672447
         }
     ],
     "wof:id":1209097805,
-    "wof:lastmodified":1666903434,
+    "wof:lastmodified":1667247475,
     "wof:name":"Tall ar Rukhsah",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

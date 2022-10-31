@@ -43,10 +43,11 @@
     "qs:woe_id":1971773,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85672447,
         102191569,
         85632191,
-        1108562771
+        421178393,
+        1108562793,
+        85672447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,16 +62,16 @@
         {
             "continent_id":102191569,
             "country_id":85632191,
-            "county_id":1108562771,
-            "locality_id":-1,
+            "county_id":1108562793,
+            "locality_id":421178393,
             "neighbourhood_id":421192493,
             "region_id":85672447
         }
     ],
     "wof:id":421192493,
-    "wof:lastmodified":1666654555,
+    "wof:lastmodified":1667248267,
     "wof:name":"A\u015f \u015eulaykh",
-    "wof:parent_id":-1,
+    "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

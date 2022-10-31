@@ -39,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672447,
+        1108562795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"7606f3f14b08cb94ee3e2e6ea2713f20",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209127269
+            "county_id":1108562795,
+            "locality_id":1209127269,
+            "region_id":85672447
         }
     ],
     "wof:id":1209127269,
-    "wof:lastmodified":1666903435,
+    "wof:lastmodified":1667247484,
     "wof:name":"Ibrahim 'Ali",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562795,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

@@ -69,10 +69,11 @@
     "woe:name_adm1":"\u0628\u063a\u062f\u0627\u062f",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85672447,
         102191569,
         85632191,
-        1108562785
+        421178393,
+        1108562793,
+        85672447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,16 +91,16 @@
         {
             "continent_id":102191569,
             "country_id":85632191,
-            "county_id":1108562785,
-            "locality_id":-1,
+            "county_id":1108562793,
+            "locality_id":421178393,
             "neighbourhood_id":1126090285,
             "region_id":85672447
         }
     ],
     "wof:id":1126090285,
-    "wof:lastmodified":1667244115,
+    "wof:lastmodified":1667247392,
     "wof:name":"Al Idr\u012bs\u012b",
-    "wof:parent_id":-1,
+    "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

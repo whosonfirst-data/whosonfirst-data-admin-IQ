@@ -40,10 +40,11 @@
     "qs:woe_id":1978098,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85672447,
         102191569,
         85632191,
-        1108562793
+        421178393,
+        1108562793,
+        85672447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +60,15 @@
             "continent_id":102191569,
             "country_id":85632191,
             "county_id":1108562793,
-            "locality_id":-1,
+            "locality_id":421178393,
             "neighbourhood_id":421192495,
             "region_id":85672447
         }
     ],
     "wof:id":421192495,
-    "wof:lastmodified":1666654555,
+    "wof:lastmodified":1667248268,
     "wof:name":"Shaykh Shur\u00e5mat",
-    "wof:parent_id":-1,
+    "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672447,
+        1108562771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"1ab80094714959faf200b7188aa5bdb3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209097869
+            "county_id":1108562771,
+            "locality_id":1209097869,
+            "region_id":85672447
         }
     ],
     "wof:id":1209097869,
-    "wof:lastmodified":1666903434,
+    "wof:lastmodified":1667247477,
     "wof:name":"Qal'at 'Abd al Jasadi",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

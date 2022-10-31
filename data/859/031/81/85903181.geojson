@@ -70,10 +70,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":120,
     "wof:belongsto":[
-        85672447,
         102191569,
         85632191,
-        1108562785
+        421178393,
+        1108562793,
+        85672447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,8 +89,8 @@
         {
             "continent_id":102191569,
             "country_id":85632191,
-            "county_id":1108562785,
-            "locality_id":-1,
+            "county_id":1108562793,
+            "locality_id":421178393,
             "neighbourhood_id":85903181,
             "region_id":85672447
         }
@@ -98,9 +99,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1667244122,
+    "wof:lastmodified":1667247434,
     "wof:name":"Al Wah\u0327dah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

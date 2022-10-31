@@ -50,7 +50,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672429,
+        421186463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +63,17 @@
     "wof:geomhash":"257acca6fd257f42c8e69832e5881e3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209689065
+            "county_id":421186463,
+            "locality_id":1209689065,
+            "region_id":85672429
         }
     ],
     "wof:id":1209689065,
-    "wof:lastmodified":1666903436,
+    "wof:lastmodified":1667247530,
     "wof:name":"Saryan",
-    "wof:parent_id":85632191,
+    "wof:parent_id":421186463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

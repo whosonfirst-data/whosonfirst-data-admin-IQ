@@ -21,15 +21,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562631
+    ],
     "wof:breaches":[],
     "wof:country":"IQ",
     "wof:geomhash":"2d060d0b210cf943c9e5e1e73050f16f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562631,
+            "locality_id":1796487369,
+            "region_id":85672429
+        }
+    ],
     "wof:id":1796487369,
-    "wof:lastmodified":1667244116,
+    "wof:lastmodified":1667247326,
     "wof:name":"Aski Kalak",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108562631,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

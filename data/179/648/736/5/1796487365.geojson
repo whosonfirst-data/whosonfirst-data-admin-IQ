@@ -21,15 +21,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672425,
+        890445495
+    ],
     "wof:breaches":[],
     "wof:country":"IQ",
     "wof:geomhash":"decf86fd781c41793b7ddc0d76490fe7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":890445495,
+            "locality_id":1796487365,
+            "region_id":85672425
+        }
+    ],
     "wof:id":1796487365,
-    "wof:lastmodified":1667244116,
+    "wof:lastmodified":1667247324,
     "wof:name":"Soran",
-    "wof:parent_id":-1,
+    "wof:parent_id":890445495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

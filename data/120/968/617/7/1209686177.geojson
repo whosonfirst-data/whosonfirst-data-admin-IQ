@@ -65,7 +65,10 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672429,
+        421172365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,14 +81,17 @@
     "wof:geomhash":"a60dbd2b5b68cd8259c636fc74239144",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209686177
+            "county_id":421172365,
+            "locality_id":1209686177,
+            "region_id":85672429
         }
     ],
     "wof:id":1209686177,
-    "wof:lastmodified":1667244116,
+    "wof:lastmodified":1667247308,
     "wof:name":"Kalakchi",
-    "wof:parent_id":85632191,
+    "wof:parent_id":421172365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

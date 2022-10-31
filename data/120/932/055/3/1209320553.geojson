@@ -39,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672459,
+        421181959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"2d31a3aa1dccb3ad5401c66b076b4072",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209320553
+            "county_id":421181959,
+            "locality_id":1209320553,
+            "region_id":85672459
         }
     ],
     "wof:id":1209320553,
-    "wof:lastmodified":1666903437,
+    "wof:lastmodified":1667247498,
     "wof:name":"Al Humaydat",
-    "wof:parent_id":85632191,
+    "wof:parent_id":421181959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

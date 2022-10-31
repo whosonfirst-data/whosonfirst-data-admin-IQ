@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672447,
+        1108562771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"e07aaf828d6a8db7b95cdc93471afe76",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209100771
+            "county_id":1108562771,
+            "locality_id":1209100771,
+            "region_id":85672447
         }
     ],
     "wof:id":1209100771,
-    "wof:lastmodified":1666903438,
+    "wof:lastmodified":1667247481,
     "wof:name":"Al 'Uthman",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

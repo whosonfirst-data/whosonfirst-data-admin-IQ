@@ -21,15 +21,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562645
+    ],
     "wof:breaches":[],
     "wof:country":"IQ",
     "wof:geomhash":"68f3da0110008b1233d3c60256021c03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562645,
+            "locality_id":1796487385,
+            "region_id":85672435
+        }
+    ],
     "wof:id":1796487385,
-    "wof:lastmodified":1667244116,
+    "wof:lastmodified":1667247327,
     "wof:name":"Aleaytha",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108562645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

@@ -39,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672447,
+        1108562793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"720d2dc9a3d22bb97450e4f32039b9e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209306377
+            "county_id":1108562793,
+            "locality_id":1209306377,
+            "region_id":85672447
         }
     ],
     "wof:id":1209306377,
-    "wof:lastmodified":1666903435,
+    "wof:lastmodified":1667247495,
     "wof:name":"Khudayr 'Abbas",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

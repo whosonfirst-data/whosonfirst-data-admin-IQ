@@ -60,7 +60,7 @@
         102191569,
         85632191,
         85672481,
-        421184253
+        421169765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,15 +77,15 @@
         {
             "continent_id":102191569,
             "country_id":85632191,
-            "county_id":421184253,
+            "county_id":421169765,
             "locality_id":1125922541,
             "region_id":85672481
         }
     ],
     "wof:id":1125922541,
-    "wof:lastmodified":1667244115,
+    "wof:lastmodified":1667247293,
     "wof:name":"Kh\u0101li\u015f",
-    "wof:parent_id":421184253,
+    "wof:parent_id":421169765,
     "wof:placetype":"locality",
     "wof:population":70046,
     "wof:population_rank":8,

@@ -61,6 +61,7 @@
     "wof:belongsto":[
         102191569,
         85632191,
+        421178393,
         1108562793,
         85672447
     ],
@@ -79,7 +80,7 @@
             "continent_id":102191569,
             "country_id":85632191,
             "county_id":1108562793,
-            "locality_id":-1,
+            "locality_id":421178393,
             "neighbourhood_id":85903187,
             "region_id":85672447
         }
@@ -88,9 +89,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1666654738,
+    "wof:lastmodified":1667248263,
     "wof:name":"Alwiya",
-    "wof:parent_id":-1,
+    "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[

@@ -51,8 +51,8 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        1108562771,
-        85672447
+        85672447,
+        1108562771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1344078107,
-    "wof:lastmodified":1666820455,
+    "wof:lastmodified":1667248248,
     "wof:name":"Husayniyah",
     "wof:parent_id":1108562771,
     "wof:placetype":"locality",

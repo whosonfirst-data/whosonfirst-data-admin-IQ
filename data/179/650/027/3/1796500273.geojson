@@ -21,18 +21,33 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        421178393,
+        1108562793,
+        85672447
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9253684
     },
     "wof:country":"IQ",
     "wof:geomhash":"7fe348ac43c2b91f58668026f720ff83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562793,
+            "locality_id":421178393,
+            "neighbourhood_id":1796500273,
+            "region_id":85672447
+        }
+    ],
     "wof:id":1796500273,
-    "wof:lastmodified":1667244119,
+    "wof:lastmodified":1667247389,
     "wof:name":"Sha'ab",
-    "wof:parent_id":-1,
+    "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

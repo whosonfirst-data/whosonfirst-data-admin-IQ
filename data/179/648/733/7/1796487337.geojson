@@ -21,15 +21,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672417,
+        1108562637
+    ],
     "wof:breaches":[],
     "wof:country":"IQ",
     "wof:geomhash":"1a99c0bafd484144c8244199aff54a1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562637,
+            "locality_id":1796487337,
+            "region_id":85672417
+        }
+    ],
     "wof:id":1796487337,
-    "wof:lastmodified":1667244116,
+    "wof:lastmodified":1667247319,
     "wof:name":"Bajerke Dumez",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108562637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

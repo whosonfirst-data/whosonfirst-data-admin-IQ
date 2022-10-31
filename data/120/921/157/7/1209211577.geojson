@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672447,
+        1108562795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"db320f8e44624682c9f36c41a4c9dd2d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209211577
+            "county_id":1108562795,
+            "locality_id":1209211577,
+            "region_id":85672447
         }
     ],
     "wof:id":1209211577,
-    "wof:lastmodified":1666903438,
+    "wof:lastmodified":1667247491,
     "wof:name":"Hasan ad Daryush",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562795,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

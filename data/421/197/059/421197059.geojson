@@ -103,10 +103,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85672447,
         102191569,
         85632191,
-        1108562789
+        421178393,
+        1108562793,
+        85672447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,16 +127,16 @@
         {
             "continent_id":102191569,
             "country_id":85632191,
-            "county_id":1108562789,
-            "locality_id":-1,
+            "county_id":1108562793,
+            "locality_id":421178393,
             "neighbourhood_id":421197059,
             "region_id":85672447
         }
     ],
     "wof:id":421197059,
-    "wof:lastmodified":1667244122,
+    "wof:lastmodified":1667247422,
     "wof:name":"\u015eadd\u0101m City",
-    "wof:parent_id":-1,
+    "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

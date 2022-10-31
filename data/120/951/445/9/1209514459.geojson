@@ -45,7 +45,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672475,
+        1108562761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +58,17 @@
     "wof:geomhash":"b929da4e4d9734b9add67ac816d6104a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209514459
+            "county_id":1108562761,
+            "locality_id":1209514459,
+            "region_id":85672475
         }
     ],
     "wof:id":1209514459,
-    "wof:lastmodified":1666903437,
+    "wof:lastmodified":1667247517,
     "wof:name":"Qilyasan",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

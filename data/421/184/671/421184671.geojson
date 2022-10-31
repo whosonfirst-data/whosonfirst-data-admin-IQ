@@ -59,9 +59,8 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        85672481,
-        1108562739,
-        85672447
+        85672447,
+        1108562739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,18 +77,11 @@
             "country_id":85632191,
             "county_id":1108562739,
             "locality_id":421184671,
-            "region_id":85672481
-        },
-        {
-            "continent_id":102191569,
-            "country_id":85632191,
-            "county_id":1108562739,
-            "locality_id":421184671,
             "region_id":85672447
         }
     ],
     "wof:id":421184671,
-    "wof:lastmodified":1666654347,
+    "wof:lastmodified":1667248289,
     "wof:name":"Salman Pak",
     "wof:parent_id":1108562739,
     "wof:placetype":"locality",

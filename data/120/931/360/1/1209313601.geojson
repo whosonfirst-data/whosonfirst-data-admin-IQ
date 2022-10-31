@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672475,
+        1108562761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"0a705735a9a912b4d85c348bce63c12e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209313601
+            "county_id":1108562761,
+            "locality_id":1209313601,
+            "region_id":85672475
         }
     ],
     "wof:id":1209313601,
-    "wof:lastmodified":1666654347,
+    "wof:lastmodified":1667248281,
     "wof:name":"Bnar",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

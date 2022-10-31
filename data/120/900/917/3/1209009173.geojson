@@ -47,7 +47,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672475,
+        1108562761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +60,17 @@
     "wof:geomhash":"48272aeb9e15c3fabf6ca39962120523",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209009173
+            "county_id":1108562761,
+            "locality_id":1209009173,
+            "region_id":85672475
         }
     ],
     "wof:id":1209009173,
-    "wof:lastmodified":1666903434,
+    "wof:lastmodified":1667247467,
     "wof:name":"Qaryat Wulubah",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

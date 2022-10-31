@@ -21,15 +21,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672475,
+        1108562755
+    ],
     "wof:breaches":[],
     "wof:country":"IQ",
     "wof:geomhash":"d201b7fdf851a481fde122c3096c74ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562755,
+            "locality_id":1796487377,
+            "region_id":85672475
+        }
+    ],
     "wof:id":1796487377,
-    "wof:lastmodified":1667244116,
+    "wof:lastmodified":1667247326,
     "wof:name":"Hajiawa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108562755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

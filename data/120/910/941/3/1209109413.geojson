@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672453,
+        1108562731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"359ab75072eedeb9aae40ec1c8e8d947",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209109413
+            "county_id":1108562731,
+            "locality_id":1209109413,
+            "region_id":85672453
         }
     ],
     "wof:id":1209109413,
-    "wof:lastmodified":1666903438,
+    "wof:lastmodified":1667247482,
     "wof:name":"Sa'di",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562731,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

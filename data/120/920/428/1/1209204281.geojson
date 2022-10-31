@@ -46,7 +46,10 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672463,
+        1108562723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +62,17 @@
     "wof:geomhash":"a7dc3ee8231659de244722650932cce1",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209204281
+            "county_id":1108562723,
+            "locality_id":1209204281,
+            "region_id":85672463
         }
     ],
     "wof:id":1209204281,
-    "wof:lastmodified":1667244114,
+    "wof:lastmodified":1667247307,
     "wof:name":"Suq ash Shuyukh",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562723,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

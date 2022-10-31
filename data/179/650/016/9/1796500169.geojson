@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        421178393,
+        1108562793,
+        85672447
+    ],
     "wof:breaches":[],
     "wof:country":"IQ",
     "wof:geomhash":"bef3893bd97f7cba1af7e1a99a94af9a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562793,
+            "locality_id":421178393,
+            "neighbourhood_id":1796500169,
+            "region_id":85672447
+        }
+    ],
     "wof:id":1796500169,
-    "wof:lastmodified":1667244116,
+    "wof:lastmodified":1667247389,
     "wof:name":"Al Amriya",
-    "wof:parent_id":-1,
+    "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

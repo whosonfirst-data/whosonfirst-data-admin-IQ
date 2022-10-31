@@ -21,15 +21,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672429,
+        1108562633
+    ],
     "wof:breaches":[],
     "wof:country":"IQ",
     "wof:geomhash":"4e6b4fa3e55f320401e7d6d15e6bead5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562633,
+            "locality_id":1796487339,
+            "region_id":85672429
+        }
+    ],
     "wof:id":1796487339,
-    "wof:lastmodified":1667244116,
+    "wof:lastmodified":1667247320,
     "wof:name":"Al-Houd",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108562633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

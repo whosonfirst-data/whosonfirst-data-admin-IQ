@@ -66,10 +66,11 @@
     "woe:name_adm1":"\u0628\u063a\u062f\u0627\u062f",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85672447,
         102191569,
         85632191,
-        1108562793
+        421178393,
+        1108562793,
+        85672447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,15 +89,15 @@
             "continent_id":102191569,
             "country_id":85632191,
             "county_id":1108562793,
-            "locality_id":-1,
+            "locality_id":421178393,
             "neighbourhood_id":1126101541,
             "region_id":85672447
         }
     ],
     "wof:id":1126101541,
-    "wof:lastmodified":1667244115,
+    "wof:lastmodified":1667247386,
     "wof:name":"Al Jaz\u012brah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

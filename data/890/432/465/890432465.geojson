@@ -360,12 +360,13 @@
         {
             "continent_id":102191569,
             "country_id":85632191,
+            "county_id":1108562761,
             "locality_id":890432465,
             "region_id":85672475
         }
     ],
     "wof:id":890432465,
-    "wof:lastmodified":1667244114,
+    "wof:lastmodified":1667247437,
     "wof:name":"As Sulaym\u0101n\u012byah",
     "wof:parent_id":1108562761,
     "wof:placetype":"locality",

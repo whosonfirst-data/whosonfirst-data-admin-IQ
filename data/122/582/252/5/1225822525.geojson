@@ -53,12 +53,14 @@
         }
     ],
     "wof:id":1225822525,
-    "wof:lastmodified":1566715437,
+    "wof:lastmodified":1667248245,
     "wof:name":"Karbala City",
     "wof:parent_id":421194967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
-    "wof:superseded_by":[421199675],
+    "wof:superseded_by":[
+        421199675
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -39,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672429,
+        1108562633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"a5abfc803365301c7fa8d4210f4eed70",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209689003
+            "county_id":1108562633,
+            "locality_id":1209689003,
+            "region_id":85672429
         }
     ],
     "wof:id":1209689003,
-    "wof:lastmodified":1666903436,
+    "wof:lastmodified":1667247529,
     "wof:name":"Qaryat al Yarmuk",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

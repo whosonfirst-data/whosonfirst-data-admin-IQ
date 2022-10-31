@@ -21,15 +21,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        85672435,
+        1108562645
+    ],
     "wof:breaches":[],
     "wof:country":"IQ",
     "wof:geomhash":"84ed8a88f85bc300dd81862e82c6ea68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562645,
+            "locality_id":1796487347,
+            "region_id":85672435
+        }
+    ],
     "wof:id":1796487347,
-    "wof:lastmodified":1667244114,
+    "wof:lastmodified":1667247322,
     "wof:name":"\u0627\u0644\u0634\u0631\u0642\u0627\u0637",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108562645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

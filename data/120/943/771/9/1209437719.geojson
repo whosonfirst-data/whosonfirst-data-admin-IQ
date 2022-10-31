@@ -47,7 +47,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        1108804835,
+        421183885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +59,17 @@
     "wof:geomhash":"8776ecd41856b679b3244b0a51288a7e",
     "wof:hierarchy":[
         {
-            "country_id":85632191,
-            "locality_id":1209437719
+            "continent_id":102191569,
+            "country_id":-1,
+            "county_id":421183885,
+            "locality_id":1209437719,
+            "region_id":1108804835
         }
     ],
     "wof:id":1209437719,
-    "wof:lastmodified":1666903438,
+    "wof:lastmodified":1667247508,
     "wof:name":"Hasan Awah",
-    "wof:parent_id":85632191,
+    "wof:parent_id":421183885,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

@@ -62,8 +62,8 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        85672429,
-        421186463
+        85672425,
+        1108562747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,15 +81,15 @@
         {
             "continent_id":102191569,
             "country_id":85632191,
-            "county_id":421186463,
+            "county_id":1108562747,
             "locality_id":421184431,
-            "region_id":85672429
+            "region_id":85672425
         }
     ],
     "wof:id":421184431,
-    "wof:lastmodified":1667244120,
+    "wof:lastmodified":1667247400,
     "wof:name":"Az Zibar",
-    "wof:parent_id":421186463,
+    "wof:parent_id":1108562747,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

@@ -46,7 +46,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672425,
+        421200817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +59,17 @@
     "wof:geomhash":"5ab033b0a109e9e6fada11db85931afb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209202867
+            "county_id":421200817,
+            "locality_id":1209202867,
+            "region_id":85672425
         }
     ],
     "wof:id":1209202867,
-    "wof:lastmodified":1666903437,
+    "wof:lastmodified":1667247485,
     "wof:name":"Chinarok",
-    "wof:parent_id":85632191,
+    "wof:parent_id":421200817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

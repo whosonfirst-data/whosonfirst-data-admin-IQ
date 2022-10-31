@@ -45,7 +45,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672475,
+        1108562761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +58,17 @@
     "wof:geomhash":"402fec444c4ac27efceee918022e1d39",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209313733
+            "county_id":1108562761,
+            "locality_id":1209313733,
+            "region_id":85672475
         }
     ],
     "wof:id":1209313733,
-    "wof:lastmodified":1666903434,
+    "wof:lastmodified":1667247496,
     "wof:name":"Shaykh 'Abbas",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

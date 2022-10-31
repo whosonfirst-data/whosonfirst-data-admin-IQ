@@ -39,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672481,
+        421184253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"71672a6afdaa3334340e8916a8c96f8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209610271
+            "county_id":421184253,
+            "locality_id":1209610271,
+            "region_id":85672481
         }
     ],
     "wof:id":1209610271,
-    "wof:lastmodified":1666903437,
+    "wof:lastmodified":1667247523,
     "wof:name":"Tall al Yahudi",
-    "wof:parent_id":85632191,
+    "wof:parent_id":421184253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

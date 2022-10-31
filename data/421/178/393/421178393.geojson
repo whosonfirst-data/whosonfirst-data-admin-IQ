@@ -767,7 +767,7 @@
         102191569,
         85632191,
         85672447,
-        1108562785
+        1108562793
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -795,16 +795,16 @@
         {
             "continent_id":102191569,
             "country_id":85632191,
-            "county_id":1108562785,
+            "county_id":1108562793,
             "locality_id":421178393,
             "region_id":85672447
         }
     ],
     "wof:id":421178393,
-    "wof:lastmodified":1667244114,
+    "wof:lastmodified":1667247396,
     "wof:megacity":1,
     "wof:name":"Baghdad",
-    "wof:parent_id":1108562785,
+    "wof:parent_id":1108562793,
     "wof:placetype":"locality",
     "wof:population":5672513,
     "wof:population_rank":13,
