@@ -766,8 +766,8 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        1108562785,
-        85672447
+        85672447,
+        1108562785
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -801,7 +801,7 @@
         }
     ],
     "wof:id":421178393,
-    "wof:lastmodified":1666902102,
+    "wof:lastmodified":1667244114,
     "wof:megacity":1,
     "wof:name":"Baghdad",
     "wof:parent_id":1108562785,
