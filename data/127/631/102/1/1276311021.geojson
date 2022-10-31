@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0631\u0645\u0627 \u0646\u0627\u0648\u0629"
@@ -55,7 +56,7 @@
         "gn:id":6870009
     },
     "wof:country":"IQ",
-    "wof:geomhash":"52357dd9286d2de8d3c23743a8688030",
+    "wof:geomhash":"8e672e859d79c012077f533d1b7ef3c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1276311021,
-    "wof:lastmodified":1566714445,
+    "wof:lastmodified":1667247786,
     "wof:name":"Dermanawa",
     "wof:parent_id":1108562779,
     "wof:placetype":"locality",
@@ -77,9 +78,9 @@
 },
   "bbox": [
     43.60166,
-    35.76537000000001,
+    35.76537,
     43.60166,
-    35.76537000000001
+    35.76537
 ],
-  "geometry": {"coordinates":[43.60166,35.76537000000001],"type":"Point"}
+  "geometry": {"coordinates":[43.60166,35.76537],"type":"Point"}
 }

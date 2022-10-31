@@ -18,7 +18,7 @@
     "mps:longitude":43.161493,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -68,10 +68,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85672429,
         102191569,
         85632191,
-        1108562631
+        421186153,
+        1108562633,
+        85672429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,8 +87,8 @@
         {
             "continent_id":102191569,
             "country_id":85632191,
-            "county_id":1108562631,
-            "locality_id":-1,
+            "county_id":1108562633,
+            "locality_id":421186153,
             "neighbourhood_id":85903161,
             "region_id":85672429
         }
@@ -96,9 +97,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313987,
+    "wof:lastmodified":1667248233,
     "wof:name":"Al Fay\u015fal\u012byah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421186153,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

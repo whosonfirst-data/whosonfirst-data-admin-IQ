@@ -15,6 +15,7 @@
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
@@ -295,7 +296,7 @@
         }
     ],
     "wof:id":421190741,
-    "wof:lastmodified":1566714966,
+    "wof:lastmodified":1667248231,
     "wof:name":"Tekrit",
     "wof:parent_id":421186243,
     "wof:placetype":"locality",

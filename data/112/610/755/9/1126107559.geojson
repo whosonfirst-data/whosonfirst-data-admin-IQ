@@ -19,6 +19,7 @@
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -39,10 +40,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85672429,
         102191569,
         85632191,
-        1108562633
+        421186153,
+        1108562633,
+        85672429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +59,15 @@
             "continent_id":102191569,
             "country_id":85632191,
             "county_id":1108562633,
-            "locality_id":-1,
+            "locality_id":421186153,
             "neighbourhood_id":1126107559,
             "region_id":85672429
         }
     ],
     "wof:id":1126107559,
-    "wof:lastmodified":1566714974,
+    "wof:lastmodified":1667247449,
     "wof:name":"Al Maw\u015fil al Jad\u012bdah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421186153,
     "wof:placetype":"neighbourhood",
     "wof:population":2065597,
     "wof:population_rank":12,

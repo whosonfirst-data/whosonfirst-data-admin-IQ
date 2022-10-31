@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0631\u0628 \u0641\u0627\u0636\u0644 \u0634\u0628\u064a\u0628"
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1310598079,
-    "wof:lastmodified":1566714817,
+    "wof:lastmodified":1667248027,
     "wof:name":"'Arab Fadil Shabib",
     "wof:parent_id":1108562793,
     "wof:placetype":"locality",

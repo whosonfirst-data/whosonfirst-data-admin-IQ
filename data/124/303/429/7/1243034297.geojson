@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0627\u0644\u0627\u0634\u0637\u062d"
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1243034297,
-    "wof:lastmodified":1566715069,
+    "wof:lastmodified":1667247657,
     "wof:name":"Qaryat al Ashtah",
     "wof:parent_id":421186243,
     "wof:placetype":"locality",

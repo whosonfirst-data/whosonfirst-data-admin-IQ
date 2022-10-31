@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0627\u0644\u0645\u0639\u064a\u062f\u064a \u0627\u0644\u062c\u0646\u0648\u0628\u064a"
@@ -38,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672453,
+        1108562731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,17 @@
     "wof:geomhash":"accbc92cf7509f9f36bda5f6335b39e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209518569
+            "county_id":1108562731,
+            "locality_id":1209518569,
+            "region_id":85672453
         }
     ],
     "wof:id":1209518569,
-    "wof:lastmodified":1566714554,
+    "wof:lastmodified":1667247518,
     "wof:name":"Qaryat al Mu'aydi al Janubi",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562731,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

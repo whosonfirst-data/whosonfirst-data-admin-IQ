@@ -2,7 +2,8 @@
   "id": 1343284131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-10-24",
+    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u062d\u064a\u0629 \u0633\u062f\u0629 \u0627\u0644\u0647\u0646\u062f\u064a\u0629"
@@ -75,14 +76,16 @@
         }
     ],
     "wof:id":1343284131,
-    "wof:lastmodified":1566714101,
+    "wof:lastmodified":1667248285,
     "wof:name":"Nahiyat Saddat al Hindiyah",
     "wof:parent_id":421172849,
     "wof:placetype":"locality",
     "wof:population":30622,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-iq",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890449807
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

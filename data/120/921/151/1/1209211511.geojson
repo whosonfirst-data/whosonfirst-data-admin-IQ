@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hamdi Beg al P\u0101chachi",
@@ -36,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672447,
+        1108562795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,17 @@
     "wof:geomhash":"e140e16ea5032e88defa558e68e10a43",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209211511
+            "county_id":1108562795,
+            "locality_id":1209211511,
+            "region_id":85672447
         }
     ],
     "wof:id":1209211511,
-    "wof:lastmodified":1566714583,
+    "wof:lastmodified":1667247489,
     "wof:name":"Hamdi Bak al Pachachi",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562795,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

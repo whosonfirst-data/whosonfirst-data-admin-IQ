@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0643\u0648\u0631 \u062d\u0633\u064a\u0646"
@@ -48,7 +49,7 @@
         "gn:id":6927631
     },
     "wof:country":"IQ",
-    "wof:geomhash":"c57983f1e1ec2344911c3dba1fbc9c80",
+    "wof:geomhash":"5fa5b0bf9d7422162b71a57cd50673c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1226264087,
-    "wof:lastmodified":1566715294,
+    "wof:lastmodified":1667247599,
     "wof:name":"Shukur Husayn",
     "wof:parent_id":1108562793,
     "wof:placetype":"locality",
@@ -70,9 +71,9 @@
 },
   "bbox": [
     44.27646,
-    33.21944000000001,
+    33.21944,
     44.27646,
-    33.21944000000001
+    33.21944
 ],
-  "geometry": {"coordinates":[44.27646,33.21944000000001],"type":"Point"}
+  "geometry": {"coordinates":[44.27646,33.21944],"type":"Point"}
 }

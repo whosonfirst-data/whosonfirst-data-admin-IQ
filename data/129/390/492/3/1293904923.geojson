@@ -30,6 +30,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qal\u2018at K\u0101z\u0327im al Jaw\u0101d",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1293904923,
-    "wof:lastmodified":1566714163,
+    "wof:lastmodified":1667247930,
     "wof:name":"Kazim al Jawad",
     "wof:parent_id":1108562793,
     "wof:placetype":"locality",

@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:kur_x_preferred":[
         "Kifredo\u0142e"
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1226441751,
-    "wof:lastmodified":1566715286,
+    "wof:lastmodified":1667247614,
     "wof:name":"Kifredole",
     "wof:parent_id":1108562755,
     "wof:placetype":"locality",

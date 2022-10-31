@@ -20,6 +20,7 @@
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -233,7 +234,7 @@
         }
     ],
     "wof:id":1125922503,
-    "wof:lastmodified":1566714973,
+    "wof:lastmodified":1667247448,
     "wof:name":"Al K\u016bt",
     "wof:parent_id":421186459,
     "wof:placetype":"locality",

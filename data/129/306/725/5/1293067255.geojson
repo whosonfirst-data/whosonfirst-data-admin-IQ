@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0627\u0644\u0639\u064a\u0634\u0629"
@@ -48,7 +49,7 @@
         "gn:id":6804406
     },
     "wof:country":"IQ",
-    "wof:geomhash":"160043a0eb156c4629ef34f8e30c394d",
+    "wof:geomhash":"56d92067108e76e8071786193c10c173",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1293067255,
-    "wof:lastmodified":1566714156,
+    "wof:lastmodified":1667247866,
     "wof:name":"Qaryat al 'Ayshah",
     "wof:parent_id":1108562645,
     "wof:placetype":"locality",
@@ -69,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.22284000000001,
+    43.22284,
     35.62464,
-    43.22284000000001,
+    43.22284,
     35.62464
 ],
-  "geometry": {"coordinates":[43.22284000000001,35.62464],"type":"Point"}
+  "geometry": {"coordinates":[43.22284,35.62464],"type":"Point"}
 }

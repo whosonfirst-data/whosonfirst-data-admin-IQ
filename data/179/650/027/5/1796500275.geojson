@@ -1,0 +1,61 @@
+{
+  "id": 1796500275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00026,
+    "geom:bbox":"44.366103,33.302795,44.394018,33.321968",
+    "geom:latitude":33.312215,
+    "geom:longitude":44.380517,
+    "iso:country":"IQ",
+    "lbl:latitude":33.313319,
+    "lbl:longitude":44.379566,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0648\u0631\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Zawrar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        421178393,
+        1108562793,
+        85672447
+    ],
+    "wof:breaches":[],
+    "wof:country":"IQ",
+    "wof:geomhash":"e236c807a87c28591a301922914f93a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562793,
+            "locality_id":421178393,
+            "neighbourhood_id":1796500275,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1796500275,
+    "wof:lastmodified":1667247388,
+    "wof:name":"Zawrar",
+    "wof:parent_id":421178393,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.366103,
+    33.302795,
+    44.394018,
+    33.321968
+],
+  "geometry": {"coordinates":[[[44.366103,33.315202],[44.367811,33.316065],[44.372339,33.318126],[44.377976,33.320716],[44.38041,33.321968],[44.382719,33.319589],[44.387679,33.314445],[44.390593,33.311545],[44.394018,33.30801],[44.390581,33.306283],[44.384468,33.303553],[44.382689,33.302795],[44.3764,33.307446],[44.371396,33.311163],[44.366103,33.315202]]],"type":"Polygon"}
+}

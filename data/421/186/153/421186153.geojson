@@ -449,8 +449,8 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        1108562633,
-        85672429
+        85672429,
+        1108562633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -478,9 +478,9 @@
         }
     ],
     "wof:id":421186153,
-    "wof:lastmodified":1610147632,
+    "wof:lastmodified":1667247404,
     "wof:megacity":1,
-    "wof:name":"\u0645\u0648\u0635\u0644",
+    "wof:name":"Mosul",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",
     "wof:population":1739800,

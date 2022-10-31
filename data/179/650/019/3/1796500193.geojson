@@ -1,0 +1,61 @@
+{
+  "id": 1796500193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000409,
+    "geom:bbox":"44.403148,33.344264,44.44471,33.376407",
+    "geom:latitude":33.360025,
+    "geom:longitude":44.42359,
+    "iso:country":"IQ",
+    "lbl:latitude":33.359986,
+    "lbl:longitude":44.42359,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0628\u064a\u0628\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Habibiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        421178393,
+        1108562793,
+        85672447
+    ],
+    "wof:breaches":[],
+    "wof:country":"IQ",
+    "wof:geomhash":"723d9a7d6df1fa2cc0797a0c649462f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562793,
+            "locality_id":421178393,
+            "neighbourhood_id":1796500193,
+            "region_id":85672447
+        }
+    ],
+    "wof:id":1796500193,
+    "wof:lastmodified":1667247391,
+    "wof:name":"Habibiyah",
+    "wof:parent_id":421178393,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-iq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.403148,
+    33.344264,
+    44.44471,
+    33.376407
+],
+  "geometry": {"coordinates":[[[44.410318,33.376407],[44.414781,33.372896],[44.428323,33.362424],[44.440947,33.352477],[44.44471,33.349539],[44.440083,33.346652],[44.43604,33.344264],[44.434917,33.345061],[44.429279,33.349461],[44.42078,33.356074],[44.415804,33.359961],[44.411484,33.363324],[44.406275,33.367429],[44.403148,33.369917],[44.405844,33.372307],[44.410318,33.376407]]],"type":"Polygon"}
+}

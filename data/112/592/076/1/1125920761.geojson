@@ -20,6 +20,7 @@
     "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -199,7 +200,7 @@
         }
     ],
     "wof:id":1125920761,
-    "wof:lastmodified":1566714973,
+    "wof:lastmodified":1667247446,
     "wof:name":"Az Zubayr",
     "wof:parent_id":1108562727,
     "wof:placetype":"locality",

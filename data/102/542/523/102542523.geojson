@@ -61,8 +61,11 @@
         "state_id":2345847
     },
     "wof:belongsto":[
+        85672429,
+        102191569,
         85632191,
-        85672429
+        421186153,
+        1108562633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,14 +80,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102542523,
+            "continent_id":102191569,
             "country_id":85632191,
+            "county_id":1108562633,
+            "locality_id":421186153,
+            "neighbourhood_id":-1,
             "region_id":85672429
         }
     ],
     "wof:id":102542523,
-    "wof:lastmodified":1631743810,
+    "wof:lastmodified":1667247404,
     "wof:name":"Mosul Airport",
-    "wof:parent_id":85672429,
+    "wof:parent_id":421186153,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000339,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.442444,33.309872,44.442444,33.309872",
-    "geom:latitude":33.309872,
-    "geom:longitude":44.442444,
+    "geom:bbox":"44.42623,33.301092,44.458655,33.321391",
+    "geom:latitude":33.310593,
+    "geom:longitude":44.439943,
     "iso:country":"IQ",
-    "lbl:bbox":"44.437444,33.304872,44.447444,33.314872",
-    "lbl:latitude":33.309872,
-    "lbl:longitude":44.442444,
+    "lbl:latitude":33.309977,
+    "lbl:longitude":44.438838,
     "lbl:max_zoom":18.0,
     "mps:latitude":33.309871,
     "mps:longitude":44.442457,
@@ -29,6 +28,12 @@
         "Al Wahdah"
     ],
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u062d\u062f\u0629"
+    ],
+    "name:ara_x_variant":[
+        "Al Wah\u0327dah"
+    ],
+    "name:eng_x_preferred":[
         "Al Wah\u0327dah"
     ],
     "qs:gn_adm0_cc":"IQ",
@@ -55,17 +60,21 @@
     "qs:woe_lau":0,
     "qs:woe_local":1979455,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":33.309977,
+    "reversegeo:longitude":44.438838,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":120,
     "wof:belongsto":[
-        85672447,
         102191569,
         85632191,
-        1108562785
+        421178393,
+        1108562793,
+        85672447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,15 +82,15 @@
     },
     "wof:country":"IQ",
     "wof:geom_alt":[
-        "quattroshapes"
+        "mz"
     ],
-    "wof:geomhash":"5704b3caeb40acb837b3c57c6d5d39fa",
+    "wof:geomhash":"9d993d904aa6841ccd9753b644d0a6c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632191,
-            "county_id":1108562785,
-            "locality_id":-1,
+            "county_id":1108562793,
+            "locality_id":421178393,
             "neighbourhood_id":85903181,
             "region_id":85672447
         }
@@ -90,20 +99,23 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313988,
+    "wof:lastmodified":1667247434,
     "wof:name":"Al Wah\u0327dah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        421203539,
+        85903187
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    44.442444,
-    33.309872,
-    44.442444,
-    33.309872
+    44.42623,
+    33.301092,
+    44.458655,
+    33.321391
 ],
-  "geometry": {"coordinates":[44.442444,33.309872],"type":"Point"}
+  "geometry": {"coordinates":[[[44.458655,33.308983],[44.458323,33.308741],[44.457652,33.308375],[44.457019,33.308123],[44.454571,33.307132],[44.44947,33.305126],[44.44443,33.303075],[44.43939,33.301092],[44.436469,33.302419],[44.43152,33.304692],[44.43136,33.305317],[44.430132,33.307284],[44.429217,33.30913],[44.427403,33.312957],[44.42623,33.315341],[44.427197,33.315824],[44.434425,33.321391],[44.439458,33.318219],[44.442478,33.316724],[44.448547,33.313705],[44.457942,33.309297],[44.458655,33.308983]]],"type":"Polygon"}
 }

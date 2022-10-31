@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0646\u0627\u0631\u0627\u0646 \u0627\u0644\u0633\u0641\u0644\u0649"
@@ -65,7 +66,7 @@
         "gn:id":446713
     },
     "wof:country":"IQ",
-    "wof:geomhash":"eea0fda8e5ca845969f5247512153b07",
+    "wof:geomhash":"ce11f458791b337a84f63102a2b2b7af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1343442121,
-    "wof:lastmodified":1566714114,
+    "wof:lastmodified":1667248122,
     "wof:name":"Hanaran as Sufla",
     "wof:parent_id":1108562757,
     "wof:placetype":"locality",
@@ -86,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.32924000000001,
-    36.56659000000001,
-    44.32924000000001,
-    36.56659000000001
+    44.32924,
+    36.56659,
+    44.32924,
+    36.56659
 ],
-  "geometry": {"coordinates":[44.32924000000001,36.56659000000001],"type":"Point"}
+  "geometry": {"coordinates":[44.32924,36.56659],"type":"Point"}
 }

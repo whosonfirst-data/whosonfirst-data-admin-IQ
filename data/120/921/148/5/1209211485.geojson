@@ -29,30 +29,37 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ma\u1e29m\u016bd al \u2018Al\u012b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672447,
+        1108562795
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":93875
     },
     "wof:country":"IQ",
-    "wof:geomhash":"cef4e0e74a90f565aef81ec26f853ecd",
+    "wof:geomhash":"e09c953a1715d05ae20988ed3598ebab",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209211485
+            "county_id":1108562795,
+            "locality_id":1209211485,
+            "region_id":85672447
         }
     ],
     "wof:id":1209211485,
-    "wof:lastmodified":1566714584,
+    "wof:lastmodified":1667247488,
     "wof:name":"Mahmud al 'Ali",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562795,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
@@ -60,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.30139000000001,
+    44.30139,
     33.50472,
-    44.30139000000001,
+    44.30139,
     33.50472
 ],
-  "geometry": {"coordinates":[44.30139000000001,33.50472],"type":"Point"}
+  "geometry": {"coordinates":[44.30139,33.50472],"type":"Point"}
 }

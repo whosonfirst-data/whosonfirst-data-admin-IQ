@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u0101dhum al H\u0101j",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1343949961,
-    "wof:lastmodified":1566714061,
+    "wof:lastmodified":1667248165,
     "wof:name":"Kazim al Hajj",
     "wof:parent_id":1108562771,
     "wof:placetype":"locality",

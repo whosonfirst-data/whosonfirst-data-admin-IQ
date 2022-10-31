@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000113,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.360987,33.331567,44.360987,33.331567",
-    "geom:latitude":33.331567,
-    "geom:longitude":44.360987,
+    "geom:bbox":"44.338657,33.328899,44.353139,33.343006",
+    "geom:latitude":33.334263,
+    "geom:longitude":44.343864,
     "iso:country":"IQ",
-    "lbl:bbox":"44.355987,33.326567,44.365987,33.336567",
-    "lbl:latitude":33.331567,
-    "lbl:longitude":44.360987,
+    "lbl:latitude":33.333289,
+    "lbl:longitude":44.342766,
     "lbl:max_zoom":18.0,
     "mps:latitude":33.329904,
     "mps:longitude":44.352907,
@@ -35,10 +34,10 @@
         "Washshash Village"
     ],
     "name:ara_x_preferred":[
-        "Al Wash\u00e5sh",
         "\u0627\u0644\u0648\u0634\u0627\u0634"
     ],
     "name:ara_x_variant":[
+        "Al Wash\u00e5sh",
         "New Washsh\u00e5sh Village",
         "Qaryat Al Wash\u00e2sh",
         "Washash",
@@ -46,6 +45,9 @@
         "Washsh\u00e5sh Village"
     ],
     "name:eng_x_preferred":[
+        "Al Wash\u00e5sh"
+    ],
+    "name:eng_x_variant":[
         "Al-Washash"
     ],
     "qs:gn_id":0,
@@ -68,17 +70,21 @@
     "qs:woe_lau":0,
     "qs:woe_local":1979455,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":33.333289,
+    "reversegeo:longitude":44.342766,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
-        85672447,
         102191569,
         85632191,
-        1108562795
+        421178393,
+        1108562793,
+        85672447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,15 +93,15 @@
     },
     "wof:country":"IQ",
     "wof:geom_alt":[
-        "quattroshapes"
+        "mz"
     ],
-    "wof:geomhash":"5803f439efc8b79470ff611e305d557c",
+    "wof:geomhash":"cd732b79e1aef81717aa02c6d980cebf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632191,
-            "county_id":1108562795,
-            "locality_id":-1,
+            "county_id":1108562793,
+            "locality_id":421178393,
             "neighbourhood_id":85903183,
             "region_id":85672447
         }
@@ -104,9 +110,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313988,
+    "wof:lastmodified":1667247435,
     "wof:name":"Al Wash\u00e5sh",
-    "wof:parent_id":-1,
+    "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
@@ -114,10 +120,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.360987,
-    33.331567,
-    44.360987,
-    33.331567
+    44.338657,
+    33.328899,
+    44.353139,
+    33.343006
 ],
-  "geometry": {"coordinates":[44.360987,33.331567],"type":"Point"}
+  "geometry": {"coordinates":[[[44.353139,33.329809],[44.353088,33.329476],[44.353031,33.328899],[44.350926,33.328952],[44.348393,33.329036],[44.345442,33.329133],[44.342804,33.329225],[44.340267,33.329304],[44.338657,33.329338],[44.339008,33.336963],[44.339175,33.340645],[44.339245,33.342513],[44.339281,33.342932],[44.33995,33.342962],[44.340532,33.343006],[44.34084,33.342962],[44.341236,33.342839],[44.342126,33.342363],[44.343051,33.341782],[44.343482,33.341385],[44.343711,33.34105],[44.343879,33.340663],[44.344011,33.339289],[44.344143,33.338425],[44.344522,33.33758],[44.344918,33.336919],[44.345244,33.336558],[44.345684,33.336197],[44.346786,33.335765],[44.348138,33.335387],[44.348432,33.335261],[44.348809,33.334938],[44.34926,33.334532],[44.349485,33.334244],[44.349948,33.333312],[44.350283,33.332431],[44.350934,33.331445],[44.352079,33.330388],[44.352621,33.329802],[44.353,33.329793],[44.353139,33.329809]]],"type":"Polygon"}
 }

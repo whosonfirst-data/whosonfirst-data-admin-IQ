@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0627\u0635\u062e"
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1226313907,
-    "wof:lastmodified":1566715426,
+    "wof:lastmodified":1667247601,
     "wof:name":"Al Masikh",
     "wof:parent_id":1108562681,
     "wof:placetype":"locality",

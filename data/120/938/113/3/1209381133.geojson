@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0645\u064a\u0644\u0647 \u0647\u0648\u0646"
@@ -40,7 +41,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672435,
+        1108562645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,17 @@
     "wof:geomhash":"01ae82fc4bfea41fda2fe659c35307e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209381133
+            "county_id":1108562645,
+            "locality_id":1209381133,
+            "region_id":85672435
         }
     ],
     "wof:id":1209381133,
-    "wof:lastmodified":1566714458,
+    "wof:lastmodified":1667247501,
     "wof:name":"Jamilah Hun",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

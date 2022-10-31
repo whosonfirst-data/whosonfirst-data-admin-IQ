@@ -30,6 +30,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qasr Sarkis Effendi",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1310592831,
-    "wof:lastmodified":1566714816,
+    "wof:lastmodified":1667248025,
     "wof:name":"Qasr Sarkis Afandi",
     "wof:parent_id":1108562793,
     "wof:placetype":"locality",

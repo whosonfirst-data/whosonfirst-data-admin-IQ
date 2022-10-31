@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Abdul Husain",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1360086961,
-    "wof:lastmodified":1566714867,
+    "wof:lastmodified":1667248210,
     "wof:name":"'Abd al Husayn",
     "wof:parent_id":421205333,
     "wof:placetype":"locality",

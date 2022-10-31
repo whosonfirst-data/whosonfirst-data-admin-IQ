@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0634\u0647\u0631\u0632\u0627\u062f"
@@ -38,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672429,
+        1108562631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,17 @@
     "wof:geomhash":"9b3764ac001c433a2344ba557a146c4d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209485679
+            "county_id":1108562631,
+            "locality_id":1209485679,
+            "region_id":85672429
         }
     ],
     "wof:id":1209485679,
-    "wof:lastmodified":1566714491,
+    "wof:lastmodified":1667247509,
     "wof:name":"Qaryat Shahrazad",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562631,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

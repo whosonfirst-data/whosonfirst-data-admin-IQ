@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:kur_x_preferred":[
         "Kumelgeha Koch\u00eeney Nuw\u00ea"
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1226425245,
-    "wof:lastmodified":1566715299,
+    "wof:lastmodified":1667247607,
     "wof:name":"Kumelgeha Kochiney Nuwe",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",

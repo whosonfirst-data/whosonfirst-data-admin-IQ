@@ -30,6 +30,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maslakh",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1292897659,
-    "wof:lastmodified":1566714163,
+    "wof:lastmodified":1667247846,
     "wof:name":"Al Maslakh",
     "wof:parent_id":1108562771,
     "wof:placetype":"locality",

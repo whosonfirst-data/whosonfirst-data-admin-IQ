@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u0627\u064a\u0633"
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1293106411,
-    "wof:lastmodified":1566714281,
+    "wof:lastmodified":1667247870,
     "wof:name":"At Tayis",
     "wof:parent_id":421205333,
     "wof:placetype":"locality",

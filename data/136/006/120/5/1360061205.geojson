@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0645\u0646\u0632\u0627\u0631"
@@ -48,7 +49,7 @@
         "gn:id":6804412
     },
     "wof:country":"IQ",
-    "wof:geomhash":"94df6158b0fc99a326b1483d305c7b00",
+    "wof:geomhash":"36a60f83d646053aa46c1f9e2d6504aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1360061205,
-    "wof:lastmodified":1566714870,
+    "wof:lastmodified":1667248204,
     "wof:name":"Qaryat Minzar",
     "wof:parent_id":1108562645,
     "wof:placetype":"locality",
@@ -70,9 +71,9 @@
 },
   "bbox": [
     43.22178,
-    35.60867000000001,
+    35.60867,
     43.22178,
-    35.60867000000001
+    35.60867
 ],
-  "geometry": {"coordinates":[43.22178,35.60867000000001],"type":"Point"}
+  "geometry": {"coordinates":[43.22178,35.60867],"type":"Point"}
 }

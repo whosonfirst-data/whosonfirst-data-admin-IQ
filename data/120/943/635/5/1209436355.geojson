@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0645\u064a\u062f \u0639\u0628\u0627\u0633"
@@ -38,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632191
+        102191569,
+        85632191,
+        85672447,
+        1108562793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,17 @@
     "wof:geomhash":"6013f8574abb68cad38ba59dd2127786",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632191,
-            "locality_id":1209436355
+            "county_id":1108562793,
+            "locality_id":1209436355,
+            "region_id":85672447
         }
     ],
     "wof:id":1209436355,
-    "wof:lastmodified":1566714594,
+    "wof:lastmodified":1667247507,
     "wof:name":"Hamid 'Abbas",
-    "wof:parent_id":85632191,
+    "wof:parent_id":1108562793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],

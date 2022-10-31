@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u015e\u0101li\u1e29 \u1e28asan"
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1243088893,
-    "wof:lastmodified":1566714989,
+    "wof:lastmodified":1667247662,
     "wof:name":"Salih Hasan",
     "wof:parent_id":1108562771,
     "wof:placetype":"locality",

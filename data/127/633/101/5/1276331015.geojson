@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u0627\u062c\u0646"
@@ -48,7 +49,7 @@
         "gn:id":6805687
     },
     "wof:country":"IQ",
-    "wof:geomhash":"337100bffbf1e35739c0096f5b3837df",
+    "wof:geomhash":"1539aa3143aab03887ec27453e2102d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1276331015,
-    "wof:lastmodified":1566714353,
+    "wof:lastmodified":1667247793,
     "wof:name":"As Sawajin",
     "wof:parent_id":1108562771,
     "wof:placetype":"locality",
@@ -70,9 +71,9 @@
 },
   "bbox": [
     44.33128,
-    33.56404000000001,
+    33.56404,
     44.33128,
-    33.56404000000001
+    33.56404
 ],
-  "geometry": {"coordinates":[44.33128,33.56404000000001],"type":"Point"}
+  "geometry": {"coordinates":[44.33128,33.56404],"type":"Point"}
 }

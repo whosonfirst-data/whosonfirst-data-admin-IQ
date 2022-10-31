@@ -1,0 +1,18 @@
+{
+  "id": 1141906611,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label":"naturalearth",
+    "src:geom":"naturalearth",
+    "wof:geomhash":"0f97f91c4376358a932642830cdf4cd0",
+    "wof:id":1141906611,
+    "wof:repo":"whosonfirst-data-admin-iq"
+},
+  "bbox": [
+    47.707982,
+    30.389164,
+    47.707982,
+    30.389164
+],
+  "geometry": {"coordinates":[47.707982,30.389164],"type":"Point"}
+}

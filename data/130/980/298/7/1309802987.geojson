@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u0643\u0629"
@@ -56,7 +57,7 @@
         "gn:id":92228
     },
     "wof:country":"IQ",
-    "wof:geomhash":"36b1d43af9b763b04388764b2cfcc3ae",
+    "wof:geomhash":"88b23a11afc3fad8f46ab80c507cacb1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1309802987,
-    "wof:lastmodified":1566714949,
+    "wof:lastmodified":1667247943,
     "wof:name":"Qirgah",
     "wof:parent_id":1108562761,
     "wof:placetype":"locality",
@@ -78,9 +79,9 @@
 },
   "bbox": [
     45.48074,
-    35.53449000000001,
+    35.53449,
     45.48074,
-    35.53449000000001
+    35.53449
 ],
-  "geometry": {"coordinates":[45.48074,35.53449000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.48074,35.53449],"type":"Point"}
 }

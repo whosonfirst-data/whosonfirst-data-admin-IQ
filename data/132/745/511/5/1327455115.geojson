@@ -30,6 +30,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Husain al Ghaf\u016bs",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1327455115,
-    "wof:lastmodified":1566713923,
+    "wof:lastmodified":1667248105,
     "wof:name":"Husayn al Ghafus",
     "wof:parent_id":1108562785,
     "wof:placetype":"locality",

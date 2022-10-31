@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A\u1e29mad ad Dayd\u0101l"
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1293680845,
-    "wof:lastmodified":1566714214,
+    "wof:lastmodified":1667247912,
     "wof:name":"Ahmad ad Daydal",
     "wof:parent_id":1108562793,
     "wof:placetype":"locality",

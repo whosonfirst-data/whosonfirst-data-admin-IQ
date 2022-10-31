@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abdul Jabbar",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1259379601,
-    "wof:lastmodified":1566715168,
+    "wof:lastmodified":1667247713,
     "wof:name":"'Abd al Jabbar",
     "wof:parent_id":1108562785,
     "wof:placetype":"locality",

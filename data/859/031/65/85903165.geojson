@@ -4,20 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000466,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.360622,33.300103,44.360622,33.300103",
-    "geom:latitude":33.300103,
-    "geom:longitude":44.360622,
+    "geom:bbox":"44.358028,33.292499,44.399966,33.315202",
+    "geom:latitude":33.30184,
+    "geom:longitude":44.379174,
     "iso:country":"IQ",
-    "lbl:bbox":"44.355622,33.295103,44.365622,33.305103",
-    "lbl:latitude":33.300103,
-    "lbl:longitude":44.360622,
+    "lbl:latitude":33.300651,
+    "lbl:longitude":44.37425,
     "lbl:max_zoom":18.0,
     "mps:latitude":33.297394,
     "mps:longitude":44.355592,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,10 +29,14 @@
         "Al Harthiyah"
     ],
     "name:ara_x_preferred":[
-        "Al H\u0327\u0101rith\u012byah"
+        "\u0627\u0644\u062d\u0627\u0631\u062b\u064a\u0629"
     ],
     "name:ara_x_variant":[
+        "Al H\u0327\u0101rith\u012byah",
         "Al H\u0327\u0101rthiyah"
+    ],
+    "name:eng_x_preferred":[
+        "Al H\u0327\u0101rith\u012byah"
     ],
     "qs:gn_adm0_cc":"IQ",
     "qs:gn_id":0,
@@ -59,16 +62,20 @@
     "qs:woe_lau":0,
     "qs:woe_local":1979455,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":33.300651,
+    "reversegeo:longitude":44.37425,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85672447,
         102191569,
         85632191,
-        1108562793
+        421178393,
+        1108562793,
+        85672447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,15 +83,15 @@
     },
     "wof:country":"IQ",
     "wof:geom_alt":[
-        "quattroshapes"
+        "mz"
     ],
-    "wof:geomhash":"84a9275e067d610b3bf33a9ae07f214f",
+    "wof:geomhash":"801d755438c3dbe8c0ae484e9f4cfd2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632191,
             "county_id":1108562793,
-            "locality_id":-1,
+            "locality_id":421178393,
             "neighbourhood_id":85903165,
             "region_id":85672447
         }
@@ -93,9 +100,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582313988,
+    "wof:lastmodified":1667247431,
     "wof:name":"Al H\u0327\u0101rith\u012byah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
@@ -103,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.360622,
-    33.300103,
-    44.360622,
-    33.300103
+    44.358028,
+    33.292499,
+    44.399966,
+    33.315202
 ],
-  "geometry": {"coordinates":[44.360622,33.300103],"type":"Point"}
+  "geometry": {"coordinates":[[[44.387317,33.294475],[44.37935,33.292499],[44.379059,33.293415],[44.378457,33.294226],[44.37792,33.294514],[44.376415,33.294514],[44.371377,33.293703],[44.369142,33.293405],[44.368593,33.29323],[44.367181,33.296725],[44.368551,33.297024],[44.368086,33.299102],[44.367752,33.301399],[44.367477,33.301419],[44.36704,33.301564],[44.366397,33.301817],[44.365416,33.302353],[44.364589,33.30282],[44.363769,33.303203],[44.362379,33.303474],[44.361258,33.303647],[44.360108,33.303847],[44.358028,33.304223],[44.360095,33.306939],[44.366103,33.315202],[44.371396,33.311163],[44.3764,33.307446],[44.382689,33.302795],[44.384468,33.303553],[44.390581,33.306283],[44.394018,33.30801],[44.39428,33.307739],[44.397784,33.304144],[44.398781,33.303081],[44.398978,33.302201],[44.399358,33.29959],[44.399842,33.296498],[44.399966,33.295706],[44.394113,33.29502],[44.387317,33.294475]]],"type":"Polygon"}
 }

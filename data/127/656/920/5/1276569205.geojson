@@ -29,6 +29,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u062d\u0633\u064a\u0646 \u0633\u0646\u064a"
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1276569205,
-    "wof:lastmodified":1566714357,
+    "wof:lastmodified":1667247804,
     "wof:name":"Qaryat Husayn Sunni",
     "wof:parent_id":421184253,
     "wof:placetype":"locality",
