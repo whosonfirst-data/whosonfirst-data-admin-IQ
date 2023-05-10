@@ -17,6 +17,10 @@
         "\u0628\u0627\u0631\u0643 \u0627\u0644\u0633\u0639\u062f\u0648\u0646"
     ],
     "name:eng_x_preferred":[
+        "Al Saadoon Park"
+    ],
+    "name:eng_x_variant":[
+        "Al-Saadoon Park",
         "Al Saadoom Park"
     ],
     "src:geom":"whosonfirst",
@@ -24,8 +28,8 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        421178393,
         1108562793,
+        421178393,
         85672447
     ],
     "wof:breaches":[],
@@ -42,8 +46,8 @@
         }
     ],
     "wof:id":1796500245,
-    "wof:lastmodified":1667247395,
-    "wof:name":"Al Saadoom Park",
+    "wof:lastmodified":1683750248,
+    "wof:name":"Al Saadoon Park",
     "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-iq",
