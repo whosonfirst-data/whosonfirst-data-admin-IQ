@@ -19,13 +19,64 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Arbil"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0631\u0628\u064a\u0644"
+    ],
+    "name:arc_x_preferred":[
+        "\u0710\u072a\u0712\u071d\u0720"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u0628\u064a\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Erbil"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0631\u0628\u06cc\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "\u018frbil"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u0440\u0431\u0456\u043b\u044c"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cd\u09ac\u09bf\u09b2"
     ],
+    "name:bos_x_preferred":[
+        "Erbil"
+    ],
+    "name:bre_x_preferred":[
+        "Hewl\u00ear"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0431\u0438\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Arbela"
+    ],
+    "name:ceb_x_preferred":[
+        "Arbil"
+    ],
+    "name:ces_x_preferred":[
+        "Irb\u00edl"
+    ],
+    "name:che_x_preferred":[
+        "\u042d\u0440\u0431\u0438\u043b\u044c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06be\u06d5\u0648\u0644\u06ce\u0631"
+    ],
+    "name:dan_x_preferred":[
+        "Arbil"
+    ],
     "name:deu_x_preferred":[
+        "Erbil"
+    ],
+    "name:diq_x_preferred":[
         "Erbil"
     ],
     "name:ell_x_preferred":[
@@ -34,29 +85,146 @@
     "name:eng_x_preferred":[
         "Erbil"
     ],
+    "name:epo_x_preferred":[
+        "Arbil"
+    ],
+    "name:est_x_preferred":[
+        "Arb\u012bl"
+    ],
+    "name:eus_x_preferred":[
+        "Arbil"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0628\u06cc\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Arbil"
+    ],
     "name:fra_x_preferred":[
         "Erbil"
+    ],
+    "name:gle_x_preferred":[
+        "Hewl\u00ear"
+    ],
+    "name:glg_x_preferred":[
+        "Arbil"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0ab0\u0aac\u0abf\u0ab2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d1\u05d9\u05dc"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0930\u092c\u093f\u0932"
     ],
+    "name:hrv_x_preferred":[
+        "Arbil"
+    ],
     "name:hun_x_preferred":[
         "Erb\u00edl"
     ],
+    "name:hye_x_preferred":[
+        "\u0537\u0580\u0562\u056b\u056c"
+    ],
+    "name:ile_x_preferred":[
+        "Erbil"
+    ],
+    "name:ina_x_preferred":[
+        "Erbil"
+    ],
     "name:ind_x_preferred":[
+        "Arbil"
+    ],
+    "name:isl_x_preferred":[
         "Arbil"
     ],
     "name:ita_x_preferred":[
         "Arbil"
     ],
+    "name:ita_x_variant":[
+        "Erbil"
+    ],
+    "name:jav_x_preferred":[
+        "Erbil"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30d3\u30fc\u30eb"
+    ],
+    "name:kal_x_preferred":[
+        "Arbil"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0cb0\u0ccd\u0cac\u0cbf\u0cb2\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e0\u10d1\u10d8\u10da\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u0440\u0431\u0438\u043b\u044c"
     ],
     "name:kor_x_preferred":[
         "\uc544\ub974\ube4c"
     ],
+    "name:kur_x_preferred":[
+        "Hewl\u00ear"
+    ],
+    "name:lat_x_preferred":[
+        "Arbela"
+    ],
+    "name:lav_x_preferred":[
+        "Erb\u012bla"
+    ],
+    "name:lit_x_preferred":[
+        "Erbilis"
+    ],
+    "name:lmo_x_preferred":[
+        "Arbil"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d07\u0d7c\u0d2c\u0d3f\u0d7d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0930\u094d\u092c\u093f\u0932"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0415\u0440\u0431\u0438\u043b"
+    ],
+    "name:mri_x_preferred":[
+        "Arbil"
+    ],
+    "name:msa_x_preferred":[
+        "Arbil"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0647\u0648\u0644\u0627\u0631"
+    ],
+    "name:nau_x_preferred":[
+        "Arbil"
+    ],
+    "name:nep_x_preferred":[
+        "\u090f\u0930\u094d\u092c\u093f\u0932"
+    ],
     "name:nld_x_preferred":[
         "Arbil"
+    ],
+    "name:nno_x_preferred":[
+        "Arbil"
+    ],
+    "name:nob_x_preferred":[
+        "Arbil"
+    ],
+    "name:oss_x_preferred":[
+        "\u042d\u0440\u0431\u0438\u043b\u044c"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a30\u0a2c\u0a40\u0a32"
+    ],
+    "name:pms_x_preferred":[
+        "Erbil"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0631\u0628\u06cc\u0644"
     ],
     "name:pol_x_preferred":[
         "Irbil"
@@ -64,17 +232,86 @@
     "name:por_x_preferred":[
         "Arbil"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u0631\u0628\u06cc\u0644 \u0648\u0644\u0627\u06cc\u062a"
+    ],
+    "name:ron_x_preferred":[
+        "Arbil"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0440\u0431\u0438\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Arbil"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0dbb\u0dca\u0db6\u0dd2\u0dbd\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Arb\u00edl"
+    ],
+    "name:slv_x_preferred":[
+        "Arbil"
+    ],
+    "name:som_x_preferred":[
+        "Erbil"
     ],
     "name:spa_x_preferred":[
         "Erbil"
     ],
+    "name:sqi_x_preferred":[
+        "Erbili"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u0440\u0431\u0438\u043b"
+    ],
     "name:swe_x_preferred":[
         "Arbil"
     ],
+    "name:szl_x_preferred":[
+        "Irbil"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u04d8\u0440\u0431\u0438\u043b"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c30\u0c4d\u0c2c\u0c3f\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e23\u0e1a\u0e35\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "Erbil"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u06d5\u0631\u0628\u0649\u0644"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0440\u0431\u0456\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0631\u0628\u06cc\u0644"
+    ],
+    "name:uzb_x_preferred":[
+        "Erbil"
+    ],
+    "name:vec_x_preferred":[
+        "Erbil"
+    ],
     "name:vie_x_preferred":[
         "Erbil"
+    ],
+    "name:war_x_preferred":[
+        "Arbil"
+    ],
+    "name:wuu_x_preferred":[
+        "\u57c3\u5c14\u6bd4\u52d2"
+    ],
+    "name:yue_x_preferred":[
+        "\u827e\u6bd4\u723e"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u8d1d\u62c9"
@@ -207,7 +444,7 @@
         }
     ],
     "wof:id":1141908681,
-    "wof:lastmodified":1667247306,
+    "wof:lastmodified":1690934396,
     "wof:megacity":1,
     "wof:name":"Irbil",
     "wof:parent_id":421200817,

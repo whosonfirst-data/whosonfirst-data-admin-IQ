@@ -38,7 +38,8 @@
     "name:ara_x_variant":[
         "Sulaymaniyah",
         "\u0627\u0644\u0633\u0644\u064a\u0645\u0627\u0646\u064a\u0629",
-        "As Sulaymaniyah"
+        "As Sulaymaniyah",
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0633\u0644\u064a\u0645\u0627\u0646\u064a\u0629"
     ],
     "name:arc_x_preferred":[
         "\u0723\u0718\u0720\u071d\u0721\u0710\u0722\u071d\u0710"
@@ -51,6 +52,9 @@
     ],
     "name:aze_x_preferred":[
         "S\u00fcleymaniy\u0259"
+    ],
+    "name:aze_x_variant":[
+        "S\u00fcleymaniyy\u0259 m\u00fchaf\u0259z\u0259si"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0443\u0445\u0430\u0444\u0430\u0437\u0430 \u0421\u0443\u043b\u0435\u0439\u043c\u0430\u043d\u0456\u044f"
@@ -112,6 +116,9 @@
     "name:hye_x_preferred":[
         "\u054d\u0578\u0582\u056c\u0565\u0575\u0574\u0561\u0576\u056b\u0565 \u0574\u0561\u0580\u0566"
     ],
+    "name:hyw_x_preferred":[
+        "\u054d\u0578\u0582\u056c\u0567\u0575\u0574\u0561\u0576\u056b\u0567"
+    ],
     "name:jpn_x_preferred":[
         "\u30b9\u30ec\u30a4\u30de\u30cb\u30e4\u770c"
     ],
@@ -131,7 +138,8 @@
         "Sl\u00eaman\u00ee",
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u0649 \u0633\u0644\u06ce\u0645\u0627\u0646\u0649",
         "\u0633\u0644\u06ce\u0645\u0627\u0646\u0649",
-        "Sil\u00eaman\u00ee"
+        "Sil\u00eaman\u00ee",
+        "Par\u00eazgeha Sil\u00eamaniy\u00ea"
     ],
     "name:lav_x_preferred":[
         "Suleim\u0101n\u012bjas muh\u0101faza"
@@ -184,6 +192,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0bb2\u0bc7\u0bae\u0bbe\u0ba3\u0bbf\u0baf \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bc1\u0bb2\u0bc8\u0bae\u0bbe\u0ba9\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c41\u0c32\u0c3e\u0c2f\u0c4d\u0c2e\u0c3e\u0c28\u0c3f\u0c2f\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
     ],
@@ -207,6 +218,12 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Sulaymaniyah"
+    ],
+    "name:war_x_preferred":[
+        "Sulaymaniyah"
+    ],
+    "name:yue_x_preferred":[
+        "\u8607\u5229\u66fc\u5c3c\u4e9e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u8607\u840a\u66fc\u5c3c\u4e9e\u7701"
@@ -337,7 +354,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1617130155,
+    "wof:lastmodified":1690934362,
     "wof:name":"As-Sulaymaniyah",
     "wof:parent_id":-1,
     "wof:placetype":"region",

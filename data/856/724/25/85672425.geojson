@@ -38,7 +38,8 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0631\u0628\u064a\u0644",
         "Arb\u012bl",
-        "Arbil"
+        "Arbil",
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0631\u0628\u064a\u0644"
     ],
     "name:arc_x_preferred":[
         "\u0710\u072a\u0712\u071d\u0720"
@@ -51,6 +52,9 @@
     ],
     "name:aze_x_preferred":[
         "\u018frbil"
+    ],
+    "name:aze_x_variant":[
+        "\u018frbil m\u00fchaf\u0259z\u0259si"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cd\u09ac\u09bf\u09b2 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -115,6 +119,9 @@
     "name:hun_x_preferred":[
         "Erb\u00edl korm\u00e1nyz\u00f3s\u00e1g"
     ],
+    "name:hyw_x_preferred":[
+        "\u0537\u0580\u057a\u056b\u056c"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Arbil"
     ],
@@ -136,7 +143,8 @@
     "name:kur_x_variant":[
         "\u0647\u06d5\u0648\u0644\u06ce\u0631",
         "Par\u00eazga-\u00ee Hewl\u00ear",
-        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u0649 \u0647\u06d5\u0648\u0644\u06ce\u0631"
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u0649 \u0647\u06d5\u0648\u0644\u06ce\u0631",
+        "Par\u00eazgeha Hewl\u00ear"
     ],
     "name:lav_x_preferred":[
         "Erb\u012blas muh\u0101faza"
@@ -195,6 +203,9 @@
     "name:swe_x_preferred":[
         "Arbil"
     ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c30\u0c4d\u0c2c\u0c3f\u0c32\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
     ],
@@ -218,6 +229,15 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Erbil"
+    ],
+    "name:war_x_preferred":[
+        "Arbil"
+    ],
+    "name:wuu_x_preferred":[
+        "\u57c3\u5c14\u6bd4\u52d2\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u827e\u6bd4\u723e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u6bd4\u52d2\u7701"
@@ -348,7 +368,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1617130034,
+    "wof:lastmodified":1690934366,
     "wof:name":"Arbil",
     "wof:parent_id":-1,
     "wof:placetype":"region",

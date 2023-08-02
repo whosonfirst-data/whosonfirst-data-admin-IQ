@@ -30,11 +30,23 @@
     "name:arz_x_preferred":[
         "\u0647\u064a\u062a"
     ],
+    "name:ast_x_preferred":[
+        "H\u012bt"
+    ],
+    "name:aze_x_preferred":[
+        "Hit"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0456\u0442"
+    ],
     "name:cat_x_preferred":[
         "Hit"
     ],
     "name:ceb_x_preferred":[
         "H\u012bt"
+    ],
+    "name:ces_x_preferred":[
+        "H\u00edt"
     ],
     "name:deu_x_preferred":[
         "H\u012bt"
@@ -54,6 +66,9 @@
     "name:fra_x_preferred":[
         "Hit"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05ea"
+    ],
     "name:hun_x_preferred":[
         "H\u00edt"
     ],
@@ -70,6 +85,9 @@
         "\u0647\u06cc\u062a"
     ],
     "name:nld_x_preferred":[
+        "H\u012bt"
+    ],
+    "name:nno_x_preferred":[
         "H\u012bt"
     ],
     "name:nob_x_preferred":[
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":1125920661,
-    "wof:lastmodified":1667247289,
+    "wof:lastmodified":1690934390,
     "wof:name":"H\u012bt",
     "wof:parent_id":421177881,
     "wof:placetype":"locality",

@@ -40,8 +40,14 @@
     "name:cat_x_preferred":[
         "Arrapha"
     ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u0631\u06d5\u067e\u062e\u0627"
+    ],
     "name:deu_x_preferred":[
         "Arrapcha"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03c1\u03c1\u03b1\u03c6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Arrapha"
@@ -61,6 +67,9 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30e9\u30d5\u30a1"
     ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30e9\u30d7\u30cf"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ub77c\ud30c"
     ],
@@ -79,8 +88,14 @@
     "name:pol_x_preferred":[
         "Arrapha"
     ],
+    "name:por_x_preferred":[
+        "Arrapa"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0440\u0430\u043f\u0445\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Arrapha"
     ],
     "name:spa_x_preferred":[
         "Arrap\u1e2ba"
@@ -90,6 +105,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0440\u0430\u043f\u0445\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u62c9\u666e\u54c8"
     ],
     "qs:gn_adm0_cc":"IQ",
     "qs:gn_id":0,
@@ -121,11 +139,11 @@
     "wd:longitude":44.383333,
     "wd:wordcount":600,
     "wof:belongsto":[
+        1108804831,
         102191569,
         85632191,
         421190751,
-        421199293,
-        1108804831
+        421199293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,7 +170,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1667248234,
+    "wof:lastmodified":1690934360,
     "wof:name":"Arrapha",
     "wof:parent_id":421190751,
     "wof:placetype":"neighbourhood",

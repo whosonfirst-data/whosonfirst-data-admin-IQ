@@ -40,6 +40,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0631\u0628\u064a\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Erbil"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0631\u0628\u06cc\u0644"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u0440\u0431\u0456\u043b\u044c"
+    ],
+    "name:bel_x_variant":[
+        "\u042d\u0440\u0431\u0456\u043b\u044c"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cd\u09ac\u09bf\u09b2"
@@ -114,6 +120,9 @@
     ],
     "name:fra_x_preferred":[
         "Erbil"
+    ],
+    "name:gle_x_preferred":[
+        "Hewl\u00ear"
     ],
     "name:glg_x_preferred":[
         "Arbil"
@@ -241,6 +250,9 @@
     "name:nob_x_preferred":[
         "Arbil"
     ],
+    "name:oss_x_preferred":[
+        "\u042d\u0440\u0431\u0438\u043b\u044c"
+    ],
     "name:pan_x_preferred":[
         "\u0a05\u0a30\u0a2c\u0a40\u0a32"
     ],
@@ -255,6 +267,9 @@
     ],
     "name:por_x_preferred":[
         "Arbil"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0631\u0628\u06cc\u0644 \u0648\u0644\u0627\u06cc\u062a"
     ],
     "name:ron_x_preferred":[
         "Arbil"
@@ -274,8 +289,14 @@
     "name:slv_x_preferred":[
         "Arbil"
     ],
+    "name:som_x_preferred":[
+        "Erbil"
+    ],
     "name:spa_x_preferred":[
         "Erbil"
+    ],
+    "name:sqi_x_preferred":[
+        "Erbili"
     ],
     "name:srp_x_preferred":[
         "\u0415\u0440\u0431\u0438\u043b"
@@ -283,8 +304,14 @@
     "name:swe_x_preferred":[
         "Arbil"
     ],
+    "name:szl_x_preferred":[
+        "Irbil"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u04d8\u0440\u0431\u0438\u043b"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c30\u0c4d\u0c2c\u0c3f\u0c32\u0c4d"
@@ -301,6 +328,9 @@
     "name:tur_x_preferred":[
         "Erbil"
     ],
+    "name:uig_x_preferred":[
+        "\u0626\u06d5\u0631\u0628\u0649\u0644"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0431\u0456\u043b\u044c"
     ],
@@ -310,11 +340,23 @@
     "name:urd_x_preferred":[
         "\u0627\u0631\u0628\u06cc\u0644"
     ],
+    "name:uzb_x_preferred":[
+        "Erbil"
+    ],
+    "name:vec_x_preferred":[
+        "Erbil"
+    ],
     "name:vie_x_preferred":[
         "Erbil"
     ],
     "name:war_x_preferred":[
         "Arbil"
+    ],
+    "name:wuu_x_preferred":[
+        "\u57c3\u5c14\u6bd4\u52d2"
+    ],
+    "name:yue_x_preferred":[
+        "\u827e\u6bd4\u723e"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u8d1d\u62c9"
@@ -358,7 +400,7 @@
         }
     ],
     "wof:id":1125920643,
-    "wof:lastmodified":1667247445,
+    "wof:lastmodified":1690934390,
     "wof:name":"Erbil",
     "wof:parent_id":421200817,
     "wof:placetype":"locality",

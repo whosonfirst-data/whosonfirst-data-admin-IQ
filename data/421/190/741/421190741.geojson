@@ -60,6 +60,9 @@
     "name:che_x_preferred":[
         "\u0422\u0438\u043a\u0440\u0438\u0442"
     ],
+    "name:ckb_x_preferred":[
+        "\u062a\u0643\u0631\u064a\u062a"
+    ],
     "name:cym_x_preferred":[
         "Tikrit"
     ],
@@ -74,6 +77,9 @@
     ],
     "name:eng_x_preferred":[
         "Sewera"
+    ],
+    "name:eng_x_variant":[
+        "Tikrit"
     ],
     "name:epo_x_preferred":[
         "Tikrit"
@@ -94,6 +100,9 @@
         "Tikrit"
     ],
     "name:fry_x_preferred":[
+        "Tikrit"
+    ],
+    "name:gle_x_preferred":[
         "Tikrit"
     ],
     "name:glg_x_preferred":[
@@ -141,6 +150,9 @@
     "name:kat_x_preferred":[
         "\u10e2\u10d8\u10d9\u10e0\u10d8\u10e2\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d7\u10d8\u10e5\u10e0\u10d8\u10d7\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0422\u0438\u043a\u0440\u0438\u0442"
     ],
@@ -172,6 +184,9 @@
         "\u062a\u06a9\u0631\u06cc\u062a"
     ],
     "name:nld_x_preferred":[
+        "Tikrit"
+    ],
+    "name:nno_x_preferred":[
         "Tikrit"
     ],
     "name:nob_x_preferred":[
@@ -219,8 +234,14 @@
     "name:swe_x_preferred":[
         "Tikrit"
     ],
+    "name:szl_x_preferred":[
+        "Tikrit"
+    ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bbf\u0b95\u0bcd\u0bb0\u0bbf\u0b9f\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0438\u043a\u0440\u0438\u0442"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3f\u0c15\u0c4d \u0c30\u0c40\u0c24\u0c4d"
@@ -234,14 +255,26 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u043a\u0440\u0456\u0442"
     ],
+    "name:ukr_x_variant":[
+        "\u0422\u0456\u043a\u0440\u0438\u0442"
+    ],
     "name:urd_x_preferred":[
         "\u062a\u06a9\u0631\u06cc\u062a"
+    ],
+    "name:vec_x_preferred":[
+        "Tikrit"
     ],
     "name:vie_x_preferred":[
         "Tikrit"
     ],
     "name:war_x_preferred":[
         "Tikrit"
+    ],
+    "name:wuu_x_preferred":[
+        "\u63d0\u514b\u91cc\u7279"
+    ],
+    "name:yue_x_preferred":[
+        "\u63d0\u683c\u70c8"
     ],
     "name:zho_x_preferred":[
         "\u63d0\u514b\u91cc\u7279"
@@ -296,7 +329,7 @@
         }
     ],
     "wof:id":421190741,
-    "wof:lastmodified":1667248231,
+    "wof:lastmodified":1690934380,
     "wof:name":"Tekrit",
     "wof:parent_id":421186243,
     "wof:placetype":"locality",

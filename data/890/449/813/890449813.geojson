@@ -26,6 +26,12 @@
     "name:ara_x_variant":[
         "\u0686\u0645\u0686\u0645\u0627\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Chamchamal"
+    ],
+    "name:cat_x_preferred":[
+        "Chamchamal"
+    ],
     "name:ceb_x_preferred":[
         "Jamjam\u0101l"
     ],
@@ -62,8 +68,14 @@
     "name:nld_x_preferred":[
         "Chamchamal"
     ],
+    "name:nno_x_preferred":[
+        "Chamchamal"
+    ],
     "name:pol_x_preferred":[
         "D\u017camd\u017camal"
+    ],
+    "name:por_x_preferred":[
+        "Chamchamal"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u043c\u0447\u0430\u043c\u0430\u043b\u044c"
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":890449813,
-    "wof:lastmodified":1667247443,
+    "wof:lastmodified":1690934387,
     "wof:name":"Chamcham\u0101l",
     "wof:parent_id":1108562745,
     "wof:placetype":"locality",

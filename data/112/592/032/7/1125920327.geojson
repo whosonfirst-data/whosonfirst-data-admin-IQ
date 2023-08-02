@@ -31,6 +31,9 @@
     "name:arc_x_preferred":[
         "\u0712\u0713\u0715\u071d\u0715\u0710"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u063a\u062f\u064a\u062f\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Al-Hamdaniya"
     ],
@@ -51,7 +54,8 @@
     ],
     "name:eng_x_variant":[
         "Al-Hamdaniya District",
-        "Bakhdida"
+        "Bakhdida",
+        "Qaraqosh"
     ],
     "name:fas_x_preferred":[
         "\u0628\u063a\u062f\u06cc\u062f\u0627"
@@ -59,7 +63,13 @@
     "name:fra_x_preferred":[
         "Bakhdida"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u056d\u057f\u056b\u0564\u0561"
+    ],
     "name:nld_x_preferred":[
+        "Bakhdida"
+    ],
+    "name:nno_x_preferred":[
         "Bakhdida"
     ],
     "name:nob_x_preferred":[
@@ -82,6 +92,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u063a\u062f\u06cc\u062f\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u62c9\u683c\u4ec0"
     ],
     "qs_pg:aaroncc":"IQ",
     "qs_pg:gn_country":"IQ",
@@ -130,7 +143,7 @@
         }
     ],
     "wof:id":1125920327,
-    "wof:lastmodified":1667247288,
+    "wof:lastmodified":1690934390,
     "wof:name":"Qa\u1e11\u0101\u2019 al \u1e28amd\u0101n\u012byah",
     "wof:parent_id":1108562631,
     "wof:placetype":"locality",

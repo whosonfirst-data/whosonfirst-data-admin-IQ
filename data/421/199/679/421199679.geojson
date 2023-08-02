@@ -25,8 +25,20 @@
         "\u0643\u0648\u064a \u0633\u0646\u062c\u0642",
         "\u0643\u0648\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0649 \u0633\u0646\u062c\u0642"
+    ],
+    "name:ast_x_preferred":[
+        "Koy Sanjaq"
+    ],
+    "name:aze_x_preferred":[
+        "K\u00f6ysancaq"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09af\u09bc \u09b8\u09be\u099e\u09cd\u099c\u09be\u0995"
+    ],
+    "name:cat_x_preferred":[
+        "Koy Sanjaq"
     ],
     "name:ceb_x_preferred":[
         "Koysinceq"
@@ -107,6 +119,9 @@
         "Koy Sanjaq"
     ],
     "name:nld_x_preferred":[
+        "Koy Sanjaq"
+    ],
+    "name:nno_x_preferred":[
         "Koy Sanjaq"
     ],
     "name:nob_x_preferred":[
@@ -220,7 +235,7 @@
         }
     ],
     "wof:id":421199679,
-    "wof:lastmodified":1667247428,
+    "wof:lastmodified":1690934382,
     "wof:name":"Koi Sanjaq",
     "wof:parent_id":890445493,
     "wof:placetype":"locality",

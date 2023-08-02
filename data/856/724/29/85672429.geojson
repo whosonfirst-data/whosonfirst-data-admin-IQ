@@ -52,6 +52,9 @@
     "name:aze_x_preferred":[
         "Nin\u0259v\u0259"
     ],
+    "name:aze_x_variant":[
+        "Neyn\u0259v\u0259 m\u00fchaf\u0259z\u0259si"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u0430\u0439\u043d\u0430\u0432\u0430"
     ],
@@ -121,6 +124,9 @@
     "name:hye_x_preferred":[
         "\u0546\u056b\u0576\u057e\u0565\u056b \u0574\u0561\u0580\u0566"
     ],
+    "name:hyw_x_preferred":[
+        "\u0546\u056b\u0576\u0578\u0582\u0567"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Ninawa"
     ],
@@ -142,8 +148,14 @@
     "name:lav_x_preferred":[
         "Dah\u016bkas muh\u0101faza"
     ],
+    "name:lav_x_variant":[
+        "Nainavas muhafaza"
+    ],
     "name:lit_x_preferred":[
         "Dahuko gubernija"
+    ],
+    "name:lit_x_variant":[
+        "Ninevijos muchafaza"
     ],
     "name:mar_x_preferred":[
         "\u0926\u0941\u0939\u094b\u0915 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
@@ -184,6 +196,9 @@
     "name:sin_x_preferred":[
         "\u0da9\u0dd4\u0dc4\u0ddc\u0d9a\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:som_x_preferred":[
+        "Nineveh Governorate"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u0438\u043d\u0438\u0432\u0430"
     ],
@@ -192,6 +207,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bc1\u0bb9\u0bbe\u0b95\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+    ],
+    "name:tam_x_variant":[
+        "\u0ba8\u0bc0\u0ba9\u0bb5\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c41\u0c39\u0c4b\u0c15\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -216,6 +234,15 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Duhok"
+    ],
+    "name:vie_x_variant":[
+        "T\u1ec9nh Ninawa"
+    ],
+    "name:war_x_preferred":[
+        "Ninawa"
+    ],
+    "name:yue_x_preferred":[
+        "\u5c3c\u5c3c\u5fae\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u5c3c\u5fae\u7701"
@@ -344,7 +371,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1617130057,
+    "wof:lastmodified":1690934361,
     "wof:name":"Ninawa",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

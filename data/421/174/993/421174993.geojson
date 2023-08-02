@@ -24,11 +24,20 @@
     "name:arz_x_preferred":[
         "\u062d\u0644\u0628\u062c\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Halabja"
+    ],
+    "name:aze_x_preferred":[
+        "H\u0259l\u0259bc\u0259"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09b2\u09be\u09ac\u09cd\u099c\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0425\u0430\u043b\u0430\u0431\u0434\u0436\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Halabja"
     ],
     "name:ceb_x_preferred":[
         "\u1e28alabjah"
@@ -59,6 +68,9 @@
     ],
     "name:epo_x_preferred":[
         "\u0124alab\u011do"
+    ],
+    "name:eus_x_preferred":[
+        "Halabja"
     ],
     "name:fas_x_preferred":[
         "\u062d\u0644\u0628\u0686\u0647"
@@ -95,6 +107,9 @@
     ],
     "name:ita_x_preferred":[
         "Halabja"
+    ],
+    "name:ita_x_variant":[
+        "Helebce"
     ],
     "name:jav_x_preferred":[
         "Halabja"
@@ -253,7 +268,7 @@
         }
     ],
     "wof:id":421174993,
-    "wof:lastmodified":1667247383,
+    "wof:lastmodified":1690934377,
     "wof:name":"Halabja",
     "wof:parent_id":421183885,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:aze_x_preferred":[
         "B\u0259sr\u0259"
     ],
+    "name:bak_x_preferred":[
+        "\u0411\u04d9\u0441\u0440\u0430"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0441\u0440\u0430"
     ],
@@ -110,6 +113,9 @@
     "name:gle_x_preferred":[
         "Basra"
     ],
+    "name:glg_x_preferred":[
+        "Basora"
+    ],
     "name:gsw_x_preferred":[
         "Basra"
     ],
@@ -138,6 +144,9 @@
         "Basra"
     ],
     "name:ind_x_preferred":[
+        "Basra"
+    ],
+    "name:isl_x_preferred":[
         "Basra"
     ],
     "name:ita_x_preferred":[
@@ -194,11 +203,17 @@
     "name:mlg_x_preferred":[
         "Bassora"
     ],
+    "name:mlt_x_preferred":[
+        "Basra"
+    ],
     "name:mri_x_preferred":[
         "Basra"
     ],
     "name:msa_x_preferred":[
         "Basra"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0635\u0631\u0647"
     ],
     "name:nau_x_preferred":[
         "Basra"
@@ -214,6 +229,9 @@
     ],
     "name:nor_x_preferred":[
         "Basra"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0430\u0441\u0440\u00e6"
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a38\u0a30\u0a3e"
@@ -249,6 +267,9 @@
         "Basra"
     ],
     "name:slv_x_preferred":[
+        "Basra"
+    ],
+    "name:som_x_preferred":[
         "Basra"
     ],
     "name:spa_x_preferred":[
@@ -296,6 +317,9 @@
     "name:uzb_x_preferred":[
         "Basra"
     ],
+    "name:vec_x_preferred":[
+        "Bassora"
+    ],
     "name:vie_x_preferred":[
         "Basra"
     ],
@@ -307,6 +331,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5df4\u58eb\u62c9"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d0\u05e6\u05e8\u05d0"
     ],
     "name:yue_x_preferred":[
         "\u5df4\u58eb\u62c9"
@@ -340,8 +367,8 @@
     "wof:belongsto":[
         102191569,
         85632191,
-        1108562731,
-        85672453
+        85672453,
+        1108562731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -365,7 +392,7 @@
         }
     ],
     "wof:id":421202467,
-    "wof:lastmodified":1608688172,
+    "wof:lastmodified":1690934376,
     "wof:megacity":1,
     "wof:name":"\u0627\u0644\u0628\u0635\u0631\u0629",
     "wof:parent_id":1108562731,

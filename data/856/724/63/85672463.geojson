@@ -51,11 +51,20 @@
     "name:aze_x_preferred":[
         "Ziqar"
     ],
+    "name:aze_x_variant":[
+        "Ziqar m\u00fchaf\u0259z\u0259si"
+    ],
     "name:bar_x_preferred":[
         "Dhi Qar"
     ],
+    "name:bel_x_preferred":[
+        "\u043c\u0443\u0445\u0430\u0444\u0430\u0437\u0430 \u0414\u044b-\u041a\u0430\u0440"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0438 \u041a\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Dhi Qar"
     ],
     "name:ces_x_preferred":[
         "Dh\u00edk\u00e1r"
@@ -92,6 +101,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d3'\u05d9 \u05e7\u05d0\u05e8"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0536\u056b \u0554\u0561\u0580"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30fc\u30ab\u30fc\u30eb\u770c"
@@ -135,6 +147,9 @@
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0417\u04e3\u049b\u043e\u0440"
     ],
+    "name:tgk_x_variant":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0417\u0438\u049b\u043e\u0440"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e29\u0e35\u0e01\u0e2d\u0e23"
     ],
@@ -143,6 +158,15 @@
     ],
     "name:und_x_variant":[
         "Thi-Qar Muhafadha"
+    ],
+    "name:war_x_preferred":[
+        "Dhi Qar"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6d4e\u52a0\u5c14\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u5730\u52a0\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6fdf\u52a0\u723e\u7701"
@@ -272,7 +296,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1617130667,
+    "wof:lastmodified":1690934364,
     "wof:name":"Dhi-Qar",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

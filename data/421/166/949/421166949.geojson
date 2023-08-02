@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0639\u0641\u0643"
     ],
+    "name:ast_x_preferred":[
+        "Afak"
+    ],
+    "name:aze_x_preferred":[
+        "\u0410f\u0430k"
+    ],
     "name:ceb_x_preferred":[
         "\u2018Afak"
     ],
@@ -42,10 +48,16 @@
     "name:fra_x_preferred":[
         "Afak"
     ],
+    "name:ita_x_preferred":[
+        "Afak"
+    ],
     "name:mzn_x_preferred":[
         "\u0639\u0641\u06a9"
     ],
     "name:nld_x_preferred":[
+        "Afak"
+    ],
+    "name:nno_x_preferred":[
         "Afak"
     ],
     "name:pnb_x_preferred":[
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":421166949,
-    "wof:lastmodified":1667247381,
+    "wof:lastmodified":1690934375,
     "wof:name":"Afaq",
     "wof:parent_id":1108562687,
     "wof:placetype":"locality",

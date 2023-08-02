@@ -29,6 +29,9 @@
     "name:arc_x_preferred":[
         "\u071f\u072a\u071f \u0723\u0720\u0718\u071f"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0631\u0643\u0648\u0643"
+    ],
     "name:ast_x_preferred":[
         "Kirkuk"
     ],
@@ -92,6 +95,9 @@
     "name:fra_x_preferred":[
         "Kirkouk"
     ],
+    "name:gle_x_preferred":[
+        "Kirkuk"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab0\u0acd\u0a95\u0ac1\u0a95"
     ],
@@ -112,6 +118,9 @@
     ],
     "name:hyw_x_preferred":[
         "\u0554\u056b\u0580\u0584\u0578\u0582\u0584"
+    ],
+    "name:hyw_x_variant":[
+        "\u0554\u0565\u0580\u0584\u0578\u0582\u0584"
     ],
     "name:ido_x_preferred":[
         "Kirkuk"
@@ -206,6 +215,9 @@
     "name:oci_x_preferred":[
         "Kirkuk"
     ],
+    "name:oss_x_preferred":[
+        "\u041a\u0438\u0440\u043a\u0443\u043a"
+    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0631\u06a9\u0648\u06a9"
     ],
@@ -272,6 +284,9 @@
     "name:uzb_x_preferred":[
         "Karkuk"
     ],
+    "name:vec_x_preferred":[
+        "Kirkuk"
+    ],
     "name:vie_x_preferred":[
         "Kirkuk"
     ],
@@ -280,6 +295,9 @@
     ],
     "name:war_x_preferred":[
         "Kirkuk"
+    ],
+    "name:wuu_x_preferred":[
+        "\u57fa\u5c14\u5e93\u514b"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u723e\u5eab\u514b"
@@ -413,7 +431,7 @@
         }
     ],
     "wof:id":890449811,
-    "wof:lastmodified":1667248238,
+    "wof:lastmodified":1690934386,
     "wof:name":"Kirkuk",
     "wof:parent_id":421199293,
     "wof:placetype":"locality",

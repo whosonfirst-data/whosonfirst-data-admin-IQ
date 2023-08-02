@@ -23,17 +23,26 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0646\u062c\u0641 \u0627\u0644\u0627\u0634\u0631\u0641"
     ],
+    "name:arc_x_preferred":[
+        "\u0722\u0713\u0726"
+    ],
     "name:arg_x_preferred":[
         "Nachaf"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0646\u062c\u0641"
     ],
+    "name:ast_x_preferred":[
+        "Najaf"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u062c\u0641"
     ],
     "name:aze_x_preferred":[
         "N\u0259c\u0259f"
+    ],
+    "name:bak_x_preferred":[
+        "\u04d8\u043d-\u041d\u04d9\u0436\u04d9\u0444"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u043d-\u041d\u0430\u0434\u0436\u0430\u0444"
@@ -55,6 +64,9 @@
     ],
     "name:ces_x_preferred":[
         "Nad\u017eaf"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0646\u06d5\u062c\u06d5\u0641"
     ],
     "name:dan_x_preferred":[
         "Najaf"
@@ -95,6 +107,9 @@
     "name:glg_x_variant":[
         "Najaf"
     ],
+    "name:hau_x_preferred":[
+        "Najaf"
+    ],
     "name:hbs_x_preferred":[
         "Nad\u017eaf"
     ],
@@ -113,6 +128,9 @@
     "name:hye_x_preferred":[
         "\u0546\u0561\u057b\u0561\u0586"
     ],
+    "name:hyw_x_preferred":[
+        "\u0546\u0561\u056a\u0561\u0586"
+    ],
     "name:ind_x_preferred":[
         "Najaf"
     ],
@@ -124,6 +142,9 @@
     ],
     "name:kal_x_preferred":[
         "Najaf"
+    ],
+    "name:kas_x_preferred":[
+        "\u0646\u064e\u062c\u064e\u0641"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d0\u10ef\u10d0\u10e4\u10d8"
@@ -173,6 +194,9 @@
     "name:nor_x_preferred":[
         "Najaf"
     ],
+    "name:oss_x_preferred":[
+        "\u042d\u043d-\u041d\u0430\u0434\u0436\u0430\u0444"
+    ],
     "name:pan_x_preferred":[
         "\u0a28\u0a1c\u0a2b\u0a3c"
     ],
@@ -206,6 +230,9 @@
     "name:spa_x_preferred":[
         "Nayaf"
     ],
+    "name:spa_x_variant":[
+        "N\u00e1yaf"
+    ],
     "name:sqi_x_preferred":[
         "Nexhef"
     ],
@@ -221,14 +248,26 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0b9c\u0bbe\u0baa\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041d\u04d9\u0497\u04d9\u0444"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u0430\u04b7\u0430\u0444"
+    ],
     "name:tha_x_preferred":[
         "\u0e41\u0e19\u0e41\u0e08\u0e1f"
     ],
     "name:tur_x_preferred":[
         "Necef"
     ],
+    "name:uig_x_preferred":[
+        "\u0646\u06d5\u062c\u06d5\u0641"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043d-\u041d\u0430\u0434\u0436\u0430\u0444"
+    ],
+    "name:ukr_x_variant":[
+        "\u0415\u043d-\u041d\u0430\u0434\u0436\u0430\u0444"
     ],
     "name:urd_x_preferred":[
         "\u0646\u062c\u0641"
@@ -236,11 +275,20 @@
     "name:uzb_x_preferred":[
         "Najaf"
     ],
+    "name:vec_x_preferred":[
+        "Najaf"
+    ],
     "name:vie_x_preferred":[
         "An Najaf"
     ],
     "name:war_x_preferred":[
         "Najaf"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7eb3\u6770\u592b"
+    ],
+    "name:yue_x_preferred":[
+        "\u62ff\u8b1d\u592b"
     ],
     "name:zho_x_preferred":[
         "\u7d0d\u6770\u592b"
@@ -389,7 +437,7 @@
         }
     ],
     "wof:id":421168639,
-    "wof:lastmodified":1636494831,
+    "wof:lastmodified":1690934374,
     "wof:name":"An Najaf",
     "wof:parent_id":421184255,
     "wof:placetype":"locality",

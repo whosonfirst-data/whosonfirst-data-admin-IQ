@@ -27,6 +27,9 @@
     "name:arz_x_preferred":[
         "\u0643\u0631\u0628\u0644\u0627\u0621"
     ],
+    "name:ast_x_preferred":[
+        "Karbala"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0631\u0628\u0644\u0627"
     ],
@@ -96,8 +99,14 @@
     "name:fra_x_preferred":[
         "Kerbala"
     ],
+    "name:gle_x_preferred":[
+        "Karbala"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0ab0\u0aac\u0ab2\u0abe"
+    ],
+    "name:hau_x_preferred":[
+        "Karbala"
     ],
     "name:heb_x_preferred":[
         "\u05db\u05e8\u05d1\u05dc\u05d0"
@@ -123,6 +132,9 @@
     "name:ita_x_variant":[
         "Kerbala"
     ],
+    "name:jav_x_preferred":[
+        "Karbala"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30eb\u30d0\u30e9\u30fc"
     ],
@@ -131,6 +143,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cb0\u0ccd\u0cac\u0cb2\u0cbe"
+    ],
+    "name:kas_x_preferred":[
+        "\u06a9\u0631\u0628\u0644\u0627"
     ],
     "name:kat_x_preferred":[
         "\u10e5\u10d0\u10e0\u10d1\u10d0\u10da\u10d0"
@@ -198,6 +213,9 @@
     "name:por_x_preferred":[
         "Karbala"
     ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0631\u0628\u0644\u0627"
+    ],
     "name:ron_x_preferred":[
         "Karbala"
     ],
@@ -215,6 +233,9 @@
     ],
     "name:snd_x_preferred":[
         "\u06aa\u0631\u0628\u0644\u0627"
+    ],
+    "name:som_x_preferred":[
+        "Karbalaa"
     ],
     "name:spa_x_preferred":[
         "Kerbala"
@@ -234,11 +255,17 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bb0\u0bcd\u0baa\u0bb2\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u04d9\u0440\u0431\u04d9\u043b\u0430\u044d"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c30\u0c4d\u0c2c\u0c3e\u0c32\u0c3e"
     ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041a\u0430\u0440\u0431\u0430\u043b\u043e"
+    ],
+    "name:tgk_x_variant":[
+        "\u041a\u0430\u0440\u0431\u0430\u043b\u043e"
     ],
     "name:tgl_x_preferred":[
         "Karbala"
@@ -255,6 +282,9 @@
     "name:uig_x_preferred":[
         "\u0643\u0629\u0631\u0628\u0627\u0644\u0627"
     ],
+    "name:uig_x_variant":[
+        "\u0643\u06d5\u0631\u0628\u06d5\u0644\u0627"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0440\u0431\u0435\u043b\u0430"
     ],
@@ -267,11 +297,17 @@
     "name:uzb_x_preferred":[
         "Karbalo"
     ],
+    "name:vec_x_preferred":[
+        "Kerbela"
+    ],
     "name:vie_x_preferred":[
         "Karbala"
     ],
     "name:war_x_preferred":[
         "Karbala"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u5c14\u5df4\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u5361\u723e\u5df4\u62c9"
@@ -428,7 +464,7 @@
         }
     ],
     "wof:id":421199675,
-    "wof:lastmodified":1667247427,
+    "wof:lastmodified":1690934381,
     "wof:name":"Kerbela",
     "wof:parent_id":421194967,
     "wof:placetype":"locality",

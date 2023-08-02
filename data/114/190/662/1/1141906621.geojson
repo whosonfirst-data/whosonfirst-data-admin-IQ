@@ -95,6 +95,9 @@
     "name:nld_x_preferred":[
         "Musayyib"
     ],
+    "name:nno_x_preferred":[
+        "Musayyib"
+    ],
     "name:nob_x_preferred":[
         "Musayyib"
     ],
@@ -115,6 +118,9 @@
     ],
     "name:spa_x_preferred":[
         "Al Musayyib"
+    ],
+    "name:spa_x_variant":[
+        "Almusayib"
     ],
     "name:swe_x_preferred":[
         "Al Musayyib"
@@ -286,7 +292,7 @@
         }
     ],
     "wof:id":1141906621,
-    "wof:lastmodified":1667247302,
+    "wof:lastmodified":1690934396,
     "wof:name":"Al Musayyib",
     "wof:parent_id":421172849,
     "wof:placetype":"locality",
