@@ -26,6 +26,15 @@
     "name:ara_x_variant":[
         "\u0642\u0636\u0627\u0621 \u0628\u0644\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0636\u0627\u0621 \u0628\u0644\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Balad"
+    ],
+    "name:aze_x_preferred":[
+        "B\u0430l\u0430d"
+    ],
     "name:ceb_x_preferred":[
         "Balad"
     ],
@@ -48,6 +57,9 @@
         "Balad"
     ],
     "name:fra_x_preferred":[
+        "Balad"
+    ],
+    "name:hun_x_preferred":[
         "Balad"
     ],
     "name:ita_x_preferred":[
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":890449815,
-    "wof:lastmodified":1667247444,
+    "wof:lastmodified":1690934387,
     "wof:name":"Balad",
     "wof:parent_id":421180939,
     "wof:placetype":"locality",

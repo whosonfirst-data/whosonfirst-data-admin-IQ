@@ -27,8 +27,14 @@
     "name:arz_x_preferred":[
         "\u062d\u062f\u064a\u062b\u0647"
     ],
+    "name:aze_x_preferred":[
+        "\u0425\u0430dit\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09a6\u09bf\u09a5\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09b9\u09be\u09a6\u09bf\u099b\u09be"
     ],
     "name:ceb_x_preferred":[
         "\u1e28ad\u012bthah"
@@ -44,6 +50,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03bd\u03c4\u03b9\u03b8\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03bd\u03c4\u03af\u03b8\u03b1"
     ],
     "name:eng_x_preferred":[
         "Al Hadithah"
@@ -106,6 +115,9 @@
         "\u062d\u062f\u06cc\u062b\u0647"
     ],
     "name:nld_x_preferred":[
+        "Haditha"
+    ],
+    "name:nno_x_preferred":[
         "Haditha"
     ],
     "name:nob_x_preferred":[
@@ -225,7 +237,7 @@
         }
     ],
     "wof:id":421200415,
-    "wof:lastmodified":1667247429,
+    "wof:lastmodified":1690934382,
     "wof:name":"Al Hadithah",
     "wof:parent_id":1108562649,
     "wof:placetype":"locality",

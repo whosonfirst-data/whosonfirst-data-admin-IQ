@@ -24,6 +24,15 @@
     "name:arz_x_preferred":[
         "\u0628\u0639\u0642\u0648\u0628\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Baqubah"
+    ],
+    "name:aze_x_preferred":[
+        "B\u0430\u0430kub\u0430"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0430\u043a\u0443\u0431\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0995\u09c1\u09ac\u09be\u09b9"
     ],
@@ -75,6 +84,9 @@
     "name:fra_x_preferred":[
         "Bakouba"
     ],
+    "name:gle_x_preferred":[
+        "Baqubah"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0a95\u0acd\u0aac\u0abe\u0ab9"
     ],
@@ -89,6 +101,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0561\u0584\u0578\u0582\u0562\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0561\u0561\u0584\u0578\u0582\u057a\u0561"
     ],
     "name:ind_x_preferred":[
         "Ba'qubah"
@@ -126,6 +141,9 @@
     "name:mkd_x_preferred":[
         "\u0411\u0430\u043a\u0443\u0431\u0430"
     ],
+    "name:mri_x_preferred":[
+        "Baqubah"
+    ],
     "name:msa_x_preferred":[
         "Baqubah"
     ],
@@ -133,6 +151,9 @@
         "\u0628\u0639\u0642\u0648\u0628\u0647"
     ],
     "name:nld_x_preferred":[
+        "Baquba"
+    ],
+    "name:nno_x_preferred":[
         "Baquba"
     ],
     "name:nob_x_preferred":[
@@ -171,6 +192,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0b95\u0bc1\u0baa\u0bb9\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u04d9\u043a\u0443\u0431\u04d9"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3e\u0c15\u0c42\u0c2c\u0c3e"
     ],
@@ -192,7 +216,13 @@
     "name:urd_x_preferred":[
         "\u0628\u0639\u0642\u0648\u0628\u06c1"
     ],
+    "name:vec_x_preferred":[
+        "Ba'quba"
+    ],
     "name:vie_x_preferred":[
+        "Baqubah"
+    ],
+    "name:war_x_preferred":[
         "Baqubah"
     ],
     "name:zho_x_preferred":[
@@ -254,7 +284,7 @@
         }
     ],
     "wof:id":421184669,
-    "wof:lastmodified":1667247401,
+    "wof:lastmodified":1690934383,
     "wof:name":"Baqubah",
     "wof:parent_id":421184253,
     "wof:placetype":"locality",

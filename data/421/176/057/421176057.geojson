@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062c\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Baiji"
+    ],
+    "name:aze_x_preferred":[
+        "B\u0430ydji"
+    ],
     "name:ceb_x_preferred":[
         "Bayj\u012b"
     ],
@@ -66,6 +72,9 @@
     "name:nld_x_preferred":[
         "Baiji"
     ],
+    "name:nno_x_preferred":[
+        "Baiji"
+    ],
     "name:nob_x_preferred":[
         "Baiji"
     ],
@@ -98,6 +107,9 @@
     ],
     "name:urd_x_variant":[
         "\u0628\u06cc\u062c\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Baiji"
     ],
     "name:zho_x_preferred":[
         "\u62dc\u4f0a\u5409"
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":421176057,
-    "wof:lastmodified":1667247385,
+    "wof:lastmodified":1690934385,
     "wof:name":"Baiji",
     "wof:parent_id":1108562647,
     "wof:placetype":"locality",

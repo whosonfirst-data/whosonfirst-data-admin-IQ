@@ -24,6 +24,9 @@
     "name:arz_x_preferred":[
         "\u0623\u0645\u064a\u062f\u0649"
     ],
+    "name:ast_x_preferred":[
+        "Amedi"
+    ],
     "name:aze_x_preferred":[
         "Amadiy\u0259"
     ],
@@ -49,7 +52,11 @@
         "Amadiyah"
     ],
     "name:eng_x_variant":[
-        "Amadiya"
+        "Amadiya",
+        "Amedi"
+    ],
+    "name:eus_x_preferred":[
+        "Amadia"
     ],
     "name:fas_x_preferred":[
         "\u0639\u0645\u0627\u062f\u06cc\u0647"
@@ -60,6 +67,15 @@
     "name:heb_x_preferred":[
         "\u05e2\u05de\u05d9\u05d3\u05d9\u05d9\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "Am\u00e1dijja"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0574\u0561\u0564\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Amedi"
+    ],
     "name:ita_x_preferred":[
         "Amadiya"
     ],
@@ -68,6 +84,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d4\u10da-\u10d0\u10db\u10d0\u10d3\u10d8\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u04d8\u043b-\u0492\u0430\u043c\u0430\u0434\u0438\u044f"
     ],
     "name:kur_x_preferred":[
         "Am\u00ead\u00ee"
@@ -80,6 +99,9 @@
     "name:nld_x_preferred":[
         "Amediye"
     ],
+    "name:nno_x_preferred":[
+        "Amadiya"
+    ],
     "name:nob_x_preferred":[
         "Amediye"
     ],
@@ -91,6 +113,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0435\u0434\u0438\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u042d\u043b\u044c-\u0410\u043c\u0430\u0434\u0438\u044f"
     ],
     "name:spa_x_preferred":[
         "Amadiya"
@@ -166,7 +191,7 @@
         }
     ],
     "wof:id":421192497,
-    "wof:lastmodified":1667247413,
+    "wof:lastmodified":1690934375,
     "wof:name":"Amadiyah",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
     "name:eng_x_variant":[
         "Al-Washash"
     ],
+    "name:nld_x_preferred":[
+        "Al-Washash"
+    ],
     "qs:gn_id":0,
     "qs:id":0,
     "qs:local_max":603,
@@ -80,11 +83,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
+        85672447,
         102191569,
         85632191,
         421178393,
-        1108562793,
-        85672447
+        1108562793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +113,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1667247435,
+    "wof:lastmodified":1690934360,
     "wof:name":"Al Wash\u00e5sh",
     "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",

@@ -52,6 +52,9 @@
     "name:aze_x_preferred":[
         "Diyal\u0259"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u044b\u044f\u043b\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09bf\u09af\u09bc\u09be\u09b2\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -114,6 +117,9 @@
     "name:hun_x_preferred":[
         "Dij\u00e1la korm\u00e1nyz\u00f3s\u00e1g"
     ],
+    "name:hyw_x_preferred":[
+        "\u054f\u056b\u0561\u056c\u0561"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Diyala"
     ],
@@ -165,6 +171,9 @@
     "name:por_x_preferred":[
         "Diyala"
     ],
+    "name:ron_x_preferred":[
+        "Diyala"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u044f\u043b\u0430"
     ],
@@ -182,6 +191,9 @@
     ],
     "name:tam_x_preferred":[
         "Diyalaa \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0b95\u0bc8\u0b9f\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c3f\u0c2f\u0c3e\u0c32\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -204,8 +216,20 @@
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u062f\u06cc\u0627\u0644\u06cc"
     ],
+    "name:uzb_x_preferred":[
+        "Diyala muhofazoti"
+    ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Diyala"
+    ],
+    "name:war_x_preferred":[
+        "Diyala"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8fea\u4e9a\u62c9\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u5730\u4e9e\u62ff\u7701"
     ],
     "name:zho_x_preferred":[
         "\u8fea\u4e9e\u62c9\u7701"
@@ -336,7 +360,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1617131314,
+    "wof:lastmodified":1690934363,
     "wof:name":"Diyala",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

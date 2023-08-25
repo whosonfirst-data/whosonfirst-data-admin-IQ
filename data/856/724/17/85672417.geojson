@@ -36,7 +36,8 @@
         "\u062f\u0647\u0648\u0643"
     ],
     "name:ara_x_variant":[
-        "Dahuk"
+        "Dahuk",
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u0647\u0648\u0643"
     ],
     "name:arc_x_preferred":[
         "\u0722\u0718\u0717\u0715\u072a\u0710"
@@ -78,7 +79,8 @@
         "Dihok"
     ],
     "name:eng_x_variant":[
-        "Dohuk Governorate"
+        "Dohuk Governorate",
+        "Duhok Governorate"
     ],
     "name:epo_x_preferred":[
         "Gubernio Dahuk"
@@ -109,6 +111,9 @@
     ],
     "name:hun_x_preferred":[
         "Dah\u00fak korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054f\u0578\u0582\u0570\u0578\u0584"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Dahuk"
@@ -145,8 +150,14 @@
     "name:lav_x_preferred":[
         "Dah\u016bkas muh\u0101faza"
     ],
+    "name:lav_x_variant":[
+        "Dahukas muhafaza"
+    ],
     "name:lit_x_preferred":[
         "Dobuko gubernija"
+    ],
+    "name:lit_x_variant":[
+        "Dahuko muchafaza"
     ],
     "name:mar_x_preferred":[
         "\u0926\u094b\u0939\u0941\u0915 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
@@ -193,6 +204,9 @@
     "name:swe_x_preferred":[
         "Dahuk"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bca\u0bb9\u0bc1\u0b95\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c21\u0c4b\u0c39\u0c41\u0c15\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
     ],
@@ -216,6 +230,15 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Dohuk"
+    ],
+    "name:war_x_preferred":[
+        "Duhok"
+    ],
+    "name:wuu_x_preferred":[
+        "\u675c\u80e1\u514b\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u675c\u9177\u7701"
     ],
     "name:zho_x_preferred":[
         "\u675c\u80e1\u514b\u7701"
@@ -346,7 +369,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1617130584,
+    "wof:lastmodified":1690934362,
     "wof:name":"Dihok",
     "wof:parent_id":-1,
     "wof:placetype":"region",

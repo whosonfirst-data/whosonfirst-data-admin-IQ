@@ -64,17 +64,32 @@
     "name:ita_x_preferred":[
         "Karkh"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30d5"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0440\u0445"
+    ],
     "name:nld_x_preferred":[
         "Karkh"
     ],
     "name:nno_x_preferred":[
         "Karkh"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Al-Karj"
+    ],
     "name:swe_x_preferred":[
         "Karkh"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0631\u062e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5c14\u514b\u533a"
     ],
     "qs:gn_adm0_cc":"IQ",
     "qs:gn_fcode":"PPLX",
@@ -129,11 +144,11 @@
     "wd:longitude":44.4,
     "wd:wordcount":150,
     "wof:belongsto":[
+        85672447,
         102191569,
         85632191,
         421178393,
-        1108562793,
-        85672447
+        1108562793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -162,7 +177,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1667248233,
+    "wof:lastmodified":1690934360,
     "wof:name":"Al Karkh",
     "wof:parent_id":421178393,
     "wof:placetype":"neighbourhood",

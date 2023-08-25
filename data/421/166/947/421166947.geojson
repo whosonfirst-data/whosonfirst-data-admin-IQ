@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Anah"
     ],
+    "name:ceb_x_preferred":[
+        "\u2018Anah"
+    ],
     "name:deu_x_preferred":[
         "Ana"
     ],
@@ -55,6 +58,9 @@
     "name:nld_x_preferred":[
         "Anah"
     ],
+    "name:nno_x_preferred":[
+        "Anah"
+    ],
     "name:pol_x_preferred":[
         "Ana"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0410\u043d\u0430\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "\u2018Anah"
     ],
     "name:tur_x_preferred":[
         "Ane"
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":421166947,
-    "wof:lastmodified":1667247380,
+    "wof:lastmodified":1690934374,
     "wof:name":"Anah",
     "wof:parent_id":1108562803,
     "wof:placetype":"locality",

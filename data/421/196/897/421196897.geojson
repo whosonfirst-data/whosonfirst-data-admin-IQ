@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0647\u0627\u0631\u062b\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0647\u0627\u0631\u062b\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Al H\u0101rithah"
+    ],
     "name:eng_x_preferred":[
         "Al H\u00e5rithah"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c-\u0425\u0430\u0440\u0440\u0438\u0441\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Al H\u0101rithah"
     ],
     "name:und_x_variant":[
         "Hartha"
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":421196897,
-    "wof:lastmodified":1667247418,
+    "wof:lastmodified":1690934380,
     "wof:name":"Al H\u00e5rithah",
     "wof:parent_id":1108562731,
     "wof:placetype":"locality",

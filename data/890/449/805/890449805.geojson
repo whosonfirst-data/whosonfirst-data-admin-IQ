@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0645\u0631\u0627\u0621"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0645\u0631\u0627"
+    ],
     "name:ast_x_preferred":[
         "Samarra"
     ],
@@ -59,10 +62,16 @@
     "name:cym_x_preferred":[
         "Samarra"
     ],
+    "name:dag_x_preferred":[
+        "Samarra"
+    ],
     "name:dan_x_preferred":[
         "Samarra"
     ],
     "name:deu_x_preferred":[
+        "Samarra"
+    ],
+    "name:diq_x_preferred":[
         "Samarra"
     ],
     "name:ell_x_preferred":[
@@ -83,6 +92,9 @@
     "name:fas_x_preferred":[
         "\u0633\u0627\u0645\u0631\u0627"
     ],
+    "name:fat_x_preferred":[
+        "Samarra"
+    ],
     "name:fin_x_preferred":[
         "Samarra"
     ],
@@ -92,8 +104,14 @@
     "name:fry_x_preferred":[
         "Samarra"
     ],
+    "name:gle_x_preferred":[
+        "Samarra"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aae\u0abe\u0ab0\u0abe"
+    ],
+    "name:gur_x_preferred":[
+        "Samarra"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d0\u05de\u05e8\u05d0"
@@ -110,6 +128,9 @@
     "name:hye_x_preferred":[
         "\u054d\u0561\u0574\u0561\u0580\u0580\u0561"
     ],
+    "name:ina_x_preferred":[
+        "Samarra"
+    ],
     "name:ind_x_preferred":[
         "Samarra"
     ],
@@ -122,6 +143,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cae\u0cb0"
     ],
+    "name:kas_x_preferred":[
+        "\u0633\u0627\u0645\u0631\u0627"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10db\u10d0\u10e0\u10d0"
     ],
@@ -131,11 +155,17 @@
     "name:kor_x_preferred":[
         "\uc0ac\ub9c8\ub77c"
     ],
+    "name:kur_x_preferred":[
+        "Samerra"
+    ],
     "name:lat_x_preferred":[
         "Suma"
     ],
     "name:lav_x_preferred":[
         "Samara"
+    ],
+    "name:lav_x_variant":[
+        "S\u0101marra"
     ],
     "name:lit_x_preferred":[
         "Samara"
@@ -154,6 +184,9 @@
     ],
     "name:msa_x_preferred":[
         "Samarra"
+    ],
+    "name:mya_x_preferred":[
+        "\u1006\u1019\u103a\u1019\u102c\u101b\u102c\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:mzn_x_preferred":[
         "\u0633\u0627\u0645\u0631\u0627"
@@ -200,11 +233,20 @@
     "name:spa_x_preferred":[
         "Samarra"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043c\u0430\u0440\u0430"
+    ],
     "name:swe_x_preferred":[
+        "Samarra"
+    ],
+    "name:szl_x_preferred":[
         "Samarra"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0bae\u0bb0\u0bcd\u0bb0\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043c\u04d9\u0440\u0440\u0430\u044d"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c2e\u0c30\u0c4d\u0c30\u0c3e"
@@ -227,8 +269,20 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u0645\u0631\u0627\u0621"
     ],
+    "name:vec_x_preferred":[
+        "Samarra"
+    ],
     "name:vie_x_preferred":[
         "Samarra"
+    ],
+    "name:war_x_preferred":[
+        "Samarra"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8428\u8fc8\u62c9"
+    ],
+    "name:yue_x_preferred":[
+        "\u85a9\u9081\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u9081\u62c9"
@@ -364,7 +418,7 @@
         }
     ],
     "wof:id":890449805,
-    "wof:lastmodified":1667247441,
+    "wof:lastmodified":1690934386,
     "wof:name":"S\u0101marr\u0101\u2019",
     "wof:parent_id":1108562773,
     "wof:placetype":"locality",
