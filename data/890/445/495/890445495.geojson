@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.290535,
-    "geom:area_square_m":2876655970.989262,
+    "geom:area_square_m":2876655957.528701,
     "geom:bbox":"44.231433,36.41743,44.913067,37.192146",
     "geom:latitude":36.799214,
     "geom:longitude":44.603756,
@@ -41,6 +41,9 @@
         "\u0421\u043e\u0440\u0430\u043d"
     ],
     "name:ceb_x_preferred":[
+        "Soran"
+    ],
+    "name:eng_x_preferred":[
         "Soran"
     ],
     "name:eng_x_variant":[
@@ -91,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"49db0e59c9fa85d6561f8d7c72483b16",
+    "wof:geomhash":"98fbe52b5247351ab7c233b76616b44a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":890445495,
-    "wof:lastmodified":1627522212,
+    "wof:lastmodified":1694492677,
     "wof:name":"Soran",
     "wof:parent_id":85672425,
     "wof:placetype":"county",

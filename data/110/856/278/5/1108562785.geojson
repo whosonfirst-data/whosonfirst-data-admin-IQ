@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019978,
-    "geom:area_square_m":206415953.949148,
+    "geom:area_square_m":206415953.949151,
     "geom:bbox":"44.367406271,33.218867434,44.570391773,33.4346689511",
     "geom:latitude":33.322851,
     "geom:longitude":44.480607,
@@ -42,6 +42,9 @@
         "Rusafa al-Sham"
     ],
     "name:deu_x_preferred":[
+        "Resafa"
+    ],
+    "name:eng_x_preferred":[
         "Resafa"
     ],
     "name:eng_x_variant":[
@@ -89,7 +92,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052346,
-    "wof:geomhash":"54d80dad0c04f3d830c357ee1713f2a7",
+    "wof:geomhash":"8f48fb61d915b98e238d0611cbd96169",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108562785,
-    "wof:lastmodified":1566714722,
+    "wof:lastmodified":1694492413,
     "wof:name":"Resafa",
     "wof:parent_id":85672447,
     "wof:placetype":"county",

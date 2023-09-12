@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.328712,
-    "geom:area_square_m":3343096800.01966,
+    "geom:area_square_m":3343096800.019628,
     "geom:bbox":"42.950027174,34.307571411,44.064376831,35.053098674",
     "geom:latitude":34.664407,
     "geom:longitude":43.618443,
@@ -83,6 +83,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b9\u03ba\u03c1\u03af\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Tikrit"
     ],
     "name:eng_x_variant":[
         "Tikrit"
@@ -275,7 +278,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"50b92518308fd325c85069f0cb945a0c",
+    "wof:geomhash":"a9c4df562b8cb3fc4aa291240403b00b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":421186243,
-    "wof:lastmodified":1582314011,
+    "wof:lastmodified":1694492484,
     "wof:name":"Tikrit",
     "wof:parent_id":85672435,
     "wof:placetype":"county",

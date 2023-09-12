@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.433704,
-    "geom:area_square_m":4334807449.230375,
+    "geom:area_square_m":4334807449.230515,
     "geom:bbox":"42.531021118,35.556893341,43.403501,36.540127153",
     "geom:latitude":36.068696,
     "geom:longitude":42.967643,
@@ -106,6 +106,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c3\u03bf\u03cd\u03bb\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Mosul"
     ],
     "name:eng_x_variant":[
         "Mosul"
@@ -322,7 +325,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052262,
-    "wof:geomhash":"321b0de616c42b86bf01af8001df7604",
+    "wof:geomhash":"5a9a89ead18e5cd9dd2f0a67a8b42a21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -332,7 +335,7 @@
         }
     ],
     "wof:id":1108562633,
-    "wof:lastmodified":1566714725,
+    "wof:lastmodified":1694492413,
     "wof:name":"Mosul",
     "wof:parent_id":85672429,
     "wof:placetype":"county",

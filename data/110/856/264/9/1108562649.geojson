@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.494007,
-    "geom:area_square_m":5044730710.079206,
+    "geom:area_square_m":5044730710.079299,
     "geom:bbox":"41.930110931,33.779251099,42.8123465,34.973657066",
     "geom:latitude":34.32333,
     "geom:longitude":42.360298,
@@ -54,6 +54,9 @@
         "Haditha"
     ],
     "name:deu_x_preferred":[
+        "Haditha"
+    ],
+    "name:eng_x_preferred":[
         "Haditha"
     ],
     "name:eng_x_variant":[
@@ -128,7 +131,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052271,
-    "wof:geomhash":"918bf2c56bddf8a172e79623535ac9a6",
+    "wof:geomhash":"2bdf998eb142059bde12f3b57db1bb6a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1108562649,
-    "wof:lastmodified":1566714724,
+    "wof:lastmodified":1694492413,
     "wof:name":"Haditha",
     "wof:parent_id":85672483,
     "wof:placetype":"county",

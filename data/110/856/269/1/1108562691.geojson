@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052572,
-    "geom:area_square_m":550797386.770699,
+    "geom:area_square_m":550797386.77072,
     "geom:bbox":"44.307811737,31.93529892,44.628901408,32.212468998",
     "geom:latitude":32.081095,
     "geom:longitude":44.461705,
@@ -82,6 +82,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03cd\u03c6\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kufa"
     ],
     "name:eng_x_variant":[
         "Kufa",
@@ -215,7 +218,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052296,
-    "wof:geomhash":"6b6bbbd4539637978b0cb2a427870d1c",
+    "wof:geomhash":"9ea9860c287c8a724843cbaa4cb1a005",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":1108562691,
-    "wof:lastmodified":1566714720,
+    "wof:lastmodified":1694492412,
     "wof:name":"Kufa",
     "wof:parent_id":85672439,
     "wof:placetype":"county",

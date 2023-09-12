@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098648,
-    "geom:area_square_m":1038370080.459502,
+    "geom:area_square_m":1038370080.459507,
     "geom:bbox":"47.252071381,31.479980816,47.865817,31.783681",
     "geom:latitude":31.654645,
     "geom:longitude":47.549686,
@@ -45,6 +45,9 @@
         "\u041a\u0430\u043b\u0430"
     ],
     "name:deu_x_preferred":[
+        "Kahla"
+    ],
+    "name:eng_x_preferred":[
         "Kahla"
     ],
     "name:eng_x_variant":[
@@ -134,7 +137,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052306,
-    "wof:geomhash":"ef5feb74f19e125daf1c31be1920abe9",
+    "wof:geomhash":"6d577ad99f7c6b9c1b25c02656179d3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1108562711,
-    "wof:lastmodified":1566714723,
+    "wof:lastmodified":1694492413,
     "wof:name":"Kahla",
     "wof:parent_id":85672469,
     "wof:placetype":"county",

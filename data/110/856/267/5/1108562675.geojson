@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137312,
-    "geom:area_square_m":1434193223.355401,
+    "geom:area_square_m":1434193662.242688,
     "geom:bbox":"45.177948,32.087626,45.7117,32.619011",
     "geom:latitude":32.360695,
     "geom:longitude":45.485133,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Na'maniya"
+    ],
     "name:eng_x_variant":[
         "Al-Na'maniya",
         "Al Noamania"
@@ -56,7 +59,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052287,
-    "wof:geomhash":"b55a71b1be86911701e0047943d145dc",
+    "wof:geomhash":"e55547f8b52e666cd84b885a04c4106e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108562675,
-    "wof:lastmodified":1627522207,
+    "wof:lastmodified":1694492676,
     "wof:name":"Na'maniya",
     "wof:parent_id":85672473,
     "wof:placetype":"county",

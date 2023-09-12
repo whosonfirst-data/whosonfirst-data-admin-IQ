@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060185,
-    "geom:area_square_m":632631773.534069,
+    "geom:area_square_m":632631521.716004,
     "geom:bbox":"44.499715,31.593445,44.748173,32.025116",
     "geom:latitude":31.779074,
     "geom:longitude":44.608612,
@@ -38,6 +38,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0627\u0645\u064a\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Shamiya"
+    ],
     "name:eng_x_variant":[
         "Al-Shamiya",
         "Shamiya"
@@ -59,7 +62,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052300,
-    "wof:geomhash":"9001b848aff1840660ed2bab07872e9b",
+    "wof:geomhash":"d61df22b2782f83f04ea0a9f55ed5b1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108562699,
-    "wof:lastmodified":1627522212,
+    "wof:lastmodified":1694492677,
     "wof:name":"Shamiya",
     "wof:parent_id":85672459,
     "wof:placetype":"county",

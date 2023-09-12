@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085535,
-    "geom:area_square_m":848714605.932558,
+    "geom:area_square_m":848714645.959844,
     "geom:bbox":"44.653126,36.45829,45.071915,36.788573",
     "geom:latitude":36.63556,
     "geom:longitude":44.882748,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Choman"
+    ],
     "name:eng_x_variant":[
         "Choman"
     ],
@@ -55,7 +58,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052327,
-    "wof:geomhash":"bdc696619728d0446490db789fa3d616",
+    "wof:geomhash":"ee6202690cd8869db58d38af663a17cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108562749,
-    "wof:lastmodified":1627522209,
+    "wof:lastmodified":1694492676,
     "wof:name":"Choman",
     "wof:parent_id":85672425,
     "wof:placetype":"county",

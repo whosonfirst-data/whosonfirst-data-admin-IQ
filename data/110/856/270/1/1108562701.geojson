@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22759,
-    "geom:area_square_m":2397150319.700795,
+    "geom:area_square_m":2397150319.700743,
     "geom:bbox":"44.406078,31.259173,45.21273033,31.88350296",
     "geom:latitude":31.591039,
     "geom:longitude":44.860351,
@@ -48,6 +48,9 @@
         "\u06be\u06d5\u0645\u0632\u06d5"
     ],
     "name:deu_x_preferred":[
+        "Hamza"
+    ],
+    "name:eng_x_preferred":[
         "Hamza"
     ],
     "name:eng_x_variant":[
@@ -116,7 +119,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052301,
-    "wof:geomhash":"cf91a9f6c19a0079bfa4511e3e9d77ee",
+    "wof:geomhash":"08c5f88c1486d25bd7f320ad93406e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1108562701,
-    "wof:lastmodified":1566714720,
+    "wof:lastmodified":1694492412,
     "wof:name":"Hamza",
     "wof:parent_id":85672459,
     "wof:placetype":"county",

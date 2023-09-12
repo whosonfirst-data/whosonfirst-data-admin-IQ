@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.666784,
-    "geom:area_square_m":6766956891.299021,
+    "geom:area_square_m":6766955314.494452,
     "geom:bbox":"42.499911,34.409942,43.558183,35.322781",
     "geom:latitude":34.840284,
     "geom:longitude":43.018182,
@@ -55,6 +55,9 @@
     ],
     "name:deu_x_preferred":[
         "Chinesischer Flussdelfin"
+    ],
+    "name:eng_x_preferred":[
+        "Baiji"
     ],
     "name:eng_x_variant":[
         "Baiji",
@@ -161,7 +164,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052270,
-    "wof:geomhash":"9162faa4f6f83549c2ba9418ecf5219a",
+    "wof:geomhash":"0e4f3cbceb74d49693bfcd3efd833c29",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":1108562647,
-    "wof:lastmodified":1627522208,
+    "wof:lastmodified":1694492676,
     "wof:name":"Baiji",
     "wof:parent_id":85672435,
     "wof:placetype":"county",

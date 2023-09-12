@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.699157,
-    "geom:area_square_m":7221048017.126705,
+    "geom:area_square_m":7221048017.126942,
     "geom:bbox":"42.437774658,32.909072876,43.714806985,34.065422496",
     "geom:latitude":33.355455,
     "geom:longitude":43.155434,
@@ -65,6 +65,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03b1\u03bc\u03ac\u03bd\u03c4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Ramadi"
     ],
     "name:eng_x_variant":[
         "Ramadi",
@@ -213,7 +216,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ac4b86166670d262bbd9c77a5076db4e",
+    "wof:geomhash":"f177608e347eae942a2216b8cc66917d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":421178933,
-    "wof:lastmodified":1582314012,
+    "wof:lastmodified":1694492485,
     "wof:name":"Ramadi",
     "wof:parent_id":85672483,
     "wof:placetype":"county",

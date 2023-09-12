@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.227666,
-    "geom:area_square_m":2362553266.201964,
+    "geom:area_square_m":2362552989.129427,
     "geom:bbox":"44.719038,32.569688,45.494129,33.170388",
     "geom:latitude":32.94048,
     "geom:longitude":45.167555,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Azezia"
+    ],
     "name:eng_x_variant":[
         "Al-Azezia",
         "As Suwayrah"
@@ -56,7 +59,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052344,
-    "wof:geomhash":"238ca26f98ae90cff114d741a096f55e",
+    "wof:geomhash":"1d0229ff9cd0c79acbb1e99b80af1e1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108562781,
-    "wof:lastmodified":1627522208,
+    "wof:lastmodified":1694492676,
     "wof:name":"Azezia",
     "wof:parent_id":85672473,
     "wof:placetype":"county",

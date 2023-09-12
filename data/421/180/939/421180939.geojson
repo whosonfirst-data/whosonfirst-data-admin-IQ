@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166606,
-    "geom:area_square_m":1709512947.622925,
+    "geom:area_square_m":1709512947.622967,
     "geom:bbox":"43.29140437,33.7963215289,44.459960931,34.1370985853",
     "geom:latitude":33.920569,
     "geom:longitude":43.957996,
@@ -43,6 +43,9 @@
         "Balad"
     ],
     "name:deu_x_preferred":[
+        "Balad"
+    ],
+    "name:eng_x_preferred":[
         "Balad"
     ],
     "name:eng_x_variant":[
@@ -111,7 +114,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2b4bd7e80f843165801683a93f7724bf",
+    "wof:geomhash":"c90e2f53bd88e02b516d0e8989e1a5cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421180939,
-    "wof:lastmodified":1582314011,
+    "wof:lastmodified":1694492484,
     "wof:name":"Balad",
     "wof:parent_id":85672435,
     "wof:placetype":"county",

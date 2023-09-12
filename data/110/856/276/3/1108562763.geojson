@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210303,
-    "geom:area_square_m":2110806277.913428,
+    "geom:area_square_m":2110806267.225812,
     "geom:bbox":"45.234335,35.408733,45.890829,36.009396",
     "geom:latitude":35.736066,
     "geom:longitude":45.580589,
@@ -38,6 +38,9 @@
     "name:ckb_x_preferred":[
         "\u0634\u0627\u0631\u0628\u0627\u0698\u06ce\u0695"
     ],
+    "name:eng_x_preferred":[
+        "Sharbazher"
+    ],
     "name:eng_x_variant":[
         "Sharbazher"
     ],
@@ -58,7 +61,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052334,
-    "wof:geomhash":"88ee4c4f86e3f5ce94de196168435edc",
+    "wof:geomhash":"7ab99f5043786b457dda75eacd6704bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108562763,
-    "wof:lastmodified":1642551726,
+    "wof:lastmodified":1694493018,
     "wof:name":"Sharbazher",
     "wof:parent_id":85672475,
     "wof:placetype":"county",

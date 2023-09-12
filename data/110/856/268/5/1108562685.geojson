@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22246,
-    "geom:area_square_m":2328728535.202038,
+    "geom:area_square_m":2328728029.741591,
     "geom:bbox":"45.612324,31.933702,46.333332,32.411827",
     "geom:latitude":32.158752,
     "geom:longitude":45.950064,
@@ -41,6 +41,9 @@
     "name:ell_x_preferred":[
         "\u03a7\u03ac\u03b9"
     ],
+    "name:eng_x_preferred":[
+        "Hai"
+    ],
     "name:eng_x_variant":[
         "Al-Hai",
         "Al Hayy"
@@ -74,7 +77,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052293,
-    "wof:geomhash":"fcae1756c892c68f0a9496d4c008ed10",
+    "wof:geomhash":"2c8899eb21cf6f56090fe22e20f1a996",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108562685,
-    "wof:lastmodified":1636494830,
+    "wof:lastmodified":1694492919,
     "wof:name":"Hai",
     "wof:parent_id":85672473,
     "wof:placetype":"county",

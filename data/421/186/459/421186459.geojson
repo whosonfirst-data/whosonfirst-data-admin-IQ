@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.504602,
-    "geom:area_square_m":5260869206.773378,
+    "geom:area_square_m":5260869206.772964,
     "geom:bbox":"45.45268631,31.978390019,46.610235999,32.970012",
     "geom:latitude":32.524565,
     "geom:longitude":46.128982,
@@ -58,6 +58,9 @@
         "Kut"
     ],
     "name:deu_x_preferred":[
+        "Kut"
+    ],
+    "name:eng_x_preferred":[
         "Kut"
     ],
     "name:eng_x_variant":[
@@ -192,7 +195,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08bbe2d307dba28f31312bba000e772b",
+    "wof:geomhash":"0624c16782255ded59c25a42ebad7dff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":421186459,
-    "wof:lastmodified":1582314011,
+    "wof:lastmodified":1694492484,
     "wof:name":"Kut",
     "wof:parent_id":85672473,
     "wof:placetype":"county",

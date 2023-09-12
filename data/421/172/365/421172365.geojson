@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131621,
-    "geom:area_square_m":1304557184.212799,
+    "geom:area_square_m":1304556924.85365,
     "geom:bbox":"43.166587,36.512997,43.6582,36.932521",
     "geom:latitude":36.720563,
     "geom:longitude":43.403462,
@@ -36,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Shikhan"
+    ],
     "name:eng_x_variant":[
         "Al-Shikhan",
         "Al Shikhan"
@@ -84,7 +87,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"718af32c1e1a0e6312eeba213be4c716",
+    "wof:geomhash":"244f196494698c4d2dff19c630b1382c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421172365,
-    "wof:lastmodified":1642551708,
+    "wof:lastmodified":1694493017,
     "wof:name":"Shikhan",
     "wof:parent_id":85672429,
     "wof:placetype":"county",

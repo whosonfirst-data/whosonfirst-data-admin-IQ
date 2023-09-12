@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.605448,
-    "geom:area_square_m":6348754175.198791,
+    "geom:area_square_m":6348754175.198973,
     "geom:bbox":"46.28870833,31.676317215,47.865817,32.497593",
     "geom:latitude":32.001582,
     "geom:longitude":47.161844,
@@ -48,6 +48,9 @@
         "Amara"
     ],
     "name:deu_x_preferred":[
+        "Amara"
+    ],
+    "name:eng_x_preferred":[
         "Amara"
     ],
     "name:eng_x_variant":[
@@ -110,7 +113,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052291,
-    "wof:geomhash":"53ff1a6ae460d59ad07f9486dc562ade",
+    "wof:geomhash":"5ba343aeab89e711c3d4bec7784464a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108562681,
-    "wof:lastmodified":1566714718,
+    "wof:lastmodified":1694492412,
     "wof:name":"Amara",
     "wof:parent_id":85672469,
     "wof:placetype":"county",

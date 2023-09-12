@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080376,
-    "geom:area_square_m":801063052.733463,
+    "geom:area_square_m":801062667.309949,
     "geom:bbox":"44.522706,36.103313,44.993901,36.47774",
     "geom:latitude":36.291977,
     "geom:longitude":44.741427,
@@ -39,6 +39,9 @@
         "Rania"
     ],
     "name:deu_x_preferred":[
+        "Rania"
+    ],
+    "name:eng_x_preferred":[
         "Rania"
     ],
     "name:eng_x_variant":[
@@ -76,7 +79,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052329,
-    "wof:geomhash":"93e0c22c131f24d6a36e1abac849ca14",
+    "wof:geomhash":"b906e38f073a76a1d96f799a52cb8537",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1108562755,
-    "wof:lastmodified":1627522211,
+    "wof:lastmodified":1694492677,
     "wof:name":"Rania",
     "wof:parent_id":85672475,
     "wof:placetype":"county",

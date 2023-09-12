@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.819532,
-    "geom:area_square_m":8764779125.332081,
+    "geom:area_square_m":8764778885.556095,
     "geom:bbox":"46.557102,29.102965,47.954402,30.738697",
     "geom:latitude":30.125075,
     "geom:longitude":47.083559,
@@ -41,6 +41,9 @@
     "name:deu_x_preferred":[
         "Zubair"
     ],
+    "name:eng_x_preferred":[
+        "Zubair"
+    ],
     "name:eng_x_variant":[
         "Al-Zubair",
         "Al Zubair"
@@ -68,7 +71,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052315,
-    "wof:geomhash":"07003bda45a8bf1f4be0749fd64349de",
+    "wof:geomhash":"fc3ee710f1c6f3f94c9fa068bcd98b8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108562727,
-    "wof:lastmodified":1627522208,
+    "wof:lastmodified":1694492676,
     "wof:name":"Zubair",
     "wof:parent_id":85672453,
     "wof:placetype":"county",

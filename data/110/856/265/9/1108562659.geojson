@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.230463,
-    "geom:area_square_m":2337376096.70989,
+    "geom:area_square_m":2337375963.028572,
     "geom:bbox":"44.930025,34.510812,45.641651,35.170279",
     "geom:latitude":34.893664,
     "geom:longitude":45.313409,
@@ -38,6 +38,9 @@
     "name:ceb_x_preferred":[
         "Kalar"
     ],
+    "name:eng_x_preferred":[
+        "Kalar"
+    ],
     "name:eng_x_variant":[
         "Kalar"
     ],
@@ -61,7 +64,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052277,
-    "wof:geomhash":"610dc596e4dab014aa17e3046ff40223",
+    "wof:geomhash":"588ced7c358c6d38893f8ce238ad2121",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108562659,
-    "wof:lastmodified":1642551758,
+    "wof:lastmodified":1694493020,
     "wof:name":"Kalar",
     "wof:parent_id":85672475,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136376,
-    "geom:area_square_m":1400748732.143581,
+    "geom:area_square_m":1400749483.06555,
     "geom:bbox":"44.458076,33.582424,45.152233,34.038231",
     "geom:latitude":33.833824,
     "geom:longitude":44.761838,
@@ -36,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Muqdadiya"
+    ],
     "name:eng_x_variant":[
         "Al-Muqdadiya",
         "Al Miqdadiyah"
@@ -84,7 +87,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4ca7a09102301dda154df5eda0217915",
+    "wof:geomhash":"c6de642966e4b324f8d5856f0c4b2ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421184253,
-    "wof:lastmodified":1627522211,
+    "wof:lastmodified":1694492677,
     "wof:name":"Muqdadiya",
     "wof:parent_id":85672481,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109464,
-    "geom:area_square_m":1165134649.105202,
+    "geom:area_square_m":1165133334.777869,
     "geom:bbox":"47.369385,30.422846,47.85734,30.785421",
     "geom:latitude":30.59335,
     "geom:longitude":47.611417,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Basrah"
+    ],
     "name:eng_x_variant":[
         "Basrah"
     ],
@@ -55,7 +58,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052317,
-    "wof:geomhash":"ac11bf78583df4c298f441b0eb82d542",
+    "wof:geomhash":"371d6143d7d6e2be0e7a676c8fbfe267",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108562731,
-    "wof:lastmodified":1627522209,
+    "wof:lastmodified":1694492676,
     "wof:name":"Basrah",
     "wof:parent_id":85672453,
     "wof:placetype":"county",
