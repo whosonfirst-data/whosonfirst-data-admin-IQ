@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.479944,
-    "geom:area_square_m":4925891875.711144,
+    "geom:area_square_m":4925891875.711003,
     "geom:bbox":"41.184150696,33.458110809,42.251285553,34.383665806",
     "geom:latitude":33.897679,
     "geom:longitude":41.782745,
@@ -42,6 +42,9 @@
         "Ana"
     ],
     "name:deu_x_preferred":[
+        "Ana"
+    ],
+    "name:eng_x_preferred":[
         "Ana"
     ],
     "name:eng_x_variant":[
@@ -98,7 +101,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052353,
-    "wof:geomhash":"c3aa6c1f2681cfdbb20ed2e5d92a99d0",
+    "wof:geomhash":"59c7d76edb97e6224678085f08706e47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108562801,
-    "wof:lastmodified":1566714715,
+    "wof:lastmodified":1694492412,
     "wof:name":"Ana",
     "wof:parent_id":85672483,
     "wof:placetype":"county",

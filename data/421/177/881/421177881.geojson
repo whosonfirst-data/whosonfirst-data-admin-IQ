@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.676463,
-    "geom:area_square_m":6954459764.395971,
+    "geom:area_square_m":6954459078.676264,
     "geom:bbox":"42.1166,33.157692,43.080128,34.533789",
     "geom:latitude":33.754304,
     "geom:longitude":42.683245,
@@ -36,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Heet"
+    ],
     "name:eng_x_variant":[
         "Heet",
         "Hit"
@@ -88,7 +91,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"929e20002235d4496e27b41d96a5579f",
+    "wof:geomhash":"b45bab1254f3fcabe30198df8a6d32e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421177881,
-    "wof:lastmodified":1627522210,
+    "wof:lastmodified":1694492676,
     "wof:name":"Heet",
     "wof:parent_id":85672483,
     "wof:placetype":"county",

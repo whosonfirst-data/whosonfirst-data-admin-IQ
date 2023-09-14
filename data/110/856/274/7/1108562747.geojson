@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159382,
-    "geom:area_square_m":1573923476.065095,
+    "geom:area_square_m":1573923609.74602,
     "geom:bbox":"43.828178,36.747748,44.49834,37.323001",
     "geom:latitude":37.000641,
     "geom:longitude":44.180775,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Mergasur"
+    ],
     "name:eng_x_variant":[
         "Mergasur"
     ],
@@ -55,7 +58,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052325,
-    "wof:geomhash":"d978878c500ecfb4348c4120297450db",
+    "wof:geomhash":"5f589b9f45ef4a865f42a232b464c20e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108562747,
-    "wof:lastmodified":1627522211,
+    "wof:lastmodified":1694492677,
     "wof:name":"Mergasur",
     "wof:parent_id":85672425,
     "wof:placetype":"county",

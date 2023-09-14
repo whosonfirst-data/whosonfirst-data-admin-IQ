@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135608,
-    "geom:area_square_m":1441155563.950788,
+    "geom:area_square_m":1441155230.891493,
     "geom:bbox":"47.659481,30.462606,48.032059,30.99673",
     "geom:latitude":30.743764,
     "geom:longitude":47.892792,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Shatt Al-Arab"
+    ],
     "name:eng_x_variant":[
         "Shatt Al-Arab",
         "Shatt Al Arab"
@@ -56,7 +59,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052316,
-    "wof:geomhash":"169760104d373d1432d58a62308d9f5f",
+    "wof:geomhash":"bdf31957fd981ab7572fe2d7ef6b59e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108562729,
-    "wof:lastmodified":1627522212,
+    "wof:lastmodified":1694492677,
     "wof:name":"Shatt Al-Arab",
     "wof:parent_id":85672453,
     "wof:placetype":"county",

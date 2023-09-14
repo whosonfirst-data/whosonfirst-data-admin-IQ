@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.448862,
-    "geom:area_square_m":4456839125.79901,
+    "geom:area_square_m":4456840325.938567,
     "geom:bbox":"41.808456,35.923618,42.882821,37.065281",
     "geom:latitude":36.582237,
     "geom:longitude":42.408168,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Telafar"
+    ],
     "name:eng_x_variant":[
         "Telafar",
         "Talafar"
@@ -56,7 +59,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052263,
-    "wof:geomhash":"2dcf7cfff95dcf3b58887daa213a717b",
+    "wof:geomhash":"3e9200cc913f01d736f61594b8c2167a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108562635,
-    "wof:lastmodified":1627522213,
+    "wof:lastmodified":1694492677,
     "wof:name":"Telafar",
     "wof:parent_id":85672429,
     "wof:placetype":"county",

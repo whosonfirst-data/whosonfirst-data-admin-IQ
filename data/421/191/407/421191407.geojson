@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.425189,
-    "geom:area_square_m":4400269652.948564,
+    "geom:area_square_m":4400268591.078361,
     "geom:bbox":"43.478567,32.643142,44.159586,33.693439",
     "geom:latitude":33.180673,
     "geom:longitude":43.800948,
@@ -36,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Falluja"
+    ],
     "name:eng_x_variant":[
         "Falluja",
         "Al Fallujah"
@@ -84,7 +87,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7a66a7ccd4c3db08aefdfe0187795723",
+    "wof:geomhash":"38ee903a5ba561862ac398a8cef3f77a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421191407,
-    "wof:lastmodified":1627522209,
+    "wof:lastmodified":1694492676,
     "wof:name":"Falluja",
     "wof:parent_id":85672483,
     "wof:placetype":"county",

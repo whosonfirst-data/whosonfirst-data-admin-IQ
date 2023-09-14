@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.288634,
-    "geom:area_square_m":2861878058.260903,
+    "geom:area_square_m":2861878101.568318,
     "geom:bbox":"43.501173,36.292472,44.303797,37.053288",
     "geom:latitude":36.690946,
     "geom:longitude":43.845833,
@@ -36,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Akre"
+    ],
     "name:eng_x_variant":[
         "Akre"
     ],
@@ -83,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"805c2ab550aad385fa52ee60e18b3f5e",
+    "wof:geomhash":"cb6c01a941d9fb6f092552e2b80c6473",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421186463,
-    "wof:lastmodified":1642551819,
+    "wof:lastmodified":1694493024,
     "wof:name":"Akre",
     "wof:parent_id":85672429,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042969,
-    "geom:area_square_m":443247506.877409,
+    "geom:area_square_m":443247371.810591,
     "geom:bbox":"44.064079,33.306874,44.384996,33.597413",
     "geom:latitude":33.462822,
     "geom:longitude":44.2346,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kadhimia"
+    ],
     "name:eng_x_variant":[
         "Kadhmiyah",
         "Al-Faris"
@@ -56,7 +59,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052351,
-    "wof:geomhash":"2382700395e6f492b24aa860f977cc9b",
+    "wof:geomhash":"38efd5f6a82a70308cc5d3da1678084c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108562795,
-    "wof:lastmodified":1627522210,
+    "wof:lastmodified":1694492677,
     "wof:name":"Kadhimia",
     "wof:parent_id":85672447,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212895,
-    "geom:area_square_m":2261100212.713568,
+    "geom:area_square_m":2261101071.937621,
     "geom:bbox":"46.545986,30.509374,47.1372,31.140705",
     "geom:latitude":30.803993,
     "geom:longitude":46.904893,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Chibayish"
+    ],
     "name:eng_x_variant":[
         "Al-Chibayish",
         "Chibayish"
@@ -56,7 +59,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052314,
-    "wof:geomhash":"e1e57e8c1d97092ba6d51544725c5c12",
+    "wof:geomhash":"b6c19a6016e4cb0b43b56dfe879a20e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108562725,
-    "wof:lastmodified":1627522209,
+    "wof:lastmodified":1694492676,
     "wof:name":"Chibayish",
     "wof:parent_id":85672463,
     "wof:placetype":"county",

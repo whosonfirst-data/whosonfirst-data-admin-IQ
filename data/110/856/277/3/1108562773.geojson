@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.362164,
-    "geom:area_square_m":3695785520.720859,
+    "geom:area_square_m":3695785890.397104,
     "geom:bbox":"43.767312,33.994267,44.524427,34.887262",
     "geom:latitude":34.382791,
     "geom:longitude":44.121351,
@@ -41,6 +41,9 @@
     "name:deu_x_preferred":[
         "Daur"
     ],
+    "name:eng_x_preferred":[
+        "Daur"
+    ],
     "name:eng_x_variant":[
         "Al-Daur",
         "Al Door"
@@ -65,7 +68,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052340,
-    "wof:geomhash":"b1aede06e9dc991d8d34f7fd26d3c465",
+    "wof:geomhash":"f0fd64a400ddcf33683dac1a572af0b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108562773,
-    "wof:lastmodified":1627522208,
+    "wof:lastmodified":1694492676,
     "wof:name":"Daur",
     "wof:parent_id":85672435,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.244905,
-    "geom:area_square_m":2553604728.582466,
+    "geom:area_square_m":2553605503.736375,
     "geom:bbox":"43.616728,32.168487,44.157623,32.838264",
     "geom:latitude":32.513872,
     "geom:longitude":43.886826,
@@ -36,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Kerbala"
+    ],
     "name:eng_x_variant":[
         "Kerbala",
         "Karbala"
@@ -84,7 +87,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"13c8884936bcece4a5baa530955fca68",
+    "wof:geomhash":"275f615cf1f9abc86ebe624ce6de672b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421194967,
-    "wof:lastmodified":1627522210,
+    "wof:lastmodified":1694492676,
     "wof:name":"Kerbala",
     "wof:parent_id":85672443,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":42.227846,
-    "geom:area_square_m":437374284737.311157,
+    "geom:area_square_m":437403858701.738892,
     "geom:bbox":"38.793603,29.061208,48.627752,37.381556",
     "geom:latitude":33.048908,
     "geom:longitude":43.76774,
@@ -14,6 +14,9 @@
     "iso:country":"IQ",
     "itu:country_code":[
         "964"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "IQ"
@@ -1224,7 +1227,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"964",
     "statoids:ds":"IRQ",
     "statoids:fifa":"IRQ",
@@ -1285,7 +1289,7 @@
         "quattroshapes",
         "meso"
     ],
-    "wof:geomhash":"cae148c369d093a4d601a7f6f8719ca9",
+    "wof:geomhash":"d6a02109ccb16fc0a5a0147c8aee7b54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1300,12 +1304,12 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1690934366,
+    "wof:lastmodified":1694639498,
     "wof:name":"Iraq",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":33417476,
-    "wof:population_rank":15,
+    "wof:population":39309783,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:shortcode":"IQ",
     "wof:superseded_by":[],

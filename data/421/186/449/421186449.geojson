@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.493548,
-    "geom:area_square_m":4919053327.759837,
+    "geom:area_square_m":4919053327.759875,
     "geom:bbox":"41.279106225,35.923618317,42.479217529,36.596969604",
     "geom:latitude":36.289894,
     "geom:longitude":41.883908,
@@ -71,6 +71,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03bd\u03c4\u03b6\u03ac\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Sinjar"
     ],
     "name:eng_x_variant":[
         "Sinjar"
@@ -182,7 +185,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7119b3eb2be230dcb2b6e5b08ee31656",
+    "wof:geomhash":"5acadce57c2e7d6d836a4fd5b654f7b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":421186449,
-    "wof:lastmodified":1582314011,
+    "wof:lastmodified":1694492484,
     "wof:name":"Sinjar",
     "wof:parent_id":85672429,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108976,
-    "geom:area_square_m":1149869073.180402,
+    "geom:area_square_m":1149869113.209732,
     "geom:bbox":"47.26807,31.235962,47.723193,31.593445",
     "geom:latitude":31.424773,
     "geom:longitude":47.508295,
@@ -38,6 +38,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0644\u0639\u0629 \u0635\u0627\u0644\u062d"
     ],
+    "name:eng_x_preferred":[
+        "Qal'at Saleh"
+    ],
     "name:eng_x_variant":[
         "Qal'at Saleh",
         "Qal`at Salih"
@@ -59,7 +62,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052307,
-    "wof:geomhash":"ba180eb820444f21bf7d5fd334f52522",
+    "wof:geomhash":"9ad0f92a17182a7eb4fa7c32dd5d6c00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108562713,
-    "wof:lastmodified":1627522211,
+    "wof:lastmodified":1694492677,
     "wof:name":"Qal'at Saleh",
     "wof:parent_id":85672469,
     "wof:placetype":"county",

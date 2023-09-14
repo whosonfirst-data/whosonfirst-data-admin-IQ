@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.308676,
-    "geom:area_square_m":3254543508.510891,
+    "geom:area_square_m":3254545917.870327,
     "geom:bbox":"46.409688,31.129851,47.194004,31.800629",
     "geom:latitude":31.495075,
     "geom:longitude":46.84932,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Maimouna"
+    ],
     "name:eng_x_variant":[
         "Al-Maimouna",
         "Al Miamona"
@@ -56,7 +59,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052305,
-    "wof:geomhash":"d97fd4980a4a2dbc1ea962971d327af3",
+    "wof:geomhash":"41db85ad9fa11f55abd7f9f693cb7c04",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108562709,
-    "wof:lastmodified":1642551822,
+    "wof:lastmodified":1694493024,
     "wof:name":"Maimouna",
     "wof:parent_id":85672469,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174425,
-    "geom:area_square_m":1734997556.983263,
+    "geom:area_square_m":1734997556.983205,
     "geom:bbox":"43.801304115,36.24134,44.635925222,36.669527158",
     "geom:latitude":36.444477,
     "geom:longitude":44.236392,
@@ -47,6 +47,9 @@
     "name:deu_x_preferred":[
         "Schaqlawa"
     ],
+    "name:eng_x_preferred":[
+        "Shaqlawa"
+    ],
     "name:eng_x_variant":[
         "Shaqlawa"
     ],
@@ -82,7 +85,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052330,
-    "wof:geomhash":"b49a4dd2eb0035feb9192849d6c826a9",
+    "wof:geomhash":"329d47aa4e9e620bf85ad491495e46cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108562757,
-    "wof:lastmodified":1566714717,
+    "wof:lastmodified":1694492412,
     "wof:name":"Shaqlawa",
     "wof:parent_id":85672425,
     "wof:placetype":"county",

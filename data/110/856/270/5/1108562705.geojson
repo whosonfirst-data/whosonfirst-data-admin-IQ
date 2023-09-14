@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204088,
-    "geom:area_square_m":2151144029.697351,
+    "geom:area_square_m":2151143552.65729,
     "geom:bbox":"44.97833,31.251589,45.789178,31.729635",
     "geom:latitude":31.524742,
     "geom:longitude":45.320537,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Rumaitha"
+    ],
     "name:eng_x_variant":[
         "Al-Rumaitha",
         "Rumaitha"
@@ -56,7 +59,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052303,
-    "wof:geomhash":"aed3acf376ff5c1f6da77e70e6a00713",
+    "wof:geomhash":"c73f3ab3ec9e6b9459024ae9a0475b88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108562705,
-    "wof:lastmodified":1627522211,
+    "wof:lastmodified":1694492677,
     "wof:name":"Rumaitha",
     "wof:parent_id":85672455,
     "wof:placetype":"county",

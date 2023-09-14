@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140389,
-    "geom:area_square_m":1414096652.885917,
+    "geom:area_square_m":1414095902.058629,
     "geom:bbox":"42.877975,35.218333,43.380263,35.724284",
     "geom:latitude":35.45174,
     "geom:longitude":43.14459,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Shirqat"
+    ],
     "name:eng_x_variant":[
         "Al-Shirqat",
         "Al Shirkat"
@@ -56,7 +59,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052269,
-    "wof:geomhash":"7f079f4d8e24567a4ddd818aeddc4e48",
+    "wof:geomhash":"d8f3bc2c480e8e88f57c25ea393fdde0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108562645,
-    "wof:lastmodified":1627522212,
+    "wof:lastmodified":1694492677,
     "wof:name":"Shirqat",
     "wof:parent_id":85672435,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044643,
-    "geom:area_square_m":459455640.742308,
+    "geom:area_square_m":459455154.571482,
     "geom:bbox":"44.084844,33.558517,44.439143,33.774751",
     "geom:latitude":33.66338,
     "geom:longitude":44.262514,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tarmia"
+    ],
     "name:eng_x_variant":[
         "Tarmia",
         "Al-Faris"
@@ -59,7 +62,7 @@
     "wof:concordances":{},
     "wof:country":"IQ",
     "wof:created":1474052280,
-    "wof:geomhash":"cd262959062a96f6632789ba8bc53cc7",
+    "wof:geomhash":"aac1bc126c9ef7eff58ae0111732cddf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108562665,
-    "wof:lastmodified":1642551739,
+    "wof:lastmodified":1694493019,
     "wof:name":"Tarmia",
     "wof:parent_id":85672447,
     "wof:placetype":"county",

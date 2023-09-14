@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191232,
-    "geom:area_square_m":1912027631.155639,
+    "geom:area_square_m":1912027749.243452,
     "geom:bbox":"44.254869,35.826287,44.957434,36.278883",
     "geom:latitude":36.040838,
     "geom:longitude":44.524522,
@@ -37,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Koisnjaq"
+    ],
     "name:eng_x_variant":[
         "Koisnjaq"
     ],
@@ -77,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"02bb45e9f12b321db5afa71082ecf121",
+    "wof:geomhash":"87b58f9b56e1041f0bc46ec601a831fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890445493,
-    "wof:lastmodified":1627522210,
+    "wof:lastmodified":1694492676,
     "wof:name":"Koisnjaq",
     "wof:parent_id":85672425,
     "wof:placetype":"county",
