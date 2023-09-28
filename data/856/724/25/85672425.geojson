@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.55668,
-    "geom:area_square_m":15510654752.612425,
+    "geom:area_square_m":15510654808.47846,
     "geom:bbox":"43.315136,35.420327,45.071915,37.323001",
     "geom:latitude":36.309493,
     "geom:longitude":44.189861,
@@ -342,17 +342,19 @@
         "gn:id":95445,
         "gp:id":2345843,
         "hasc:id":"IQ.AR",
+        "iso:code":"IQ-AR",
         "iso:id":"IQ-AR",
         "qs_pg:id":423779,
         "unlc:id":"IQ-AR",
         "wd:id":"Q213189",
         "wk:page":"Erbil Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"548c1d301351cacd70a9f8d3afcbe08e",
+    "wof:geomhash":"69f50098363106bb76a4781ca4550688",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -368,7 +370,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1690934366,
+    "wof:lastmodified":1695884564,
     "wof:name":"Arbil",
     "wof:parent_id":-1,
     "wof:placetype":"region",

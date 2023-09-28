@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.501833,
-    "geom:area_square_m":5187731493.966923,
+    "geom:area_square_m":5187731493.96717,
     "geom:bbox":"43.845425,32.834484,44.969163,33.774751",
     "geom:latitude":33.27722,
     "geom:longitude":44.399384,
@@ -796,11 +796,13 @@
         "gn:id":98180,
         "gp:id":2345839,
         "hasc:id":"IQ.BG",
+        "iso:code":"IQ-BG",
         "iso:id":"IQ-BG",
         "qs_pg:id":1135097,
         "unlc:id":"IQ-BG",
         "wd:id":"Q1530"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421178393
     ],
@@ -808,7 +810,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"57b275fd5f9b09c89006303cbedecdea",
+    "wof:geomhash":"00e14570d18a2c03de99ecbdc5afaa00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -824,7 +826,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1690934365,
+    "wof:lastmodified":1695884778,
     "wof:name":"Baghdad",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

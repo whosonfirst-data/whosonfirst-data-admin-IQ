@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.700786,
-    "geom:area_square_m":28585922460.33086,
+    "geom:area_square_m":28585922539.972862,
     "geom:bbox":"42.808366,29.84737,44.726933,32.330295",
     "geom:latitude":31.127798,
     "geom:longitude":43.816056,
@@ -334,17 +334,19 @@
         "gn:id":98862,
         "gp:id":2345849,
         "hasc:id":"IQ.NA",
+        "iso:code":"IQ-NA",
         "iso:id":"IQ-NA",
         "qs_pg:id":219565,
         "unlc:id":"IQ-NA",
         "wd:id":"Q192882",
         "wk:page":"Najaf Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c159d53ce1272d50ffa6cd573de0a635",
+    "wof:geomhash":"5ef0b25395dbee02755aee6f74c473af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -360,7 +362,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1690934364,
+    "wof:lastmodified":1695884513,
     "wof:name":"An-Najaf",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

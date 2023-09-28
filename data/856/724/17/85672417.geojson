@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.666612,
-    "geom:area_square_m":6577537610.495365,
+    "geom:area_square_m":6577537872.611279,
     "geom:bbox":"42.349622,36.705001,44.100865,37.381556",
     "geom:latitude":37.062579,
     "geom:longitude":43.13874,
@@ -343,17 +343,19 @@
         "gn:id":97270,
         "gp:id":2345840,
         "hasc:id":"IQ.DA",
+        "iso:code":"IQ-DA",
         "iso:id":"IQ-DA",
         "qs_pg:id":427265,
         "unlc:id":"IQ-DA",
         "wd:id":"Q189541",
         "wk:page":"Dohuk Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c49bb3075d2cb72985354e6f3962135d",
+    "wof:geomhash":"e2fe023e4f61cc12c06d9bf60387ae8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -369,7 +371,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1690934362,
+    "wof:lastmodified":1695884605,
     "wof:name":"Dihok",
     "wof:parent_id":-1,
     "wof:placetype":"region",

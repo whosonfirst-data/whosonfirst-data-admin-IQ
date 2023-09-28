@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.512922,
-    "geom:area_square_m":5347213081.274001,
+    "geom:area_square_m":5347213081.274798,
     "geom:bbox":"44.046361,32.097969,45.201462,33.126781",
     "geom:latitude":32.531324,
     "geom:longitude":44.598911,
@@ -335,17 +335,19 @@
         "gn:id":98227,
         "gp:id":2345838,
         "hasc:id":"IQ.BB",
+        "iso:code":"IQ-BB",
         "iso:id":"IQ-BB",
         "qs_pg:id":427264,
         "unlc:id":"IQ-BB",
         "wd:id":"Q59202",
         "wk:page":"Babil Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1cf8a18963c31edcca5c0598531cebf2",
+    "wof:geomhash":"fe98a8da3039668cf5d22fdfd0ed4975",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -361,7 +363,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1690934364,
+    "wof:lastmodified":1695884513,
     "wof:name":"Babil",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

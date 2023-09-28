@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.96523,
-    "geom:area_square_m":9738150952.653294,
+    "geom:area_square_m":9738150952.653572,
     "geom:bbox":"43.262948,34.685507,44.860252,35.908843",
     "geom:latitude":35.321311,
     "geom:longitude":44.157405,
@@ -270,11 +270,13 @@
         "digitalenvoy:region_code":25631,
         "fips:code":"IZ13",
         "hasc:id":"IQ.TS",
+        "iso:code":"IQ-KI",
         "iso:id":"IQ-KI"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IQ",
     "wof:created":1485375230,
-    "wof:geomhash":"a2475fb31c3f260509b621c8bad183a5",
+    "wof:geomhash":"99fc1ad33aee489a7fcc2fddfb9de4c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -290,7 +292,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1587587511,
+    "wof:lastmodified":1695884439,
     "wof:name":"Kirkuk",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

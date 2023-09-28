@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.522474,
-    "geom:area_square_m":15308776033.207146,
+    "geom:area_square_m":15308775440.363781,
     "geom:bbox":"44.522706,34.510812,46.347891,36.51979",
     "geom:latitude":35.589184,
     "geom:longitude":45.240842,
@@ -328,17 +328,19 @@
         "gn:id":98465,
         "gp:id":2345837,
         "hasc:id":"IQ.SL",
+        "iso:code":"IQ-SU",
         "iso:id":"IQ-SU",
         "qs_pg:id":891326,
         "unlc:id":"IQ-SU",
         "wd:id":"Q213182",
         "wk:page":"Sulaymaniyah Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"78315476a43b7eedbe83e1b2eabcb9c6",
+    "wof:geomhash":"45257f3e90beaa10daa207f5e858be51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -354,7 +356,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1690934362,
+    "wof:lastmodified":1695884576,
     "wof:name":"As-Sulaymaniyah",
     "wof:parent_id":-1,
     "wof:placetype":"region",

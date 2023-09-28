@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.643992,
-    "geom:area_square_m":17535043875.774906,
+    "geom:area_square_m":17535042337.616367,
     "geom:bbox":"46.557102,29.102965,48.627752,31.280385",
     "geom:latitude":30.388164,
     "geom:longitude":47.409334,
@@ -151,15 +151,17 @@
         "gn:id":89341,
         "gp:id":2345834,
         "hasc:id":"IQ.BA",
+        "iso:code":"IQ-BA",
         "iso:id":"IQ-BA",
         "qs_pg:id":1135096,
         "unlc:id":"IQ-BA"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7f93d4047b0b34c8d58bdf5f8c0918b1",
+    "wof:geomhash":"81e56b481deb4e5d8a27f33b187d53a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -175,7 +177,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1627522207,
+    "wof:lastmodified":1695884754,
     "wof:name":"Al-Basrah",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

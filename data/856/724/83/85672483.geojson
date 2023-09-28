@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.1609,
-    "geom:area_square_m":136505084777.931519,
+    "geom:area_square_m":136505084777.927032,
     "geom:bbox":"38.793603,30.599919,44.159586,35.158504",
     "geom:latitude":32.973771,
     "geom:longitude":41.615678,
@@ -306,16 +306,18 @@
         "gn:id":99592,
         "gp:id":2345833,
         "hasc:id":"IQ.AN",
+        "iso:code":"IQ-AN",
         "iso:id":"IQ-AN",
         "qs_pg:id":191366,
         "wd:id":"Q187334",
         "wk:page":"Al Anbar Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5568d1eeef66c6f452a9ac28a31f5e9c",
+    "wof:geomhash":"668229ff88cdd9f85f7d978950b6425f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -331,7 +333,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1690934365,
+    "wof:lastmodified":1695884513,
     "wof:name":"Al-Anbar",
     "wof:parent_id":85632191,
     "wof:placetype":"region",
