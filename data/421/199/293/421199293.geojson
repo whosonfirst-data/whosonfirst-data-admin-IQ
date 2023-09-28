@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.28036,
-    "geom:area_square_m":2824529866.324753,
+    "geom:area_square_m":2824529985.029578,
     "geom:bbox":"43.845999,34.882961,44.779904,35.908843",
     "geom:latitude":35.43573,
     "geom:longitude":44.300972,
@@ -354,7 +354,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ebcf02ce52fe8afcfd0e46fc64dfd025",
+    "wof:geomhash":"45558df39fbedf4be75b66b1fc79fa27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -364,7 +364,7 @@
         }
     ],
     "wof:id":421199293,
-    "wof:lastmodified":1690934381,
+    "wof:lastmodified":1695886422,
     "wof:name":"Kirkuk",
     "wof:parent_id":1108804831,
     "wof:placetype":"county",

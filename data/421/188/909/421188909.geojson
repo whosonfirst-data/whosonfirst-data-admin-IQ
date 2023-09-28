@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229755,
-    "geom:area_square_m":2392016776.359649,
+    "geom:area_square_m":2392017165.719277,
     "geom:bbox":"44.1779,32.411827,45.177948,32.983957",
     "geom:latitude":32.650738,
     "geom:longitude":44.650907,
@@ -109,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5c73a2a36b65d8b08b940942c38a0fa2",
+    "wof:geomhash":"214389dfe4bf363413e78b025d7319a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":421188909,
-    "wof:lastmodified":1642551832,
+    "wof:lastmodified":1695886539,
     "wof:name":"Mahawil",
     "wof:parent_id":85672491,
     "wof:placetype":"county",

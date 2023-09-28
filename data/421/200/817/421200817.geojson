@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.289846,
-    "geom:area_square_m":2895549021.443299,
+    "geom:area_square_m":2895549085.306772,
     "geom:bbox":"43.590233,35.730368,44.31246,36.430186",
     "geom:latitude":36.10751,
     "geom:longitude":44.006512,
@@ -407,7 +407,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d19fa1e57ab3c7080e259e8c0c90eec3",
+    "wof:geomhash":"ef198a38aa21af9192abf436f890b7a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -417,7 +417,7 @@
         }
     ],
     "wof:id":421200817,
-    "wof:lastmodified":1690934382,
+    "wof:lastmodified":1695886422,
     "wof:name":"Erbil",
     "wof:parent_id":85672425,
     "wof:placetype":"county",
