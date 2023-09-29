@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.708191,
-    "geom:area_square_m":17780392601.318684,
+    "geom:area_square_m":17780393965.196312,
     "geom:bbox":"44.530674,31.933702,46.610236,33.511912",
     "geom:latitude":32.668726,
     "geom:longitude":45.730262,
@@ -337,17 +337,19 @@
         "gn:id":89693,
         "gp:id":2345848,
         "hasc:id":"IQ.WA",
+        "iso:code":"IQ-WA",
         "iso:id":"IQ-WA",
         "qs_pg:id":959518,
         "unlc:id":"IQ-WA",
         "wd:id":"Q189747",
         "wk:page":"Wasit Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"91251a2b3e396447a34af50edfb9e9f9",
+    "wof:geomhash":"90ba12b9bb550edeacc6ddcedac9101f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -363,7 +365,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1690934362,
+    "wof:lastmodified":1695884513,
     "wof:name":"Wasit",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

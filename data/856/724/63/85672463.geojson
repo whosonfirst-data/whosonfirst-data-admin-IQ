@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.290815,
-    "geom:area_square_m":13650990882.892399,
+    "geom:area_square_m":13650990821.141922,
     "geom:bbox":"45.698242,30.50013,47.1372,32.010103",
     "geom:latitude":31.209398,
     "geom:longitude":46.342335,
@@ -270,17 +270,19 @@
         "gn:id":97019,
         "gp:id":2345841,
         "hasc:id":"IQ.DQ",
+        "iso:code":"IQ-DQ",
         "iso:id":"IQ-DQ",
         "qs_pg:id":894894,
         "unlc:id":"IQ-DQ",
         "wd:id":"Q215649",
         "wk:page":"Dhi Qar Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"91fa669b373a81406a8bbdd232febca1",
+    "wof:geomhash":"7d724ed482fea8d539dab6760dd90df7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -296,7 +298,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1690934364,
+    "wof:lastmodified":1695884616,
     "wof:name":"Dhi-Qar",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

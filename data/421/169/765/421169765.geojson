@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12789,
-    "geom:area_square_m":1310325415.184835,
+    "geom:area_square_m":1310326118.052887,
     "geom:bbox":"44.286455,33.749773,44.789616,34.292958",
     "geom:latitude":34.045239,
     "geom:longitude":44.531915,
@@ -124,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cee8c09824ed73c9e74d2a40d340c5c1",
+    "wof:geomhash":"3b84362dc75bc9de67eed1bf25f193ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":421169765,
-    "wof:lastmodified":1690934375,
+    "wof:lastmodified":1695886421,
     "wof:name":"Khalis",
     "wof:parent_id":85672481,
     "wof:placetype":"county",

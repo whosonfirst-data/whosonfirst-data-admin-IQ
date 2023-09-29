@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05321,
-    "geom:area_square_m":549902873.63067,
+    "geom:area_square_m":549902991.005854,
     "geom:bbox":"43.845425,33.15085,44.205286,33.430307",
     "geom:latitude":33.302555,
     "geom:longitude":44.027077,
@@ -196,7 +196,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"255f452c3a6163dcd271324542645063",
+    "wof:geomhash":"1ff54e3faad6901bab64201f3eb4e55c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -206,7 +206,7 @@
         }
     ],
     "wof:id":421184257,
-    "wof:lastmodified":1690934383,
+    "wof:lastmodified":1695886422,
     "wof:name":"Abu Ghraib",
     "wof:parent_id":85672447,
     "wof:placetype":"county",

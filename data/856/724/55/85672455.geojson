@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.887426,
-    "geom:area_square_m":52233793540.633263,
+    "geom:area_square_m":52233794451.715141,
     "geom:bbox":"43.847381,29.061208,46.747211,31.729635",
     "geom:latitude":30.189786,
     "geom:longitude":45.382582,
@@ -286,16 +286,18 @@
         "gn:id":99032,
         "gp:id":2345835,
         "hasc:id":"IQ.MU",
+        "iso:code":"IQ-MU",
         "iso:id":"IQ-MU",
         "qs_pg:id":191367,
         "wd:id":"Q212761",
         "wk:page":"Muthanna Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e9d7d3e21de8390b12b622cf4954a5ed",
+    "wof:geomhash":"60e7b556b9c9918095a80fff49dafe22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -311,7 +313,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1690934364,
+    "wof:lastmodified":1695884513,
     "wof:name":"Al-Muthannia",
     "wof:parent_id":85632191,
     "wof:placetype":"region",

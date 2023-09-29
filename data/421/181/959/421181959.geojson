@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22917,
-    "geom:area_square_m":2401308100.632632,
+    "geom:area_square_m":2401306985.913373,
     "geom:bbox":"44.5426,31.738474,45.287858,32.408767",
     "geom:latitude":32.069744,
     "geom:longitude":44.926411,
@@ -92,7 +92,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dfacd7e6792a2737abbf408f0edcf90f",
+    "wof:geomhash":"159b334456edd17b59221fbe176c2553",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":421181959,
-    "wof:lastmodified":1627522209,
+    "wof:lastmodified":1695886687,
     "wof:name":"Diwaniya",
     "wof:parent_id":85672459,
     "wof:placetype":"county",

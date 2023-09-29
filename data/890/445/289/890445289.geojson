@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147254,
-    "geom:area_square_m":1450388506.682915,
+    "geom:area_square_m":1450388457.891615,
     "geom:bbox":"42.349622,37.015039,43.182542,37.381556",
     "geom:latitude":37.197394,
     "geom:longitude":42.835191,
@@ -215,7 +215,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e8b7baa460c6f6be7535b09364c75e6d",
+    "wof:geomhash":"0273e237d9ef7ce801349e88fe6409c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -225,7 +225,7 @@
         }
     ],
     "wof:id":890445289,
-    "wof:lastmodified":1690934388,
+    "wof:lastmodified":1695886620,
     "wof:name":"Zakho",
     "wof:parent_id":85672417,
     "wof:placetype":"county",

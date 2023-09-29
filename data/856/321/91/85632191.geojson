@@ -1266,6 +1266,7 @@
         "hasc:id":"IQ",
         "icao:code":"YI",
         "ioc:id":"IRQ",
+        "iso:code":"IQ",
         "itu:id":"IRQ",
         "loc:id":"n79077342",
         "m49:code":"368",
@@ -1280,6 +1281,7 @@
         "wk:page":"Iraq",
         "wmo:id":"IQ"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IQ",
     "wof:country_alpha3":"IRQ",
     "wof:geom_alt":[
@@ -1304,7 +1306,7 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1694639498,
+    "wof:lastmodified":1695881152,
     "wof:name":"Iraq",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

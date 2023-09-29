@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152817,
-    "geom:area_square_m":1543758947.599097,
+    "geom:area_square_m":1543759325.867128,
     "geom:bbox":"45.671247,34.894011,46.198976,35.49328",
     "geom:latitude":35.217062,
     "geom:longitude":45.934839,
@@ -269,7 +269,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2f765a4146d58f3692770264971060b9",
+    "wof:geomhash":"cca181c9f38ae7702a3643062d0af749",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -279,7 +279,7 @@
         }
     ],
     "wof:id":421183885,
-    "wof:lastmodified":1690934384,
+    "wof:lastmodified":1695886422,
     "wof:name":"Halabja",
     "wof:parent_id":1108804835,
     "wof:placetype":"county",

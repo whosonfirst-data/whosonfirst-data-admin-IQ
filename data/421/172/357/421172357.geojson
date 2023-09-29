@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.388444,
-    "geom:area_square_m":4113573921.731835,
+    "geom:area_square_m":4113573334.99895,
     "geom:bbox":"45.698242,30.782571,46.945091,31.406977",
     "geom:latitude":31.082258,
     "geom:longitude":46.227656,
@@ -317,7 +317,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"969935264671d9fdf1729b87faa3ce92",
+    "wof:geomhash":"f056a05fcc1f22f434326db779b0f09d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -327,7 +327,7 @@
         }
     ],
     "wof:id":421172357,
-    "wof:lastmodified":1690934378,
+    "wof:lastmodified":1695886421,
     "wof:name":"Nassriya",
     "wof:parent_id":85672463,
     "wof:placetype":"county",

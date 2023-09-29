@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100009,
-    "geom:area_square_m":988144096.792999,
+    "geom:area_square_m":988144030.366863,
     "geom:bbox":"42.808514,36.786587,43.302459,37.119331",
     "geom:latitude":36.959606,
     "geom:longitude":43.05416,
@@ -117,7 +117,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"825fa830187f6ca06378334968a194b2",
+    "wof:geomhash":"a1c76247c6fd0f30ff30dd179261071d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":421204025,
-    "wof:lastmodified":1642551773,
+    "wof:lastmodified":1695886516,
     "wof:name":"Dahuk",
     "wof:parent_id":85672417,
     "wof:placetype":"county",
