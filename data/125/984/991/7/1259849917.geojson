@@ -55,6 +55,11 @@
     "wof:concordances":{
         "gn:id":384806
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7103722
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"df6ce1e24ee1a0c9558ecb2f5abc80c3",
     "wof:hierarchy":[
@@ -67,13 +72,15 @@
         }
     ],
     "wof:id":1259849917,
-    "wof:lastmodified":1566715185,
+    "wof:lastmodified":1706239866,
     "wof:name":"Qaryat 'Uwaynah",
     "wof:parent_id":1108562635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327216631
+    ],
     "wof:tags":[]
 },
   "bbox": [

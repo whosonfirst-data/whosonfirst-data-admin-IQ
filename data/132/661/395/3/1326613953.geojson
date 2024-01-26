@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"44.87373,34.03571,44.87373,34.03571",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u062e\u0644 \u0627\u0644\u0645\u062d\u0645\u0648\u062f"
@@ -48,7 +50,7 @@
         "gn:id":6759362
     },
     "wof:country":"IQ",
-    "wof:geomhash":"4ed174c93e2088a45eb62b46606b5d4e",
+    "wof:geomhash":"d640bb3afa1127aefb67bc2f6f293dcc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +61,22 @@
         }
     ],
     "wof:id":1326613953,
-    "wof:lastmodified":1566713818,
+    "wof:lastmodified":1706239865,
     "wof:name":"Dakhil al Mahmud",
     "wof:parent_id":421184253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243252591
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     44.87373,
-    34.03570999999999,
+    34.03571,
     44.87373,
-    34.03570999999999
+    34.03571
 ],
-  "geometry": {"coordinates":[44.87373,34.03570999999999],"type":"Point"}
+  "geometry": {"coordinates":[44.87373,34.03571],"type":"Point"}
 }

@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":98579
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6804465
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"3af095042ba030307d85171b8c95a451",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1226616319,
-    "wof:lastmodified":1566715343,
+    "wof:lastmodified":1706239865,
     "wof:name":"Qaryat ash Shurah al Jadidah",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310287831
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -59,6 +59,11 @@
     "wof:concordances":{
         "gn:id":91952
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            447847
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"2cbb4f75ff64cd8740560dae1de0e499",
     "wof:hierarchy":[
@@ -71,13 +76,15 @@
         }
     ],
     "wof:id":1225842037,
-    "wof:lastmodified":1566715440,
+    "wof:lastmodified":1706239864,
     "wof:name":"Raywan",
     "wof:parent_id":890445289,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276749289
+    ],
     "wof:tags":[]
 },
   "bbox": [

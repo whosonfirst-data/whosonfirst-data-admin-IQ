@@ -54,6 +54,11 @@
     "wof:concordances":{
         "gn:id":93819
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            417331
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"89e6402ffc9d97f7752b540102464006",
     "wof:hierarchy":[
@@ -66,13 +71,15 @@
         }
     ],
     "wof:id":1259556775,
-    "wof:lastmodified":1566715179,
+    "wof:lastmodified":1706239866,
     "wof:name":"Qaryat as Safinah",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259656979
+    ],
     "wof:tags":[]
 },
   "bbox": [

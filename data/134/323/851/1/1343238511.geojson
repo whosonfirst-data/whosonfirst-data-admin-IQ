@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"43.58,35.42639,43.58,35.42639",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u062a\u0644 \u0627\u0644\u0627\u0633\u0648\u062f"
@@ -49,7 +51,7 @@
         "gn:id":390179
     },
     "wof:country":"IQ",
-    "wof:geomhash":"3b57090f92b395b1699fdde8666ce9d3",
+    "wof:geomhash":"dc45297d000f57e9f940a2f9db775971",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +62,22 @@
         }
     ],
     "wof:id":1343238511,
-    "wof:lastmodified":1566714011,
+    "wof:lastmodified":1706239868,
     "wof:name":"Qaryat Tall al Aswad",
     "wof:parent_id":1108562743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1327420041
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     43.58,
-    35.42639000000001,
+    35.42639,
     43.58,
-    35.42639000000001
+    35.42639
 ],
-  "geometry": {"coordinates":[43.58,35.42639000000001],"type":"Point"}
+  "geometry": {"coordinates":[43.58,35.42639],"type":"Point"}
 }

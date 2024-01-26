@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":99682
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6770282
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"40a882184b624e089d2496ef5cc947f0",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1242837525,
-    "wof:lastmodified":1566715094,
+    "wof:lastmodified":1706239865,
     "wof:name":"Qaryat Hanshi",
     "wof:parent_id":421186243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327209767
+    ],
     "wof:tags":[]
 },
   "bbox": [

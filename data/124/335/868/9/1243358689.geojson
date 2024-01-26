@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":6928102
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            95935
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"0b2d7ed3833ab3f98e6a6a9230c30f9a",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1243358689,
-    "wof:lastmodified":1566715076,
+    "wof:lastmodified":1706239865,
     "wof:name":"Sayyid Ahmad",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309901007
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -33,6 +33,10 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u062a\u0644 \u0627\u0644\u0627\u0633\u0648\u062f"
     ],
+    "name:und_x_variant":[
+        "Jumah al Alyan",
+        "Qaryat Tall al Aswad"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6770296
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            390179
+        ]
     },
     "wof:country":"IQ",
     "wof:geomhash":"3cf11ca95db7dbdf64b250510f299a1f",
@@ -56,13 +65,15 @@
         }
     ],
     "wof:id":1327420041,
-    "wof:lastmodified":1566713921,
+    "wof:lastmodified":1706239868,
     "wof:name":"Qaryat Tall al Aswad",
     "wof:parent_id":1108562743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343238511
+    ],
     "wof:tags":[]
 },
   "bbox": [

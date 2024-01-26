@@ -36,6 +36,15 @@
     "name:ara_x_variant":[
         "B\u012bk\u016bl"
     ],
+    "name:kur_x_preferred":[
+        "B\u00eeku\u0142"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u064a\u0643\u0648\u06b5"
+    ],
+    "name:und_x_variant":[
+        "B\u0113k\u016bl"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,6 +55,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7103285
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            97714
+        ]
     },
     "wof:country":"IQ",
     "wof:geomhash":"dad1447586889d7cefd8169f9fdba755",
@@ -59,13 +73,15 @@
         }
     ],
     "wof:id":1292979143,
-    "wof:lastmodified":1566714247,
+    "wof:lastmodified":1706239867,
     "wof:name":"Bikul",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344144909
+    ],
     "wof:tags":[]
 },
   "bbox": [

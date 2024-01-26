@@ -49,8 +49,13 @@
     "wof:concordances":{
         "gn:id":97256
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6759362
+        ]
+    },
     "wof:country":"IQ",
-    "wof:geomhash":"3a2220040a056105eede6d1a77d96785",
+    "wof:geomhash":"04ce89eab6196d87e102151cb147c3bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +66,22 @@
         }
     ],
     "wof:id":1243252591,
-    "wof:lastmodified":1566715063,
+    "wof:lastmodified":1706239865,
     "wof:name":"Dakhil al Mahmud",
     "wof:parent_id":421184253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326613953
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    44.87244000000001,
+    44.87244,
     34.03521,
-    44.87244000000001,
+    44.87244,
     34.03521
 ],
-  "geometry": {"coordinates":[44.87244000000001,34.03521],"type":"Point"}
+  "geometry": {"coordinates":[44.87244,34.03521],"type":"Point"}
 }

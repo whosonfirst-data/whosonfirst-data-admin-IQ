@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":6982982
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            445690
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"45507e51d99a7e25cb0d9d547e20a954",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1209497951,
-    "wof:lastmodified":1566714521,
+    "wof:lastmodified":1706239863,
     "wof:name":"Junah",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326503299
+    ],
     "wof:tags":[]
 },
   "bbox": [

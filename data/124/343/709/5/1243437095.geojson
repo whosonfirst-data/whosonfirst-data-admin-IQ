@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":7046947
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            92435
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"07909f0a2b273669206a522f48905ef6",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1243437095,
-    "wof:lastmodified":1566715146,
+    "wof:lastmodified":1706239865,
     "wof:name":"Hamdan",
     "wof:parent_id":421186449,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293462967
+    ],
     "wof:tags":[]
 },
   "bbox": [

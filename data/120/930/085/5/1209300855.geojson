@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":98883
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6770616
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"2a21ac71e075c7b7f7be78a2edb999aa",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1209300855,
-    "wof:lastmodified":1566714475,
+    "wof:lastmodified":1706239863,
     "wof:name":"Qaryat Amzayrir",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343447187
+    ],
     "wof:tags":[]
 },
   "bbox": [

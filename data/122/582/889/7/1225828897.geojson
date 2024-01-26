@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":89953
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6759351
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"a02d5f642155326220abfb8345359166",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1225828897,
-    "wof:lastmodified":1566715434,
+    "wof:lastmodified":1706239864,
     "wof:name":"Mahmud al Jawhar",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343379383
+    ],
     "wof:tags":[]
 },
   "bbox": [

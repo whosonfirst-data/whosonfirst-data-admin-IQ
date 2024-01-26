@@ -58,6 +58,11 @@
     "wof:concordances":{
         "gn:id":6982980
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            445923
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"fe8c5881e3b07d2e1fdfc63ded5fc0d4",
     "wof:hierarchy":[
@@ -70,13 +75,15 @@
         }
     ],
     "wof:id":1327316727,
-    "wof:lastmodified":1566713773,
+    "wof:lastmodified":1706239868,
     "wof:name":"Girkuran",
     "wof:parent_id":421186463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343244955
+    ],
     "wof:tags":[]
 },
   "bbox": [

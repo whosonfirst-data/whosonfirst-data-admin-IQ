@@ -83,6 +83,11 @@
     "wof:concordances":{
         "gn:id":447364
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            447400
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"3e8b9b085335a9983bb8b1ade74a88ee",
     "wof:hierarchy":[
@@ -95,13 +100,15 @@
         }
     ],
     "wof:id":1226465293,
-    "wof:lastmodified":1636494834,
+    "wof:lastmodified":1706239864,
     "wof:name":"Qalat",
     "wof:parent_id":1108562755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243386363
+    ],
     "wof:tags":[]
 },
   "bbox": [

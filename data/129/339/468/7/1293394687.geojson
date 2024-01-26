@@ -33,6 +33,18 @@
     "name:ara_x_preferred":[
         "K\u0101n\u012b Bin\u0101w"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0646\u064a \u0628\u0646\u0627\u0648"
+    ],
+    "name:kur_x_preferred":[
+        "\u0643\u0627\u0646\u0649 \u0628\u0646\u0627\u0648"
+    ],
+    "name:kur_x_variant":[
+        "Kani Binaw",
+        "Kan\u00ee Binaw",
+        "Kan\u00ee Binawe",
+        "\u0643\u0627\u0646\u0649 \u0628\u0646\u0627\u0648\u06d5"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,6 +55,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":447437
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            447395
+        ]
     },
     "wof:country":"IQ",
     "wof:geomhash":"ce88e7428ae8b7b031e9eb6bcdb18e11",
@@ -56,13 +73,15 @@
         }
     ],
     "wof:id":1293394687,
-    "wof:lastmodified":1566714159,
+    "wof:lastmodified":1706239868,
     "wof:name":"Kani Binaw",
     "wof:parent_id":1108562755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360189329
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -36,6 +36,10 @@
     "name:ara_x_variant":[
         "Arkw\u0101z\u012b"
     ],
+    "name:und_x_variant":[
+        "\u2018Umar Ku\u0101zi",
+        "Arkw\u0101z\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6928257
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            89964
+        ]
     },
     "wof:country":"IQ",
     "wof:geomhash":"a43d44bdd581577737480748f6157343",
@@ -59,13 +68,15 @@
         }
     ],
     "wof:id":1276215797,
-    "wof:lastmodified":1566714328,
+    "wof:lastmodified":1706239867,
     "wof:name":"Arkwazi",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344050843
+    ],
     "wof:tags":[]
 },
   "bbox": [

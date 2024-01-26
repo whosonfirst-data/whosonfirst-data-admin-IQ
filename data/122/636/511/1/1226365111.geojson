@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0634\u062a \u0627\u0634\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0634\u062a \u0627\u0634\u0627\u0646"
+    ],
     "name:kur_x_preferred":[
         "Pisht Ashan"
     ],
@@ -57,6 +60,11 @@
     "wof:concordances":{
         "gn:id":92742
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8016066
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"6d01ab1fbaf031653849ab4fc21a1679",
     "wof:hierarchy":[
@@ -69,13 +77,15 @@
         }
     ],
     "wof:id":1226365111,
-    "wof:lastmodified":1566715432,
+    "wof:lastmodified":1706239864,
     "wof:name":"Pisht Ashan",
     "wof:parent_id":1108562753,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276799119
+    ],
     "wof:tags":[]
 },
   "bbox": [

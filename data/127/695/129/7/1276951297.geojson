@@ -33,6 +33,10 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0634\u0646\u0641"
     ],
+    "name:und_x_variant":[
+        "Shan\u012bf",
+        "Qaryat Shanaf"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6860758
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            91086
+        ]
     },
     "wof:country":"IQ",
     "wof:geomhash":"a417b4d0586501dd587c10f9e14bc222",
@@ -56,13 +65,15 @@
         }
     ],
     "wof:id":1276951297,
-    "wof:lastmodified":1566714368,
+    "wof:lastmodified":1706239867,
     "wof:name":"Qaryat Shanaf",
     "wof:parent_id":1108562631,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326900787
+    ],
     "wof:tags":[]
 },
   "bbox": [

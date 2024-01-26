@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"43.83939,35.49127,43.83939,35.49127",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0645\u0627\u062d\u0648\u0632"
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":1293675567,
-    "wof:lastmodified":1566714230,
+    "wof:lastmodified":1706239867,
     "wof:name":"Qaryat Mahuz",
     "wof:parent_id":1108562743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1277055507
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

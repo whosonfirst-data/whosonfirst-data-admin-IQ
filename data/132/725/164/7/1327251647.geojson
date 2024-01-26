@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"45.32037,34.31724,45.32037,34.31724",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u062d\u0645\u062f \u0637\u0627\u0647\u0631"
@@ -48,7 +50,7 @@
         "gn:id":6928261
     },
     "wof:country":"IQ",
-    "wof:geomhash":"007c489e46e8f0cc48d8f0d6e45b4b70",
+    "wof:geomhash":"80fcd28e8d7317ccce2e9cd19fa39230",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +61,22 @@
         }
     ],
     "wof:id":1327251647,
-    "wof:lastmodified":1566713828,
+    "wof:lastmodified":1706239867,
     "wof:name":"Ahmad Tahir",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1260266691
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     45.32037,
-    34.31724000000001,
+    34.31724,
     45.32037,
-    34.31724000000001
+    34.31724
 ],
-  "geometry": {"coordinates":[45.32037,34.31724000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.32037,34.31724],"type":"Point"}
 }

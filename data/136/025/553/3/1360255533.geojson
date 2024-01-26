@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"43.29968,35.95072,43.29968,35.95072",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Akj\u012bj"
@@ -51,7 +53,7 @@
         "gn:id":99642
     },
     "wof:country":"IQ",
-    "wof:geomhash":"34f1a2fd9d19387f96b27abb73ea9d33",
+    "wof:geomhash":"31ad15d6adac5a53edd77bb5b5963810",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +64,22 @@
         }
     ],
     "wof:id":1360255533,
-    "wof:lastmodified":1566714853,
+    "wof:lastmodified":1706239867,
     "wof:name":"Qaryat ach Chaych",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1260359909
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     43.29968,
-    35.95072000000001,
+    35.95072,
     43.29968,
-    35.95072000000001
+    35.95072
 ],
-  "geometry": {"coordinates":[43.29968,35.95072000000001],"type":"Point"}
+  "geometry": {"coordinates":[43.29968,35.95072],"type":"Point"}
 }

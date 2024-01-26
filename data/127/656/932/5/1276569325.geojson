@@ -39,6 +39,9 @@
     "name:ita_x_preferred":[
         "Najm"
     ],
+    "name:und_x_variant":[
+        "Najm al \u2018Abd All\u0101h"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6759365
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            93029
+        ]
     },
     "wof:country":"IQ",
     "wof:geomhash":"948b687991736c7641bf734bb1bed15a",
@@ -62,13 +70,15 @@
         }
     ],
     "wof:id":1276569325,
-    "wof:lastmodified":1566714356,
+    "wof:lastmodified":1706239867,
     "wof:name":"Najm",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310001035
+    ],
     "wof:tags":[]
 },
   "bbox": [

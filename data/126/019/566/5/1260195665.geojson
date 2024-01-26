@@ -33,6 +33,16 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f \u0633\u0645\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0647\u064a\u062c\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Balad Muhayjar\u0101n",
+        "Balad Muhayjiran",
+        "Muhayjar\u0101n",
+        "Balad Sumar",
+        "Majar\u0101n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,6 +53,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6751136
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            98110
+        ]
     },
     "wof:country":"IQ",
     "wof:geomhash":"7ebf24b481349799f2f16394237a980c",
@@ -56,13 +71,15 @@
         }
     ],
     "wof:id":1260195665,
-    "wof:lastmodified":1566714708,
+    "wof:lastmodified":1706239866,
     "wof:name":"Balad Sumar",
     "wof:parent_id":1108562735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343770961
+    ],
     "wof:tags":[]
 },
   "bbox": [
