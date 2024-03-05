@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":90421
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            92954
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"edd1b74f45e1fc3c32489f1e70a07beb",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1242687409,
-    "wof:lastmodified":1566715019,
+    "wof:lastmodified":1706239865,
     "wof:name":"Natil",
     "wof:parent_id":421177881,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243373173
+    ],
     "wof:tags":[]
 },
   "bbox": [

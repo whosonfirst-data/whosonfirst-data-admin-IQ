@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":9097436
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9072918
+        ]
+    },
     "wof:country":"IQ",
-    "wof:geomhash":"d1e22708d4d591ea77472b519a7a6ef2",
+    "wof:geomhash":"0784175b28ec44ac6959b5ae6363a208",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +64,22 @@
         }
     ],
     "wof:id":1292974145,
-    "wof:lastmodified":1566714245,
+    "wof:lastmodified":1706239867,
     "wof:name":"Qeymawa Mendan",
     "wof:parent_id":1108562631,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293671957
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    43.51799000000001,
+    43.51799,
     36.48029,
-    43.51799000000001,
+    43.51799,
     36.48029
 ],
-  "geometry": {"coordinates":[43.51799000000001,36.48029],"type":"Point"}
+  "geometry": {"coordinates":[43.51799,36.48029],"type":"Point"}
 }

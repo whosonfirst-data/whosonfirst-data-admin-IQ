@@ -63,6 +63,11 @@
     "wof:concordances":{
         "gn:id":90348
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            93851
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"2f6d318f51b4a46cb43986e903d234f6",
     "wof:hierarchy":[
@@ -75,13 +80,15 @@
         }
     ],
     "wof:id":1277055507,
-    "wof:lastmodified":1566714379,
+    "wof:lastmodified":1706239867,
     "wof:name":"Qaryat Mahuz",
     "wof:parent_id":1108562743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293675567
+    ],
     "wof:tags":[]
 },
   "bbox": [

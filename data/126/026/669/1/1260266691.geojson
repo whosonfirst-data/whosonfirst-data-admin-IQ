@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":91823
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6928261
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"1f028efc775261f036289b90aa24480a",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1260266691,
-    "wof:lastmodified":1566714707,
+    "wof:lastmodified":1706239867,
     "wof:name":"Ahmad Tahir",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327251647
+    ],
     "wof:tags":[]
 },
   "bbox": [

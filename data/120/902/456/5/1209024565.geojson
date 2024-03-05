@@ -56,6 +56,11 @@
     "wof:concordances":{
         "gn:id":6685461
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            94666
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"f5f0d8c45d10baadef0eb556a5261793",
     "wof:hierarchy":[
@@ -65,13 +70,15 @@
         }
     ],
     "wof:id":1209024565,
-    "wof:lastmodified":1566714557,
+    "wof:lastmodified":1706239863,
     "wof:name":"Khalaf",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343379281
+    ],
     "wof:tags":[]
 },
   "bbox": [

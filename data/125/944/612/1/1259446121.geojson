@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":435944
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            89468
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"5741f198bc6773d16b7d60b7400daccc",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1259446121,
-    "wof:lastmodified":1566715256,
+    "wof:lastmodified":1706239866,
     "wof:name":"Zaydan",
     "wof:parent_id":421180939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276832755
+    ],
     "wof:tags":[]
 },
   "bbox": [

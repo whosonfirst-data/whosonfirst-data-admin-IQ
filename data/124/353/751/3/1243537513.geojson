@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":403973
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7047102
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"0b7b8df6b16799671cddb6b796491abd",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1243537513,
-    "wof:lastmodified":1566714986,
+    "wof:lastmodified":1706239866,
     "wof:name":"Qubbat al Wahbi",
     "wof:parent_id":421186449,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276628065
+    ],
     "wof:tags":[]
 },
   "bbox": [

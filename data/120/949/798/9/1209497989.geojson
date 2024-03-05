@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":6804278
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            93699
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"3d02e7dd94cf0c41a4d3d51db31975f3",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1209497989,
-    "wof:lastmodified":1566714518,
+    "wof:lastmodified":1706239863,
     "wof:name":"Mankubah al Qadimah",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226732613
+    ],
     "wof:tags":[]
 },
   "bbox": [

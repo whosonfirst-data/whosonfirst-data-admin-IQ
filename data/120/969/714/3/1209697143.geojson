@@ -65,6 +65,11 @@
     "wof:concordances":{
         "gn:id":98309
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6804300
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"c372ec334fd0fdd2b497a9a730ec5bff",
     "wof:hierarchy":[
@@ -77,13 +82,15 @@
         }
     ],
     "wof:id":1209697143,
-    "wof:lastmodified":1566714551,
+    "wof:lastmodified":1706239863,
     "wof:name":"Salih al Humaydan",
     "wof:parent_id":1108562779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293670399
+    ],
     "wof:tags":[]
 },
   "bbox": [

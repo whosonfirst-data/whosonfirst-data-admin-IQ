@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"44.65768,37.04781,44.65768,37.04781",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "B\u012bk\u016bl"
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":1344144909,
-    "wof:lastmodified":1566713979,
+    "wof:lastmodified":1706239867,
     "wof:name":"Bikul",
     "wof:parent_id":890445495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1292979143
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -56,6 +56,11 @@
     "wof:concordances":{
         "gn:id":97758
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            91854
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"709611f39e24c994adf1960f72242f8b",
     "wof:hierarchy":[
@@ -68,13 +73,15 @@
         }
     ],
     "wof:id":1226735287,
-    "wof:lastmodified":1566715302,
+    "wof:lastmodified":1706239865,
     "wof:name":"Baytkar",
     "wof:parent_id":421182249,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259899975
+    ],
     "wof:tags":[]
 },
   "bbox": [

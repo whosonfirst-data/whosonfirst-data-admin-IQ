@@ -52,6 +52,11 @@
     "wof:concordances":{
         "gn:id":90279
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7046972
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"13674480bcd44891ce52f162c042ecfe",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1209184555,
-    "wof:lastmodified":1566714569,
+    "wof:lastmodified":1706239863,
     "wof:name":"At Turfah",
     "wof:parent_id":85632191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259656987
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -48,8 +48,13 @@
     "wof:concordances":{
         "gn:id":92086
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6860599
+        ]
+    },
     "wof:country":"IQ",
-    "wof:geomhash":"e46dc3301b9c68300d398dc7e469e9c1",
+    "wof:geomhash":"0e2d02effa7133473d992ff0698707e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +65,22 @@
         }
     ],
     "wof:id":1209899067,
-    "wof:lastmodified":1566714575,
+    "wof:lastmodified":1706239864,
     "wof:name":"Qaryat Baybukhat",
     "wof:parent_id":1108562631,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310375739
+    ],
     "wof:tags":[]
 },
   "bbox": [
     43.22008,
-    36.46194000000001,
+    36.46194,
     43.22008,
-    36.46194000000001
+    36.46194
 ],
-  "geometry": {"coordinates":[43.22008,36.46194000000001],"type":"Point"}
+  "geometry": {"coordinates":[43.22008,36.46194],"type":"Point"}
 }

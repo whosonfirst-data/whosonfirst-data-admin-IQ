@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":445828
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6860582
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"1a3bd7aa130bcd99bc3c4a9044983515",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1259852737,
-    "wof:lastmodified":1566715201,
+    "wof:lastmodified":1706239866,
     "wof:name":"Qaryat as Salmani",
     "wof:parent_id":1108562633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259953217
+    ],
     "wof:tags":[]
 },
   "bbox": [

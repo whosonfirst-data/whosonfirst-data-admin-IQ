@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":92475
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6685464
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"9ca8548ac214d4c63058198bdff1bdde",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1259376955,
-    "wof:lastmodified":1566715167,
+    "wof:lastmodified":1706239866,
     "wof:name":"Qamar",
     "wof:parent_id":1108562655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310188873
+    ],
     "wof:tags":[]
 },
   "bbox": [

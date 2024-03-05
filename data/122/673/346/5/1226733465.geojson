@@ -36,6 +36,13 @@
     "name:ara_x_variant":[
         "H\u0101mir"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sadd",
+        "H\u0101mir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,6 +53,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6928311
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6676794
+        ]
     },
     "wof:country":"IQ",
     "wof:geomhash":"0d5ac18b331b36ece0327ba4f8aee533",
@@ -59,13 +71,15 @@
         }
     ],
     "wof:id":1226733465,
-    "wof:lastmodified":1566715302,
+    "wof:lastmodified":1706239865,
     "wof:name":"Hamir",
     "wof:parent_id":1108562651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293184675
+    ],
     "wof:tags":[]
 },
   "bbox": [

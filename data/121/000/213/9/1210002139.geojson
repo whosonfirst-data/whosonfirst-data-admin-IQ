@@ -61,6 +61,11 @@
     "wof:concordances":{
         "gn:id":98751
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            446114
+        ]
+    },
     "wof:country":"IQ",
     "wof:geomhash":"27a2175c47ee57e08835478d7a404349",
     "wof:hierarchy":[
@@ -73,13 +78,15 @@
         }
     ],
     "wof:id":1210002139,
-    "wof:lastmodified":1566714602,
+    "wof:lastmodified":1706239864,
     "wof:name":"Af Gani",
     "wof:parent_id":890445289,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-iq",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360283069
+    ],
     "wof:tags":[]
 },
   "bbox": [
